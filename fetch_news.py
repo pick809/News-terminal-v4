@@ -28,7 +28,6 @@ def fetch_feed_xml() -> str:
 
 
 def parse_items(xml_text: str):
-    # Escapa & sueltos que rompen el parser XML (común en estos feeds)
     xml_text = re.sub(r"&(?!amp;|lt;|gt;|quot;|apos;|#)", "&amp;", xml_text)
     root = ET.fromstring(xml_text)
     items = []
@@ -51,7 +50,12 @@ def parse_items(xml_text: str):
 def load_existing():
     if DATA_PATH.exists():
         try:
-            return json.loads(DATA_PATH.read_text(encoding="utf-8"))
+            data = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+            if isinstance(data, dict):
+                return data.get("items", [])
+            if isinstance(data, list):
+                return data
+            return []
         except json.JSONDecodeError:
             return []
     return []
@@ -100,7 +104,6 @@ def main():
     )
 
     print(f"OK. {added} noticias nuevas. Total acumulado: {len(merged)}")
-    # exit code 0 siempre que no haya habido error de red/parseo
 
 
 if __name__ == "__main__":
