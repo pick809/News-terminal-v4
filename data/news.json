@@ -1,7 +1,406 @@
 {
- "updated_at": "2026-08-11T04:06:21.572739+00:00",
- "count": 346,
+ "updated_at": "2026-08-11T08:14:02.025859+00:00",
+ "count": 403,
  "items": [
+  {
+   "id": "9715993",
+   "title": "Italian Trade Balance EU Actual 1.577B (Forecast -, Previous 0.845B)",
+   "link": "https://www.financialjuice.com/News/9715993/Italian-Trade-Balance-EU-Actual-1577B-Forecast---Previous-0845B.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 08:01:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715989",
+   "title": "Italian International Trade Balance Actual 4.232B (Forecast -, Previous 4.793B)",
+   "link": "https://www.financialjuice.com/News/9715989/Italian-International-Trade-Balance-Actual-4232B-Forecast---Previous-4793B.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 08:01:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715988",
+   "title": "Iran's Oil Minister Paknejad: 95 million cubic metres of gas will return to production cycle by end of September - Shana.",
+   "link": "https://www.financialjuice.com/News/9715988/Irans-Oil-Minister-Paknejad-95-million-cubic-metres-of-gas-will-return-to-production-cycle-by-end-of-September---Shana.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 07:47:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715928",
+   "title": "Currency Strength Chart: Strongest: JPY, CAD, USD, GBP, AUD, EUR, CHF, NZD - Weakest",
+   "link": "https://www.financialjuice.com/News/9715928/Currency-Strength-Chart-Strongest-JPY-CAD-USD-GBP-AUD-EUR-CHF-NZD---Weakest.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 07:01:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715884",
+   "title": "Bank of Korea Senior Deputy Governor Ryoo: There will be an additional rate hike",
+   "link": "https://www.financialjuice.com/News/9715884/Bank-of-Korea-Senior-Deputy-Governor-Ryoo-There-will-be-an-additional-rate-hike.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 06:00:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715881",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9715881/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:59:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715880",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9715880/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:59:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715879",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9715879/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:58:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715878",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9715878/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:57:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715877",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9715877/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:57:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715876",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9715876/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:57:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715875",
+   "title": "RBA's Gov. Bullock: Housing downturn not a massive risk to financial stability",
+   "link": "https://www.financialjuice.com/News/9715875/RBAs-Gov-Bullock-Housing-downturn-not-a-massive-risk-to-financial-stability.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:56:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715874",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9715874/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:56:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715873",
+   "title": "RBA's Gov. Bullock: We need slower growth and higher jobless to cool inflation",
+   "link": "https://www.financialjuice.com/News/9715873/RBAs-Gov-Bullock-We-need-slower-growth-and-higher-jobless-to-cool-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:51:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715872",
+   "title": "RBA's Gov. Bullock: The board decided to wait for a bit more information; rate hike still front of mind.",
+   "link": "https://www.financialjuice.com/News/9715872/RBAs-Gov-Bullock-The-board-decided-to-wait-for-a-bit-more-information-rate-hike-still-front-of-mind.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:49:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715871",
+   "title": "RBA's Gov. Bullock: Arguments for a hike include inflation still too high, and upside risks from the Middle East",
+   "link": "https://www.financialjuice.com/News/9715871/RBAs-Gov-Bullock-Arguments-for-a-hike-include-inflation-still-too-high-and-upside-risks-from-the-Middle-East.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:48:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715862",
+   "title": "RBA's Gov. Bullock: Housing market is not a constraint on raising rates.",
+   "link": "https://www.financialjuice.com/News/9715862/RBAs-Gov-Bullock-Housing-market-is-not-a-constraint-on-raising-rates.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:46:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715860",
+   "title": "RBA's Gov. Bullock: Did not discuss a rate cut at the meeting, only a raise or a stay",
+   "link": "https://www.financialjuice.com/News/9715860/RBAs-Gov-Bullock-Did-not-discuss-a-rate-cut-at-the-meeting-only-a-raise-or-a-stay.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:37:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715859",
+   "title": "RBA's Gov. Bullock: Board discussed raising rates",
+   "link": "https://www.financialjuice.com/News/9715859/RBAs-Gov-Bullock-Board-discussed-raising-rates.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:36:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715858",
+   "title": "RBA's Gov. Bullock: While house prices have turned down, that is not the main game for us",
+   "link": "https://www.financialjuice.com/News/9715858/RBAs-Gov-Bullock-While-house-prices-have-turned-down-that-is-not-the-main-game-for-us.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:36:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715857",
+   "title": "RBA's Gov. Bullock: We will raise rates again if needed.",
+   "link": "https://www.financialjuice.com/News/9715857/RBAs-Gov-Bullock-We-will-raise-rates-again-if-needed.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:33:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715856",
+   "title": "RBA's Gov. Bullock: Still need to see progress before being confident on CPI",
+   "link": "https://www.financialjuice.com/News/9715856/RBAs-Gov-Bullock-Still-need-to-see-progress-before-being-confident-on-CPI.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:33:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715855",
+   "title": "RBA's Gov. Bullock: Expect period of subdued economic growth will be required to bring inflation down",
+   "link": "https://www.financialjuice.com/News/9715855/RBAs-Gov-Bullock-Expect-period-of-subdued-economic-growth-will-be-required-to-bring-inflation-down.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:32:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715852",
+   "title": "RBA's Gov. Bullock: Domestic economy still operating above capacity",
+   "link": "https://www.financialjuice.com/News/9715852/RBAs-Gov-Bullock-Domestic-economy-still-operating-above-capacity.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:32:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715844",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9715844/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:31:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715843",
+   "title": "RBA's Gov. Bullock: The board hopes to slow the economy, sees upside risks to inflation",
+   "link": "https://www.financialjuice.com/News/9715843/RBAs-Gov-Bullock-The-board-hopes-to-slow-the-economy-sees-upside-risks-to-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:31:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715842",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9715842/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:30:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715841",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9715841/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:30:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715839",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9715839/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:30:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715838",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9715838/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:29:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715837",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9715837/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:29:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715836",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9715836/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:28:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715835",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9715835/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 05:28:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715783",
+   "title": "RBA: after three hikes in cash rate target this year, financial conditions tighter and economy seems to slow as anticipated",
+   "link": "https://www.financialjuice.com/News/9715783/RBA-after-three-hikes-in-cash-rate-target-this-year-financial-conditions-tighter-and-economy-seems-to-slow-as-anticipated.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:31:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715782",
+   "title": "RBA: inflation unlikely to return to midpoint of target range before late 2027, risks skewed to upside",
+   "link": "https://www.financialjuice.com/News/9715782/RBA-inflation-unlikely-to-return-to-midpoint-of-target-range-before-late-2027-risks-skewed-to-upside.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:31:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715781",
+   "title": "RBA: Middle East conflict resolution uncertain, inflation may rise and activity slow beyond forecasts",
+   "link": "https://www.financialjuice.com/News/9715781/RBA-Middle-East-conflict-resolution-uncertain-inflation-may-rise-and-activity-slow-beyond-forecasts.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:31:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715779",
+   "title": "RBA: With monetary policy seen as somewhat restrictive, board opts to keep cash rate target steady while evaluating economic progress",
+   "link": "https://www.financialjuice.com/News/9715779/RBA-With-monetary-policy-seen-as-somewhat-restrictive-board-opts-to-keep-cash-rate-target-steady-while-evaluating-economic-progress.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:31:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715775",
+   "title": "RBA: labour market leading indicators signal limited easing in near term",
+   "link": "https://www.financialjuice.com/News/9715775/RBA-labour-market-leading-indicators-signal-limited-easing-in-near-term.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:31:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715770",
+   "title": "RBA: Inflation remains elevated",
+   "link": "https://www.financialjuice.com/News/9715770/RBA-Inflation-remains-elevated.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:31:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715766",
+   "title": "RBA: today's policy choice was unanimous",
+   "link": "https://www.financialjuice.com/News/9715766/RBA-todays-policy-choice-was-unanimous.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715765",
+   "title": "Reserve Bank of Australia sets cash rate at 4.35%",
+   "link": "https://www.financialjuice.com/News/9715765/Reserve-Bank-of-Australia-sets-cash-rate-at-435.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715764",
+   "title": "Reserve Bank of Australia: board keeps cash rate target steady at 4.35% in today's meeting",
+   "link": "https://www.financialjuice.com/News/9715764/Reserve-Bank-of-Australia-board-keeps-cash-rate-target-steady-at-435-in-todays-meeting.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715763",
+   "title": "RBA Cash Rate Actual 4.35% (Forecast 4.35%, Previous 4.35%)",
+   "link": "https://www.financialjuice.com/News/9715763/RBA-Cash-Rate-Actual-435-Forecast-435-Previous-435.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715762",
+   "title": "RBA forecasts assume cash rate at 4.4% in Q4 2026, 4.5% in Q4 2027, 4.4% in Q4 2028",
+   "link": "https://www.financialjuice.com/News/9715762/RBA-forecasts-assume-cash-rate-at-44-in-Q4-2026-45-in-Q4-2027-44-in-Q4-2028.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715761",
+   "title": "Dutch July CPI rises 3.2% y/y after 2.9% in June : CBS",
+   "link": "https://www.financialjuice.com/News/9715761/Dutch-July-CPI-rises-32-yy-after-29-in-June--CBS.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715760",
+   "title": "RBA forecasts CPI inflation at 3.6% in Q4 2027, 2.6% in Q4 2028, 2.4% in Q4 2029",
+   "link": "https://www.financialjuice.com/News/9715760/RBA-forecasts-CPI-inflation-at-36-in-Q4-2027-26-in-Q4-2028-24-in-Q4-2029.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715759",
+   "title": "RBA forecasts trimmed mean inflation at 3.3% in Q4 2026, 2.6% in Q4 2027, 2.4% in Q4 2028",
+   "link": "https://www.financialjuice.com/News/9715759/RBA-forecasts-trimmed-mean-inflation-at-33-in-Q4-2026-26-in-Q4-2027-24-in-Q4-2028.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715758",
+   "title": "Rba: expects GDP expansion at 1.4% in Q4 2026, 1.6% in Q4 2027, 1.8% in Q4 2028",
+   "link": "https://www.financialjuice.com/News/9715758/Rba-expects-GDP-expansion-at-14-in-Q4-2026-16-in-Q4-2027-18-in-Q4-2028.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715757",
+   "title": "RBA forecasts unemployment at 4.5% in Q4 2026, 4.7% in Q4 2027, 4.8% in Q4 2028",
+   "link": "https://www.financialjuice.com/News/9715757/RBA-forecasts-unemployment-at-45-in-Q4-2026-47-in-Q4-2027-48-in-Q4-2028.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715756",
+   "title": "RBA raises GDP forecasts on robust business investment, population growth",
+   "link": "https://www.financialjuice.com/News/9715756/RBA-raises-GDP-forecasts-on-robust-business-investment-population-growth.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715755",
+   "title": "RBA: recent government budgets haven't altered public demand outlook",
+   "link": "https://www.financialjuice.com/News/9715755/RBA-recent-government-budgets-havent-altered-public-demand-outlook.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715754",
+   "title": "RBA: housing market has weakened more than anticipated, loan growth to decelerate further",
+   "link": "https://www.financialjuice.com/News/9715754/RBA-housing-market-has-weakened-more-than-anticipated-loan-growth-to-decelerate-further.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715753",
+   "title": "RBA: Labor market remains slightly tight, expected stable near term before gradual easing",
+   "link": "https://www.financialjuice.com/News/9715753/RBA-Labor-market-remains-slightly-tight-expected-stable-near-term-before-gradual-easing.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715752",
+   "title": "RBA: Assumption for potential economic growth revised slightly higher on population increase",
+   "link": "https://www.financialjuice.com/News/9715752/RBA-Assumption-for-potential-economic-growth-revised-slightly-higher-on-population-increase.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715751",
+   "title": "RBA: global growth outlook raised on AI surge, resilience to Gulf conflict",
+   "link": "https://www.financialjuice.com/News/9715751/RBA-global-growth-outlook-raised-on-AI-surge-resilience-to-Gulf-conflict.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715750",
+   "title": "Dutch CPI MoM Actual 1.6% (Forecast -, Previous -0.6%)",
+   "link": "https://www.financialjuice.com/News/9715750/Dutch-CPI-MoM-Actual-16-Forecast---Previous--06.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9715749",
+   "title": "Dutch CPI YoY Actual 3.2% (Forecast -, Previous 2.9%)",
+   "link": "https://www.financialjuice.com/News/9715749/Dutch-CPI-YoY-Actual-32-Forecast---Previous-29.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 04:30:01 GMT",
+   "desc": ""
+  },
   {
    "id": "9715555",
    "title": "Apple's glass-focused 20th anniversary iPhone is still on track for 2027",
