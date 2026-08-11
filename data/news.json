@@ -1,7 +1,357 @@
 {
- "updated_at": "2026-08-11T14:44:37.277416+00:00",
- "count": 461,
+ "updated_at": "2026-08-11T18:04:24.334712+00:00",
+ "count": 511,
  "items": [
+  {
+   "id": "9716804",
+   "title": "US Treasury Debt Buyback",
+   "link": "https://www.financialjuice.com/News/9716804/US-Treasury-Debt-Buyback.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 18:03:06 GMT",
+   "desc": "Debt buyback targets coupons maturing in 2037–2046 Receives $7.399B of offers for buyback, accepts $2B Accepts 2 of 37 eligible issues in debt buyback"
+  },
+  {
+   "id": "9716789",
+   "title": "The Bank of France sees the French economy expanding 0.2% in Q3.",
+   "link": "https://www.financialjuice.com/News/9716789/The-Bank-of-France-sees-the-French-economy-expanding-02-in-Q3.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 18:00:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716784",
+   "title": "Yemen's Houthis: Attacked Saudi ship carrying military equipment in Bab el-Mandeb - Houthi-run news agency Saba.",
+   "link": "https://www.financialjuice.com/News/9716784/Yemens-Houthis-Attacked-Saudi-ship-carrying-military-equipment-in-Bab-el-Mandeb---Houthi-run-news-agency-Saba.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 18:00:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716783",
+   "title": "WSJ's Nick Timiraos: Fed's Warsh's task forces appear aimed at building a framework to replace the current policy framework, which remains in effect until then.",
+   "link": "https://www.financialjuice.com/News/9716783/WSJs-Nick-Timiraos-Feds-Warshs-task-forces-appear-aimed-at-building-a-framework-to-replace-the-current-policy-framework-which-remains-in-effect-until-then.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:51:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716782",
+   "title": "Apple Executive in charge of pay and wallet services is leaving in October. $AAPL",
+   "link": "https://www.financialjuice.com/News/9716782/Apple-Executive-in-charge-of-pay-and-wallet-services-is-leaving-in-October-AAPL.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:49:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716781",
+   "title": "WSJ's Timiraos: Focus will be on month-over-month July CPI inflation as more Fed officials assess whether inflation can return to 2% without further tightening.",
+   "link": "https://www.financialjuice.com/News/9716781/WSJs-Timiraos-Focus-will-be-on-month-over-month-July-CPI-inflation-as-more-Fed-officials-assess-whether-inflation-can-return-to-2-without-further-tightening.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:48:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716777",
+   "title": "Reports of explosions in Sirik, Southern Iran; possible launches towards the Strait of Hormuz. - Israel's Channel 12 News",
+   "link": "https://www.financialjuice.com/News/9716777/Reports-of-explosions-in-Sirik-Southern-Iran-possible-launches-towards-the-Strait-of-Hormuz---Israels-Channel-12-News.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:46:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716776",
+   "title": "Yemeni armed forces targeted a ship carrying military equipment belonging to Saudi Arabia in the Bab-el-Mandeb Strait - Tasnim News",
+   "link": "https://www.financialjuice.com/News/9716776/Yemeni-armed-forces-targeted-a-ship-carrying-military-equipment-belonging-to-Saudi-Arabia-in-the-Bab-el-Mandeb-Strait---Tasnim-News.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:45:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716774",
+   "title": "Iran National Security Committee's Azizi on nuclear issue: Negotiating about it will be very difficult.",
+   "link": "https://www.financialjuice.com/News/9716774/Iran-National-Security-Committees-Azizi-on-nuclear-issue-Negotiating-about-it-will-be-very-difficult.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:44:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716773",
+   "title": "Google CEO Pichai: Gemini is Google's fastest growing prduct ever. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9716773/Google-CEO-Pichai-Gemini-is-Googles-fastest-growing-prduct-ever-GOOGL.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:42:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716772",
+   "title": "Iran National Security Committee's Azizi: Nuclear issue is a key public demand and will be a complex part of negotiations.",
+   "link": "https://www.financialjuice.com/News/9716772/Iran-National-Security-Committees-Azizi-Nuclear-issue-is-a-key-public-demand-and-will-be-a-complex-part-of-negotiations.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:42:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716771",
+   "title": "Google: Gemini now has more than 1 billion monthly users. %GOOGL",
+   "link": "https://www.financialjuice.com/News/9716771/Google-Gemini-now-has-more-than-1-billion-monthly-users-GOOGL.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:42:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716770",
+   "title": "Colombia Finance Minister: Colombia to declare economic emergency after quake.",
+   "link": "https://www.financialjuice.com/News/9716770/Colombia-Finance-Minister-Colombia-to-declare-economic-emergency-after-quake.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:38:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716769",
+   "title": "Deutsche Bank's View on US CPI - FJElite",
+   "link": "https://www.financialjuice.com/News/9716769/Deutsche-Banks-View-on-US-CPI---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:37:17 GMT",
+   "desc": "As the chart below shows, the amount of Fed tightening in a hiking cycle is strongly correlated with the initial starting point for inflation. This makes intuitive sense, as the Fed has a mandate for price stability, and the higher inflation is, the more tightening is required to get that under control again. This proved to be a strong guide in 2022. Initially, markets priced in a fairly shallow hiking cycle by historical standards, with the Fed initially hiking by 25bps. But they then accelerated up to larger 75bp increments, and ultimately hiked by 450bps within the first 12 months, and 525bps in total.By the end, they were much closer to the trendline of the chart. Today, CPI inflation is at 3.5%, and expected to remain above 3% by the consensus into year-end. However, futures are simultaneously pricing a shallower hiking cycle than historical precedent would imply for that level of inflation, with fewer than 50bps of hikes priced in. So the risk is that, in a scenario where both growth and inflation prove resilient, markets are underpricing the extent to which the Fed could pivot hawkishly, just as happened back in 2022."
+  },
+  {
+   "id": "9716768",
+   "title": "Colombia Finance Minister Gomez: Colombia faces the worst economic crisis in its history.",
+   "link": "https://www.financialjuice.com/News/9716768/Colombia-Finance-Minister-Gomez-Colombia-faces-the-worst-economic-crisis-in-its-history.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:36:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716763",
+   "title": "JPMorgan's Feroli's View on US CPI - FJElite",
+   "link": "https://www.financialjuice.com/News/9716763/JPMorgans-Ferolis-View-on-US-CPI---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:32:45 GMT",
+   "desc": "The next 2 inflation prints are important for assessing the probability of a Fed hike in September. The US has dodged the proverbial bullet from the Middle East conflict in terms of seeing an inflation spike, which was expected earlier this year, potentially enough of a spike to trigger a recession. Now, the market will want to see evidence that Core inflation remains sticky or if another period of disinflation is possible. In any case, Warsh is not tipping his hand. Options pricing is slightly below what we have seen in the recent past, which is closer to a 1.1% implied move. Equity positioning is cleaner but the bond market appears move sensitive to inflation spikes, which is reflected in our scenarios whereby a hawkish print would have a larger impact than a dovish print. Longer-term, keep an eye on China&#39;s inflation as its PPI print tends to precede US CPI / PPI and China&#39;s PPI just printed a 3-month low."
+  },
+  {
+   "id": "9716747",
+   "title": "Some sources report that two more explosions have occurred at positions held by Saudi-backed mercenaries in Marib, Yemen - Fars News",
+   "link": "https://www.financialjuice.com/News/9716747/Some-sources-report-that-two-more-explosions-have-occurred-at-positions-held-by-Saudi-backed-mercenaries-in-Marib-Yemen---Fars-News.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:27:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716746",
+   "title": "Reports of explosions heard in the city of Marib, Yemen - Tasnim News",
+   "link": "https://www.financialjuice.com/News/9716746/Reports-of-explosions-heard-in-the-city-of-Marib-Yemen---Tasnim-News.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:17:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716730",
+   "title": "Iran's President Pezeshkian met with Pakistani Minister of Interior - IRIB",
+   "link": "https://www.financialjuice.com/News/9716730/Irans-President-Pezeshkian-met-with-Pakistani-Minister-of-Interior---IRIB.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:15:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716728",
+   "title": "US 3-Year Note Bid-to-Cover Actual 2.710 (Forecast -, Previous 2.600)",
+   "link": "https://www.financialjuice.com/News/9716728/US-3-Year-Note-Bid-to-Cover-Actual-2710-Forecast---Previous-2600.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:04:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716727",
+   "title": "US 3-Year Note Auction",
+   "link": "https://www.financialjuice.com/News/9716727/US-3-Year-Note-Auction.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:02:48 GMT",
+   "desc": "High Yield 4.291% [Stop-through 0.5 bps] Bid-to-cover 2.71 Sells $58 bln Awards 18.31% of bids at high Primary Dealers take 11.7% Direct 24.0% Indirect 64.2%"
+  },
+  {
+   "id": "9716721",
+   "title": "US 3-Year Note High Yield Actual 4.291% (Forecast -, Previous 4.179%)",
+   "link": "https://www.financialjuice.com/News/9716721/US-3-Year-Note-High-Yield-Actual-4291-Forecast---Previous-4179.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:02:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716715",
+   "title": "Treasury WI 3 Yr yield 4.296% before $58 billion auction",
+   "link": "https://www.financialjuice.com/News/9716715/Treasury-WI-3-Yr-yield-4296-before-58-billion-auction.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 17:00:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716714",
+   "title": "SpaceXAI: Grok Bot is in beta & available today for SuperGrok Heavy, Cursor Ultra & Cursor Teams premium subscribers on desktop & iOS. $SPCX",
+   "link": "https://www.financialjuice.com/News/9716714/SpaceXAI-Grok-Bot-is-in-beta--available-today-for-SuperGrok-Heavy-Cursor-Ultra--Cursor-Teams-premium-subscribers-on-desktop--iOS-SPCX.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:57:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716712",
+   "title": "Canadian and US trade officials mapping out potential deal to pitch to Trump next week - CBC News.",
+   "link": "https://www.financialjuice.com/News/9716712/Canadian-and-US-trade-officials-mapping-out-potential-deal-to-pitch-to-Trump-next-week---CBC-News.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:54:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716691",
+   "title": "NOC chairman: Drone hit diesel tank at Zawiya refinery.",
+   "link": "https://www.financialjuice.com/News/9716691/NOC-chairman-Drone-hit-diesel-tank-at-Zawiya-refinery.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:25:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716689",
+   "title": "EIA expects ongoing disruptions to Mideast crude output of about 600k BPD to continue through end of 2027.",
+   "link": "https://www.financialjuice.com/News/9716689/EIA-expects-ongoing-disruptions-to-Mideast-crude-output-of-about-600k-BPD-to-continue-through-end-of-2027.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:17:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716675",
+   "title": "Fed's Goolsbee: Biggest problem facing economy right now is inflation.",
+   "link": "https://www.financialjuice.com/News/9716675/Feds-Goolsbee-Biggest-problem-facing-economy-right-now-is-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:17:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716674",
+   "title": "Fed's Goolsbee: As long as consumer remains healthy, economy will too.",
+   "link": "https://www.financialjuice.com/News/9716674/Feds-Goolsbee-As-long-as-consumer-remains-healthy-economy-will-too.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:16:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716671",
+   "title": "Fed's Goolsbee Speaks (Pre-recorded)",
+   "link": "https://www.financialjuice.com/News/9716671/Feds-Goolsbee-Speaks-Pre-recorded.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:12:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716670",
+   "title": "Fed's Goolsbee: Indicators say labor market stable without being good.",
+   "link": "https://www.financialjuice.com/News/9716670/Feds-Goolsbee-Indicators-say-labor-market-stable-without-being-good.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:11:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716668",
+   "title": "Fitch Ratings: China's competitiveness intensifies EU's growth challenges.",
+   "link": "https://www.financialjuice.com/News/9716668/Fitch-Ratings-Chinas-competitiveness-intensifies-EUs-growth-challenges.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:07:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716667",
+   "title": "US Energy Secretary Wright: The 7-day average for oil leaving the Strait of Hormuz is currently up to almost 9 million barrels per day.",
+   "link": "https://www.financialjuice.com/News/9716667/US-Energy-Secretary-Wright-The-7-day-average-for-oil-leaving-the-Strait-of-Hormuz-is-currently-up-to-almost-9-million-barrels-per-day.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:06:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716665",
+   "title": "EIA STEO August Report",
+   "link": "https://www.financialjuice.com/News/9716665/EIA-STEO-August-Report.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 16:04:10 GMT",
+   "desc": "Raises estimates for Middle East shut-in crude production as severe Strait of Hormuz transit constraints are assumed to persist through August. Expects most regional crude production to return near pre-conflict levels in early 2027, though around 600,000 bpd of disruptions are expected through end-2027. Forecasts Brent crude averaging around $85/b in Q3 2026 before falling to $69/b in 2027 as inventories rebuild and production recovers. Expects US commercial crude inventories to remain below the five-year low through end-2026 amid strong exports, reduced imports and high refinery runs. Forecasts US LNG exports at 16.5 Bcf/d in Q3, slightly lower than previously expected due to Freeport LNG maintenance. Cuts Q3 Henry Hub natural gas price forecast to $2.87/MMBtu, 50 cents below its July forecast, amid weaker LNG feedgas demand and robust production. Cuts 2027 Texas electricity demand growth forecast to 6% from 14% following the pause on new data center development. Sees solar and natural gas driving US electricity generation growth, while coal generation continues to decline. Raises its 2026 US coal export forecast to 102 million short tons following strong exports in April and May."
+  },
+  {
+   "id": "9716648",
+   "title": "IRGC Spokesperson: If a threat to Iran arises again, energy pipelines, power plants and global internet infrastructure would be at risk - Fars News",
+   "link": "https://www.financialjuice.com/News/9716648/IRGC-Spokesperson-If-a-threat-to-Iran-arises-again-energy-pipelines-power-plants-and-global-internet-infrastructure-would-be-at-risk---Fars-News.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:59:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716647",
+   "title": "IRGC spokesperson: No US warships are present in the Persian Gulf today - Fars News",
+   "link": "https://www.financialjuice.com/News/9716647/IRGC-spokesperson-No-US-warships-are-present-in-the-Persian-Gulf-today---Fars-News.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:58:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716638",
+   "title": "Iran's Rezai: Any Iran-Oman agreement on Strait of Hormuz shipping would be separate from issue of closing the strait - IRIB",
+   "link": "https://www.financialjuice.com/News/9716638/Irans-Rezai-Any-Iran-Oman-agreement-on-Strait-of-Hormuz-shipping-would-be-separate-from-issue-of-closing-the-strait---IRIB.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:44:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716637",
+   "title": "Iran's Rezai: Other conditions have been conveyed through intermediaries",
+   "link": "https://www.financialjuice.com/News/9716637/Irans-Rezai-Other-conditions-have-been-conveyed-through-intermediaries.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:43:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716636",
+   "title": "Iran's Rezai: War must end across the region, including Lebanon and Gaza - IRIB",
+   "link": "https://www.financialjuice.com/News/9716636/Irans-Rezai-War-must-end-across-the-region-including-Lebanon-and-Gaza---IRIB.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:43:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716635",
+   "title": "Iran's Rezai: US must end the war and release blocked Iranian funds - IRIB.",
+   "link": "https://www.financialjuice.com/News/9716635/Irans-Rezai-US-must-end-the-war-and-release-blocked-Iranian-funds---IRIB.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:41:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716632",
+   "title": "Adviser to Supreme Leader Mokhbar: Strait of Hormuz will not be reopened until Iran's conditions are met - Post on X",
+   "link": "https://www.financialjuice.com/News/9716632/Adviser-to-Supreme-Leader-Mokhbar-Strait-of-Hormuz-will-not-be-reopened-until-Irans-conditions-are-met---Post-on-X.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:28:01 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"peEZ94zG\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9716605",
+   "title": "Canadian Minister in charge of US trade relations will meet USTR Greer on Tuesday - Official Canadian Statement",
+   "link": "https://www.financialjuice.com/News/9716605/Canadian-Minister-in-charge-of-US-trade-relations-will-meet-USTR-Greer-on-Tuesday---Official-Canadian-Statement.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:19:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716600",
+   "title": "US Inflation Tracker - FJElite",
+   "link": "https://www.financialjuice.com/News/9716600/US-Inflation-Tracker---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:16:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716589",
+   "title": "US to sell $110 bln 4-Week bills on August 13th to settle on August 18th",
+   "link": "https://www.financialjuice.com/News/9716589/US-to-sell-110-bln-4-Week-bills-on-August-13th-to-settle-on-August-18th.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:03:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716586",
+   "title": "NY Fed: Credit-card balances up by $21 bln to $1.26 trln in Q2.",
+   "link": "https://www.financialjuice.com/News/9716586/NY-Fed-Credit-card-balances-up-by-21-bln-to-126-trln-in-Q2.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:01:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716572",
+   "title": "NY Fed: US household debt declined 0.1% to $18.8 trln in Q2.",
+   "link": "https://www.financialjuice.com/News/9716572/NY-Fed-US-household-debt-declined-01-to-188-trln-in-Q2.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:01:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716571",
+   "title": "Flow into credit card delinquency has stabilized over last two years, though remains elevated: New York Fed staff economists",
+   "link": "https://www.financialjuice.com/News/9716571/Flow-into-credit-card-delinquency-has-stabilized-over-last-two-years-though-remains-elevated-New-York-Fed-staff-economists.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:00:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716570",
+   "title": "U.S. auto loans reach record $211 billion as consumers increase credit card and home equity debt, New York Fed report shows",
+   "link": "https://www.financialjuice.com/News/9716570/US-auto-loans-reach-record-211-billion-as-consumers-increase-credit-card-and-home-equity-debt-New-York-Fed-report-shows.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:00:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716568",
+   "title": "NY Fed: Q2 aggregate delinquency rate improved slightly to 4.7%.",
+   "link": "https://www.financialjuice.com/News/9716568/NY-Fed-Q2-aggregate-delinquency-rate-improved-slightly-to-47.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 15:00:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9716565",
+   "title": "NOC Chief: Libya's Zawiya refinery resumes operations.",
+   "link": "https://www.financialjuice.com/News/9716565/NOC-Chief-Libyas-Zawiya-refinery-resumes-operations.aspx?xy=rss",
+   "pubDate": "Tue, 11 Aug 2026 14:57:30 GMT",
+   "desc": ""
+  },
   {
    "id": "9716549",
    "title": "Intel said to give no shares to about 33% of orders in offering. $INTC",
