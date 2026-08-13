@@ -1,7 +1,539 @@
 {
- "updated_at": "2026-08-13T12:05:20.149927+00:00",
- "count": 828,
+ "updated_at": "2026-08-13T15:33:26.445225+00:00",
+ "count": 904,
  "items": [
+  {
+   "id": "9720125",
+   "title": "US 4-Week Bill Bid-to-Cover Actual 2.77 (Forecast -, Previous 2.680)",
+   "link": "https://www.financialjuice.com/News/9720125/US-4-Week-Bill-Bid-to-Cover-Actual-277-Forecast---Previous-2680.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 15:32:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720124",
+   "title": "US 4-Week Bill High Yield Actual 3.625% (Forecast -, Previous 3.640%)",
+   "link": "https://www.financialjuice.com/News/9720124/US-4-Week-Bill-High-Yield-Actual-3625-Forecast---Previous-3640.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 15:32:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720108",
+   "title": "New aircraft part of previously scheduled rotation plan - WSJ.",
+   "link": "https://www.financialjuice.com/News/9720108/New-aircraft-part-of-previously-scheduled-rotation-plan---WSJ.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 15:30:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720106",
+   "title": "BoE's Pill on UK GDP data: This goes in the direction of reassuring me that we're not entering a sharp downturn.",
+   "link": "https://www.financialjuice.com/News/9720106/BoEs-Pill-on-UK-GDP-data-This-goes-in-the-direction-of-reassuring-me-that-were-not-entering-a-sharp-downturn.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 15:29:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720105",
+   "title": "US sending fresh aircraft carrier to Middle East amid Iran war strain - WSJ",
+   "link": "https://www.financialjuice.com/News/9720105/US-sending-fresh-aircraft-carrier-to-Middle-East-amid-Iran-war-strain---WSJ.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 15:28:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720102",
+   "title": "US Sec. of Defense Hegseth on Iran: US can hold blockade as long as needed.",
+   "link": "https://www.financialjuice.com/News/9720102/US-Sec-of-Defense-Hegseth-on-Iran-US-can-hold-blockade-as-long-as-needed.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 15:19:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720075",
+   "title": "Yemen's Houthi-run Saba News Agency: Group targeted Aramco refinery in Saudi Arabia's Jizan with two drones.",
+   "link": "https://www.financialjuice.com/News/9720075/Yemens-Houthi-run-Saba-News-Agency-Group-targeted-Aramco-refinery-in-Saudi-Arabias-Jizan-with-two-drones.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 15:08:27 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"OXaWv0sC\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9720074",
+   "title": "AMD plans to raise as much as $5 bln from debt offering. $AMD",
+   "link": "https://www.financialjuice.com/News/9720074/AMD-plans-to-raise-as-much-as-5-bln-from-debt-offering-AMD.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 15:06:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720069",
+   "title": "Upcoming US Treasury Auctions",
+   "link": "https://www.financialjuice.com/News/9720069/Upcoming-US-Treasury-Auctions.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 15:00:59 GMT",
+   "desc": "August 17 auctions (settle August 20): US to sell $92 bln 3-month bills US to sell $79 bln 6-month bills August 19 auctions (settle August 31): US to sell $16 bln 20-year bonds August 20 auctions (settle August 31): US to sell $8 bln reopened 30-year TIPS"
+  },
+  {
+   "id": "9720064",
+   "title": "Iran told Ankara, Baghdad, Doha and Riyadh any Syrian action against Hezbollah would trigger a broader regional confrontation in Syria - Tasnim News, citing Younews",
+   "link": "https://www.financialjuice.com/News/9720064/Iran-told-Ankara-Baghdad-Doha-and-Riyadh-any-Syrian-action-against-Hezbollah-would-trigger-a-broader-regional-confrontation-in-Syria---Tasnim-News-citing-Younews.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:51:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720063",
+   "title": "Tehran threatened to target 100 strategic sites in Damascus if it intervenes in Lebanon - Younews cited by Tasnim News",
+   "link": "https://www.financialjuice.com/News/9720063/Tehran-threatened-to-target-100-strategic-sites-in-Damascus-if-it-intervenes-in-Lebanon---Younews-cited-by-Tasnim-News.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:49:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720045",
+   "title": "Fed's Barkin: The Fed is not currently in a forward guidance place.",
+   "link": "https://www.financialjuice.com/News/9720045/Feds-Barkin-The-Fed-is-not-currently-in-a-forward-guidance-place.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:46:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720044",
+   "title": "Fed's Barkin: Do not think the labor market is as strong as data indicate; consider it vulnerable.",
+   "link": "https://www.financialjuice.com/News/9720044/Feds-Barkin-Do-not-think-the-labor-market-is-as-strong-as-data-indicate-consider-it-vulnerable.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:46:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720043",
+   "title": "Fed's Barkin: Business-to-business firms are confident in pricing power; business-to-consumer companies are less certain on cost pass-through.",
+   "link": "https://www.financialjuice.com/News/9720043/Feds-Barkin-Business-to-business-firms-are-confident-in-pricing-power-business-to-consumer-companies-are-less-certain-on-cost-pass-through.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:46:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720042",
+   "title": "Fed's Barkin: Net employment effect of AI is less important than the job reallocation it may necessitate.",
+   "link": "https://www.financialjuice.com/News/9720042/Feds-Barkin-Net-employment-effect-of-AI-is-less-important-than-the-job-reallocation-it-may-necessitate.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:46:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720041",
+   "title": "Fed's Barkin: Many AI applications are not mature enough to cause significant job cuts.",
+   "link": "https://www.financialjuice.com/News/9720041/Feds-Barkin-Many-AI-applications-are-not-mature-enough-to-cause-significant-job-cuts.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:46:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720040",
+   "title": "Fed's Barkin: Do worry about how long consumer spending can hold up at the lower end.",
+   "link": "https://www.financialjuice.com/News/9720040/Feds-Barkin-Do-worry-about-how-long-consumer-spending-can-hold-up-at-the-lower-end.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:46:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720039",
+   "title": "Fed's Barkin: Do believe in the theory that if you help people understand the reaction function, it helps markets do their job, but also think that guiding too carefully leads to constraints.",
+   "link": "https://www.financialjuice.com/News/9720039/Feds-Barkin-Do-believe-in-the-theory-that-if-you-help-people-understand-the-reaction-function-it-helps-markets-do-their-job-but-also-think-that-guiding-too-carefully-leads-to-constraints.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:46:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720038",
+   "title": "Fed's Barkin': Businesses generally don't like to do layoffs and would prefer to avoid them, even if they are cautious about hiring.",
+   "link": "https://www.financialjuice.com/News/9720038/Feds-Barkin-Businesses-generally-dont-like-to-do-layoffs-and-would-prefer-to-avoid-them-even-if-they-are-cautious-about-hiring.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:45:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720037",
+   "title": "Fed's Barkin: Torn between focusing on the fact that inflation has been above target for more than 5 years or focusing on the fact that it jumped in two separate episodes and is now slowing.",
+   "link": "https://www.financialjuice.com/News/9720037/Feds-Barkin-Torn-between-focusing-on-the-fact-that-inflation-has-been-above-target-for-more-than-5-years-or-focusing-on-the-fact-that-it-jumped-in-two-separate-episodes-and-is-now-slowing.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:45:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720032",
+   "title": "Fed's Barkin (Non-Voter): The more headline inflation continues to slow that will help keep expectations in check.",
+   "link": "https://www.financialjuice.com/News/9720032/Feds-Barkin-Non-Voter-The-more-headline-inflation-continues-to-slow-that-will-help-keep-expectations-in-check.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:45:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720031",
+   "title": "Canadian Minister in charge of US bilateral trade will meet USTR Greer Thursday afternoon - Official Statement",
+   "link": "https://www.financialjuice.com/News/9720031/Canadian-Minister-in-charge-of-US-bilateral-trade-will-meet-USTR-Greer-Thursday-afternoon---Official-Statement.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:37:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720030",
+   "title": "Ukraine's offer was transmitted to Russia via a third party and it has yet to receive a response - source.",
+   "link": "https://www.financialjuice.com/News/9720030/Ukraines-offer-was-transmitted-to-Russia-via-a-third-party-and-it-has-yet-to-receive-a-response---source.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:34:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720029",
+   "title": "Ukraine sent an offer to Russia for both sides to halt attacks on civilian targets in the Black Sea - source.",
+   "link": "https://www.financialjuice.com/News/9720029/Ukraine-sent-an-offer-to-Russia-for-both-sides-to-halt-attacks-on-civilian-targets-in-the-Black-Sea---source.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:34:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720028",
+   "title": "UKMTO: Commercial traffic in southern Red Sea and Bab el-Mandeb remains reduced after July 20 Houthi naval blockade declaration against Saudi Arabia",
+   "link": "https://www.financialjuice.com/News/9720028/UKMTO-Commercial-traffic-in-southern-Red-Sea-and-Bab-el-Mandeb-remains-reduced-after-July-20-Houthi-naval-blockade-declaration-against-Saudi-Arabia.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:34:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720027",
+   "title": "UKMTO: Kinetic activity continues near Limah, Khasab and Kumzar, including projectile strikes and near-miss explosions.",
+   "link": "https://www.financialjuice.com/News/9720027/UKMTO-Kinetic-activity-continues-near-Limah-Khasab-and-Kumzar-including-projectile-strikes-and-near-miss-explosions.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:33:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720026",
+   "title": "UKMTO: IRGC continues harassing and surveilling merchant shipping despite no confirmed attacks in latest reporting period",
+   "link": "https://www.financialjuice.com/News/9720026/UKMTO-IRGC-continues-harassing-and-surveilling-merchant-shipping-despite-no-confirmed-attacks-in-latest-reporting-period.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:33:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720025",
+   "title": "UKMTO: tanker transits through Strait of Hormuz remain in single digits in both directions",
+   "link": "https://www.financialjuice.com/News/9720025/UKMTO-tanker-transits-through-Strait-of-Hormuz-remain-in-single-digits-in-both-directions.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:33:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720024",
+   "title": "UKMTO: commercial traffic through Strait of Hormuz remains at reduced levels",
+   "link": "https://www.financialjuice.com/News/9720024/UKMTO-commercial-traffic-through-Strait-of-Hormuz-remains-at-reduced-levels.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:32:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720014",
+   "title": "EIA Natural Gas Change BCF Actual 36B (Forecast 31B, Previous 33B)",
+   "link": "https://www.financialjuice.com/News/9720014/EIA-Natural-Gas-Change-BCF-Actual-36B-Forecast-31B-Previous-33B.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720013",
+   "title": "Texas Gov. Abbott: Microsoft to comply with data center standards. $MSFT",
+   "link": "https://www.financialjuice.com/News/9720013/Texas-Gov-Abbott-Microsoft-to-comply-with-data-center-standards-MSFT.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:22:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720012",
+   "title": "Fear & Greed Index: 67/100 - Greed",
+   "link": "https://www.financialjuice.com/News/9720012/Fear--Greed-Index-67100---Greed.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:18:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720011",
+   "title": "Crypto Fear & Greed Index: 29/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9720011/Crypto-Fear--Greed-Index-29100---Fear.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:17:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719991",
+   "title": "Traders no longer fully price in Fed rate hike this year.",
+   "link": "https://www.financialjuice.com/News/9719991/Traders-no-longer-fully-price-in-Fed-rate-hike-this-year.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:13:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719990",
+   "title": "Databricks wraps $5 bln funding round at $190 bln valuation - CNBC",
+   "link": "https://www.financialjuice.com/News/9719990/Databricks-wraps-5-bln-funding-round-at-190-bln-valuation---CNBC.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:12:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719988",
+   "title": "Fitch Ratings US private credit default rate remains at record high in July 2026.",
+   "link": "https://www.financialjuice.com/News/9719988/Fitch-Ratings-US-private-credit-default-rate-remains-at-record-high-in-July-2026.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 14:07:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719940",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9719940/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: +202 mln Nasdaq 100: -21 mln Dow 30: +30 mln Mag 7: -25 mln"
+  },
+  {
+   "id": "9719925",
+   "title": "RBC's Forecasts for Oil - FJElite",
+   "link": "https://www.financialjuice.com/News/9719925/RBCs-Forecasts-for-Oil---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 13:30:22 GMT",
+   "desc": "Context &nbsp; To varying extents throughout the Iran conflict, physical prices have been a better barometer of the reality on the water, while paper markets have better reflected the broad sentiment (often a more optimistic take) on the severity and tenor of the conflict and its impact on crude markets. The amount of headline-driven volatility has led to paralyzing levels of uncertainty, impacting market participation and thus price outcomes in our view. Define &quot;Normal&quot; &nbsp; Regarding the trajectory of Strait transit, it is true that upon &quot;normalization&quot; in flows (it may not be to pre-conflict levels), crude prices will eventually settle well below the more elevated levels seen this year, but &quot;normalization&quot; is complicated and sustained lower prices will require sustained higher flows through the Strait. Whatever lower levels prices eventually do settle at, they are likely to be at a higher level than they were headed before the conflict began. Re-escalation Risk &nbsp; Importantly, re-escalation remains a risk, as we have learned in recent weeks. Each re-escalation in tensions that once again restricts flows through the Strait of Hormuz, and (now even the Red Sea) occurs against a backdrop of depleted commercial inventories, limited strategic stockpiles, and thus dwindling buffers. This leaves crude prices ever more reliant on China being in &quot;eco mode&quot; absent a sustained and permanent normalization."
+  },
+  {
+   "id": "9719924",
+   "title": "JPMorgan's View on US CPI - FJElite",
+   "link": "https://www.financialjuice.com/News/9719924/JPMorgans-View-on-US-CPI---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 13:25:23 GMT",
+   "desc": "US CPI came in close to expectations: headline and core rose 0.07% and 0.22%, respectively, with the year-ago rate ticking down a tenth in both (to 3.4% and 2.5% respectively). The three-month run rate of core CPI has now slipped below the 2%ar target rate, but the 0.22% monthly gain we’re tracking in core PCE suggests that the Fed’s preferred measure should be tracking a still-elevated 2.8%ar three-month gain and a 3.3%oya increase in July. • The report is unlikely to sway the three July FOMC dissenters from voting for a hike in September. The majority that voted for a hold is also not likely to be swayed to hike following this and last Friday&#39;s employment report. Team expects Dec hike."
+  },
+  {
+   "id": "9719923",
+   "title": "CIBC on US CPI - FJElite",
+   "link": "https://www.financialjuice.com/News/9719923/CIBC-on-US-CPI---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 13:22:22 GMT",
+   "desc": "Economic forecast &nbsp; With the monthly reading of core inflation in line with the consensus, we believe this reaffirms the case for a hold for the next FOMC meeting in September. However, these trends might not last if the renewed conflict in the Middle East lifts oil prices again. Markets Market reaction was muted given the print with in line with expectations, although bond yields fell slightly following the release with a small drop in the probability of a September Fed rate hike."
+  },
+  {
+   "id": "9719922",
+   "title": "Deutsche Bank's View on US CPI - FJElite",
+   "link": "https://www.financialjuice.com/News/9719922/Deutsche-Banks-View-on-US-CPI---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 13:20:21 GMT",
+   "desc": "So the CPI report eased concerns about the next Fed move without doing much to resolve the longer-term concerns around deficits, supply, and term premium. That will remain relevant as the Treasury sells $25bn of new 30yr bonds today, with the auction expected to produce the highest yield fora new 30yr issue since August 2001. Yesterday’s 10yrsale had seen $42bn of bonds issued at the highest yield since 2007 at 4.68%. Ahead of that 30yr auction, Treasury yields are a little lower overnight, with the 10yr down -2.4bps. One reason for continued caution in rates markets is the situation in the Middle East as Iran and the US appear to harden their positions. A Revolutionary Guard general said yesterday that Iran has reorganised parts of its military as part of an “offensive doctrine”. By contrast, US President Trump posted on social media around the European close that the US has “total control” over the Strait of Hormuz as he also talked up the US naval blockade and called Iran “all talk and no action”. In another sign that talks between the US as currently deadlocked, Pakistan’s foreign ministry suggested that the larger peace process has stalled."
+  },
+  {
+   "id": "9719905",
+   "title": "US Sentiment: Faster BoJ Hikes Said to be Supported by Japan - FJElite",
+   "link": "https://www.financialjuice.com/News/9719905/US-Sentiment-Faster-BoJ-Hikes-Said-to-be-Supported-by-Japan---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 13:16:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719883",
+   "title": "US Chamber of Commerce CEO Clark: We need to bring inflation down to 2% faster",
+   "link": "https://www.financialjuice.com/News/9719883/US-Chamber-of-Commerce-CEO-Clark-We-need-to-bring-inflation-down-to-2-faster.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 13:01:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719879",
+   "title": "Fed's Hammack: If it takes another 3-4 years to get to 2% inflation, can the public wait?",
+   "link": "https://www.financialjuice.com/News/9719879/Feds-Hammack-If-it-takes-another-3-4-years-to-get-to-2-inflation-can-the-public-wait.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 13:00:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719870",
+   "title": "Fed's Hammack: Recent two inflation reports are welcome news, but no confidence we'll continue to see that progress",
+   "link": "https://www.financialjuice.com/News/9719870/Feds-Hammack-Recent-two-inflation-reports-are-welcome-news-but-no-confidence-well-continue-to-see-that-progress.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 13:00:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719869",
+   "title": "Effective Fed Funds Rate 3.63% August 12 vs 3.63% August 11.",
+   "link": "https://www.financialjuice.com/News/9719869/Effective-Fed-Funds-Rate-363-August-12-vs-363-August-11.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 13:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719868",
+   "title": "Fed's Hammack: Inflation from these supply shocks has proved more persistent",
+   "link": "https://www.financialjuice.com/News/9719868/Feds-Hammack-Inflation-from-these-supply-shocks-has-proved-more-persistent.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:59:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719867",
+   "title": "Fed's Barkin: Consumers seem \"bound and determined\" to spend, and are finding ways to finance it.",
+   "link": "https://www.financialjuice.com/News/9719867/Feds-Barkin-Consumers-seem-bound-and-determined-to-spend-and-are-finding-ways-to-finance-it.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:58:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719866",
+   "title": "Fed's Hammack: Payroll data is noisy",
+   "link": "https://www.financialjuice.com/News/9719866/Feds-Hammack-Payroll-data-is-noisy.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:57:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719865",
+   "title": "Fed's Barkin: Current levels of federal debt are an inflationary \"wind\" that the Fed has to navigate against.",
+   "link": "https://www.financialjuice.com/News/9719865/Feds-Barkin-Current-levels-of-federal-debt-are-an-inflationary-wind-that-the-Fed-has-to-navigate-against.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:56:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719864",
+   "title": "Fed's Hammack: I also watch private credit and whether AI is a bubble",
+   "link": "https://www.financialjuice.com/News/9719864/Feds-Hammack-I-also-watch-private-credit-and-whether-AI-is-a-bubble.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:54:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719863",
+   "title": "Fed's Hammack: A lot of leverage is being used to buy treasuries. Treasuries is 1 area I monitor for financial stability.",
+   "link": "https://www.financialjuice.com/News/9719863/Feds-Hammack-A-lot-of-leverage-is-being-used-to-buy-treasuries-Treasuries-is-1-area-I-monitor-for-financial-stability.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:53:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719862",
+   "title": "The US eases export controls on certain drones and parts",
+   "link": "https://www.financialjuice.com/News/9719862/The-US-eases-export-controls-on-certain-drones-and-parts.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:49:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719846",
+   "title": "Fed's Hammack: Businesses have adapted to tariff and oil shocks, there's resilience and investment.",
+   "link": "https://www.financialjuice.com/News/9719846/Feds-Hammack-Businesses-have-adapted-to-tariff-and-oil-shocks-theres-resilience-and-investment.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:45:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719838",
+   "title": "Fed's Hammack: Raising interest rates can be painful, but must not let growth and investment be so fast the economy overheats.",
+   "link": "https://www.financialjuice.com/News/9719838/Feds-Hammack-Raising-interest-rates-can-be-painful-but-must-not-let-growth-and-investment-be-so-fast-the-economy-overheats.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:43:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719837",
+   "title": "Fed's Hammack: Inflation is broad-based, not just in certain sectors, I have learned that from talking with businesses",
+   "link": "https://www.financialjuice.com/News/9719837/Feds-Hammack-Inflation-is-broad-based-not-just-in-certain-sectors-I-have-learned-that-from-talking-with-businesses.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:42:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719836",
+   "title": "Fed's Barkin: The US economy remains resilient, driven by consumer",
+   "link": "https://www.financialjuice.com/News/9719836/Feds-Barkin-The-US-economy-remains-resilient-driven-by-consumer.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:40:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719835",
+   "title": "Fed's Barkin: US investment boom not confined to data centers.",
+   "link": "https://www.financialjuice.com/News/9719835/Feds-Barkin-US-investment-boom-not-confined-to-data-centers.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:40:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719834",
+   "title": "Fed's Barkin: Much of today's inflation is from shocks that should pass",
+   "link": "https://www.financialjuice.com/News/9719834/Feds-Barkin-Much-of-todays-inflation-is-from-shocks-that-should-pass.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:40:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719833",
+   "title": "Fed's Barkin: Some inflation drivers, including AI, could be persistent.",
+   "link": "https://www.financialjuice.com/News/9719833/Feds-Barkin-Some-inflation-drivers-including-AI-could-be-persistent.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:40:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719832",
+   "title": "Fed's Barkin: AI investment seems impervious to the level of rates",
+   "link": "https://www.financialjuice.com/News/9719832/Feds-Barkin-AI-investment-seems-impervious-to-the-level-of-rates.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:40:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719831",
+   "title": "Fed's Hammack: It's important Fed is held accountable to one inflation number.",
+   "link": "https://www.financialjuice.com/News/9719831/Feds-Hammack-Its-important-Fed-is-held-accountable-to-one-inflation-number.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:40:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719830",
+   "title": "Fed's Hammack: Policy is not restrictive, businesses are excited to grow and borrow",
+   "link": "https://www.financialjuice.com/News/9719830/Feds-Hammack-Policy-is-not-restrictive-businesses-are-excited-to-grow-and-borrow.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:38:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719829",
+   "title": "Fed's Hammack: Unemployment is the best indicator of the job market; it's stable",
+   "link": "https://www.financialjuice.com/News/9719829/Feds-Hammack-Unemployment-is-the-best-indicator-of-the-job-market-its-stable.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:37:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719828",
+   "title": "Fed's Hammack: Inflation amid recent shocks has risen.",
+   "link": "https://www.financialjuice.com/News/9719828/Feds-Hammack-Inflation-amid-recent-shocks-has-risen.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:37:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719827",
+   "title": "Fed's Hammack: The labor market is stable",
+   "link": "https://www.financialjuice.com/News/9719827/Feds-Hammack-The-labor-market-is-stable.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:37:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719826",
+   "title": "Fed's Hammack: My view is we need to act now.",
+   "link": "https://www.financialjuice.com/News/9719826/Feds-Hammack-My-view-is-we-need-to-act-now.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:36:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719807",
+   "title": "US Core PPI MoM Actual 0.2% (Forecast 0.3%, Previous 0.2%, Revised 0.4%)",
+   "link": "https://www.financialjuice.com/News/9719807/US-Core-PPI-MoM-Actual-02-Forecast-03-Previous-02-Revised-04.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:30:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719806",
+   "title": "US Core PPI YoY Actual 4.2% (Forecast 4.1%, Previous 4.7%)",
+   "link": "https://www.financialjuice.com/News/9719806/US-Core-PPI-YoY-Actual-42-Forecast-41-Previous-47.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719805",
+   "title": "US PPI MoM Actual 0% (Forecast 0.2%, Previous -0.3%, Revised -0.1%)",
+   "link": "https://www.financialjuice.com/News/9719805/US-PPI-MoM-Actual-0-Forecast-02-Previous--03-Revised--01.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719804",
+   "title": "US PPI YoY Actual 4.7% (Forecast 4.9%, Previous 5.5%)",
+   "link": "https://www.financialjuice.com/News/9719804/US-PPI-YoY-Actual-47-Forecast-49-Previous-55.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719803",
+   "title": "US Continued Jobless Claims Actual 1.777M (Forecast 1.794M, Previous 1.801M, Revised 1.799M)",
+   "link": "https://www.financialjuice.com/News/9719803/US-Continued-Jobless-Claims-Actual-1777M-Forecast-1794M-Previous-1801M-Revised-1799M.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719802",
+   "title": "US Initial Jobless Claims Actual 209k (Forecast 202k, Previous 199k, Revised 200k)",
+   "link": "https://www.financialjuice.com/News/9719802/US-Initial-Jobless-Claims-Actual-209k-Forecast-202k-Previous-199k-Revised-200k.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719780",
+   "title": "Iran: Trump's claim of controlling the strait is a lie - IRIB",
+   "link": "https://www.financialjuice.com/News/9719780/Iran-Trumps-claim-of-controlling-the-strait-is-a-lie---IRIB.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:14:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719779",
+   "title": "Iran: We fully control the Strait of Hormuz - IRIB News",
+   "link": "https://www.financialjuice.com/News/9719779/Iran-We-fully-control-the-Strait-of-Hormuz---IRIB-News.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:12:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9719778",
+   "title": "Iran: No ship can safely transit Hormuz without approval - TV",
+   "link": "https://www.financialjuice.com/News/9719778/Iran-No-ship-can-safely-transit-Hormuz-without-approval---TV.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 12:10:12 GMT",
+   "desc": ""
+  },
   {
    "id": "9719755",
    "title": "Secured overnight financing rate 3.62% August 12th vs 3.64% August 11th",
