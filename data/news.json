@@ -1,7 +1,322 @@
 {
- "updated_at": "2026-08-13T23:26:28.773151+00:00",
- "count": 1012,
+ "updated_at": "2026-08-14T05:20:12.084144+00:00",
+ "count": 1057,
  "items": [
+  {
+   "id": "9721065",
+   "title": "French CPI YoY NSA Actual 2.1% (Forecast 2.1%, Previous 2.1%)",
+   "link": "https://www.financialjuice.com/News/9721065/French-CPI-YoY-NSA-Actual-21-Forecast-21-Previous-21.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 05:13:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721064",
+   "title": "UK's Nigel Farage regains parliamentary seat: wins Clacton by-election",
+   "link": "https://www.financialjuice.com/News/9721064/UKs-Nigel-Farage-regains-parliamentary-seat-wins-Clacton-by-election.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 05:04:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721063",
+   "title": "Wall of Wildberries warehouse in Russia's Tver region damaged in drone strike: IFX",
+   "link": "https://www.financialjuice.com/News/9721063/Wall-of-Wildberries-warehouse-in-Russias-Tver-region-damaged-in-drone-strike-IFX.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 05:03:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721028",
+   "title": "Apple to introduce range of AI tools in China in coming months: sources",
+   "link": "https://www.financialjuice.com/News/9721028/Apple-to-introduce-range-of-AI-tools-in-China-in-coming-months-sources.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 04:19:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721027",
+   "title": "Apple trains AI model specifically for China market: sources",
+   "link": "https://www.financialjuice.com/News/9721027/Apple-trains-AI-model-specifically-for-China-market-sources.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 04:19:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721026",
+   "title": "AI model was trained with Alibaba's 9988 HK backing: sources",
+   "link": "https://www.financialjuice.com/News/9721026/AI-model-was-trained-with-Alibabas-9988-HK-backing-sources.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 04:19:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720986",
+   "title": "Pony AI expands partnership with Uber: plans to deploy over 2,000 robotaxis across five European cities",
+   "link": "https://www.financialjuice.com/News/9720986/Pony-AI-expands-partnership-with-Uber-plans-to-deploy-over-2000-robotaxis-across-five-European-cities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 04:00:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720984",
+   "title": "Goldman Sachs in discussions with potential investors on Nvidia's $500 billion AI funding plan: sources",
+   "link": "https://www.financialjuice.com/News/9720984/Goldman-Sachs-in-discussions-with-potential-investors-on-Nvidias-500-billion-AI-funding-plan-sources.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 04:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720971",
+   "title": "China Finance Ministry offers 10-year bonds at 1.66% yield: traders",
+   "link": "https://www.financialjuice.com/News/9720971/China-Finance-Ministry-offers-10-year-bonds-at-166-yield-traders.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 03:39:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720970",
+   "title": "China finance ministry auctions 30-year ultra-long special treasury bonds at 2.14% yield: traders",
+   "link": "https://www.financialjuice.com/News/9720970/China-finance-ministry-auctions-30-year-ultra-long-special-treasury-bonds-at-214-yield-traders.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 03:38:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720932",
+   "title": "Russia's Ust-Luga port ablaze: governor says",
+   "link": "https://www.financialjuice.com/News/9720932/Russias-Ust-Luga-port-ablaze-governor-says.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 03:23:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720931",
+   "title": "S.Korea June M2 money supply climbs 6.0% y/y vs 5.8% in May: c.bank",
+   "link": "https://www.financialjuice.com/News/9720931/SKorea-June-M2-money-supply-climbs-60-yy-vs-58-in-May-cbank.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 03:23:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720930",
+   "title": "S.Korea june liquidity measure rises 9.4% y/y vs 9.2% in may: central bank",
+   "link": "https://www.financialjuice.com/News/9720930/SKorea-june-liquidity-measure-rises-94-yy-vs-92-in-may-central-bank.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 03:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720929",
+   "title": "Area around Russia’s Baltic Sea port of Ust-Luga hit in drone attack: governor",
+   "link": "https://www.financialjuice.com/News/9720929/Area-around-Russias-Baltic-Sea-port-of-Ust-Luga-hit-in-drone-attack-governor.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 02:54:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720928",
+   "title": "LG to unveil next-gen humanoid robot built on Nvidia Isaac Groot",
+   "link": "https://www.financialjuice.com/News/9720928/LG-to-unveil-next-gen-humanoid-robot-built-on-Nvidia-Isaac-Groot.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 02:31:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720927",
+   "title": "i: expanded alliance to include deployment plans in Middle East",
+   "link": "https://www.financialjuice.com/News/9720927/i-expanded-alliance-to-include-deployment-plans-in-Middle-East.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 02:31:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720926",
+   "title": "Pony AI: Partnership Grows from Zagreb to Four More European Cities",
+   "link": "https://www.financialjuice.com/News/9720926/Pony-AI-Partnership-Grows-from-Zagreb-to-Four-More-European-Cities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 02:31:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720925",
+   "title": "S.Korea Blue House: Parliament should debate constitutional amendment - Yonhap",
+   "link": "https://www.financialjuice.com/News/9720925/SKorea-Blue-House-Parliament-should-debate-constitutional-amendment---Yonhap.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 02:29:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720924",
+   "title": "S.Korea Blue House: Public support strong for multiple-term 4-year presidency with enhanced parliamentary authority - Yonhap",
+   "link": "https://www.financialjuice.com/News/9720924/SKorea-Blue-House-Public-support-strong-for-multiple-term-4-year-presidency-with-enhanced-parliamentary-authority---Yonhap.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 02:28:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720818",
+   "title": "Latvia ends air threat alert: allied fighters down drone in Latvian airspace, national armed forces say on X",
+   "link": "https://www.financialjuice.com/News/9720818/Latvia-ends-air-threat-alert-allied-fighters-down-drone-in-Latvian-airspace-national-armed-forces-say-on-X.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:45:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720817",
+   "title": "S.Korea central bank: sells 91-day monetary stabilization bonds at 2.710% yield",
+   "link": "https://www.financialjuice.com/News/9720817/SKorea-central-bank-sells-91-day-monetary-stabilization-bonds-at-2710-yield.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:40:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720799",
+   "title": "Australia Q2 investment housing finance value falls 10.2% q/q, seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9720799/Australia-Q2-investment-housing-finance-value-falls-102-qq-seasonally-adjusted.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720798",
+   "title": "S.Korea July household bank lending +5.4 trillion won vs +7.6 trillion won in June: central bank",
+   "link": "https://www.financialjuice.com/News/9720798/SKorea-July-household-bank-lending-54-trillion-won-vs-76-trillion-won-in-June-central-bank.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720797",
+   "title": "Australia Q2 housing finance value declines 5.2% quarter-on-quarter, seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9720797/Australia-Q2-housing-finance-value-declines-52-quarter-on-quarter-seasonally-adjusted.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720796",
+   "title": "Australia Q2 owner-occupied housing finance value declines 1.9% on quarter, seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9720796/Australia-Q2-owner-occupied-housing-finance-value-declines-19-on-quarter-seasonally-adjusted.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720795",
+   "title": "China cbank: 7-day reverse repo volume zero on Friday amid primary dealer demand - statement",
+   "link": "https://www.financialjuice.com/News/9720795/China-cbank-7-day-reverse-repo-volume-zero-on-Friday-amid-primary-dealer-demand---statement.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:22:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720794",
+   "title": "China c.bank injects 349 bln yuan via overnight reverse repos: statement",
+   "link": "https://www.financialjuice.com/News/9720794/China-cbank-injects-349-bln-yuan-via-overnight-reverse-repos-statement.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:22:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720793",
+   "title": "China sets yuan midpoint at strongest level since Feb. 8, 2023",
+   "link": "https://www.financialjuice.com/News/9720793/China-sets-yuan-midpoint-at-strongest-level-since-Feb-8-2023.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:17:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720789",
+   "title": "Finland imposes temporary no-entry zone for aviation and maritime traffic in eastern Gulf of Finland, defence forces say on X",
+   "link": "https://www.financialjuice.com/News/9720789/Finland-imposes-temporary-no-entry-zone-for-aviation-and-maritime-traffic-in-eastern-Gulf-of-Finland-defence-forces-say-on-X.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:14:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720788",
+   "title": "Latvia issues air threat alert: national armed forces say on X",
+   "link": "https://www.financialjuice.com/News/9720788/Latvia-issues-air-threat-alert-national-armed-forces-say-on-X.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:10:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720774",
+   "title": "Pony Al and Zagri expand partnership",
+   "link": "https://www.financialjuice.com/News/9720774/Pony-Al-and-Zagri-expand-partnership.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:00:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720773",
+   "title": "China's Pony.A: Expanded partnership includes plans for deployment in the Middle East",
+   "link": "https://www.financialjuice.com/News/9720773/Chinas-PonyA-Expanded-partnership-includes-plans-for-deployment-in-the-Middle-East.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:00:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720772",
+   "title": "China's Pony.ai expands tie-up with Uber to launch more than 2,000 robotaxis across Europe",
+   "link": "https://www.financialjuice.com/News/9720772/Chinas-Ponyai-expands-tie-up-with-Uber-to-launch-more-than-2000-robotaxis-across-Europe.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:00:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720771",
+   "title": "Pony.ai and Uber extend partnership to launch more than 2,000 robotaxis in Europe",
+   "link": "https://www.financialjuice.com/News/9720771/Ponyai-and-Uber-extend-partnership-to-launch-more-than-2000-robotaxis-in-Europe.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:00:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720770",
+   "title": "China's Pony Al: Partnership to grow from existing commercial service in Zagreb to 4 more European cities",
+   "link": "https://www.financialjuice.com/News/9720770/Chinas-Pony-Al-Partnership-to-grow-from-existing-commercial-service-in-Zagreb-to-4-more-European-cities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 01:00:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720742",
+   "title": "China PBOC likely to set yuan midpoint at 6.7413 per dollar: estimate",
+   "link": "https://www.financialjuice.com/News/9720742/China-PBOC-likely-to-set-yuan-midpoint-at-67413-per-dollar-estimate.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 00:22:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720735",
+   "title": "Ecuador president to visit China August 16-23: foreign ministry",
+   "link": "https://www.financialjuice.com/News/9720735/Ecuador-president-to-visit-China-August-16-23-foreign-ministry.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 00:04:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720717",
+   "title": "Furusawa: Japan, U.S. may step in again if yen revisits levels before July-end coordinated move",
+   "link": "https://www.financialjuice.com/News/9720717/Furusawa-Japan-US-may-step-in-again-if-yen-revisits-levels-before-July-end-coordinated-move.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 00:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720716",
+   "title": "Furusawa: BoJ likely aims to lift rates eventually to about 1.5% to 1.75%",
+   "link": "https://www.financialjuice.com/News/9720716/Furusawa-BoJ-likely-aims-to-lift-rates-eventually-to-about-15-to-175.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 00:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720715",
+   "title": "Furusawa: BoJ likely to increase rates in September, followed by another hike in December or January",
+   "link": "https://www.financialjuice.com/News/9720715/Furusawa-BoJ-likely-to-increase-rates-in-September-followed-by-another-hike-in-December-or-January.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 00:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720714",
+   "title": "Japan's former top FX diplomat Furusawa: coordinated Japan-U.S. yen intervention could occur again at any time",
+   "link": "https://www.financialjuice.com/News/9720714/Japans-former-top-FX-diplomat-Furusawa-coordinated-Japan-US-yen-intervention-could-occur-again-at-any-time.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 00:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720713",
+   "title": "Foreign Investment Japanese Bonds Actual -58.7B (Forecast -, Previous 558.9B)",
+   "link": "https://www.financialjuice.com/News/9720713/Foreign-Investment-Japanese-Bonds-Actual--587B-Forecast---Previous-5589B.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 23:51:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720712",
+   "title": "Japanese Foreign Stock Investment Actual 963.5B (Forecast -, Previous -276.4B)",
+   "link": "https://www.financialjuice.com/News/9720712/Japanese-Foreign-Stock-Investment-Actual-9635B-Forecast---Previous--2764B.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 23:51:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720711",
+   "title": "Japanese Foreign Bond Investment Actual 1,629.4B (Forecast -, Previous 477.9B)",
+   "link": "https://www.financialjuice.com/News/9720711/Japanese-Foreign-Bond-Investment-Actual-16294B-Forecast---Previous-4779B.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 23:51:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9720710",
+   "title": "Foreign Investment Japanese Stocks Actual -368.5B (Forecast -, Previous -392.5B)",
+   "link": "https://www.financialjuice.com/News/9720710/Foreign-Investment-Japanese-Stocks-Actual--3685B-Forecast---Previous--3925B.aspx?xy=rss",
+   "pubDate": "Thu, 13 Aug 2026 23:51:00 GMT",
+   "desc": ""
+  },
   {
    "id": "9720682",
    "title": "US Treasury Secretary Bessent: We will implement unprecedented measures on Iran",
