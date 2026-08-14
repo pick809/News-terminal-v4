@@ -1,7 +1,308 @@
 {
- "updated_at": "2026-08-14T05:20:12.084144+00:00",
- "count": 1057,
+ "updated_at": "2026-08-14T09:33:17.556421+00:00",
+ "count": 1100,
  "items": [
+  {
+   "id": "9721416",
+   "title": "PBoC to dispose of 100 billion yuan in 3-month cash deposits on Aug. 19",
+   "link": "https://www.financialjuice.com/News/9721416/PBoC-to-dispose-of-100-billion-yuan-in-3-month-cash-deposits-on-Aug-19.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:32:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721410",
+   "title": "Minimax to announce 2026 interim financial results on August 26, 2026",
+   "link": "https://www.financialjuice.com/News/9721410/Minimax-to-announce-2026-interim-financial-results-on-August-26-2026.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:30:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721409",
+   "title": "ECB: 32 million euros borrowed through overnight loan facility, 2010.07 billion euros deposited",
+   "link": "https://www.financialjuice.com/News/9721409/ECB-32-million-euros-borrowed-through-overnight-loan-facility-201007-billion-euros-deposited.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:25:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721408",
+   "title": "ECB: banks placed €2.0 trillion with it overnight",
+   "link": "https://www.financialjuice.com/News/9721408/ECB-banks-placed-20-trillion-with-it-overnight.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:25:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721407",
+   "title": "ECB: banks took EU32.0 million at marginal rate",
+   "link": "https://www.financialjuice.com/News/9721407/ECB-banks-took-EU320-million-at-marginal-rate.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:25:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721406",
+   "title": "Savolon agrees sale and leaseback of aircraft with Akasa Air",
+   "link": "https://www.financialjuice.com/News/9721406/Savolon-agrees-sale-and-leaseback-of-aircraft-with-Akasa-Air.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:23:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721405",
+   "title": "Savolon agrees to sell and lease back seven Boeing 737-8200 aircraft",
+   "link": "https://www.financialjuice.com/News/9721405/Savolon-agrees-to-sell-and-lease-back-seven-Boeing-737-8200-aircraft.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:23:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721362",
+   "title": "Eurozone Trade Balance NSA Actual 8.6B (Forecast -, Previous -7.8B)",
+   "link": "https://www.financialjuice.com/News/9721362/Eurozone-Trade-Balance-NSA-Actual-86B-Forecast---Previous--78B.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:01:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721361",
+   "title": "Eurozone GDP YoY Flash Estimate Actual 1.0% (Forecast 1%, Previous 1.0%)",
+   "link": "https://www.financialjuice.com/News/9721361/Eurozone-GDP-YoY-Flash-Estimate-Actual-10-Forecast-1-Previous-10.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:01:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721360",
+   "title": "Eurozone GDP QoQ Flash Estimate Actual 0.4% (Forecast 0.4%, Previous 0.4%)",
+   "link": "https://www.financialjuice.com/News/9721360/Eurozone-GDP-QoQ-Flash-Estimate-Actual-04-Forecast-04-Previous-04.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:01:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721359",
+   "title": "Eurozone Employment Change QoQ Flash Actual 0.1% (Forecast -, Previous 0.1%)",
+   "link": "https://www.financialjuice.com/News/9721359/Eurozone-Employment-Change-QoQ-Flash-Actual-01-Forecast---Previous-01.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:01:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721370",
+   "title": "Eurozone Trade Balance Actual 1.8B (Forecast -, Previous -5B)",
+   "link": "https://www.financialjuice.com/News/9721370/Eurozone-Trade-Balance-Actual-18B-Forecast---Previous--5B.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 09:00:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721349",
+   "title": "ING: The JPY - FJElite",
+   "link": "https://www.financialjuice.com/News/9721349/ING-The-JPY---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 08:46:52 GMT",
+   "desc": "Despite some sharp moves in Japanese money markets this week, the yen is failing to find any lasting support. Here, the big story is that the Japanese government might be more tolerant of a faster tightening cycle by the Bank of Japan. The prior assumption had been that a government focusing on growth would only allow the BoJ one hike every six months. The suggestion now is that Tokyo has elevated FX as a policy priority and wants to ensure that the first joint intervention with the US to buy the yen since 1998 is a success. Markets now price close to a 75% chance that the BoJ hikes 25bp in September. That has seen two-year USiJapan swap differentials narrow nearly 40bp since mid-July. That should be weighing on USD/JPY. The fact that it is not may owe to benign conditions that continue to favour the yen-funded carry trade. That said, the risks to funding in yen are squarely increasing, and if we are right with our call for unchanged Fed rates in September, USD/JPY could well be trading back below 158. And to play independent yen strength in the interim, expect a lot more focus on short CHF/JPY positions."
+  },
+  {
+   "id": "9721338",
+   "title": "ING: The EUR - FJElite",
+   "link": "https://www.financialjuice.com/News/9721338/ING-The-EUR---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 08:46:06 GMT",
+   "desc": "Our models suggest EUR/USD&#39;s short-term fair value sits in the 1.160-1.1650 area. That’s primarily on the back of the c.lObp tightening in two-year swap rate spreads, which retain a significantly higher beta than other drivers. That supports our positive bias on EUR/USD, even though we aren’t convinced a break above 1.160 is on the cards in the coming days unless communication from the Fed starts to surprise on the dovish side. For now, EUR/USD bulls like us may be content with strengthening technical support around 1.1500. In the eurozone, the second release of 2Q GDP will be released today, with no expectations for meaningful changes to the advance 0.4% quarter-on-quarter print."
+  },
+  {
+   "id": "9721328",
+   "title": "Europe Sentiment: Stocks Rise Following Back to Back Benign US Inflation Reports - FJElite",
+   "link": "https://www.financialjuice.com/News/9721328/Europe-Sentiment-Stocks-Rise-Following-Back-to-Back-Benign-US-Inflation-Reports---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 08:43:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721304",
+   "title": "China July M2 money supply rises 7.7% y/y, below poll estimate of 7.9%",
+   "link": "https://www.financialjuice.com/News/9721304/China-July-M2-money-supply-rises-77-yy-below-poll-estimate-of-79.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 08:31:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721252",
+   "title": "UKMTO: Tanker struck by drone during Hormuz outbound transit.",
+   "link": "https://www.financialjuice.com/News/9721252/UKMTO-Tanker-struck-by-drone-during-Hormuz-outbound-transit.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 07:59:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721218",
+   "title": "China revises some tax policies for integrated circuit firms",
+   "link": "https://www.financialjuice.com/News/9721218/China-revises-some-tax-policies-for-integrated-circuit-firms.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 07:08:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721217",
+   "title": "Currency Strength Chart: Strongest: NZD, CAD, JPY, EUR, GBP, AUD, CHF, USD - Weakest",
+   "link": "https://www.financialjuice.com/News/9721217/Currency-Strength-Chart-Strongest-NZD-CAD-JPY-EUR-GBP-AUD-CHF-USD---Weakest.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 07:04:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721216",
+   "title": "China to reduce gasoline price by 230 Yuan/tonne - NDRC",
+   "link": "https://www.financialjuice.com/News/9721216/China-to-reduce-gasoline-price-by-230-Yuantonne---NDRC.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 07:03:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721171",
+   "title": "French HICP MoM Final Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+   "link": "https://www.financialjuice.com/News/9721171/French-HICP-MoM-Final-Actual-06-Forecast-06-Previous-06.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721170",
+   "title": "French CPI MoM NSA Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+   "link": "https://www.financialjuice.com/News/9721170/French-CPI-MoM-NSA-Actual-06-Forecast-06-Previous-06.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721169",
+   "title": "French HICP YoY Final Actual 2.4% (Forecast 2.4%, Previous 2.4%)",
+   "link": "https://www.financialjuice.com/News/9721169/French-HICP-YoY-Final-Actual-24-Forecast-24-Previous-24.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721168",
+   "title": "French CPI YoY NSA Actual 2.1% (Forecast 2.1%, Previous 2.1%)",
+   "link": "https://www.financialjuice.com/News/9721168/French-CPI-YoY-NSA-Actual-21-Forecast-21-Previous-21.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721142",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9721142/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:13:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721141",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9721141/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:12:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721140",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9721140/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:12:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721139",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9721139/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:12:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721138",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9721138/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:11:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721137",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9721137/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:11:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721136",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9721136/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:11:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721135",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9721135/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:11:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721134",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9721134/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:10:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721133",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9721133/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:10:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721132",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9721132/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:09:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721131",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9721131/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:09:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721130",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9721130/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:08:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721129",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9721129/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:08:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721128",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9721128/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:08:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721127",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9721127/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:07:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721107",
+   "title": "German Wholesale Price Index MoM Actual 0.2% (Forecast -, Previous -0.7%)",
+   "link": "https://www.financialjuice.com/News/9721107/German-Wholesale-Price-Index-MoM-Actual-02-Forecast---Previous--07.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721106",
+   "title": "German Wholesale Price Index YoY Actual 5.3% (Forecast -, Previous 4.9%)",
+   "link": "https://www.financialjuice.com/News/9721106/German-Wholesale-Price-Index-YoY-Actual-53-Forecast---Previous-49.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 06:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9721091",
+   "title": "Japan bank for international cooperation signs loan agreement of about $801 million with US entity Japan invest 4 LLC.",
+   "link": "https://www.financialjuice.com/News/9721091/Japan-bank-for-international-cooperation-signs-loan-agreement-of-about-801-million-with-US-entity-Japan-invest-4-LLC.aspx?xy=rss",
+   "pubDate": "Fri, 14 Aug 2026 05:32:20 GMT",
+   "desc": ""
+  },
   {
    "id": "9721065",
    "title": "French CPI YoY NSA Actual 2.1% (Forecast 2.1%, Previous 2.1%)",
