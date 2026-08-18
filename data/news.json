@@ -1,7 +1,175 @@
 {
- "updated_at": "2026-08-18T06:00:34.246485+00:00",
- "count": 1511,
+ "updated_at": "2026-08-18T08:02:06.200329+00:00",
+ "count": 1535,
  "items": [
+  {
+   "id": "9725504",
+   "title": "ECB’s Lane: European economy is growing.",
+   "link": "https://www.financialjuice.com/News/9725504/ECBs-Lane-European-economy-is-growing.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 07:48:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725501",
+   "title": "ECB’s Lane: Right now food inflation is relatively low.",
+   "link": "https://www.financialjuice.com/News/9725501/ECBs-Lane-Right-now-food-inflation-is-relatively-low.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 07:46:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725496",
+   "title": "ECB’s Lane: Inflation to hover around 3% level for rest of year.",
+   "link": "https://www.financialjuice.com/News/9725496/ECBs-Lane-Inflation-to-hover-around-3-level-for-rest-of-year.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 07:46:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725495",
+   "title": "ECB’s Lane: Inflation depends on energy prices.",
+   "link": "https://www.financialjuice.com/News/9725495/ECBs-Lane-Inflation-depends-on-energy-prices.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 07:46:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725473",
+   "title": "Yemen's Houthi-Run News Agency Saba cites military source as saying group attacked Saudi Aramco's Jazan refinery with drones, no saudi confirmation.",
+   "link": "https://www.financialjuice.com/News/9725473/Yemens-Houthi-Run-News-Agency-Saba-cites-military-source-as-saying-group-attacked-Saudi-Aramcos-Jazan-refinery-with-drones-no-saudi-confirmation.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 07:31:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725449",
+   "title": "South Korea national security adviser: Hope Trump's message on scaling back military drills with South Korea leads to meaningful North Korea-US dialogue, helping advance peace on the Korean Peninsula",
+   "link": "https://www.financialjuice.com/News/9725449/South-Korea-national-security-adviser-Hope-Trumps-message-on-scaling-back-military-drills-with-South-Korea-leads-to-meaningful-North-Korea-US-dialogue-helping-advance-peace-on-the-Korean-Peninsula.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 07:07:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725445",
+   "title": "Currency Strength Chart: Strongest: CAD, USD, AUD, EUR, CHF, GBP, JPY, NZD - Weakest",
+   "link": "https://www.financialjuice.com/News/9725445/Currency-Strength-Chart-Strongest-CAD-USD-AUD-EUR-CHF-GBP-JPY-NZD---Weakest.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 07:01:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725438",
+   "title": "Japan mulls support for reinsurance on oil tankers - Sources",
+   "link": "https://www.financialjuice.com/News/9725438/Japan-mulls-support-for-reinsurance-on-oil-tankers---Sources.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:48:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725381",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9725381/SNB-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:12:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725380",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9725380/RBA-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:11:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725379",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9725379/RBNZ-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:11:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725378",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9725378/BoJ-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:11:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725377",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9725377/BoC-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:10:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725376",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9725376/BoE-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:10:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725375",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9725375/ECB-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:10:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725374",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9725374/Fed-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:09:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725373",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9725373/Commodities-Implied-Volatility.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:09:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725372",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9725372/FX-Implied-Volatility.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:08:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725371",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9725371/US-Index-Futures-Implied-Volatility.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:08:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725370",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9725370/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:07:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725369",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9725369/120-Day-Correlation-Matrix.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:07:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725368",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9725368/90-Day-Correlation-Matrix.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:06:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725367",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9725367/60-Day-Correlation-Matrix.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:06:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9725366",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9725366/30-Day-Correlation-Matrix.aspx?xy=1",
+   "pubDate": "Tue, 18 Aug 2026 06:06:11 GMT",
+   "desc": ""
+  },
   {
    "id": "9725349",
    "title": "UK Employment Change 3M/3M Actual 84k (Forecast 130k, Previous 147k)",
