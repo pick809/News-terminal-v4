@@ -1,7 +1,301 @@
 {
- "updated_at": "2026-08-18T23:46:16.499913+00:00",
- "count": 1682,
+ "updated_at": "2026-08-19T03:11:28.301729+00:00",
+ "count": 1724,
  "items": [
+  {
+   "id": "9726947",
+   "title": "USD/KRW drops almost 1% to 1,398.90 won per dollar",
+   "link": "https://www.financialjuice.com/News/9726947/USDKRW-drops-almost-1-to-139890-won-per-dollar.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 03:04:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726935",
+   "title": "S.Korea end-June household credit rises 3.6% y/y vs 3.6% end-March: c.bank",
+   "link": "https://www.financialjuice.com/News/9726935/SKorea-end-June-household-credit-rises-36-yy-vs-36-end-March-cbank.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 03:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726934",
+   "title": "S. Korea Foreign Minister: Trump Message on Cutting Joint Drills Includes Push to Involve South Korea in Iran Conflict",
+   "link": "https://www.financialjuice.com/News/9726934/S-Korea-Foreign-Minister-Trump-Message-on-Cutting-Joint-Drills-Includes-Push-to-Involve-South-Korea-in-Iran-Conflict.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:51:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726914",
+   "title": "RBA’s Hauser: If inflation fails to ease, rates will need to increase again",
+   "link": "https://www.financialjuice.com/News/9726914/RBAs-Hauser-If-inflation-fails-to-ease-rates-will-need-to-increase-again.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:45:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726913",
+   "title": "RBA's Hauser: concerned about inflation, upside risks to price growth",
+   "link": "https://www.financialjuice.com/News/9726913/RBAs-Hauser-concerned-about-inflation-upside-risks-to-price-growth.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:44:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726912",
+   "title": "RBA's Hauser: expecting slowdown, not recession",
+   "link": "https://www.financialjuice.com/News/9726912/RBAs-Hauser-expecting-slowdown-not-recession.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:44:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726911",
+   "title": "RBA’s Hauser: Monetary policy must lower inflation, curb demand in economy",
+   "link": "https://www.financialjuice.com/News/9726911/RBAs-Hauser-Monetary-policy-must-lower-inflation-curb-demand-in-economy.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:43:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726910",
+   "title": "Reserve Bank of Australia Deputy Gov Hauser: Inflation Remains Excessively High",
+   "link": "https://www.financialjuice.com/News/9726910/Reserve-Bank-of-Australia-Deputy-Gov-Hauser-Inflation-Remains-Excessively-High.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:42:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726909",
+   "title": "U.S. Trade Representative Greer: Deal with Canada to Include Broad Market Access for All American Goods, Economic Security Pledges, Digital Trade Coordination",
+   "link": "https://www.financialjuice.com/News/9726909/US-Trade-Representative-Greer-Deal-with-Canada-to-Include-Broad-Market-Access-for-All-American-Goods-Economic-Security-Pledges-Digital-Trade-Coordination.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:41:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726907",
+   "title": "China finance ministry auctions 1-month deposits at 1.62% yield: statement",
+   "link": "https://www.financialjuice.com/News/9726907/China-finance-ministry-auctions-1-month-deposits-at-162-yield-statement.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:33:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726905",
+   "title": "Strait of Hormuz vessel transit remains low, with only six ships crossing Tuesday, preliminary data shows",
+   "link": "https://www.financialjuice.com/News/9726905/Strait-of-Hormuz-vessel-transit-remains-low-with-only-six-ships-crossing-Tuesday-preliminary-data-shows.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:28:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726888",
+   "title": "Trump: Keystone XL pipeline may be 'revived from grave'",
+   "link": "https://www.financialjuice.com/News/9726888/Trump-Keystone-XL-pipeline-may-be-revived-from-grave.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:16:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726887",
+   "title": "Trump: Canada and U.S., subject to document finalization, reach deal",
+   "link": "https://www.financialjuice.com/News/9726887/Trump-Canada-and-US-subject-to-document-finalization-reach-deal.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:16:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726886",
+   "title": "Trump: half of Canada tariffs paused for three days",
+   "link": "https://www.financialjuice.com/News/9726886/Trump-half-of-Canada-tariffs-paused-for-three-days.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:16:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726885",
+   "title": "The provided text does not appear to be a headline or contain meaningful content to edit according to the rules. Please provide a clear headline for editing.",
+   "link": "https://www.financialjuice.com/News/9726885/The-provided-text-does-not-appear-to-be-a-headline-or-contain-meaningful-content-to-edit-according-to-the-rules-Please-provide-a-clear-headline-for-editing.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:16:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726884",
+   "title": "Trump: i have suspended half of tariffs on Canada",
+   "link": "https://www.financialjuice.com/News/9726884/Trump-i-have-suspended-half-of-tariffs-on-Canada.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:16:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726883",
+   "title": "Bytedance and Tencent receive about 10,000 H200 processors each in recent weeks: FT",
+   "link": "https://www.financialjuice.com/News/9726883/Bytedance-and-Tencent-receive-about-10000-H200-processors-each-in-recent-weeks-FT.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:11:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726882",
+   "title": "China relaxes restrictions on Nvidia H200 chips as AI competition intensifies: FT",
+   "link": "https://www.financialjuice.com/News/9726882/China-relaxes-restrictions-on-Nvidia-H200-chips-as-AI-competition-intensifies-FT.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 02:10:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726771",
+   "title": "South Korea foreign minister: seeking presidential meeting with China at APEC in Shenzhen",
+   "link": "https://www.financialjuice.com/News/9726771/South-Korea-foreign-minister-seeking-presidential-meeting-with-China-at-APEC-in-Shenzhen.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:34:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726745",
+   "title": "Australia Q2 wage price index rises 3.2% y/y, s/adj matching poll",
+   "link": "https://www.financialjuice.com/News/9726745/Australia-Q2-wage-price-index-rises-32-yy-sadj-matching-poll.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726744",
+   "title": "Australia Q2 wage price index rises 0.8% q/q, seasonal adjustment matches estimate",
+   "link": "https://www.financialjuice.com/News/9726744/Australia-Q2-wage-price-index-rises-08-qq-seasonal-adjustment-matches-estimate.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726743",
+   "title": "Australian Wage Price Index QoQ Actual 0.8% (Forecast 0.8%, Previous 0.8%)",
+   "link": "https://www.financialjuice.com/News/9726743/Australian-Wage-Price-Index-QoQ-Actual-08-Forecast-08-Previous-08.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726742",
+   "title": "Australian Wage Price Index YoY\t Actual 3.2% (Forecast 3.2%, Previous 3.3%)",
+   "link": "https://www.financialjuice.com/News/9726742/Australian-Wage-Price-Index-YoY%09-Actual-32-Forecast-32-Previous-33.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726741",
+   "title": "Exercise to end one week early: Pentagon official",
+   "link": "https://www.financialjuice.com/News/9726741/Exercise-to-end-one-week-early-Pentagon-official.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:28:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726740",
+   "title": "US military significantly scaling back drill with South Korea, Pentagon official says",
+   "link": "https://www.financialjuice.com/News/9726740/US-military-significantly-scaling-back-drill-with-South-Korea-Pentagon-official-says.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:28:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726739",
+   "title": "U.S. War Department Official: No Decline in U.S. Training Goals",
+   "link": "https://www.financialjuice.com/News/9726739/US-War-Department-Official-No-Decline-in-US-Training-Goals.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:25:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726738",
+   "title": "U.S. War Department Official: modifications to South Korea joint drill maintain readiness and training goals",
+   "link": "https://www.financialjuice.com/News/9726738/US-War-Department-Official-modifications-to-South-Korea-joint-drill-maintain-readiness-and-training-goals.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:24:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726737",
+   "title": "China cbank injects 327.4 billion yuan via overnight reverse repos: statement",
+   "link": "https://www.financialjuice.com/News/9726737/China-cbank-injects-3274-billion-yuan-via-overnight-reverse-repos-statement.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:21:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726736",
+   "title": "China cbank: 7-day reverse repo volume at zero Wednesday amid primary dealer demand - statement",
+   "link": "https://www.financialjuice.com/News/9726736/China-cbank-7-day-reverse-repo-volume-at-zero-Wednesday-amid-primary-dealer-demand---statement.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:21:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726735",
+   "title": "China sets yuan mid-point at strongest level since February 8, 2023",
+   "link": "https://www.financialjuice.com/News/9726735/China-sets-yuan-mid-point-at-strongest-level-since-February-8-2023.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:17:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726712",
+   "title": "Taiwan stocks fall over 2%",
+   "link": "https://www.financialjuice.com/News/9726712/Taiwan-stocks-fall-over-2.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 01:00:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726701",
+   "title": "South Korea JCS: South Korea, U.S. shorten UFS military drill to Aug. 17-21",
+   "link": "https://www.financialjuice.com/News/9726701/South-Korea-JCS-South-Korea-US-shorten-UFS-military-drill-to-Aug-17-21.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 00:37:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726700",
+   "title": "South Korea's JCS: to modify UFS military exercise timing, scope",
+   "link": "https://www.financialjuice.com/News/9726700/South-Koreas-JCS-to-modify-UFS-military-exercise-timing-scope.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 00:36:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726696",
+   "title": "China PBOC likely to fix yuan midpoint at 6.7421 per dollar: Estimate",
+   "link": "https://www.financialjuice.com/News/9726696/China-PBOC-likely-to-fix-yuan-midpoint-at-67421-per-dollar-Estimate.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 00:20:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726679",
+   "title": "State Rep. Angie Nixon wins Democratic Florida Senate primary: NBC News projects",
+   "link": "https://www.financialjuice.com/News/9726679/State-Rep-Angie-Nixon-wins-Democratic-Florida-Senate-primary-NBC-News-projects.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 00:01:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726678",
+   "title": "State Rep. Angie Nixon wins Florida Democratic U.S. Senate primary: AP projects",
+   "link": "https://www.financialjuice.com/News/9726678/State-Rep-Angie-Nixon-wins-Florida-Democratic-US-Senate-primary-AP-projects.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 00:00:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726677",
+   "title": "State Rep. Angie Nixon wins Florida U.S. Senate Democratic primary: DDHQ projects",
+   "link": "https://www.financialjuice.com/News/9726677/State-Rep-Angie-Nixon-wins-Florida-US-Senate-Democratic-primary-DDHQ-projects.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 00:00:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726675",
+   "title": "Japan June core machinery orders climb 9.7% m/m versus poll 7.8%",
+   "link": "https://www.financialjuice.com/News/9726675/Japan-June-core-machinery-orders-climb-97-mm-versus-poll-78.aspx?xy=rss",
+   "pubDate": "Tue, 18 Aug 2026 23:50:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726674",
+   "title": "Japan June core machinery orders jump 16.9% year on year vs 10.8% forecast",
+   "link": "https://www.financialjuice.com/News/9726674/Japan-June-core-machinery-orders-jump-169-year-on-year-vs-108-forecast.aspx?xy=rss",
+   "pubDate": "Tue, 18 Aug 2026 23:50:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726673",
+   "title": "Japanese Core Machinery Orders MoM Actual 9.7% (Forecast 7.2%, Previous -12.4%)",
+   "link": "https://www.financialjuice.com/News/9726673/Japanese-Core-Machinery-Orders-MoM-Actual-97-Forecast-72-Previous--124.aspx?xy=rss",
+   "pubDate": "Tue, 18 Aug 2026 23:50:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726672",
+   "title": "Japanese Core Machinery Orders YoY Actual 16.9% (Forecast 9.6%, Previous -1.9%)",
+   "link": "https://www.financialjuice.com/News/9726672/Japanese-Core-Machinery-Orders-YoY-Actual-169-Forecast-96-Previous--19.aspx?xy=rss",
+   "pubDate": "Tue, 18 Aug 2026 23:50:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9726671",
+   "title": "Former Boca Raton mayor Scott Singer wins Republican nomination for Florida U.S. House District 25, will advance to general election - ddh@ projects",
+   "link": "https://www.financialjuice.com/News/9726671/Former-Boca-Raton-mayor-Scott-Singer-wins-Republican-nomination-for-Florida-US-House-District-25-will-advance-to-general-election---ddh-projects.aspx?xy=rss",
+   "pubDate": "Tue, 18 Aug 2026 23:49:20 GMT",
+   "desc": ""
+  },
   {
    "id": "9726659",
    "title": "Casey Askar secures Republican nomination for Florida's U.S. House District 22: DDHQ projects",
