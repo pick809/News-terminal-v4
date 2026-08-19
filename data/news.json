@@ -1,7 +1,217 @@
 {
- "updated_at": "2026-08-19T06:01:36.801737+00:00",
- "count": 1742,
+ "updated_at": "2026-08-19T08:02:04.699265+00:00",
+ "count": 1772,
  "items": [
+  {
+   "id": "9727285",
+   "title": "Europe Sentiment: Stocks Halt Losses Yields Continue Rise - FJElite",
+   "link": "https://www.financialjuice.com/News/9727285/Europe-Sentiment-Stocks-Halt-Losses-Yields-Continue-Rise---FJElite.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 07:48:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727253",
+   "title": "Japan Kansai business delegation to China to be delayed - Kyodo",
+   "link": "https://www.financialjuice.com/News/9727253/Japan-Kansai-business-delegation-to-China-to-be-delayed---Kyodo.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 07:28:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727227",
+   "title": "China's foreign ministry, on the US wanting countries to pick sides on AI: China firmly opposes taking sides against each other on the issue of AI",
+   "link": "https://www.financialjuice.com/News/9727227/Chinas-foreign-ministry-on-the-US-wanting-countries-to-pick-sides-on-AI-China-firmly-opposes-taking-sides-against-each-other-on-the-issue-of-AI.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 07:12:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727226",
+   "title": "ECB's President Lagarde: Europe can't afford to miss out on the AI revolution",
+   "link": "https://www.financialjuice.com/News/9727226/ECBs-President-Lagarde-Europe-cant-afford-to-miss-out-on-the-AI-revolution.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 07:11:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727209",
+   "title": "Currency Strength Chart: Strongest: JPY, CHF, EUR, GBP, CAD, NZD, USD, AUD - Weakest",
+   "link": "https://www.financialjuice.com/News/9727209/Currency-Strength-Chart-Strongest-JPY-CHF-EUR-GBP-CAD-NZD-USD-AUD---Weakest.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 07:01:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727208",
+   "title": "ECB's Rehn sees no clear signs of second-round effects.",
+   "link": "https://www.financialjuice.com/News/9727208/ECBs-Rehn-sees-no-clear-signs-of-second-round-effects.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 07:00:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727207",
+   "title": "ECB's Rehn: Wage growth, wage outlook remained moderate so far.",
+   "link": "https://www.financialjuice.com/News/9727207/ECBs-Rehn-Wage-growth-wage-outlook-remained-moderate-so-far.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 07:00:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727199",
+   "title": "ECB's Rehn: Keeping inflation expectations anchored is essential",
+   "link": "https://www.financialjuice.com/News/9727199/ECBs-Rehn-Keeping-inflation-expectations-anchored-is-essential.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 07:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727198",
+   "title": "UAE official: news of providing financial facilities to Iran is untrue",
+   "link": "https://www.financialjuice.com/News/9727198/UAE-official-news-of-providing-financial-facilities-to-Iran-is-untrue.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:47:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727171",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9727171/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:26:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727170",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9727170/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:26:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727169",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9727169/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:25:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727168",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9727168/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:25:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727167",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9727167/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:25:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727166",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9727166/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:24:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727165",
+   "title": "Pakistan & Turkey foreign ministers discuss regional development",
+   "link": "https://www.financialjuice.com/News/9727165/Pakistan--Turkey-foreign-ministers-discuss-regional-development.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:24:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727164",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9727164/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:24:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727163",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9727163/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:24:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727162",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9727162/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:23:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727161",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9727161/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:23:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727160",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9727160/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:22:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727159",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9727159/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:22:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727137",
+   "title": "Iran warns Gulf countries not to facilitate US military - Mehr",
+   "link": "https://www.financialjuice.com/News/9727137/Iran-warns-Gulf-countries-not-to-facilitate-US-military---Mehr.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:13:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727136",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9727136/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:13:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727135",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9727135/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:13:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727134",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9727134/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:12:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727133",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9727133/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:12:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727132",
+   "title": "Drone strike sparks fire at UFA refinery - IFX cites Governor",
+   "link": "https://www.financialjuice.com/News/9727132/Drone-strike-sparks-fire-at-UFA-refinery---IFX-cites-Governor.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:05:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727131",
+   "title": "Japan to review overtime work cap from September - Yomiuri",
+   "link": "https://www.financialjuice.com/News/9727131/Japan-to-review-overtime-work-cap-from-September---Yomiuri.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:05:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9727104",
+   "title": "UK Core CPI MoM Actual 0.2% (Forecast -, Previous 0.3%)",
+   "link": "https://www.financialjuice.com/News/9727104/UK-Core-CPI-MoM-Actual-02-Forecast---Previous-03.aspx?xy=rss",
+   "pubDate": "Wed, 19 Aug 2026 06:01:20 GMT",
+   "desc": ""
+  },
   {
    "id": "9727103",
    "title": "UK PPI Output Prices MoM Actual 0.2% (Forecast 0.2%, Previous 0.0%)",
