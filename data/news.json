@@ -1,7 +1,378 @@
 {
- "updated_at": "2026-08-20T11:59:21.467160+00:00",
- "count": 2031,
+ "updated_at": "2026-08-20T14:10:01.905964+00:00",
+ "count": 2084,
  "items": [
+  {
+   "id": "9729634",
+   "title": "Yemeni armed forces targeted the Najran airport and Aramco oil facilities using attack drones - Tasnim News.",
+   "link": "https://www.financialjuice.com/News/9729634/Yemeni-armed-forces-targeted-the-Najran-airport-and-Aramco-oil-facilities-using-attack-drones---Tasnim-News.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 14:07:00 GMT",
+   "desc": "These attacks were a direct response to the violation of Yemeni airspace (Saada province) by Saudi drones - Tasnim News"
+  },
+  {
+   "id": "9729612",
+   "title": "US Leading Index Change MoM Actual 0.2% (Forecast 0.1%, Previous -0.2%)",
+   "link": "https://www.financialjuice.com/News/9729612/US-Leading-Index-Change-MoM-Actual-02-Forecast-01-Previous--02.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729611",
+   "title": "Google Threat Intelligence Group is tracking three distinct suspected Russian cyber espionage threat clusters - Blog. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9729611/Google-Threat-Intelligence-Group-is-tracking-three-distinct-suspected-Russian-cyber-espionage-threat-clusters---Blog-GOOGL.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 13:59:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729580",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9729580/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: -214 mln Nasdaq 100: +13 mln Dow 30: -43 mln Mag 7: +1 mln"
+  },
+  {
+   "id": "9729553",
+   "title": "Super Micro Computer - No evidence that previous financial statements could not be relied upon",
+   "link": "https://www.financialjuice.com/News/9729553/Super-Micro-Computer---No-evidence-that-previous-financial-statements-could-not-be-relied-upon.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 13:08:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729552",
+   "title": "Super Micro Computer - Supermicro board adopts recommendations to enhance export compliance program",
+   "link": "https://www.financialjuice.com/News/9729552/Super-Micro-Computer---Supermicro-board-adopts-recommendations-to-enhance-export-compliance-program.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 13:07:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729551",
+   "title": "Anthropic’s joint venture Ode buys AI consultancy Casper studios - The Information.",
+   "link": "https://www.financialjuice.com/News/9729551/Anthropics-joint-venture-Ode-buys-AI-consultancy-Casper-studios---The-Information.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 13:03:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729550",
+   "title": "Treasury proposes eligible investments for Trump accounts.",
+   "link": "https://www.financialjuice.com/News/9729550/Treasury-proposes-eligible-investments-for-Trump-accounts.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 13:02:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729528",
+   "title": "Effective Fed Funds rate 3.63% August 19th vs 3.63% August 18th",
+   "link": "https://www.financialjuice.com/News/9729528/Effective-Fed-Funds-rate-363-August-19th-vs-363-August-18th.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 13:00:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729527",
+   "title": "Turkey-Saudi-Egypt calls cover Gaza, Syria, and Strait of Hormuz",
+   "link": "https://www.financialjuice.com/News/9729527/Turkey-Saudi-Egypt-calls-cover-Gaza-Syria-and-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:57:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729526",
+   "title": "Turkey's Fidan holds calls with Egyptian and Saudi counterparts.",
+   "link": "https://www.financialjuice.com/News/9729526/Turkeys-Fidan-holds-calls-with-Egyptian-and-Saudi-counterparts.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:56:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729525",
+   "title": "USTR Greer and Canada negotiators to meet at 12:15 ET in Washington.",
+   "link": "https://www.financialjuice.com/News/9729525/USTR-Greer-and-Canada-negotiators-to-meet-at-1215-ET-in-Washington.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:55:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729524",
+   "title": "Fed's Daly: Labor market stable, my attention is on inflation.",
+   "link": "https://www.financialjuice.com/News/9729524/Feds-Daly-Labor-market-stable-my-attention-is-on-inflation.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:48:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729523",
+   "title": "Fed's Daly: The Fed is missing its inflation goal by quite a bit",
+   "link": "https://www.financialjuice.com/News/9729523/Feds-Daly-The-Fed-is-missing-its-inflation-goal-by-quite-a-bit.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:47:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729522",
+   "title": "Fed's Daly: Two softer prints didn't clear up inflation picture.",
+   "link": "https://www.financialjuice.com/News/9729522/Feds-Daly-Two-softer-prints-didnt-clear-up-inflation-picture.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:47:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729505",
+   "title": "Fed's Daly: I am not seeing broad inflation spillover from AI buildout.",
+   "link": "https://www.financialjuice.com/News/9729505/Feds-Daly-I-am-not-seeing-broad-inflation-spillover-from-AI-buildout.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:45:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729499",
+   "title": "Fed's Daly: I don't see any signs of labor market faltering.",
+   "link": "https://www.financialjuice.com/News/9729499/Feds-Daly-I-dont-see-any-signs-of-labor-market-faltering.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:44:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729498",
+   "title": "Fed's Daly: job market is showing uncomfortable stability, don't see signs the job market is faltering",
+   "link": "https://www.financialjuice.com/News/9729498/Feds-Daly-job-market-is-showing-uncomfortable-stability-dont-see-signs-the-job-market-is-faltering.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:44:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729497",
+   "title": "Fed's Daly: Fed really has to focus on achieving its inflation target.",
+   "link": "https://www.financialjuice.com/News/9729497/Feds-Daly-Fed-really-has-to-focus-on-achieving-its-inflation-target.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:41:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729496",
+   "title": "Fed's Daly: Fed will stick to its job regardless of Treasury action",
+   "link": "https://www.financialjuice.com/News/9729496/Feds-Daly-Fed-will-stick-to-its-job-regardless-of-Treasury-action.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:41:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729495",
+   "title": "Fed's Daly: The Fed will find a way to achieve its policy goals.",
+   "link": "https://www.financialjuice.com/News/9729495/Feds-Daly-The-Fed-will-find-a-way-to-achieve-its-policy-goals.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:40:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729494",
+   "title": "Fed's Daly: Early days to discuss treasury issuance patterns",
+   "link": "https://www.financialjuice.com/News/9729494/Feds-Daly-Early-days-to-discuss-treasury-issuance-patterns.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:39:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729493",
+   "title": "ING: “Bessent Put” Supports Risk Assets and Weighs on the Dollar - FJElite",
+   "link": "https://www.financialjuice.com/News/9729493/ING-Bessent-Put-Supports-Risk-Assets-and-Weighs-on-the-Dollar---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:38:07 GMT",
+   "desc": "The US Treasury’s decision to increase long-end buybacks has been welcomed as a sign that officials are becoming more willing to lean against disorderly rises in longer-dated yields. The move does not solve the underlying fiscal problem, but it reduces one of the main threats to risk assets and has helped pull long yields lower, lift equities and weaken the dollar, particularly against higher-beta currencies. The July FOMC minutes also failed to deliver a strongly hawkish message, with short-dated yields falling after the release. That combination leaves markets in a more “risk-on, dollar-off” environment, supportive of carry trades and EMFX. If risk assets extend the move, the dollar could continue to drift lower."
+  },
+  {
+   "id": "9729492",
+   "title": "Fed's Daly: I don't see the job market contributing to inflation right now",
+   "link": "https://www.financialjuice.com/News/9729492/Feds-Daly-I-dont-see-the-job-market-contributing-to-inflation-right-now.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:37:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729491",
+   "title": "Fed's Daly: I am looking for signs of more worrying inflation, not seeing that.",
+   "link": "https://www.financialjuice.com/News/9729491/Feds-Daly-I-am-looking-for-signs-of-more-worrying-inflation-not-seeing-that.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:37:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729490",
+   "title": "Fed's Daly: Recent jobs and inflation data have not changed outlook so far.",
+   "link": "https://www.financialjuice.com/News/9729490/Feds-Daly-Recent-jobs-and-inflation-data-have-not-changed-outlook-so-far.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:36:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729489",
+   "title": "Deutsche Bank on Treasury Buyback Announcement - FJElite",
+   "link": "https://www.financialjuice.com/News/9729489/Deutsche-Bank-on-Treasury-Buyback-Announcement---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:36:45 GMT",
+   "desc": "Markets recovered yesterday after the US Treasury unexpectedly announced it would at least double the size of buyback operations for longer-dated Treasuries. The move drove the 30-year yield down 9.2bps to 5.19%, its biggest decline since June, while the yield curve flattened sharply. The increased buybacks will cover 10-30 year maturities, with the maximum size per operation rising from $2bn to at least $4bn from September 9 through November 4. Although the amounts are small relative to the overall Treasury market, the announcement signalled a willingness to support the long end after 30-year yields recently reached their highest since 2007. The move also had broader cross-asset effects: gold surged 4.18%, its biggest gain since March, while the dollar index fell 0.83% to a three-month low as investors considered the implications for financial repression and long-term rates."
+  },
+  {
+   "id": "9729488",
+   "title": "Fed's Daly: Wary of compounded effects of multiple inflation shocks",
+   "link": "https://www.financialjuice.com/News/9729488/Feds-Daly-Wary-of-compounded-effects-of-multiple-inflation-shocks.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:36:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729487",
+   "title": "Fed's Daly: I was very supportive of Fed's July interest rate hold.",
+   "link": "https://www.financialjuice.com/News/9729487/Feds-Daly-I-was-very-supportive-of-Feds-July-interest-rate-hold.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:36:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729486",
+   "title": "Fed's Daly: Modal outlook expects inflation shocks will dissipate",
+   "link": "https://www.financialjuice.com/News/9729486/Feds-Daly-Modal-outlook-expects-inflation-shocks-will-dissipate.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:35:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729485",
+   "title": "Fed's Daly: I don't see evidence calling for pre-emptive rate hikes.",
+   "link": "https://www.financialjuice.com/News/9729485/Feds-Daly-I-dont-see-evidence-calling-for-pre-emptive-rate-hikes.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:35:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729484",
+   "title": "Fed's daily: Policy is in a good place, watching the markets",
+   "link": "https://www.financialjuice.com/News/9729484/Feds-daily-Policy-is-in-a-good-place-watching-the-markets.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:35:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729483",
+   "title": "Fed's Daly: Fed policy is in a good place.",
+   "link": "https://www.financialjuice.com/News/9729483/Feds-Daly-Fed-policy-is-in-a-good-place.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:35:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729482",
+   "title": "Fed's Daly: Short term yields show markets understand fed reaction function.",
+   "link": "https://www.financialjuice.com/News/9729482/Feds-Daly-Short-term-yields-show-markets-understand-fed-reaction-function.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:34:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729481",
+   "title": "Fed's Daly: I don't see Fed credibility at risk",
+   "link": "https://www.financialjuice.com/News/9729481/Feds-Daly-I-dont-see-Fed-credibility-at-risk.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:33:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729480",
+   "title": "Fed's Daly: Rise in long term yields is a global issue, blunts signal for Fed.",
+   "link": "https://www.financialjuice.com/News/9729480/Feds-Daly-Rise-in-long-term-yields-is-a-global-issue-blunts-signal-for-Fed.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:33:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729479",
+   "title": "Fed's Daly: Rising bond yields don't give a signal for policy",
+   "link": "https://www.financialjuice.com/News/9729479/Feds-Daly-Rising-bond-yields-dont-give-a-signal-for-policy.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:33:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729451",
+   "title": "Micron to invest $10b in US memory research lab over 10 years.",
+   "link": "https://www.financialjuice.com/News/9729451/Micron-to-invest-10b-in-US-memory-research-lab-over-10-years.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:31:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729444",
+   "title": "Canadian PPI YoY Actual 12.4% (Forecast -, Previous 12.4%)",
+   "link": "https://www.financialjuice.com/News/9729444/Canadian-PPI-YoY-Actual-124-Forecast---Previous-124.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:31:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729441",
+   "title": "US Philly Fed Business Index Actual 47.4 (Forecast 24.75, Previous 41.4)",
+   "link": "https://www.financialjuice.com/News/9729441/US-Philly-Fed-Business-Index-Actual-474-Forecast-2475-Previous-414.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:31:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729448",
+   "title": "US Sentiment: Yields & Oil Continue Putting Pressure on Risk Sentiment - FJElite",
+   "link": "https://www.financialjuice.com/News/9729448/US-Sentiment-Yields--Oil-Continue-Putting-Pressure-on-Risk-Sentiment---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:30:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729443",
+   "title": "Canadian PPI MoM Actual 0.6% (Forecast -0.5%, Previous -1.4%)",
+   "link": "https://www.financialjuice.com/News/9729443/Canadian-PPI-MoM-Actual-06-Forecast--05-Previous--14.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:30:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729442",
+   "title": "Canadian RMPI MoM Actual -2.2% (Forecast -2%, Previous -6.9%)",
+   "link": "https://www.financialjuice.com/News/9729442/Canadian-RMPI-MoM-Actual--22-Forecast--2-Previous--69.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:30:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729440",
+   "title": "US Initial Jobless Claims Actual 206k (Forecast 210k, Previous 209k, Revised 212k)",
+   "link": "https://www.financialjuice.com/News/9729440/US-Initial-Jobless-Claims-Actual-206k-Forecast-210k-Previous-209k-Revised-212k.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729439",
+   "title": "US Continued Jobless Claims Actual 1.799M (Forecast 1.788M, Previous 1.777M, Revised 1.781M)",
+   "link": "https://www.financialjuice.com/News/9729439/US-Continued-Jobless-Claims-Actual-1799M-Forecast-1788M-Previous-1777M-Revised-1781M.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729438",
+   "title": "Fed's Daly Speaks - Watch Live",
+   "link": "https://www.financialjuice.com/News/9729438/Feds-Daly-Speaks---Watch-Live.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:26:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729432",
+   "title": "CFTC's Selig: Clarity act best path for crypto regulation",
+   "link": "https://www.financialjuice.com/News/9729432/CFTCs-Selig-Clarity-act-best-path-for-crypto-regulation.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:16:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729431",
+   "title": "CFTC's Selig: Crypto will get market structure regardless of bill.",
+   "link": "https://www.financialjuice.com/News/9729431/CFTCs-Selig-Crypto-will-get-market-structure-regardless-of-bill.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:16:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729426",
+   "title": "North Korea's Kim Yo Jong: President Lee's comments show South Korea's uneasiness and impatience",
+   "link": "https://www.financialjuice.com/News/9729426/North-Koreas-Kim-Yo-Jong-President-Lees-comments-show-South-Koreas-uneasiness-and-impatience.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:13:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729425",
+   "title": "North Korea's Kim Yo Jong: South Korea's description of drills reduction is \"nothing but a lame excuse\".",
+   "link": "https://www.financialjuice.com/News/9729425/North-Koreas-Kim-Yo-Jong-South-Koreas-description-of-drills-reduction-is-nothing-but-a-lame-excuse.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:11:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729424",
+   "title": "IRIB: Local sources report Saudi-backed forces cut internet and communications services in Yemen's Marib province",
+   "link": "https://www.financialjuice.com/News/9729424/IRIB-Local-sources-report-Saudi-backed-forces-cut-internet-and-communications-services-in-Yemens-Marib-province.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:10:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729423",
+   "title": "Turkey, Egypt, Qatar strongly condemn recent Israeli attacks in Gaza, express deep concern over ongoing violations - Joint Statement.",
+   "link": "https://www.financialjuice.com/News/9729423/Turkey-Egypt-Qatar-strongly-condemn-recent-Israeli-attacks-in-Gaza-express-deep-concern-over-ongoing-violations---Joint-Statement.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 12:09:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9729393",
+   "title": "Secured overnight financing rate: 3.62% August 19th vs 3.65% August 18th",
+   "link": "https://www.financialjuice.com/News/9729393/Secured-overnight-financing-rate-362-August-19th-vs-365-August-18th.aspx?xy=rss",
+   "pubDate": "Thu, 20 Aug 2026 11:59:57 GMT",
+   "desc": ""
+  },
   {
    "id": "9729384",
    "title": "USS George Washington transiting the Arabian Sea today - US military",
