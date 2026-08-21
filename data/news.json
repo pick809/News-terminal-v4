@@ -1,7 +1,287 @@
 {
- "updated_at": "2026-08-21T05:17:04.905362+00:00",
- "count": 2238,
+ "updated_at": "2026-08-21T07:32:02.001840+00:00",
+ "count": 2278,
  "items": [
+  {
+   "id": "9730832",
+   "title": "German Service PMI Flash Actual 48.5 (Forecast 50.1, Previous 49.8)",
+   "link": "https://www.financialjuice.com/News/9730832/German-Service-PMI-Flash-Actual-485-Forecast-501-Previous-498.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730831",
+   "title": "German Composite PMI Flash Actual 51 (Forecast 51.3, Previous 51.3)",
+   "link": "https://www.financialjuice.com/News/9730831/German-Composite-PMI-Flash-Actual-51-Forecast-513-Previous-513.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730830",
+   "title": "German Manufacturing PMI Flash Actual 54.1 (Forecast 52.1, Previous 52.2)",
+   "link": "https://www.financialjuice.com/News/9730830/German-Manufacturing-PMI-Flash-Actual-541-Forecast-521-Previous-522.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730829",
+   "title": "Iran's parliament speaker Qalibaf, following Trump's threat: We must plan to overcome these unjust sanctions so that we can overcome them",
+   "link": "https://www.financialjuice.com/News/9730829/Irans-parliament-speaker-Qalibaf-following-Trumps-threat-We-must-plan-to-overcome-these-unjust-sanctions-so-that-we-can-overcome-them.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:24:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730817",
+   "title": "French Services PMI Flash Actual 48.4 (Forecast 49.4, Previous 49.6)",
+   "link": "https://www.financialjuice.com/News/9730817/French-Services-PMI-Flash-Actual-484-Forecast-494-Previous-496.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:15:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730816",
+   "title": "French Comp Flash PMI Actual 48.8 (Forecast 49.5, Previous 49.4)",
+   "link": "https://www.financialjuice.com/News/9730816/French-Comp-Flash-PMI-Actual-488-Forecast-495-Previous-494.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:15:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730815",
+   "title": "French Manufacturing PMI Flash Actual 51.5 (Forecast 50, Previous 49.8)",
+   "link": "https://www.financialjuice.com/News/9730815/French-Manufacturing-PMI-Flash-Actual-515-Forecast-50-Previous-498.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:15:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730814",
+   "title": "ECB's Kazaks: We'll decide in September based on data",
+   "link": "https://www.financialjuice.com/News/9730814/ECBs-Kazaks-Well-decide-in-September-based-on-data.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:14:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730813",
+   "title": "ECB's Kazaks: There's are pros and cons to hiking further.",
+   "link": "https://www.financialjuice.com/News/9730813/ECBs-Kazaks-Theres-are-pros-and-cons-to-hiking-further.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:14:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730812",
+   "title": "ECB's Kazaks: Forward guidance is counterproductive amid uncertainty",
+   "link": "https://www.financialjuice.com/News/9730812/ECBs-Kazaks-Forward-guidance-is-counterproductive-amid-uncertainty.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:14:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730811",
+   "title": "ECB's Kazaks: We see wage growth gradually slowing.",
+   "link": "https://www.financialjuice.com/News/9730811/ECBs-Kazaks-We-see-wage-growth-gradually-slowing.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:14:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730810",
+   "title": "ECB's Kazaks: ECB is well placed to act if needed to get inflation to 2%",
+   "link": "https://www.financialjuice.com/News/9730810/ECBs-Kazaks-ECB-is-well-placed-to-act-if-needed-to-get-inflation-to-2.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:14:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730809",
+   "title": "ECB's Kazaks: Inflation expectations are still anchored near target",
+   "link": "https://www.financialjuice.com/News/9730809/ECBs-Kazaks-Inflation-expectations-are-still-anchored-near-target.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:13:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730808",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9730808/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:07:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730807",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9730807/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:07:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730806",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9730806/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:06:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730805",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9730805/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:06:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730804",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9730804/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:06:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730803",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9730803/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:05:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730802",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9730802/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:05:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730801",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9730801/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:04:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730800",
+   "title": "Japan Finance Ministry considering setting assumed interest rate at 3.8% for calculating debt servicing costs in fiscal 2027/28 budget request - Nikkei",
+   "link": "https://www.financialjuice.com/News/9730800/Japan-Finance-Ministry-considering-setting-assumed-interest-rate-at-38-for-calculating-debt-servicing-costs-in-fiscal-202728-budget-request---Nikkei.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:04:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730799",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9730799/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:04:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730798",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9730798/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:03:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730797",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9730797/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:03:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730796",
+   "title": "Top S&P 500 Stock names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9730796/Top-SP-500-Stock-names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:03:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730795",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9730795/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:02:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730794",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9730794/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:02:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730787",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9730787/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:02:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730774",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9730774/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:01:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730773",
+   "title": "Currency Strength Chart: Strongest: AUD, NZD, CAD, EUR, GBP, JPY, CHF, USD - Weakest",
+   "link": "https://www.financialjuice.com/News/9730773/Currency-Strength-Chart-Strongest-AUD-NZD-CAD-EUR-GBP-JPY-CHF-USD---Weakest.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 07:01:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730746",
+   "title": "French Business Climate Mfg Actual 103 (Forecast 101, Previous 101)",
+   "link": "https://www.financialjuice.com/News/9730746/French-Business-Climate-Mfg-Actual-103-Forecast-101-Previous-101.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 06:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730745",
+   "title": "French Business Climate Overall Actual 98 (Forecast 98, Previous 97)",
+   "link": "https://www.financialjuice.com/News/9730745/French-Business-Climate-Overall-Actual-98-Forecast-98-Previous-97.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 06:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730695",
+   "title": "UK PSNB ex Banks Actual 1.800B (Forecast -, Previous 15.989B)",
+   "link": "https://www.financialjuice.com/News/9730695/UK-PSNB-ex-Banks-Actual-1800B-Forecast---Previous-15989B.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 06:01:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730697",
+   "title": "Swedish Unemployment Rate Actual 7.8% (Forecast -, Previous 9.9%)",
+   "link": "https://www.financialjuice.com/News/9730697/Swedish-Unemployment-Rate-Actual-78-Forecast---Previous-99.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 06:00:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730696",
+   "title": "Swedish Unemployment Rate SA Actual 8.6% (Forecast 8.75%, Previous 8.9%)",
+   "link": "https://www.financialjuice.com/News/9730696/Swedish-Unemployment-Rate-SA-Actual-86-Forecast-875-Previous-89.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 06:00:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730692",
+   "title": "UK Core Retail Sales MoM Actual -0.9% (Forecast -0.5%, Previous 1.1%)",
+   "link": "https://www.financialjuice.com/News/9730692/UK-Core-Retail-Sales-MoM-Actual--09-Forecast--05-Previous-11.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 06:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730691",
+   "title": "UK Core Retail Sales YoY Actual 2.3% (Forecast 3.3%, Previous 5.4%)",
+   "link": "https://www.financialjuice.com/News/9730691/UK-Core-Retail-Sales-YoY-Actual-23-Forecast-33-Previous-54.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 06:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730690",
+   "title": "UK Retail Sales MoM Actual -0.5% (Forecast -0.5%, Previous 1.0%)",
+   "link": "https://www.financialjuice.com/News/9730690/UK-Retail-Sales-MoM-Actual--05-Forecast--05-Previous-10.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 06:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9730689",
+   "title": "UK Retail Sales YoY Actual 1.6% (Forecast 2.2%, Previous 4.2%)",
+   "link": "https://www.financialjuice.com/News/9730689/UK-Retail-Sales-YoY-Actual-16-Forecast-22-Previous-42.aspx?xy=rss",
+   "pubDate": "Fri, 21 Aug 2026 06:00:02 GMT",
+   "desc": ""
+  },
   {
    "id": "9730656",
    "title": "Dutch Consumer Confidence Adjusted Actual -34 (Forecast -, Previous -35)",
