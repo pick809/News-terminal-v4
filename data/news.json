@@ -1,7 +1,364 @@
 {
- "updated_at": "2026-08-25T12:02:45.612025+00:00",
- "count": 2826,
+ "updated_at": "2026-08-25T14:29:11.204577+00:00",
+ "count": 2877,
  "items": [
+  {
+   "id": "9735476",
+   "title": "Crypto Fear and Greed Index: 74/100 = Greed",
+   "link": "https://www.financialjuice.com/News/9735476/Crypto-Fear-and-Greed-Index-74100--Greed.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:18:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735475",
+   "title": "Fear and Greed Index: 60/100 = Greed",
+   "link": "https://www.financialjuice.com/News/9735475/Fear-and-Greed-Index-60100--Greed.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:17:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735457",
+   "title": "Fed's Collins: It is appropriate to raise interest rates soon, absent evidence of sustained disinflation.",
+   "link": "https://www.financialjuice.com/News/9735457/Feds-Collins-It-is-appropriate-to-raise-interest-rates-soon-absent-evidence-of-sustained-disinflation.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:13:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735456",
+   "title": "Fed's Collins: I remain particularly concerned about inflation.",
+   "link": "https://www.financialjuice.com/News/9735456/Feds-Collins-I-remain-particularly-concerned-about-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:13:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735455",
+   "title": "Fed's Collins: Labor market is broadly balanced, but with risks.",
+   "link": "https://www.financialjuice.com/News/9735455/Feds-Collins-Labor-market-is-broadly-balanced-but-with-risks.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:12:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735454",
+   "title": "CIA Director Ratcliffe traveled to Russia - CBS reporter on X.",
+   "link": "https://www.financialjuice.com/News/9735454/CIA-Director-Ratcliffe-traveled-to-Russia---CBS-reporter-on-X.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:12:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735453",
+   "title": "Fed's Collins: Maintaining the current policy rate will require continued evidence that inflation is falling.",
+   "link": "https://www.financialjuice.com/News/9735453/Feds-Collins-Maintaining-the-current-policy-rate-will-require-continued-evidence-that-inflation-is-falling.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:12:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735452",
+   "title": "Fed's Collins:  A balanced labor market and continued productivity growth could also support a gradual disinflation.",
+   "link": "https://www.financialjuice.com/News/9735452/Feds-Collins--A-balanced-labor-market-and-continued-productivity-growth-could-also-support-a-gradual-disinflation.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:08:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735451",
+   "title": "Fed's Collins:  The rise in longer-term interest rates should work against a re-acceleration in demand.",
+   "link": "https://www.financialjuice.com/News/9735451/Feds-Collins--The-rise-in-longer-term-interest-rates-should-work-against-a-re-acceleration-in-demand.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:07:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735450",
+   "title": "Fed's Collins: Current monetary policy is mildly restrictive.",
+   "link": "https://www.financialjuice.com/News/9735450/Feds-Collins-Current-monetary-policy-is-mildly-restrictive.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:07:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735449",
+   "title": "Fed's Collins: I consider disinflation as the most likely outcome based on limited additional tariffs and progress on reopening the Strait of Hormuz.",
+   "link": "https://www.financialjuice.com/News/9735449/Feds-Collins-I-consider-disinflation-as-the-most-likely-outcome-based-on-limited-additional-tariffs-and-progress-on-reopening-the-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:06:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735448",
+   "title": "Fed's Collins: I will be looking for evidence in the coming months that inflation is durably returning to 2%.",
+   "link": "https://www.financialjuice.com/News/9735448/Feds-Collins-I-will-be-looking-for-evidence-in-the-coming-months-that-inflation-is-durably-returning-to-2.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:05:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735447",
+   "title": "Fed's Collins: Concerns about high prices are pervasive among contacts in the New England region.",
+   "link": "https://www.financialjuice.com/News/9735447/Feds-Collins-Concerns-about-high-prices-are-pervasive-among-contacts-in-the-New-England-region.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:04:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735446",
+   "title": "Fed's Collins: Sharply reduced immigration and population aging should keep labor force and labor demand in balance.",
+   "link": "https://www.financialjuice.com/News/9735446/Feds-Collins-Sharply-reduced-immigration-and-population-aging-should-keep-labor-force-and-labor-demand-in-balance.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:04:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735445",
+   "title": "White House Official to Al Jazeera: The naval blockade is being enforced firmly and effectively, the Strait of Hormuz is open, and the mines have been removed.",
+   "link": "https://www.financialjuice.com/News/9735445/White-House-Official-to-Al-Jazeera-The-naval-blockade-is-being-enforced-firmly-and-effectively-the-Strait-of-Hormuz-is-open-and-the-mines-have-been-removed.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:04:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735444",
+   "title": "White House Official to Al Jazeera: No talks or discussions are currently underway or scheduled with Iran.",
+   "link": "https://www.financialjuice.com/News/9735444/White-House-Official-to-Al-Jazeera-No-talks-or-discussions-are-currently-underway-or-scheduled-with-Iran.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:03:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735443",
+   "title": "Fed's Collins:  The labor market is consistent with full employment; the economy is growing at a near-trend pace.",
+   "link": "https://www.financialjuice.com/News/9735443/Feds-Collins--The-labor-market-is-consistent-with-full-employment-the-economy-is-growing-at-a-near-trend-pace.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:03:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735442",
+   "title": "Fed's Collins:  Inflation is still too high, I am concerned about the price stability part of the Fed's mandate.",
+   "link": "https://www.financialjuice.com/News/9735442/Feds-Collins--Inflation-is-still-too-high-I-am-concerned-about-the-price-stability-part-of-the-Feds-mandate.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:02:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735417",
+   "title": "US Conference Board: Consumers' average and median 12-month inflation expectations were slightly higher in August. Most consumers, 61.3%, still anticipated higher interest rates over the next 12 months, down moderately from 62% in July.",
+   "link": "https://www.financialjuice.com/News/9735417/US-Conference-Board-Consumers-average-and-median-12-month-inflation-expectations-were-slightly-higher-in-August-Most-consumers-613-still-anticipated-higher-interest-rates-over-the-next-12-months-down-moderately-from-62-in-July.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:01:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735408",
+   "title": "Richmond Fed Comp. Index Actual 4 (Forecast 7, Previous 5)",
+   "link": "https://www.financialjuice.com/News/9735408/Richmond-Fed-Comp-Index-Actual-4-Forecast-7-Previous-5.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:00:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735407",
+   "title": "US New Home Sales Change MoM Actual -10.5% (Forecast -1.4%, Previous 1.6%, Revised 7.6%)",
+   "link": "https://www.financialjuice.com/News/9735407/US-New-Home-Sales-Change-MoM-Actual--105-Forecast--14-Previous-16-Revised-76.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735406",
+   "title": "US New Home Sales - Units Actual 0.607M (Forecast 0.62M, Previous 0.628M, Revised 0.678M)",
+   "link": "https://www.financialjuice.com/News/9735406/US-New-Home-Sales---Units-Actual-0607M-Forecast-062M-Previous-0628M-Revised-0678M.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735405",
+   "title": "US CB Consumer Confidence Actual 89.4 (Forecast 90.2, Previous 90.8, Revised 90.2)",
+   "link": "https://www.financialjuice.com/News/9735405/US-CB-Consumer-Confidence-Actual-894-Forecast-902-Previous-908-Revised-902.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735383",
+   "title": "Trump: North Korea has been unthreatening and respectful - Truth Social.",
+   "link": "https://www.financialjuice.com/News/9735383/Trump-North-Korea-has-been-unthreatening-and-respectful---Truth-Social.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:33:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735379",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9735379/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: -65 mln Nasdaq 100: -4 mln Dow 30: -34 mln Mag 7: +3 mln"
+  },
+  {
+   "id": "9735377",
+   "title": "China experts say that US tariffs can not fix productivity gaps - GT.",
+   "link": "https://www.financialjuice.com/News/9735377/China-experts-say-that-US-tariffs-can-not-fix-productivity-gaps---GT.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:26:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735360",
+   "title": "Iran's conditions include return to MOU includiing on Hormuz -Tasnim",
+   "link": "https://www.financialjuice.com/News/9735360/Irans-conditions-include-return-to-MOU-includiing-on-Hormuz--Tasnim.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:11:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735359",
+   "title": "Pakistan to convey Iran's condition & positions to the US - Tasnim",
+   "link": "https://www.financialjuice.com/News/9735359/Pakistan-to-convey-Irans-condition--positions-to-the-US---Tasnim.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:10:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735358",
+   "title": "Pakistan's Munir sought to open space for Iran-US talks - Tasnim.",
+   "link": "https://www.financialjuice.com/News/9735358/Pakistans-Munir-sought-to-open-space-for-Iran-US-talks---Tasnim.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:09:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735337",
+   "title": "ECB bond holdings under PEPP €1.29 tln as of last week.",
+   "link": "https://www.financialjuice.com/News/9735337/ECB-bond-holdings-under-PEPP-129-tln-as-of-last-week.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:01:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735336",
+   "title": "ECB forex reserves rose eu900 mln to €349.3 bln",
+   "link": "https://www.financialjuice.com/News/9735336/ECB-forex-reserves-rose-eu900-mln-to-3493-bln.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:01:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735335",
+   "title": "ECB settled €1,669.4 bln public-sector bond purchases",
+   "link": "https://www.financialjuice.com/News/9735335/ECB-settled-16694-bln-public-sector-bond-purchases.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:01:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735334",
+   "title": "ECB settled €217.9 bln corporate bond purchases.",
+   "link": "https://www.financialjuice.com/News/9735334/ECB-settled-2179-bln-corporate-bond-purchases.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:01:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735328",
+   "title": "US House Price Index YoY Actual 2.3% (Forecast -, Previous 2.2%)",
+   "link": "https://www.financialjuice.com/News/9735328/US-House-Price-Index-YoY-Actual-23-Forecast---Previous-22.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:01:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735333",
+   "title": "Apple introduces M6 & M5 ultra.",
+   "link": "https://www.financialjuice.com/News/9735333/Apple-introduces-M6--M5-ultra.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:01:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735327",
+   "title": "US CaseShiller 20 YoY Actual 2.1% (Forecast 1.8%, Previous 1.6%, Revised 1.65%)",
+   "link": "https://www.financialjuice.com/News/9735327/US-CaseShiller-20-YoY-Actual-21-Forecast-18-Previous-16-Revised-165.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735326",
+   "title": "US House Price Index MoM Actual 0% (Forecast 0.2%, Previous 0.3%)",
+   "link": "https://www.financialjuice.com/News/9735326/US-House-Price-Index-MoM-Actual-0-Forecast-02-Previous-03.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 13:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735325",
+   "title": "Effective Fed Funds Rate 3.63% August 24 vs 3.63% August 21.",
+   "link": "https://www.financialjuice.com/News/9735325/Effective-Fed-Funds-Rate-363-August-24-vs-363-August-21.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:59:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735324",
+   "title": "US Redbook YoY Actual 9.1% (Forecast -, Previous 7.6%)",
+   "link": "https://www.financialjuice.com/News/9735324/US-Redbook-YoY-Actual-91-Forecast---Previous-76.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:56:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735295",
+   "title": "Canada's Trade Minister LeBlanc: Government intends to announce retaliatory tariffs today",
+   "link": "https://www.financialjuice.com/News/9735295/Canadas-Trade-Minister-LeBlanc-Government-intends-to-announce-retaliatory-tariffs-today.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:37:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735294",
+   "title": "Canada Minister for US Trade Leblanc: Government intention is to announce retaliatory tariffs.",
+   "link": "https://www.financialjuice.com/News/9735294/Canada-Minister-for-US-Trade-Leblanc-Government-intention-is-to-announce-retaliatory-tariffs.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:37:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735293",
+   "title": "Morgan Stanley: US-China Summit Likely to Reinforce Managed Competition - FJElite",
+   "link": "https://www.financialjuice.com/News/9735293/Morgan-Stanley-US-China-Summit-Likely-to-Reinforce-Managed-Competition---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:33:45 GMT",
+   "desc": "The September 24 Trump-Xi summit is expected to reinforce the current framework of managed strategic competition rather than produce a major breakthrough. The May meeting delivered sector-specific commercial agreements, new trade and investment dialogue mechanisms, and a commitment to continued engagement, but did not resolve the larger structural disputes. The more useful framework remains stabilisation rather than normalisation. The main focus will be whether that stabilisation can hold into November, when several temporary measures expire at the same time, including Section 301 exclusions, the BIS Affiliates Rule suspension and China’s Wave 2 rare earth controls. China’s separate export licensing regime on seven heavy rare earth elements remains in force, with US imports of yttrium already sharply lower. The summit should therefore offer clues on whether re-escalation risk is building or whether both sides intend to maintain the current path."
+  },
+  {
+   "id": "9735292",
+   "title": "Canada's Trade Minister LeBlanc: Wanted to have the best situation of all US trade partners",
+   "link": "https://www.financialjuice.com/News/9735292/Canadas-Trade-Minister-LeBlanc-Wanted-to-have-the-best-situation-of-all-US-trade-partners.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:33:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735285",
+   "title": "Deutsche Bank: Warsh’s Jackson Hole Speech Comes Against a Difficult Policy Backdrop - FJElite",
+   "link": "https://www.financialjuice.com/News/9735285/Deutsche-Bank-Warshs-Jackson-Hole-Speech-Comes-Against-a-Difficult-Policy-Backdrop---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:31:38 GMT",
+   "desc": "Kevin Warsh will deliver the Jackson Hole keynote on Friday, with his remarks likely to take one of two forms: a broader “big-picture” speech or a more traditional setup for the September-to-December policy meetings. The backdrop is challenging, with inflation still elevated, active debate over whether tighter policy is needed, and three dissents in favour of a hike at the July FOMC meeting. Warsh’s July press conference also raised questions about how willing the Committee is to tighten if inflation stays persistent, contributing to higher long-term inflation expectations and bond yields. If he chooses the broader approach, one likely topic is the Fed’s new task forces, where many details remain unclear around scope, interaction with the FOMC, timelines, and how recommendations could translate into changes to the Fed’s framework or operations."
+  },
+  {
+   "id": "9735284",
+   "title": "Canada July wholesale trade most likely fell 0.6% from previous month - StatsCan Flash Estimate.",
+   "link": "https://www.financialjuice.com/News/9735284/Canada-July-wholesale-trade-most-likely-fell-06-from-previous-month---StatsCan-Flash-Estimate.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:30:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735279",
+   "title": "Credit Agricole: Europe’s Energy Crisis Is Worsening - FJElite",
+   "link": "https://www.financialjuice.com/News/9735279/Credit-Agricole-Europes-Energy-Crisis-Is-Worsening---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:30:00 GMT",
+   "desc": "Despite a pullback in crude prices, Europe’s broader energy backdrop is deteriorating. Natural gas prices are approaching €70/MWh, above Q2 levels, while 2027 electricity prices continue to rise. Combined with very high gasoline and diesel crack spreads, the pressure is broader than crude alone suggests. The concern is that these energy costs could feed into food and core inflation, particularly in the first half of 2027. Headline HICP is now seen running around 3.5%-4.0% year-on-year through the end of Q1 2027, while core inflation is expected to gradually rise toward 3.0% by March 2027."
+  },
+  {
+   "id": "9735277",
+   "title": "Canada's Trade Minister LeBlanc: Focused on having a constructive relationship with the US",
+   "link": "https://www.financialjuice.com/News/9735277/Canadas-Trade-Minister-LeBlanc-Focused-on-having-a-constructive-relationship-with-the-US.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:28:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735276",
+   "title": "US Sentiment: Risk Appetite Boosted by Geopolitical Optimism - FJElite",
+   "link": "https://www.financialjuice.com/News/9735276/US-Sentiment-Risk-Appetite-Boosted-by-Geopolitical-Optimism---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:28:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735275",
+   "title": "Iran's oil production is in a favorable condition - IRNA",
+   "link": "https://www.financialjuice.com/News/9735275/Irans-oil-production-is-in-a-favorable-condition---IRNA.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:22:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735263",
+   "title": "US ADP Wkly Employment Change Actual 11.75k (Forecast -, Previous 9.5k)",
+   "link": "https://www.financialjuice.com/News/9735263/US-ADP-Wkly-Employment-Change-Actual-1175k-Forecast---Previous-95k.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:15:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9735262",
+   "title": "Russia may extend Diesel export ban into September - Sources",
+   "link": "https://www.financialjuice.com/News/9735262/Russia-may-extend-Diesel-export-ban-into-September---Sources-.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 12:13:16 GMT",
+   "desc": ""
+  },
   {
    "id": "9735243",
    "title": "Superx gets $38.8m NVIDIA B300 server order.",
