@@ -1,7 +1,35 @@
 {
- "updated_at": "2026-08-25T05:07:57.047441+00:00",
- "count": 2748,
+ "updated_at": "2026-08-25T06:04:42.617071+00:00",
+ "count": 2752,
  "items": [
+  {
+   "id": "9734782",
+   "title": "German GDP Final YoY NSA Actual 1% (Forecast 0.9%, Previous 0.9%)",
+   "link": "https://www.financialjuice.com/News/9734782/German-GDP-Final-YoY-NSA-Actual-1-Forecast-09-Previous-09.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 06:00:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9734780",
+   "title": "German GDP Final YoY SA Actual 1% (Forecast 0.9%, Previous 0.9%)",
+   "link": "https://www.financialjuice.com/News/9734780/German-GDP-Final-YoY-SA-Actual-1-Forecast-09-Previous-09.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 06:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9734758",
+   "title": "Japanese Leading Indicator Change Rev. Actual 0.0 (Forecast -, Previous 0.0)",
+   "link": "https://www.financialjuice.com/News/9734758/Japanese-Leading-Indicator-Change-Rev-Actual-00-Forecast---Previous-00.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 05:06:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9734757",
+   "title": "Japanese Chain Store Sales YoY Actual 0% (Forecast -, Previous -2%)",
+   "link": "https://www.financialjuice.com/News/9734757/Japanese-Chain-Store-Sales-YoY-Actual-0-Forecast---Previous--2.aspx?xy=rss",
+   "pubDate": "Tue, 25 Aug 2026 05:06:58 GMT",
+   "desc": ""
+  },
   {
    "id": "9734756",
    "title": "BOJ: core CPI excluding special factors rises 2.3% in July after 2.6% increase in June",
