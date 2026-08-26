@@ -1,7 +1,189 @@
 {
- "updated_at": "2026-08-26T07:58:13.051299+00:00",
- "count": 2992,
+ "updated_at": "2026-08-26T10:05:07.431519+00:00",
+ "count": 3018,
  "items": [
+  {
+   "id": "9736829",
+   "title": "UK CBI Distributive Trades Actual -48 (Forecast -35, Previous -26)",
+   "link": "https://www.financialjuice.com/News/9736829/UK-CBI-Distributive-Trades-Actual--48-Forecast--35-Previous--26.aspx",
+   "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736820",
+   "title": "German 15 Yr Bid-to-Cover Actual 2 (Forecast -, Previous 1.8)",
+   "link": "https://www.financialjuice.com/News/9736820/German-15-Yr-Bid-to-Cover-Actual-2-Forecast---Previous-18.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:35:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736819",
+   "title": "German 15 Yr Bund Yield Actual 3.5% (Forecast -, Previous 3.46%)",
+   "link": "https://www.financialjuice.com/News/9736819/German-15-Yr-Bund-Yield-Actual-35-Forecast---Previous-346.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:35:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736789",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9736789/SNB-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:05:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736788",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9736788/RBNZ-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:05:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736787",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9736787/RBA-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:04:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736786",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9736786/BoJ-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:04:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736785",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9736785/BoC-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:04:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736784",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9736784/BoE-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:03:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736783",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9736783/ECB-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:03:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736782",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9736782/Fed-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:03:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736781",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9736781/Commodities-Implied-Volatility.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:02:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736780",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9736780/FX-Implied-Volatility.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:02:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736779",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9736779/US-Index-Futures-Implied-Volatility.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:02:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736773",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9736773/Top-SP-500-Stock-Names-Implied-Volatility.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:01:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736761",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9736761/120-Day-Correlation-Matrix.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:01:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736760",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9736760/90-Day-Correlation-Matrix.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:00:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736759",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9736759/60-Day-Correlation-Matrix.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:00:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736750",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9736750/30-Day-Correlation-Matrix.aspx",
+   "pubDate": "Wed, 26 Aug 2026 09:00:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736746",
+   "title": "Credit Ágricole: Gold - FJElite",
+   "link": "https://www.financialjuice.com/News/9736746/Credit-%c3%81gricole-Gold---FJElite.aspx",
+   "pubDate": "Wed, 26 Aug 2026 08:45:57 GMT",
+   "desc": "Gold has emerged as one of the key beneficiaries from the USD sell-off triggered by the US Treasury’s recent attempts to curb the rise of long­dated UST yields. These efforts included an FX intervention in support of the JPY - which among other things was meant to keep Japanese policy rates low and Japanese investors invested in USTs. We also got signals that the US Treasury would buy long-dated bonds with: (1) the proceeds from sales of short-dated US paper (‘Operation Treasury twist’); or (2) the funds from its account at the Fed (TGA). The above developments made worse the risk-reward trade-off for UST investors amid rising US debt levels and burnished the appeal of XAU as safe-haven asset. The policy announcements have threatened to flood the market with USD-cash, fanned US inflation fears and lowered US real yields, in a boost to gold as a currency-debasement hedge. If the FOMC further lowers the average duration of its bond holdings as part of its balance sheet overhaul, a ‘Fed operation twist’ could flatten the UST yield curve some more and make short-USD hedges more profitable, in a blow to the USD vs XAU. Gold should benefit from market fears that the Trump administration will continue to weaponise the USD too. The newest US economic sanctions against Iran and the latest trade tensions between the US and Canada have recently fanned such concerns. We have already seen some EM central banks increase their gold purchases, including central banks of energy importers that sold their XAU-reserves aggressively in search of USD liquidity at the start of the Iran war. The de-dollarisation theme could stage a return as a result, in a boost to XAU. We remain long XAU/USD as a trade idea and continue to forecast gold to appreciate to USD5000 by the end of year &amp; extend its gains in 2027. We have recently launched Goldilocks, our dashboard dedicated to XAU, on the Red Mount Analytics platform. With the help of this dashboard, you can analyse: (1)the gold price action; (2) the evolution of gold fundamentals; and (3) demand for gold from private investors and central banks."
+  },
+  {
+   "id": "9736742",
+   "title": "ING: The USD - FJElite",
+   "link": "https://www.financialjuice.com/News/9736742/ING-The-USD---FJElite.aspx",
+   "pubDate": "Wed, 26 Aug 2026 08:44:38 GMT",
+   "desc": "A week after US Treasury Secretary Scott Bessent&#39;s intervention in the US Treasury market, longer-dated yields are some 10-15bp lower. In defending that intervention last week, Bessent claimed that, as Treasury Secretary, he has &#39;asymmetric information’- i.e. more information than the market. Whether such information includes the path to de-escalation talks in the Middle East remains to be seen, but it is clear that an 8% swing lower in oil prices since last week has helped. Here, Pakistani-brokered peace talks seem to be grabbing the market&#39;s attention. The next test for the long-end comes from today&#39;s release of US PCE inflation data, tomorrow&#39;s $44bn 7-year note auction and then Friday&#39;s Jackson Hole speech from Fed Chair Kevin Warsh. Lower yields have seen interest volatility dip again and feed into lower volatility in FX and equities. Carry remains king and, overnight, one of the popular carry trade targets in the G10 space - the Australian dollar - got a boost when July CPI surprised on the upside. This has increased the chances of a Reserve Bank of Australia rate hike in November. Back to the dollar. A benign US core PCE print at 0.2% month-on-month should keep the dollar relatively steady today, though the benign risk environment could see some mild dollar losses. 99.00/10 may well cap the topside for DXY and we favour a drift back to the recent lows at 98.60."
+  },
+  {
+   "id": "9736741",
+   "title": "MUFG: The AUD - FJElite",
+   "link": "https://www.financialjuice.com/News/9736741/MUFG-The-AUD---FJElite.aspx",
+   "pubDate": "Wed, 26 Aug 2026 08:37:11 GMT",
+   "desc": "The Australian dollar was roughly stable yesterday with different crosscurrents keeping the FX moves limited. From an energy perspective, natural gas prices fell between 3- 4% in Europe and that from a terms of trade perspective is negative for AUD given Australia is the second largest global exporter of LNG. In addition, the escalation of tensions between China and the US carry risks for Australia and any deterioration in China growth expectations on a breakdown in the trade truce between China and the US would weigh on AUD. But the minutes from the August RBA meeting were also released yesterday and the contents certainly point to the RBA being closer to a rate hike than currently implied by market pricing. Our current view is that the RBA can hold off from hiking this year.&nbsp; A full rate hike in Australia is not priced until Feb 2027 but the minutes from the August RBA meeting suggests the risk of another hike sooner are higher. &quot;Several members&quot; judged that it was “quite possible&quot; that inflation risks would be realised and require further monetary tightening. A pre-emptive rate hike was considered at the meeting given these views. That would have been a considerable surprise given pricing the day before the meeting on 11,h August indicated zero probability of a rate hike. It suggests a tendency of the market to underprice RBA rate hike risks. Today the monthly CPI data was released, and the data has reinforced the view that the RBA could prove more active than was priced in the market. The July CPI showed smaller than expected moderation with the annual CPI rate slowing from 3.8% to 3.5%, versus an expected 3.3%. Fuel costs increased but this was offset by an easing in household electricity bills - the fuel cost jumped relates to the unwinding of substantial fuel-tax rebates. The focus of the RBA is likely to be on the trimmed mean YoY rate which failed to slow as was expected, remaining unchanged at 3.6%. The data suggests RBA inflation concerns will continue. That points to AUD continuing to perform well in current market conditions. However, the risks are starting to shift we are mindful of AUD starting to look stretched. The AUD/USD rate is starting to look over-extended relative to the 2-year AU-US swap spread. That can continue, but any disruption to risk that results in a spike in FX vol would likely see AUD suffer more than most."
+  },
+  {
+   "id": "9736725",
+   "title": "Europe Sentiment: Eyes On NVIDIA - FJElite",
+   "link": "https://www.financialjuice.com/News/9736725/Europe-Sentiment-Eyes-On-NVIDIA---FJElite.aspx",
+   "pubDate": "Wed, 26 Aug 2026 08:27:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736724",
+   "title": "Fitch Ratings: China deflation eases but weak domestic demand could weigh on prices.",
+   "link": "https://www.financialjuice.com/News/9736724/Fitch-Ratings-China-deflation-eases-but-weak-domestic-demand-could-weigh-on-prices.aspx",
+   "pubDate": "Wed, 26 Aug 2026 08:18:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736701",
+   "title": "ICC's Akane: Expect Japan government to boost aid to reduce impact of U.S. sanctions",
+   "link": "https://www.financialjuice.com/News/9736701/ICCs-Akane-Expect-Japan-government-to-boost-aid-to-reduce-impact-of-US-sanctions.aspx",
+   "pubDate": "Wed, 26 Aug 2026 08:09:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9736678",
+   "title": "Swiss ZEW Expectations Actual 12.1 (Forecast -, Previous 10.0)",
+   "link": "https://www.financialjuice.com/News/9736678/Swiss-ZEW-Expectations-Actual-121-Forecast---Previous-100.aspx",
+   "pubDate": "Wed, 26 Aug 2026 08:00:00 GMT",
+   "desc": ""
+  },
   {
    "id": "9736677",
    "title": "Saudi Aramco offers Arab medium, heavy crude oil for September loading to Asian refiners - Sources",
