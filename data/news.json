@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-08-28T01:30:45.247283+00:00",
- "count": 3209,
+ "updated_at": "2026-08-28T21:54:02.658727+00:00",
+ "count": 3309,
  "items": [
+  {
+   "id": "9741119",
+   "title": "IMF's Managing Director Georgieva: The strength of the US dollar is the strength of the US economy.",
+   "link": "https://www.financialjuice.com/News/9741119/IMFs-Managing-Director-Georgieva-The-strength-of-the-US-dollar-is-the-strength-of-the-US-economy.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:45:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741118",
+   "title": "IMF's Managing Director Georgieva: Fed's Chair Warsh did a great job, articulated views clearly.",
+   "link": "https://www.financialjuice.com/News/9741118/IMFs-Managing-Director-Georgieva-Feds-Chair-Warsh-did-a-great-job-articulated-views-clearly.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:32:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741104",
+   "title": "IRGC Navy: The US claims that the Strait of Hormuz is open is an obvious lie",
+   "link": "https://www.financialjuice.com/News/9741104/IRGC-Navy-The-US-claims-that-the-Strait-of-Hormuz-is-open-is-an-obvious-lie.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:30:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741101",
+   "title": "IRGC: Strait of Hormuz is closed to all ships that intend to transit without coordination with Iran.",
+   "link": "https://www.financialjuice.com/News/9741101/IRGC-Strait-of-Hormuz-is-closed-to-all-ships-that-intend-to-transit-without-coordination-with-Iran.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:29:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741084",
+   "title": "USD CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741084/USD-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:10:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741083",
+   "title": "EUR CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741083/EUR-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:09:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741081",
+   "title": "AUD CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741081/AUD-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:09:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741080",
+   "title": "JPY CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741080/JPY-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:09:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741079",
+   "title": "GBP CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741079/GBP-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:08:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741078",
+   "title": "CHF CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741078/CHF-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:08:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741077",
+   "title": "NZD CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741077/NZD-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:08:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741076",
+   "title": "CAD CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741076/CAD-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:08:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741075",
+   "title": "ZN CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741075/ZN-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:07:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741074",
+   "title": "ZT CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741074/ZT-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:07:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741073",
+   "title": "VIX CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741073/VIX-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:07:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741072",
+   "title": "NQ CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741072/NQ-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:06:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741071",
+   "title": "ES CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741071/ES-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:06:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741070",
+   "title": "WTI CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741070/WTI-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:06:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741069",
+   "title": "Copper CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741069/Copper-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:05:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741068",
+   "title": "Gold CFTC Positions Week August 25th - FJElite",
+   "link": "https://www.financialjuice.com/News/9741068/Gold-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 20:05:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741057",
+   "title": "Pentagon is in talks with a Venezuelan mogul for a massive oil deal",
+   "link": "https://www.financialjuice.com/News/9741057/Pentagon-is-in-talks-with-a-Venezuelan-mogul-for-a-massive-oil-deal.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:58:26 GMT",
+   "desc": "Pentagon’s Office of Strategic Capital would oversee investment Pentagon talks concern up to 17 Venezuelan oil fields"
+  },
+  {
+   "id": "9741055",
+   "title": "The United States may reconsider its position on Britain's claim to the Falkland Islands if it does not increase its defence spending - Telegraph",
+   "link": "https://www.financialjuice.com/News/9741055/The-United-States-may-reconsider-its-position-on-Britains-claim-to-the-Falkland-Islands-if-it-does-not-increase-its-defence-spending---Telegraph.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:51:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741054",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9741054/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:50:30 GMT",
+   "desc": "S&amp;P 500: +2267 mln Nasdaq 100: +2235 mln Dow 30: +752 mln Mag 7: +1046 mln"
+  },
+  {
+   "id": "9741024",
+   "title": "JPMorgan's Manoukian on AI and Semiconductors $JPM",
+   "link": "https://www.financialjuice.com/News/9741024/JPMorgans-Manoukian-on-AI-and-Semiconductors-JPM.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:39:52 GMT",
+   "desc": "Favors shorter-duration credit, including US bank preferreds and European high yield, for attractive carry and higher capital structure positioning. Remains bullish on semiconductors following the 20%+ correction, saying the peak in AI earnings is already priced in. AI investment may be driving higher real rates, as the bond market anticipates productivity gains."
+  },
+  {
+   "id": "9741023",
+   "title": "Iran's President Pezeshkian: Iran sold about 90 mln barrels of oil during the implementation of interim deal.",
+   "link": "https://www.financialjuice.com/News/9741023/Irans-President-Pezeshkian-Iran-sold-about-90-mln-barrels-of-oil-during-the-implementation-of-interim-deal.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:39:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741022",
+   "title": "Iran President Pezeshkian: Negotiations should not be viewed in black and white.",
+   "link": "https://www.financialjuice.com/News/9741022/Iran-President-Pezeshkian-Negotiations-should-not-be-viewed-in-black-and-white.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:36:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741021",
+   "title": "CFTC Positions in the Week Ended August 25th, 2026",
+   "link": "https://www.financialjuice.com/News/9741021/CFTC-Positions-in-the-Week-Ended-August-25th-2026.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:30:46 GMT",
+   "desc": "Equity fund speculators increase S&amp;P 500 CME net short position by 35,462 contracts to 302,971 Equity fund managers cut S&amp;P 500 CME net long position by 5,608 contracts to 946,814 Speculators trim CBOT US 5-year Treasury futures net short position by 15,044 contracts to 1,259,061 Speculators trim CBOT US 10-year Treasury futures net short position by 107,986 contracts to 838,975 Speculators trim CBOT US 2-year Treasury futures net short position by 66,041 contracts to 861,296 Speculators increase CBOT US UltraBond Treasury futures net short position by 59,321 contracts to 406,045 Speculators trim CBOT US Treasury bonds futures net short position by 31,769 contracts to 187,243 Bitcoin net long position is 1,949 contracts Swiss franc posts net short position of -19,946 contracts British pound net short position is -44,524 contracts Euro net short position is -36,352 contracts Japanese yen net short position is -63,298 contracts"
+  },
+  {
+   "id": "9741016",
+   "title": "Iran's President Pezeshkian: Iran's exports and imports have decreased by up to 35% because of US sanctions and blockade.",
+   "link": "https://www.financialjuice.com/News/9741016/Irans-President-Pezeshkian-Irans-exports-and-imports-have-decreased-by-up-to-35-because-of-US-sanctions-and-blockade.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:24:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741015",
+   "title": "House to vote on stopgap bill Tuesday on suspension - Punchbowl",
+   "link": "https://www.financialjuice.com/News/9741015/House-to-vote-on-stopgap-bill-Tuesday-on-suspension---Punchbowl.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:23:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741014",
+   "title": "Monday FX Options Expiries",
+   "link": "https://www.financialjuice.com/News/9741014/Monday-FX-Options-Expiries.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:22:19 GMT",
+   "desc": "EUR/USD: 1.1600 (EU2.16b), 1.1625 (EU1.38b), 1.1675 (EU1.36b) USD/JPY: 159.00 ($1.44b), 161.00 ($872.7m), 159.65 ($781.5m) USD/BRL: 5.3000 ($1.47b), 5.0000 ($1.14b), 5.1500 ($1b) AUD/USD: 0.7120 (AUD503.9m), 0.6045 (AUD393.8m), 0.7050 (AUD358.2m) USD/CNY: 6.5000 ($700m), 6.7248 ($600m), 6.7000 ($520m)"
+  },
+  {
+   "id": "9741002",
+   "title": "Iran's President Pezeshkian: Commitments include fuel, petrochem sanctions relief, release of funds, and resumption of investment.",
+   "link": "https://www.financialjuice.com/News/9741002/Irans-President-Pezeshkian-Commitments-include-fuel-petrochem-sanctions-relief-release-of-funds-and-resumption-of-investment.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:07:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741001",
+   "title": "Iran's President Pezeshkian: Iran to open route if four commitments are met.",
+   "link": "https://www.financialjuice.com/News/9741001/Irans-President-Pezeshkian-Iran-to-open-route-if-four-commitments-are-met.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:03:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9741000",
+   "title": "Iran's President Pezeshkian: Iran is ready for cooperation and understanding with regional countries, including Saudi Arabia and the UAE.",
+   "link": "https://www.financialjuice.com/News/9741000/Irans-President-Pezeshkian-Iran-is-ready-for-cooperation-and-understanding-with-regional-countries-including-Saudi-Arabia-and-the-UAE.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:02:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740999",
+   "title": "Iran's President Pezeshkian: The route through the Strait of Hormuz agreed internally.",
+   "link": "https://www.financialjuice.com/News/9740999/Irans-President-Pezeshkian-The-route-through-the-Strait-of-Hormuz-agreed-internally.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 19:02:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740976",
+   "title": "Iran's President Pezeshkian: The war has worsened Iran's fuel shortage - ISNA",
+   "link": "https://www.financialjuice.com/News/9740976/Irans-President-Pezeshkian-The-war-has-worsened-Irans-fuel-shortage---ISNA.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 18:57:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740975",
+   "title": "Iran's President Pezeshkian: Iran to increase gasoline prices - ISNA",
+   "link": "https://www.financialjuice.com/News/9740975/Irans-President-Pezeshkian-Iran-to-increase-gasoline-prices---ISNA.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 18:55:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740974",
+   "title": "Brent Crude futures settle at $89.31/bbl, down 39 cents, 0.43%.",
+   "link": "https://www.financialjuice.com/News/9740974/Brent-Crude-futures-settle-at-8931bbl-down-39-cents-043.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 18:48:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740957",
+   "title": "Barclays and SocGen forecast Fed rate hikes in September and December.",
+   "link": "https://www.financialjuice.com/News/9740957/Barclays-and-SocGen-forecast-Fed-rate-hikes-in-September-and-December.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 18:45:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740956",
+   "title": "Iran's President Pezeshkian: Omani official agrees that the Strait of Hormuz should be managed based on the Islamabad agreement.",
+   "link": "https://www.financialjuice.com/News/9740956/Irans-President-Pezeshkian-Omani-official-agrees-that-the-Strait-of-Hormuz-should-be-managed-based-on-the-Islamabad-agreement.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 18:40:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740955",
+   "title": "NYMEX Natural Gas October futures settle at $2.8880/MMBTU.",
+   "link": "https://www.financialjuice.com/News/9740955/NYMEX-Natural-Gas-October-futures-settle-at-28880MMBTU.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 18:32:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740954",
+   "title": "NYMEX Gasoline September futures settle at $3.4899 a gallon.",
+   "link": "https://www.financialjuice.com/News/9740954/NYMEX-Gasoline-September-futures-settle-at-34899-a-gallon.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 18:31:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740953",
+   "title": "NYMEX Diesel September futures settle at $4.3567 a gallon.",
+   "link": "https://www.financialjuice.com/News/9740953/NYMEX-Diesel-September-futures-settle-at-43567-a-gallon.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 18:31:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740949",
+   "title": "NYMEX WTI crude October futures settle at $83.40 a barrel, down 13 cents, 0.16%.",
+   "link": "https://www.financialjuice.com/News/9740949/NYMEX-WTI-crude-October-futures-settle-at-8340-a-barrel-down-13-cents-016.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 18:31:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740926",
+   "title": "Defense Secretary may again invite hundreds of senior military personnel to the US for a speech, sources say - WSJ",
+   "link": "https://www.financialjuice.com/News/9740926/Defense-Secretary-may-again-invite-hundreds-of-senior-military-personnel-to-the-US-for-a-speech-sources-say---WSJ.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 18:03:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740876",
+   "title": "ECB's Kocher: The European economy is showing more momentum now.",
+   "link": "https://www.financialjuice.com/News/9740876/ECBs-Kocher-The-European-economy-is-showing-more-momentum-now.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 17:14:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740875",
+   "title": "Blue Owl leads $2.4 billion in debt deal to buy Nvidia chips $NVDA $OWL",
+   "link": "https://www.financialjuice.com/News/9740875/Blue-Owl-leads-24-billion-in-debt-deal-to-buy-Nvidia-chips-NVDA-OWL.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 17:13:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740874",
+   "title": "Bank of Canada will not have a lockup for the September 2nd rate decision.",
+   "link": "https://www.financialjuice.com/News/9740874/Bank-of-Canada-will-not-have-a-lockup-for-the-September-2nd-rate-decision.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 17:11:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740873",
+   "title": "ECB's Kocher: The economy was more resilient than expected.",
+   "link": "https://www.financialjuice.com/News/9740873/ECBs-Kocher-The-economy-was-more-resilient-than-expected.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 17:09:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740872",
+   "title": "ECB's Kocher: There's alertness and no complacency.",
+   "link": "https://www.financialjuice.com/News/9740872/ECBs-Kocher-Theres-alertness-and-no-complacency.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 17:08:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740871",
+   "title": "ECB's Kocher: There are threats to price stability.",
+   "link": "https://www.financialjuice.com/News/9740871/ECBs-Kocher-There-are-threats-to-price-stability.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 17:08:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740870",
+   "title": "ECB'S Kocher: Important how long-lived inflation proves to be.",
+   "link": "https://www.financialjuice.com/News/9740870/ECBS-Kocher-Important-how-long-lived-inflation-proves-to-be.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 17:07:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740852",
+   "title": "US Baker Hughes Oil Rig Count Actual 447 (Forecast -, Previous 452)",
+   "link": "https://www.financialjuice.com/News/9740852/US-Baker-Hughes-Oil-Rig-Count-Actual-447-Forecast---Previous-452.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 17:01:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740851",
+   "title": "US Baker Hughes Total Rig Count Actual 588 (Forecast -, Previous 588)",
+   "link": "https://www.financialjuice.com/News/9740851/US-Baker-Hughes-Total-Rig-Count-Actual-588-Forecast---Previous-588.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 17:00:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740845",
+   "title": "Yemeni drones targeted a Saudi-backed mercenary base in Al-Mukha - IRIB cites news sources.",
+   "link": "https://www.financialjuice.com/News/9740845/Yemeni-drones-targeted-a-Saudi-backed-mercenary-base-in-Al-Mukha---IRIB-cites-news-sources.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:56:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740843",
+   "title": "Fed's Goolsbee: I don't think Fed and Treasury are at cross purposes.",
+   "link": "https://www.financialjuice.com/News/9740843/Feds-Goolsbee-I-dont-think-Fed-and-Treasury-are-at-cross-purposes.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:51:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740842",
+   "title": "Fed's Goolsbee: Doesn't have strong opinion about number of FOMC meetings.",
+   "link": "https://www.financialjuice.com/News/9740842/Feds-Goolsbee-Doesnt-have-strong-opinion-about-number-of-FOMC-meetings.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:49:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740841",
+   "title": "Feds' Goolsbee: I wouldn't say I was losing patience on inflation.",
+   "link": "https://www.financialjuice.com/News/9740841/Feds-Goolsbee-I-wouldnt-say-I-was-losing-patience-on-inflation.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:49:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740840",
+   "title": "Fed's Goolsbee: I was ok with holding rates steady at July FOMC.",
+   "link": "https://www.financialjuice.com/News/9740840/Feds-Goolsbee-I-was-ok-with-holding-rates-steady-at-July-FOMC.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:48:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740839",
+   "title": "US would take stake in 17 oil fields in Venezuela - WaPo",
+   "link": "https://www.financialjuice.com/News/9740839/US-would-take-stake-in-17-oil-fields-in-Venezuela---WaPo.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:48:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740838",
+   "title": "Fed's Goolsbee: inflation persists longer than anticipated",
+   "link": "https://www.financialjuice.com/News/9740838/Feds-Goolsbee-inflation-persists-longer-than-anticipated.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:47:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740837",
+   "title": "Fed's Goolsbee: Overheated demand-driven inflation tough to tackle",
+   "link": "https://www.financialjuice.com/News/9740837/Feds-Goolsbee-Overheated-demand-driven-inflation-tough-to-tackle.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:46:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740818",
+   "title": "Fed's Goolsbee: Focus must remain on whether inflation is transient.",
+   "link": "https://www.financialjuice.com/News/9740818/Feds-Goolsbee-Focus-must-remain-on-whether-inflation-is-transient.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:45:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740817",
+   "title": "Trump: Our naval blockade is being helped by space.",
+   "link": "https://www.financialjuice.com/News/9740817/Trump-Our-naval-blockade-is-being-helped-by-space.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:45:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740816",
+   "title": "Fed's Goolsbee: Definitely doesn't feel like we're out of the woods on inflation",
+   "link": "https://www.financialjuice.com/News/9740816/Feds-Goolsbee-Definitely-doesnt-feel-like-were-out-of-the-woods-on-inflation.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:44:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740815",
+   "title": "Fed's Goolsbee: I agree inflation is Fed's main issue right now.",
+   "link": "https://www.financialjuice.com/News/9740815/Feds-Goolsbee-I-agree-inflation-is-Feds-main-issue-right-now.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:44:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740814",
+   "title": "Fed's Goolsbee: Agreed with Warsh about details of economy - CNBC",
+   "link": "https://www.financialjuice.com/News/9740814/Feds-Goolsbee-Agreed-with-Warsh-about-details-of-economy---CNBC.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:43:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740812",
+   "title": "Nvidia-backed Lambda inks $1 bln private debt for chip deal. $NVDA",
+   "link": "https://www.financialjuice.com/News/9740812/Nvidia-backed-Lambda-inks-1-bln-private-debt-for-chip-deal-NVDA.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:37:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740811",
+   "title": "Fitch Ratings: Strong US mortgage insurer results reflect strong credit performance.",
+   "link": "https://www.financialjuice.com/News/9740811/Fitch-Ratings-Strong-US-mortgage-insurer-results-reflect-strong-credit-performance.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:37:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740792",
+   "title": "Iran's Supreme Leader Mojtaba Khamenei to make speech about Govt Week in a few minutes",
+   "link": "https://www.financialjuice.com/News/9740792/Irans-Supreme-Leader-Mojtaba-Khamenei-to-make-speech-about-Govt-Week-in-a-few-minutes.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:28:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740791",
+   "title": "Egypt Central Bank: US Iran-related measures limited to Banque Misr's UAE branch and US-dollar correspondent transactions",
+   "link": "https://www.financialjuice.com/News/9740791/Egypt-Central-Bank-US-Iran-related-measures-limited-to-Banque-Misrs-UAE-branch-and-US-dollar-correspondent-transactions.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:26:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740790",
+   "title": "Odds of 2 Fed hikes in 2026 from 1 after Fed's Warsh's speech, according to Fed Fund futures - FJElite",
+   "link": "https://www.financialjuice.com/News/9740790/Odds-of-2-Fed-hikes-in-2026-from-1-after-Feds-Warshs-speech-according-to-Fed-Fund-futures---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:25:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740777",
+   "title": "Kremlin: Putin and China’s President Xi to discuss power of Siberia 2 - IFX.",
+   "link": "https://www.financialjuice.com/News/9740777/Kremlin-Putin-and-Chinas-President-Xi-to-discuss-power-of-Siberia-2---IFX.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:11:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740775",
+   "title": "Kremlin Aide Ushakov on Ukraine's expectations of talks: I saw the media reports, but can't say anything concrete about this.",
+   "link": "https://www.financialjuice.com/News/9740775/Kremlin-Aide-Ushakov-on-Ukraines-expectations-of-talks-I-saw-the-media-reports-but-cant-say-anything-concrete-about-this.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:02:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740773",
+   "title": "Kremlin: Putin will take part in SCO summit on August 31st - September 1st, will meet China's Xi, India's Modi, Iran's Pezeshkian among other leaders",
+   "link": "https://www.financialjuice.com/News/9740773/Kremlin-Putin-will-take-part-in-SCO-summit-on-August-31st---September-1st-will-meet-Chinas-Xi-Indias-Modi-Irans-Pezeshkian-among-other-leaders.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:01:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740760",
+   "title": "Kremlin: Putin will also meet Turkey's Erdogan, they will discuss situation in Black Sea and Ukraine",
+   "link": "https://www.financialjuice.com/News/9740760/Kremlin-Putin-will-also-meet-Turkeys-Erdogan-they-will-discuss-situation-in-Black-Sea-and-Ukraine.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:01:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740758",
+   "title": "Kremlin: This line of Armenian leadership is a big concern for Russia",
+   "link": "https://www.financialjuice.com/News/9740758/Kremlin-This-line-of-Armenian-leadership-is-a-big-concern-for-Russia.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 16:00:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740750",
+   "title": "BoE Gov. Bailey: AI will cause both demand and supply shocks in the UK.",
+   "link": "https://www.financialjuice.com/News/9740750/BoE-Gov-Bailey-AI-will-cause-both-demand-and-supply-shocks-in-the-UK.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:56:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740749",
+   "title": "US Treasury Secretary Bessent: Law authorizes Treasury, with presidential approval, to conduct foreign exchange operations in support of orderly exchange arrangements.",
+   "link": "https://www.financialjuice.com/News/9740749/US-Treasury-Secretary-Bessent-Law-authorizes-Treasury-with-presidential-approval-to-conduct-foreign-exchange-operations-in-support-of-orderly-exchange-arrangements.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:55:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740748",
+   "title": "US Treasury Secretary Bessent: Treasury previously used the Exchange Stabilization Fund to stabilize Argentina during acute liquidity stress.",
+   "link": "https://www.financialjuice.com/News/9740748/US-Treasury-Secretary-Bessent-Treasury-previously-used-the-Exchange-Stabilization-Fund-to-stabilize-Argentina-during-acute-liquidity-stress.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:54:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740747",
+   "title": "BoE Gov. Bailey: It's important to cut interest rate risk on balance sheet.",
+   "link": "https://www.financialjuice.com/News/9740747/BoE-Gov-Bailey-Its-important-to-cut-interest-rate-risk-on-balance-sheet.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:54:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740746",
+   "title": "US Treasury Secretary Bessent: Disorderly Yen markets could destabilize global markets and raise US borrowing costs.",
+   "link": "https://www.financialjuice.com/News/9740746/US-Treasury-Secretary-Bessent-Disorderly-Yen-markets-could-destabilize-global-markets-and-raise-US-borrowing-costs.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:54:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740745",
+   "title": "US Treasury Secretary Bessent: No new congressional appropriation was involved, and no credit was extended to Japan.",
+   "link": "https://www.financialjuice.com/News/9740745/US-Treasury-Secretary-Bessent-No-new-congressional-appropriation-was-involved-and-no-credit-was-extended-to-Japan.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:54:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740744",
+   "title": "BoE Gov. Bailey: I cannot promise that muted 2nd round effects will continue.",
+   "link": "https://www.financialjuice.com/News/9740744/BoE-Gov-Bailey-I-cannot-promise-that-muted-2nd-round-effects-will-continue.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:53:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740743",
+   "title": "US Treasury Secretary Bessent: No risk Japan fails to repay debt that doesn't exist.",
+   "link": "https://www.financialjuice.com/News/9740743/US-Treasury-Secretary-Bessent-No-risk-Japan-fails-to-repay-debt-that-doesnt-exist.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:53:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740742",
+   "title": "US Treasury Secretary Bessent: No credit extended to Japan, Japan doesn't owe the Treasury",
+   "link": "https://www.financialjuice.com/News/9740742/US-Treasury-Secretary-Bessent-No-credit-extended-to-Japan-Japan-doesnt-owe-the-Treasury.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:52:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740741",
+   "title": "US Treasury Secretary Bessent sends Warren a letter on August 27th about Yen transactions",
+   "link": "https://www.financialjuice.com/News/9740741/US-Treasury-Secretary-Bessent-sends-Warren-a-letter-on-August-27th-about-Yen-transactions.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:51:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740740",
+   "title": "Russia's Rostov region declares a state of emergency over grain buildup caused by disruptions to shipping in the Azov-Black Sea basin - Authorities",
+   "link": "https://www.financialjuice.com/News/9740740/Russias-Rostov-region-declares-a-state-of-emergency-over-grain-buildup-caused-by-disruptions-to-shipping-in-the-Azov-Black-Sea-basin---Authorities.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:51:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740739",
+   "title": "Microsoft seeks to reassure employees about data centers impact. $MSFT",
+   "link": "https://www.financialjuice.com/News/9740739/Microsoft-seeks-to-reassure-employees-about-data-centers-impact-MSFT.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:49:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740738",
+   "title": "BoE Gov. Bailey: We are seeing quite subdued 2nd-round effects so far.",
+   "link": "https://www.financialjuice.com/News/9740738/BoE-Gov-Bailey-We-are-seeing-quite-subdued-2nd-round-effects-so-far.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:49:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740737",
+   "title": "WATCH LIVE: BoE Gov. Bailey Speaks",
+   "link": "https://www.financialjuice.com/News/9740737/WATCH-LIVE-BoE-Gov-Bailey-Speaks.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:48:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740736",
+   "title": "BoE Gov. Bailey: Fed's Warsh gave a speech of real substance.",
+   "link": "https://www.financialjuice.com/News/9740736/BoE-Gov-Bailey-Feds-Warsh-gave-a-speech-of-real-substance.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:48:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740719",
+   "title": "The Yen weakens to 160 per dollar for the first time since July 31st",
+   "link": "https://www.financialjuice.com/News/9740719/The-Yen-weakens-to-160-per-dollar-for-the-first-time-since-July-31st.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:40:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740694",
+   "title": "Russia's Gasoline output fell to about 70% of domestic consumption at the end of August - Sources",
+   "link": "https://www.financialjuice.com/News/9740694/Russias-Gasoline-output-fell-to-about-70-of-domestic-consumption-at-the-end-of-August---Sources-.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:11:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740693",
+   "title": "ECB's Dolenc: The arguments are there for a September rate hike.",
+   "link": "https://www.financialjuice.com/News/9740693/ECBs-Dolenc-The-arguments-are-there-for-a-September-rate-hike.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:10:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740692",
+   "title": "ECB's Dolenc: Inflation situation not resolving itself.",
+   "link": "https://www.financialjuice.com/News/9740692/ECBs-Dolenc-Inflation-situation-not-resolving-itself.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:10:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740691",
+   "title": "ECB's Dolenc: New projections will offer clarity in December.",
+   "link": "https://www.financialjuice.com/News/9740691/ECBs-Dolenc-New-projections-will-offer-clarity-in-December.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:09:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740690",
+   "title": "ECB'S Dolenc: Shouldn't wait for second-round effects to appear.",
+   "link": "https://www.financialjuice.com/News/9740690/ECBS-Dolenc-Shouldnt-wait-for-second-round-effects-to-appear.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:09:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740689",
+   "title": "Citi Global Head of Macro Asset Allocation Willer: 30-year Treasury capped below 5.30% could create negative dollar impetus. $C",
+   "link": "https://www.financialjuice.com/News/9740689/Citi-Global-Head-of-Macro-Asset-Allocation-Willer-30-year-Treasury-capped-below-530-could-create-negative-dollar-impetus-C.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:09:03 GMT",
+   "desc": "We took our underweight exposure off in treasuries after the Besant announcement, bought some gold, already short dollars Asset-swap spreads were quite well behaved, but that&#39;s where fiscal problems should show up most clearly"
+  },
+  {
+   "id": "9740640",
+   "title": "Canadian Budget Balance Actual 0.99B (Forecast -, Previous -0.31B)",
+   "link": "https://www.financialjuice.com/News/9740640/Canadian-Budget-Balance-Actual-099B-Forecast---Previous--031B.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 15:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9740616",
+   "title": "Traders now see a September Fed rate hike more likely than a continued hold.",
+   "link": "https://www.financialjuice.com/News/9740616/Traders-now-see-a-September-Fed-rate-hike-more-likely-than-a-continued-hold.aspx?xy=rss",
+   "pubDate": "Fri, 28 Aug 2026 14:37:14 GMT",
+   "desc": ""
+  },
   {
    "id": "9739635",
    "title": "China cbank injects 333 billion yuan through overnight reverse repos: statement",
