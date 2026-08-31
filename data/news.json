@@ -1,7 +1,35 @@
 {
- "updated_at": "2026-08-31T15:32:19.635124+00:00",
- "count": 3593,
+ "updated_at": "2026-08-31T15:42:11.122643+00:00",
+ "count": 3597,
  "items": [
+  {
+   "id": "9743240",
+   "title": "US 6-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9743240/US-6-Month-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 15:33:26 GMT",
+   "desc": "High Yield 3.885% Bid-to-cover 2.63 US sells $79 bln Awards 49.27% of bids at high"
+  },
+  {
+   "id": "9743239",
+   "title": "US 3-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9743239/US-3-Month-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 15:33:13 GMT",
+   "desc": "High Yield 3.770% Bid-to-cover 2.77 US sells $92 bln Awards 66.77% of bids at high"
+  },
+  {
+   "id": "9743238",
+   "title": "US 3-Month Awarded High Actual 66.770% (Forecast -, Previous 97.660%)",
+   "link": "https://www.financialjuice.com/News/9743238/US-3-Month-Awarded-High-Actual-66770-Forecast---Previous-97660.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 15:32:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9743235",
+   "title": "US 6-Month Awarded High Actual 49.270% (Forecast -, Previous 59.640%)",
+   "link": "https://www.financialjuice.com/News/9743235/US-6-Month-Awarded-High-Actual-49270-Forecast---Previous-59640.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 15:32:10 GMT",
+   "desc": ""
+  },
   {
    "id": "9743237",
    "title": "US 3-Month Bill High Yield Actual 3.77% (Forecast -, Previous 3.715%)",
