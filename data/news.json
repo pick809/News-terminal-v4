@@ -1,7 +1,42 @@
 {
- "updated_at": "2026-08-31T01:32:14.125754+00:00",
- "count": 3441,
+ "updated_at": "2026-08-31T01:42:17.259095+00:00",
+ "count": 3446,
  "items": [
+  {
+   "id": "9742200",
+   "title": "S.Korea central bank sells 91-day monetary stabilisation bonds at 3.025% yield",
+   "link": "https://www.financialjuice.com/News/9742200/SKorea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-3025-yield.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 01:40:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742199",
+   "title": "China August official manufacturing PMI at 49.8 Poll 49.6 vs 49.2 in July",
+   "link": "https://www.financialjuice.com/News/9742199/China-August-official-manufacturing-PMI-at-498-Poll-496-vs-492-in-July.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 01:37:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742198",
+   "title": "Chinese Composite PMI Actual 49.5 (Forecast -, Previous 49.3)",
+   "link": "https://www.financialjuice.com/News/9742198/Chinese-Composite-PMI-Actual-495-Forecast---Previous-493.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 01:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742187",
+   "title": "Australian Housing Credit Actual 0.5% (Forecast -, Previous 0.6%)",
+   "link": "https://www.financialjuice.com/News/9742187/Australian-Housing-Credit-Actual-05-Forecast---Previous-06.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 01:30:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742186",
+   "title": "Australian Private Sector Credit Actual 0.6% (Forecast 0.7%, Previous 0.8%)",
+   "link": "https://www.financialjuice.com/News/9742186/Australian-Private-Sector-Credit-Actual-06-Forecast-07-Previous-08.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 01:30:21 GMT",
+   "desc": ""
+  },
   {
    "id": "9742180",
    "title": "Chinese NBS Manufacturing PMI Actual 49.8 (Forecast 49.5, Previous 49.2)",
