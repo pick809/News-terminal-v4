@@ -1,7 +1,14 @@
 {
- "updated_at": "2026-08-31T20:12:24.564201+00:00",
- "count": 3636,
+ "updated_at": "2026-08-31T20:22:17.977678+00:00",
+ "count": 3637,
  "items": [
+  {
+   "id": "9743545",
+   "title": "Apple vs. OpenAI – Trade Secret Case",
+   "link": "https://www.financialjuice.com/News/9743545/Apple-vs-OpenAI--Trade-Secret-Case.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 20:15:57 GMT",
+   "desc": "Apple is asking a US federal court to expedite discovery in its trade secret case against OpenAI. Apple says new evidence emerged from a MacBook OpenAI provided on August 21 as part of the legal proceedings. Apple alleges a defendant trained an AI agent using proprietary Apple information. Apple also alleges the defendant accessed a power converter circuit schematic while at OpenAI."
+  },
   {
    "id": "9743541",
    "title": "Trump ends remarks at the White House event.",
