@@ -1,7 +1,35 @@
 {
- "updated_at": "2026-08-31T18:32:19.483845+00:00",
- "count": 3610,
+ "updated_at": "2026-08-31T18:42:19.072515+00:00",
+ "count": 3614,
  "items": [
+  {
+   "id": "9743425",
+   "title": "AWS: AWS interconnect, multicloud preview with Azure available today in US East, US West, Asia Pacific (Sydney), and Europe (Frankfurt). $AMZN",
+   "link": "https://www.financialjuice.com/News/9743425/AWS-AWS-interconnect-multicloud-preview-with-Azure-available-today-in-US-East-US-West-Asia-Pacific-Sydney-and-Europe-Frankfurt-AMZN.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 18:41:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9743424",
+   "title": "AWS, Microsoft Azure partner to expand multicloud networking. $MSFT",
+   "link": "https://www.financialjuice.com/News/9743424/AWS-Microsoft-Azure-partner-to-expand-multicloud-networking-MSFT.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 18:40:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9743423",
+   "title": "NYMEX Gasoline September futures settle at $3.4820 a gallon.",
+   "link": "https://www.financialjuice.com/News/9743423/NYMEX-Gasoline-September-futures-settle-at-34820-a-gallon.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 18:33:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9743422",
+   "title": "NYMEX Natural Gas October futures settle at $2.9350/MMBTU.",
+   "link": "https://www.financialjuice.com/News/9743422/NYMEX-Natural-Gas-October-futures-settle-at-29350MMBTU.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 18:32:31 GMT",
+   "desc": ""
+  },
   {
    "id": "9743420",
    "title": "NYMEX Diesel September futures settle at $4.4937 a gallon.",
