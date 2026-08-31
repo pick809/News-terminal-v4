@@ -1,7 +1,91 @@
 {
- "updated_at": "2026-08-31T01:22:32.185576+00:00",
- "count": 3429,
+ "updated_at": "2026-08-31T01:32:14.125754+00:00",
+ "count": 3441,
  "items": [
+  {
+   "id": "9742180",
+   "title": "Chinese NBS Manufacturing PMI Actual 49.8 (Forecast 49.5, Previous 49.2)",
+   "link": "https://www.financialjuice.com/News/9742180/Chinese-NBS-Manufacturing-PMI-Actual-498-Forecast-495-Previous-492.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742179",
+   "title": "Chinese NBS Non-Manufacturing PMI Actual 49.0 (Forecast 49.5, Previous 49.0)",
+   "link": "https://www.financialjuice.com/News/9742179/Chinese-NBS-Non-Manufacturing-PMI-Actual-490-Forecast-495-Previous-490.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742185",
+   "title": "China August official non-manufacturing PMI steady at 49.0 vs 49.0 in July",
+   "link": "https://www.financialjuice.com/News/9742185/China-August-official-non-manufacturing-PMI-steady-at-490-vs-490-in-July.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742184",
+   "title": "China August official composite PMI at 49.5",
+   "link": "https://www.financialjuice.com/News/9742184/China-August-official-composite-PMI-at-495.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742183",
+   "title": "Australia July private-sector credit rises 0.6% m/m, seasonally adjusted: central bank",
+   "link": "https://www.financialjuice.com/News/9742183/Australia-July-private-sector-credit-rises-06-mm-seasonally-adjusted-central-bank.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742182",
+   "title": "Australia July housing credit rises 0.5% month on month, seasonally adjusted: central bank",
+   "link": "https://www.financialjuice.com/News/9742182/Australia-July-housing-credit-rises-05-month-on-month-seasonally-adjusted-central-bank.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742181",
+   "title": "China August official manufacturing PMI at 49.8 vs 49.2 in July",
+   "link": "https://www.financialjuice.com/News/9742181/China-August-official-manufacturing-PMI-at-498-vs-492-in-July.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742175",
+   "title": "Australian Business Inventories Actual -0.2% (Forecast 0.5%, Previous 0.5%)",
+   "link": "https://www.financialjuice.com/News/9742175/Australian-Business-Inventories-Actual--02-Forecast-05-Previous-05.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742174",
+   "title": "Australian Gross Company Profits Actual 1.8% (Forecast 2%, Previous -1.3%)",
+   "link": "https://www.financialjuice.com/News/9742174/-Australian-Gross-Company-Profits-Actual-18-Forecast-2-Previous--13.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742178",
+   "title": "Australia Q2 company profits before income tax rise 12.5% quarter on quarter, seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9742178/Australia-Q2-company-profits-before-income-tax-rise-125-quarter-on-quarter-seasonally-adjusted.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742177",
+   "title": "Australia Q2 company gross operating profits rise 1.8% quarter on quarter seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9742177/Australia-Q2-company-gross-operating-profits-rise-18-quarter-on-quarter-seasonally-adjusted.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742176",
+   "title": "Australia Q2 business inventories down 0.2%, seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9742176/Australia-Q2-business-inventories-down-02-seasonally-adjusted.aspx",
+   "pubDate": "Mon, 31 Aug 2026 01:30:04 GMT",
+   "desc": ""
+  },
   {
    "id": "9742173",
    "title": "China central bank injects 447 billion yuan via overnight reverse repos: statement",
