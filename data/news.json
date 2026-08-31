@@ -1,7 +1,91 @@
 {
- "updated_at": "2026-08-31T06:02:53.359162+00:00",
- "count": 3463,
+ "updated_at": "2026-08-31T06:12:37.516802+00:00",
+ "count": 3475,
  "items": [
+  {
+   "id": "9742486",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9742486/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:12:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742485",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9742485/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:11:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742484",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9742484/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:11:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742483",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9742483/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:11:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742482",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9742482/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:10:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742481",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9742481/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:10:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742480",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9742480/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:10:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742479",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9742479/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:09:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742478",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9742478/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:08:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742477",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9742477/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:08:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742476",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9742476/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:08:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9742475",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9742475/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 31 Aug 2026 06:08:06 GMT",
+   "desc": ""
+  },
   {
    "id": "9742440",
    "title": "Japanese Housing Starts YoY Actual 8.2% (Forecast 7.6%, Previous 18.6%)",
