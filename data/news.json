@@ -1,7 +1,35 @@
 {
- "updated_at": "2026-09-01T20:30:38.919096+00:00",
- "count": 3946,
+ "updated_at": "2026-09-01T20:44:51.495888+00:00",
+ "count": 3950,
  "items": [
+  {
+   "id": "9745450",
+   "title": "US API Gasoline Stock Change Actual 0.3M (Forecast -, Previous -3.2M)",
+   "link": "https://www.financialjuice.com/News/9745450/US-API-Gasoline-Stock-Change-Actual-03M-Forecast---Previous--32M.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 20:44:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9745449",
+   "title": "US API Distillate Stock Change Actual -0.3M (Forecast -, Previous -0.5M)",
+   "link": "https://www.financialjuice.com/News/9745449/US-API-Distillate-Stock-Change-Actual--03M-Forecast---Previous--05M.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 20:44:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9745448",
+   "title": "US API Cushing Stock Change Actual 0.2M (Forecast -, Previous 1M)",
+   "link": "https://www.financialjuice.com/News/9745448/US-API-Cushing-Stock-Change-Actual-02M-Forecast---Previous-1M.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 20:44:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9745447",
+   "title": "US API Crude Oil Stock Change Actual -2.6M (Forecast -, Previous 4.2M)",
+   "link": "https://www.financialjuice.com/News/9745447/US-API-Crude-Oil-Stock-Change-Actual--26M-Forecast---Previous-42M.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 20:43:12 GMT",
+   "desc": ""
+  },
   {
    "id": "9745429",
    "title": "$DELL Dell Technologies Q2 Earnings & FY Guidance",
