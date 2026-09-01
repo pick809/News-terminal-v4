@@ -1,7 +1,49 @@
 {
- "updated_at": "2026-09-01T00:06:00.642125+00:00",
- "count": 3668,
+ "updated_at": "2026-09-01T00:31:01.570441+00:00",
+ "count": 3674,
  "items": [
+  {
+   "id": "9743802",
+   "title": "South Korea S&P Global August manufacturing PMI at 52.3 vs 53.1 in July",
+   "link": "https://www.financialjuice.com/News/9743802/South-Korea-SP-Global-August-manufacturing-PMI-at-523-vs-531-in-July.aspx",
+   "pubDate": "Tue, 01 Sep 2026 00:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9743801",
+   "title": "Japan S&P Global August final manufacturing PMI at 54.9 vs flash 55.1",
+   "link": "https://www.financialjuice.com/News/9743801/Japan-SP-Global-August-final-manufacturing-PMI-at-549-vs-flash-551.aspx",
+   "pubDate": "Tue, 01 Sep 2026 00:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9743800",
+   "title": "Taiwan S&P Global August manufacturing PMI at 54.7, down from 55.1 in July",
+   "link": "https://www.financialjuice.com/News/9743800/Taiwan-SP-Global-August-manufacturing-PMI-at-547-down-from-551-in-July.aspx",
+   "pubDate": "Tue, 01 Sep 2026 00:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9743798",
+   "title": "S. Korean Manufacturing PMI Actual 52.3 (Forecast -, Previous 53.1)",
+   "link": "https://www.financialjuice.com/News/9743798/S-Korean-Manufacturing-PMI-Actual-523-Forecast---Previous-531.aspx",
+   "pubDate": "Tue, 01 Sep 2026 00:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9743797",
+   "title": "Japanese Mfg PMI Actual 54.9 (Forecast -, Previous 55.1)",
+   "link": "https://www.financialjuice.com/News/9743797/Japanese-Mfg-PMI-Actual-549-Forecast---Previous-551.aspx",
+   "pubDate": "Tue, 01 Sep 2026 00:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9743786",
+   "title": "China PBOC likely to set yuan midpoint at 6.7170 per dollar: estimate",
+   "link": "https://www.financialjuice.com/News/9743786/China-PBOC-likely-to-set-yuan-midpoint-at-67170-per-dollar-estimate.aspx",
+   "pubDate": "Tue, 01 Sep 2026 00:15:40 GMT",
+   "desc": ""
+  },
   {
    "id": "9743777",
    "title": "Ireland s&p global august manufacturing pmi at 55.4 vs 55.1 in july",
