@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-09-01T15:03:31.613527+00:00",
- "count": 3880,
+ "updated_at": "2026-09-01T15:35:58.143662+00:00",
+ "count": 3888,
  "items": [
+  {
+   "id": "9745068",
+   "title": "US 52-Week Bill Auction",
+   "link": "https://www.financialjuice.com/News/9745068/US-52-Week-Bill-Auction.aspx",
+   "pubDate": "Tue, 01 Sep 2026 15:33:21 GMT",
+   "desc": "High Yield 3.980% Bid-to-cover 3.61 US sells $52 bln Awards 34.18% of bids at high"
+  },
+  {
+   "id": "9745067",
+   "title": "US 52-Week Bill Bid-to-Cover Actual 3.610 (Forecast -, Previous 3.620)",
+   "link": "https://www.financialjuice.com/News/9745067/US-52-Week-Bill-Bid-to-Cover-Actual-3610-Forecast---Previous-3620.aspx",
+   "pubDate": "Tue, 01 Sep 2026 15:32:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9745066",
+   "title": "US 52-Week Bill High Yield Actual 3.98% (Forecast -, Previous 3.880%)",
+   "link": "https://www.financialjuice.com/News/9745066/US-52-Week-Bill-High-Yield-Actual-398-Forecast---Previous-3880.aspx",
+   "pubDate": "Tue, 01 Sep 2026 15:32:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9745061",
+   "title": "BoE's Mann: I want to avoid inflation embedding into pay next year.",
+   "link": "https://www.financialjuice.com/News/9745061/BoEs-Mann-I-want-to-avoid-inflation-embedding-into-pay-next-year.aspx",
+   "pubDate": "Tue, 01 Sep 2026 15:26:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9745060",
+   "title": "BoE's Mann: Wage negotiation in Q1 is based on inflation in previous quarter.",
+   "link": "https://www.financialjuice.com/News/9745060/BoEs-Mann-Wage-negotiation-in-Q1-is-based-on-inflation-in-previous-quarter.aspx",
+   "pubDate": "Tue, 01 Sep 2026 15:25:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9745049",
+   "title": "BoE's Mann: From the last MPC meeting to this one, we've seen somewhat stronger economic activity.",
+   "link": "https://www.financialjuice.com/News/9745049/BoEs-Mann-From-the-last-MPC-meeting-to-this-one-weve-seen-somewhat-stronger-economic-activity.aspx",
+   "pubDate": "Tue, 01 Sep 2026 15:14:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9745048",
+   "title": "US Treasury Secretary Bessent: Several low-income nations may need debt restructuring.",
+   "link": "https://www.financialjuice.com/News/9745048/US-Treasury-Secretary-Bessent-Several-low-income-nations-may-need-debt-restructuring.aspx",
+   "pubDate": "Tue, 01 Sep 2026 15:13:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9745047",
+   "title": "BoE's Mann: It’s better for interest rates to be a little bit too high, and then of course, correct if necessary.",
+   "link": "https://www.financialjuice.com/News/9745047/BoEs-Mann-Its-better-for-interest-rates-to-be-a-little-bit-too-high-and-then-of-course-correct-if-necessary.aspx",
+   "pubDate": "Tue, 01 Sep 2026 15:04:51 GMT",
+   "desc": ""
+  },
   {
    "id": "9745046",
    "title": "US Treasury Secretary Bessent ends gaggle with reporters.",
