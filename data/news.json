@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-09-01T08:57:59.930503+00:00",
- "count": 3776,
+ "updated_at": "2026-09-01T09:09:40.889814+00:00",
+ "count": 3784,
  "items": [
+  {
+   "id": "9744480",
+   "title": "Italian HICP Prelim YoY Actual 3.2% (Forecast 3.4%, Previous 2.9%)",
+   "link": "https://www.financialjuice.com/News/9744480/Italian-HICP-Prelim-YoY-Actual-32-Forecast-34-Previous-29.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 09:00:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9744479",
+   "title": "Italian CPI YoY Prelim Actual 3.3% (Forecast 3.3%, Previous 2.9%)",
+   "link": "https://www.financialjuice.com/News/9744479/Italian-CPI-YoY-Prelim-Actual-33-Forecast-33-Previous-29.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 09:00:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9744478",
+   "title": "Italian CPI MoM Prelim Actual 0.5% (Forecast 0.4%, Previous 0.3%)",
+   "link": "https://www.financialjuice.com/News/9744478/Italian-CPI-MoM-Prelim-Actual-05-Forecast-04-Previous-03.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 09:00:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9744477",
+   "title": "Italian HICP Prelim MoM Actual 0.1% (Forecast 0.3%, Previous -1.0%)",
+   "link": "https://www.financialjuice.com/News/9744477/Italian-HICP-Prelim-MoM-Actual-01-Forecast-03-Previous--10.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 09:00:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9744472",
+   "title": "Eurozone CPI YoY Flash Actual 3.3% (Forecast 3.3%, Previous 2.9%)",
+   "link": "https://www.financialjuice.com/News/9744472/Eurozone-CPI-YoY-Flash-Actual-33-Forecast-33-Previous-29.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 09:00:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9744473",
+   "title": "Eurozone CPI MoM Flash Actual 0.4% (Forecast 0.5%, Previous 0.2%)",
+   "link": "https://www.financialjuice.com/News/9744473/Eurozone-CPI-MoM-Flash-Actual-04-Forecast-05-Previous-02.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 09:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9744471",
+   "title": "Eurozone Core CPI YoY Flash Actual 2.4% (Forecast 2.5%, Previous 2.5%)",
+   "link": "https://www.financialjuice.com/News/9744471/Eurozone-Core-CPI-YoY-Flash-Actual-24-Forecast-25-Previous-25.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 09:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9744470",
+   "title": "Eurozone Unemployment Rate Actual 6.4% (Forecast 6.3%, Previous 6.3%)",
+   "link": "https://www.financialjuice.com/News/9744470/Eurozone-Unemployment-Rate-Actual-64-Forecast-63-Previous-63.aspx?xy=rss",
+   "pubDate": "Tue, 01 Sep 2026 09:00:01 GMT",
+   "desc": ""
+  },
   {
    "id": "9744453",
    "title": "JPMorgan: US Treasuries - FJElite",
