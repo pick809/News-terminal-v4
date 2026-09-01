@@ -1,7 +1,21 @@
 {
- "updated_at": "2026-09-01T14:05:29.288252+00:00",
- "count": 3860,
+ "updated_at": "2026-09-01T14:21:28.150542+00:00",
+ "count": 3862,
  "items": [
+  {
+   "id": "9744994",
+   "title": "Crypto Fear & Greed Index: 69/100 - Greed",
+   "link": "https://www.financialjuice.com/News/9744994/Crypto-Fear--Greed-Index-69100---Greed.aspx",
+   "pubDate": "Tue, 01 Sep 2026 14:18:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9744993",
+   "title": "Fear & Greed Index: 45/100 - CNN",
+   "link": "https://www.financialjuice.com/News/9744993/Fear--Greed-Index-45100---CNN-.aspx",
+   "pubDate": "Tue, 01 Sep 2026 14:17:57 GMT",
+   "desc": ""
+  },
   {
    "id": "9744952",
    "title": "US ISM Manufacturing PMI Actual 54.6 (Forecast 55.2, Previous 55.6)",
