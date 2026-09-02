@@ -1,7 +1,77 @@
 {
- "updated_at": "2026-09-02T05:54:39.046736+00:00",
- "count": 4131,
+ "updated_at": "2026-09-02T06:04:58.927441+00:00",
+ "count": 4141,
  "items": [
+  {
+   "id": "9746223",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9746223/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 02 Sep 2026 06:04:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9746222",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9746222/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 02 Sep 2026 06:04:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9746221",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9746221/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 02 Sep 2026 06:03:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9746220",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9746220/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 02 Sep 2026 06:03:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9746219",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9746219/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 02 Sep 2026 06:02:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9746218",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9746218/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 02 Sep 2026 06:02:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9746217",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9746217/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 02 Sep 2026 06:01:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9746216",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9746216/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 02 Sep 2026 06:01:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9746205",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9746205/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 02 Sep 2026 06:01:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9746201",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9746201/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 02 Sep 2026 06:00:47 GMT",
+   "desc": ""
+  },
   {
    "id": "9746194",
    "title": "ECB's Nagel: Current German government spending must be exceptional",
