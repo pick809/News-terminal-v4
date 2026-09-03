@@ -1,7 +1,28 @@
 {
- "updated_at": "2026-09-03T15:24:44.926778+00:00",
- "count": 4644,
+ "updated_at": "2026-09-03T15:36:16.053478+00:00",
+ "count": 4647,
  "items": [
+  {
+   "id": "9748917",
+   "title": "US 4-Week Bill Auction",
+   "link": "https://www.financialjuice.com/News/9748917/US-4-Week-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:33:39 GMT",
+   "desc": "High Yield 3.7% Bid-to-Cover 2.97 Sells $90 bln Awards 58.44% of bids at high"
+  },
+  {
+   "id": "9748916",
+   "title": "US 4-Week Bill High Yield Actual 3.7% (Forecast -, Previous 3.650%)",
+   "link": "https://www.financialjuice.com/News/9748916/US-4-Week-Bill-High-Yield-Actual-37-Forecast---Previous-3650.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748915",
+   "title": "US 4-Week Bill Bid-to-Cover Actual 2.97 (Forecast -, Previous 2.730)",
+   "link": "https://www.financialjuice.com/News/9748915/US-4-Week-Bill-Bid-to-Cover-Actual-297-Forecast---Previous-2730.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:32:06 GMT",
+   "desc": ""
+  },
   {
    "id": "9748905",
    "title": "User reports show possible problems with AWS in US - DownDetector $AMZN",
