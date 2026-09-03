@@ -1,7 +1,21 @@
 {
- "updated_at": "2026-09-03T07:36:18.059257+00:00",
- "count": 4444,
+ "updated_at": "2026-09-03T07:47:08.095050+00:00",
+ "count": 4446,
  "items": [
+  {
+   "id": "9748098",
+   "title": "Italian Composite PMI Actual 53.6 (Forecast 53.1, Previous 52.5)",
+   "link": "https://www.financialjuice.com/News/9748098/Italian-Composite-PMI-Actual-536-Forecast-531-Previous-525.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 07:45:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748097",
+   "title": "Italian Services PMI Actual 55.2 (Forecast 53.4, Previous 52.5)",
+   "link": "https://www.financialjuice.com/News/9748097/Italian-Services-PMI-Actual-552-Forecast-534-Previous-525.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 07:45:00 GMT",
+   "desc": ""
+  },
   {
    "id": "9748076",
    "title": "US average diesel price gains to highest since 2022 - AAA data",
