@@ -1,7 +1,28 @@
 {
- "updated_at": "2026-09-03T06:29:00.450066+00:00",
- "count": 4432,
+ "updated_at": "2026-09-03T06:44:21.790282+00:00",
+ "count": 4435,
  "items": [
+  {
+   "id": "9748004",
+   "title": "Swiss CPI YoY Actual 0.8% (Forecast 0.5%, Previous 0.4%)",
+   "link": "https://www.financialjuice.com/News/9748004/Swiss-CPI-YoY-Actual-08-Forecast-05-Previous-04.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 06:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748003",
+   "title": "Swiss CPI MoM Actual 0.4% (Forecast 0%, Previous -0.1%)",
+   "link": "https://www.financialjuice.com/News/9748003/Swiss-CPI-MoM-Actual-04-Forecast-0-Previous--01.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 06:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748002",
+   "title": "Swiss Core CPI YoY Actual 0.4% (Forecast 0.3%, Previous 0.3%)",
+   "link": "https://www.financialjuice.com/News/9748002/Swiss-Core-CPI-YoY-Actual-04-Forecast-03-Previous-03.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 06:30:00 GMT",
+   "desc": ""
+  },
   {
    "id": "9747994",
    "title": "UAE President and Trump discuss Middle East developments and bilateral cooperation in phone call - UAE State News Agency",
