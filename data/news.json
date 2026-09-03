@@ -1,7 +1,21 @@
 {
- "updated_at": "2026-09-03T19:42:37.525809+00:00",
- "count": 4706,
+ "updated_at": "2026-09-03T19:52:06.902863+00:00",
+ "count": 4708,
  "items": [
+  {
+   "id": "9749226",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9749226/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 19:50:30 GMT",
+   "desc": "S&amp;P 500: +1188 mln Nasdaq 100: -103 mln Dow 30: +575 mln Mag 7: -225 mln"
+  },
+  {
+   "id": "9749224",
+   "title": "Altman: I assume we will go public.",
+   "link": "https://www.financialjuice.com/News/9749224/Altman-I-assume-we-will-go-public.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 19:47:40 GMT",
+   "desc": ""
+  },
   {
    "id": "9749213",
    "title": "OpenAI's Altman: Astra model took longer to release than hoped for.",
