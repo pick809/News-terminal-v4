@@ -1,7 +1,35 @@
 {
- "updated_at": "2026-09-03T13:55:45.854270+00:00",
- "count": 4604,
+ "updated_at": "2026-09-03T14:05:19.849571+00:00",
+ "count": 4608,
  "items": [
+  {
+   "id": "9748739",
+   "title": "US ISM Services Employment Actual 47.8 (Forecast 48.3, Previous 47.4)",
+   "link": "https://www.financialjuice.com/News/9748739/US-ISM-Services-Employment-Actual-478-Forecast-483-Previous-474.aspx",
+   "pubDate": "Thu, 03 Sep 2026 14:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748738",
+   "title": "US ISM Services PMI Actual 55.4 (Forecast 54.1, Previous 54.1)",
+   "link": "https://www.financialjuice.com/News/9748738/US-ISM-Services-PMI-Actual-554-Forecast-541-Previous-541.aspx",
+   "pubDate": "Thu, 03 Sep 2026 14:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748737",
+   "title": "US ISM Services New Orders Actual 60.9 (Forecast 56, Previous 57.2)",
+   "link": "https://www.financialjuice.com/News/9748737/US-ISM-Services-New-Orders-Actual-609-Forecast-56-Previous-572.aspx",
+   "pubDate": "Thu, 03 Sep 2026 14:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748736",
+   "title": "US ISM Services Prices Paid Actual 72.6 (Forecast 70, Previous 70.3)",
+   "link": "https://www.financialjuice.com/News/9748736/US-ISM-Services-Prices-Paid-Actual-726-Forecast-70-Previous-703.aspx",
+   "pubDate": "Thu, 03 Sep 2026 14:00:00 GMT",
+   "desc": ""
+  },
   {
    "id": "9748733",
    "title": "Fitch affirms ASML at 'A+'; outlook stable",
