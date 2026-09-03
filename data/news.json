@@ -1,7 +1,35 @@
 {
- "updated_at": "2026-09-03T07:47:08.095050+00:00",
- "count": 4446,
+ "updated_at": "2026-09-03T07:55:43.189756+00:00",
+ "count": 4450,
  "items": [
+  {
+   "id": "9748117",
+   "title": "German Composite PMI Final Actual 51.8 (Forecast 51, Previous 51.0)",
+   "link": "https://www.financialjuice.com/News/9748117/German-Composite-PMI-Final-Actual-518-Forecast-51-Previous-510.aspx",
+   "pubDate": "Thu, 03 Sep 2026 07:55:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748116",
+   "title": "German Services PMI Final Actual 49.7 (Forecast 48.5, Previous 48.5)",
+   "link": "https://www.financialjuice.com/News/9748116/German-Services-PMI-Final-Actual-497-Forecast-485-Previous-485.aspx",
+   "pubDate": "Thu, 03 Sep 2026 07:55:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748114",
+   "title": "French Services PMI Actual 48 (Forecast 48.4, Previous 48.4)",
+   "link": "https://www.financialjuice.com/News/9748114/French-Services-PMI-Actual-48-Forecast-484-Previous-484.aspx",
+   "pubDate": "Thu, 03 Sep 2026 07:50:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748113",
+   "title": "French Composite PMI Actual 48.5 (Forecast 48.8, Previous 48.8)",
+   "link": "https://www.financialjuice.com/News/9748113/French-Composite-PMI-Actual-485-Forecast-488-Previous-488.aspx",
+   "pubDate": "Thu, 03 Sep 2026 07:50:00 GMT",
+   "desc": ""
+  },
   {
    "id": "9748098",
    "title": "Italian Composite PMI Actual 53.6 (Forecast 53.1, Previous 52.5)",
