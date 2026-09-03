@@ -1,7 +1,154 @@
 {
- "updated_at": "2026-09-03T12:56:47.810653+00:00",
- "count": 4553,
+ "updated_at": "2026-09-03T13:07:28.604961+00:00",
+ "count": 4574,
  "items": [
+  {
+   "id": "9748664",
+   "title": "Tyson Foods now projects full-year revenue growth of 1.5% to 2%",
+   "link": "https://www.financialjuice.com/News/9748664/Tyson-Foods-now-projects-full-year-revenue-growth-of-15-to-2.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:06:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748663",
+   "title": "Nscale targets initial GPU deployment starting H2 2027 in Barstow, Texas; deal for $3.5 billion of compute with intent to expand beyond $6 billion",
+   "link": "https://www.financialjuice.com/News/9748663/Nscale-targets-initial-GPU-deployment-starting-H2-2027-in-Barstow-Texas-deal-for-35-billion-of-compute-with-intent-to-expand-beyond-6-billion.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:06:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748662",
+   "title": "Fed's Waller: Short-run interventions don't do much, but it's Bessent's prerogative to do it.",
+   "link": "https://www.financialjuice.com/News/9748662/Feds-Waller-Short-run-interventions-dont-do-much-but-its-Bessents-prerogative-to-do-it.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:05:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748661",
+   "title": "Fed's Waller: What Treasury does is Treasury's business.",
+   "link": "https://www.financialjuice.com/News/9748661/Feds-Waller-What-Treasury-does-is-Treasurys-business.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:05:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748660",
+   "title": "Fed's Waller: That means investors are uncertain about world and dollar reserve currency status.",
+   "link": "https://www.financialjuice.com/News/9748660/Feds-Waller-That-means-investors-are-uncertain-about-world-and-dollar-reserve-currency-status.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:04:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748659",
+   "title": "Fed's Waller: Term premium is also rising.",
+   "link": "https://www.financialjuice.com/News/9748659/Feds-Waller-Term-premium-is-also-rising.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:04:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748658",
+   "title": "Fed's Waller: Convenience yield going away is a 'bad story' and raises yields.",
+   "link": "https://www.financialjuice.com/News/9748658/Feds-Waller-Convenience-yield-going-away-is-a-bad-story-and-raises-yields.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:03:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748657",
+   "title": "Fed's Waller: Zero population growth brings down yields and real rates.",
+   "link": "https://www.financialjuice.com/News/9748657/Feds-Waller-Zero-population-growth-brings-down-yields-and-real-rates.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:03:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748632",
+   "title": "Fed's Waller: Premium for US government debt may be fading",
+   "link": "https://www.financialjuice.com/News/9748632/Feds-Waller-Premium-for-US-government-debt-may-be-fading.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:01:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748631",
+   "title": "Fed's Waller: Yields climbing partly due to debt and AI investment demand.",
+   "link": "https://www.financialjuice.com/News/9748631/Feds-Waller-Yields-climbing-partly-due-to-debt-and-AI-investment-demand.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:01:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748624",
+   "title": "Fed's Waller: that trend has led me to increase neutral rate estimate",
+   "link": "https://www.financialjuice.com/News/9748624/Feds-Waller-that-trend-has-led-me-to-increase-neutral-rate-estimate.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:00:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748621",
+   "title": "Effective fed funds rate: 3.63% September 2nd vs 3.63% September 1st.",
+   "link": "https://www.financialjuice.com/News/9748621/Effective-fed-funds-rate-363-September-2nd-vs-363-September-1st.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:00:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748620",
+   "title": "Fed’s Waller: Research indicates Treasury premium vanished, pushing yields higher",
+   "link": "https://www.financialjuice.com/News/9748620/Feds-Waller-Research-indicates-Treasury-premium-vanished-pushing-yields-higher.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 13:00:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748619",
+   "title": "Fed's Waller: Maybe doesn't mean you walk off a cliff, but yields may go up.",
+   "link": "https://www.financialjuice.com/News/9748619/Feds-Waller-Maybe-doesnt-mean-you-walk-off-a-cliff-but-yields-may-go-up.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 12:59:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748618",
+   "title": "Fed's Waller: Can't keep running a 3% structural deficit.",
+   "link": "https://www.financialjuice.com/News/9748618/Feds-Waller-Cant-keep-running-a-3-structural-deficit.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 12:59:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748617",
+   "title": "Fed's Waller: Current rate setting could get us back to 2% inflation.",
+   "link": "https://www.financialjuice.com/News/9748617/Feds-Waller-Current-rate-setting-could-get-us-back-to-2-inflation.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 12:58:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748616",
+   "title": "Fed's Waller: Main Street American not seeing loose conditions.",
+   "link": "https://www.financialjuice.com/News/9748616/Feds-Waller-Main-Street-American-not-seeing-loose-conditions.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 12:58:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748615",
+   "title": "Fed's Waller: Loose financial conditions driven by the stock market.",
+   "link": "https://www.financialjuice.com/News/9748615/Feds-Waller-Loose-financial-conditions-driven-by-the-stock-market.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 12:57:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748614",
+   "title": "Fed's Waller: loose financial conditions is really a reflection of stock prices.",
+   "link": "https://www.financialjuice.com/News/9748614/Feds-Waller-loose-financial-conditions-is-really-a-reflection-of-stock-prices.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 12:57:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748613",
+   "title": "Fed's Waller: AI not yet showing up in firm profits.",
+   "link": "https://www.financialjuice.com/News/9748613/Feds-Waller-AI-not-yet-showing-up-in-firm-profits.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 12:57:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748612",
+   "title": "Fed's Waller: Mortgage rates and auto loan rates are not low.",
+   "link": "https://www.financialjuice.com/News/9748612/Feds-Waller-Mortgage-rates-and-auto-loan-rates-are-not-low.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 12:57:01 GMT",
+   "desc": ""
+  },
   {
    "id": "9748611",
    "title": "Fed's Waller: AI hasn't shown up yet in data.",
