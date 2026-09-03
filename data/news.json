@@ -1,7 +1,42 @@
 {
- "updated_at": "2026-09-03T00:06:04.788768+00:00",
- "count": 4395,
+ "updated_at": "2026-09-03T00:31:07.188493+00:00",
+ "count": 4400,
  "items": [
+  {
+   "id": "9747632",
+   "title": "Japan S&P Global August services PMI at 52.5 (vs flash 52.3)",
+   "link": "https://www.financialjuice.com/News/9747632/Japan-SP-Global-August-services-PMI-at-525-vs-flash-523.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 00:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9747631",
+   "title": "Hong Kong S&P Global August PMI falls to 49.5 from 51.0 in July",
+   "link": "https://www.financialjuice.com/News/9747631/Hong-Kong-SP-Global-August-PMI-falls-to-495-from-510-in-July.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 00:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9747630",
+   "title": "Japanese Composite PMI Final Actual 53.5 (Forecast -, Previous 53.4)",
+   "link": "https://www.financialjuice.com/News/9747630/Japanese-Composite-PMI-Final-Actual-535-Forecast---Previous-534.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 00:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9747629",
+   "title": "Japanese Services PMI Actual 52.5 (Forecast -, Previous 52.3)",
+   "link": "https://www.financialjuice.com/News/9747629/Japanese-Services-PMI-Actual-525-Forecast---Previous-523.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 00:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9747628",
+   "title": "China PBOC seen setting yuan midpoint at 6.7167 per dollar: estimate",
+   "link": "https://www.financialjuice.com/News/9747628/China-PBOC-seen-setting-yuan-midpoint-at-67167-per-dollar-estimate.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 00:20:23 GMT",
+   "desc": ""
+  },
   {
    "id": "9747605",
    "title": "Ireland S&P Global August services PMI at 55.4 vs 55.2 in July",
