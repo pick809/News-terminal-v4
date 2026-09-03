@@ -1,7 +1,98 @@
 {
- "updated_at": "2026-09-03T14:57:14.334593+00:00",
- "count": 4624,
+ "updated_at": "2026-09-03T15:08:00.661214+00:00",
+ "count": 4637,
  "items": [
+  {
+   "id": "9748873",
+   "title": "BoE's Pill: I'm unconvinced labor market slack means no 2nd-round effects.",
+   "link": "https://www.financialjuice.com/News/9748873/BoEs-Pill-Im-unconvinced-labor-market-slack-means-no-2nd-round-effects.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:07:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748872",
+   "title": "Upcoming US Treasury Auctions",
+   "link": "https://www.financialjuice.com/News/9748872/Upcoming-US-Treasury-Auctions.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:05:05 GMT",
+   "desc": "September 8 auctions (settle September 10): US to sell $92 bln 3-month bills US to sell $79 bln 6-month bills US to sell $58 bln 3-year notes settle September 15 September 9 auctions (settle September 15): US to sell $39 bln reopened 10-year notes September 10 auctions (settle September 15): US to sell $22 bln reopened 30-year bonds"
+  },
+  {
+   "id": "9748871",
+   "title": "BoE’s Pill: reasons to expect second-round effects now stronger than estimated in halcyon days of inflation targeting",
+   "link": "https://www.financialjuice.com/News/9748871/BoEs-Pill-reasons-to-expect-second-round-effects-now-stronger-than-estimated-in-halcyon-days-of-inflation-targeting.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:04:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748870",
+   "title": "Bank of England Chief Economist Pill: fine-tuning rates amid energy price uncertainty is problematic",
+   "link": "https://www.financialjuice.com/News/9748870/Bank-of-England-Chief-Economist-Pill-fine-tuning-rates-amid-energy-price-uncertainty-is-problematic.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:03:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748869",
+   "title": "Bank of England chief economist Pill: MPC should be cautious using extreme ‘what if’ scenarios to explain analytical framework",
+   "link": "https://www.financialjuice.com/News/9748869/Bank-of-England-chief-economist-Pill-MPC-should-be-cautious-using-extreme-what-if-scenarios-to-explain-analytical-framework.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:02:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748868",
+   "title": "BoE's Pill: clear, prompt and decisive policy action and communication would help steer markets, reduce uncertainty",
+   "link": "https://www.financialjuice.com/News/9748868/BoEs-Pill-clear-prompt-and-decisive-policy-action-and-communication-would-help-steer-markets-reduce-uncertainty.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:02:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748867",
+   "title": "BoE's Pill: Prompt increase in bank rate may head off some potential insidious catch-up dynamics.",
+   "link": "https://www.financialjuice.com/News/9748867/BoEs-Pill-Prompt-increase-in-bank-rate-may-head-off-some-potential-insidious-catch-up-dynamics.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:01:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748866",
+   "title": "BoE's Pill: Raising bank rate on this basis doesn’t signal prolonged aggressive hikes",
+   "link": "https://www.financialjuice.com/News/9748866/BoEs-Pill-Raising-bank-rate-on-this-basis-doesnt-signal-prolonged-aggressive-hikes.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:01:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748863",
+   "title": "BoE's Pill: My own response has pointed to a need to raise bank rate to 4%.",
+   "link": "https://www.financialjuice.com/News/9748863/BoEs-Pill-My-own-response-has-pointed-to-a-need-to-raise-bank-rate-to-4.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 15:01:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748848",
+   "title": "Trump: US keeping new munitions for itself, not selling - Truth Social",
+   "link": "https://www.financialjuice.com/News/9748848/Trump-US-keeping-new-munitions-for-itself-not-selling---Truth-Social.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 14:59:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748847",
+   "title": "Trump on munitions: Sales to allies will begin again soon.",
+   "link": "https://www.financialjuice.com/News/9748847/Trump-on-munitions-Sales-to-allies-will-begin-again-soon.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 14:57:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748846",
+   "title": "Trump on munitions: We are stockpiling.",
+   "link": "https://www.financialjuice.com/News/9748846/Trump-on-munitions-We-are-stockpiling.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 14:57:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9748845",
+   "title": "Trump: US producing munitions at levels never seen before - Truth Social",
+   "link": "https://www.financialjuice.com/News/9748845/Trump-US-producing-munitions-at-levels-never-seen-before---Truth-Social.aspx?xy=rss",
+   "pubDate": "Thu, 03 Sep 2026 14:57:20 GMT",
+   "desc": ""
+  },
   {
    "id": "9748844",
    "title": "Trump: The fact that we have no ammunition (and they are 100% wrong!) - Truth Social",
