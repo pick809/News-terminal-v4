@@ -1,7 +1,14 @@
 {
- "updated_at": "2026-09-04T19:23:40.477902+00:00",
- "count": 4946,
+ "updated_at": "2026-09-04T19:32:29.023671+00:00",
+ "count": 4947,
  "items": [
+  {
+   "id": "9750836",
+   "title": "CFTC Positions in the Week Ended September 1st",
+   "link": "https://www.financialjuice.com/News/9750836/CFTC-Positions-in-the-Week-Ended-September-1st.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 19:30:34 GMT",
+   "desc": "Equity fund speculators increase S&amp;P 500 CME net short position by 4,587 contracts to 307,558 Equity fund managers cut S&amp;P 500 CME net long position by 19,361 contracts to 927,454 Speculators increase CBOT US 5-year Treasury futures net short position by 121,452 contracts to 1,380,513 Speculators increase CBOT US 10-year Treasury futures net short position by 70,300 contracts to 909,275 Speculators increase CBOT US 2-year Treasury futures net short position by 21,222 contracts to 882,518 Speculators trim CBOT US UltraBond Treasury futures net short position by 36,734 contracts to 369,311 Speculators increase CBOT US Treasury bonds futures net short position by 12,258 contracts to 199,501 Bitcoin net long position is 703 contracts Swiss franc posts net short position of -22,876 contracts British pound net short position is -49,575 contractsEuro net short position is -24,925 contracts Japanese yen net short position is -92,227 contracts"
+  },
   {
    "id": "9750834",
    "title": "Monday FX Options Expiries",
