@@ -1,7 +1,84 @@
 {
- "updated_at": "2026-09-04T10:46:55.122410+00:00",
- "count": 4811,
+ "updated_at": "2026-09-04T10:54:36.923154+00:00",
+ "count": 4822,
  "items": [
+  {
+   "id": "9750141",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9750141/%09BoE-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:53:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750140",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9750140/ECB-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:52:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750139",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9750139/%09Fed-Interest-Rate-Probabilities.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:52:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750138",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9750138/Commodities-Implied-Volatility.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:51:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750137",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9750137/%09FX-Implied-Volatility.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:51:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750136",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9750136/%09US-Index-Futures-Implied-Volatility.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:51:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750135",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9750135/%09Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:51:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750134",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9750134/120-Day-Correlation-Matrix.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:50:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750133",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9750133/%0990-Day-Correlation-Matrix.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:50:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750132",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9750132/60-Day-Correlation-Matrix.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:49:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750131",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9750131/30-Day-Correlation-Matrix.aspx?xy=1",
+   "pubDate": "Fri, 04 Sep 2026 10:49:39 GMT",
+   "desc": ""
+  },
   {
    "id": "9750129",
    "title": "EU Commission spokesperson: Gas coordination group met Thursday and concluded gas storage is at 65% of capacity",
