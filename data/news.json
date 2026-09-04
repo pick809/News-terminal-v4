@@ -1,7 +1,14 @@
 {
- "updated_at": "2026-09-04T19:15:37.814315+00:00",
- "count": 4945,
+ "updated_at": "2026-09-04T19:23:40.477902+00:00",
+ "count": 4946,
  "items": [
+  {
+   "id": "9750834",
+   "title": "Monday FX Options Expiries",
+   "link": "https://www.financialjuice.com/News/9750834/Monday-FX-Options-Expiries.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 19:21:52 GMT",
+   "desc": "EUR/USD: 1.1600 (EU770.5m), 1.1350 (EU766.2m), 1.1500 (EU728.7m) USD/JPY: 155.75 ($950m), 161.50 ($949.9m), 162.50 ($603.8m) AUD/USD: 0.7150 (AUD409.8m) USD/CAD: 1.3665 ($350m) GBP/USD: 1.3620 (GBP408.2m) USD/CNY: 6.6500 ($300m) EUR/GBP: 0.8560 (EU309.6m)"
+  },
   {
    "id": "9750820",
    "title": "Trump concludes remarks",
