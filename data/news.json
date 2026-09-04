@@ -1,7 +1,119 @@
 {
- "updated_at": "2026-09-04T12:25:28.298956+00:00",
- "count": 4839,
+ "updated_at": "2026-09-04T12:40:31.260608+00:00",
+ "count": 4855,
  "items": [
+  {
+   "id": "9750336",
+   "title": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend - Axios",
+   "link": "https://www.financialjuice.com/News/9750336/Trump-envoys-Witkoff-and-Kushner-to-travel-to-Moscow-and-Kyiv-this-weekend---Axios.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:39:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750334",
+   "title": "Rate-futures traders add to bets on a September Fed rate hike after bigger-than-expected August jobs gain",
+   "link": "https://www.financialjuice.com/News/9750334/Rate-futures-traders-add-to-bets-on-a-September-Fed-rate-hike-after-bigger-than-expected-August-jobs-gain.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:33:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750333",
+   "title": "Traders add to bets on Fed rate increase in September",
+   "link": "https://www.financialjuice.com/News/9750333/Traders-add-to-bets-on-Fed-rate-increase-in-September.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:32:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750292",
+   "title": "US Government Payrolls Actual 35k (Forecast -, Previous -53k)",
+   "link": "https://www.financialjuice.com/News/9750292/US-Government-Payrolls-Actual-35k-Forecast---Previous--53k.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750291",
+   "title": "US Nonfarm Payrolls Actual 162k (Forecast 55k, Previous -23k, Revised 21k)",
+   "link": "https://www.financialjuice.com/News/9750291/US-Nonfarm-Payrolls-Actual-162k-Forecast-55k-Previous--23k-Revised-21k.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:05 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"vGiJYeG7\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9750290",
+   "title": "US Private Payrolls Actual 127k (Forecast 50k, Previous 30k, Revised 71k)",
+   "link": "https://www.financialjuice.com/News/9750290/US-Private-Payrolls-Actual-127k-Forecast-50k-Previous-30k-Revised-71k.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750289",
+   "title": "US Average Earnings YoY Actual 3.1% (Forecast 3.1%, Previous 3.2%)",
+   "link": "https://www.financialjuice.com/News/9750289/US-Average-Earnings-YoY-Actual-31-Forecast-31-Previous-32.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750288",
+   "title": "US Manufacturing Payrolls Actual 16k (Forecast 5k, Previous 5k, Revised 14k)",
+   "link": "https://www.financialjuice.com/News/9750288/US-Manufacturing-Payrolls-Actual-16k-Forecast-5k-Previous-5k-Revised-14k.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750287",
+   "title": "US Labor Force Participation  Actual 61.6% (Forecast 61.5%, Previous 61.4%)",
+   "link": "https://www.financialjuice.com/News/9750287/US-Labor-Force-Participation--Actual-616-Forecast-615-Previous-614.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750286",
+   "title": "US Average Earnings MoM Actual 0.3% (Forecast 0.3%, Previous 0.1%, Revised 0.2%)",
+   "link": "https://www.financialjuice.com/News/9750286/US-Average-Earnings-MoM-Actual-03-Forecast-03-Previous-01-Revised-02.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750285",
+   "title": "US Unemployment Rate Actual 4.1% (Forecast 4.1%, Previous 4.1%)",
+   "link": "https://www.financialjuice.com/News/9750285/US-Unemployment-Rate-Actual-41-Forecast-41-Previous-41.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750284",
+   "title": "US Average Workweek Hrs Actual 34.4 (Forecast 34.3, Previous 34.3)",
+   "link": "https://www.financialjuice.com/News/9750284/US-Average-Workweek-Hrs-Actual-344-Forecast-343-Previous-343.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750283",
+   "title": "Canadian Participation Rate Actual 65% (Forecast 65.1%, Previous 65.1%)",
+   "link": "https://www.financialjuice.com/News/9750283/Canadian-Participation-Rate-Actual-65-Forecast-651-Previous-651.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750282",
+   "title": "Canadian Average Hourly Earnings YoY Actual 2% (Forecast 2.9%, Previous 3.00%)",
+   "link": "https://www.financialjuice.com/News/9750282/Canadian-Average-Hourly-Earnings-YoY-Actual-2-Forecast-29-Previous-300.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750281",
+   "title": "Canadian Employment Change Actual -41.7k (Forecast 15k, Previous 75.1k)",
+   "link": "https://www.financialjuice.com/News/9750281/Canadian-Employment-Change-Actual--417k-Forecast-15k-Previous-751k.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:03 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"UQnobW57\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9750280",
+   "title": "Canadian Unemployment Rate Actual 6.4% (Forecast 6.4%, Previous 6.4%)",
+   "link": "https://www.financialjuice.com/News/9750280/Canadian-Unemployment-Rate-Actual-64-Forecast-64-Previous-64.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 12:30:02 GMT",
+   "desc": ""
+  },
   {
    "id": "9750262",
    "title": "Rubio to travel to Colombia, Ecuador, and Peru on September 8-10th",
