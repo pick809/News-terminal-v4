@@ -1,7 +1,35 @@
 {
- "updated_at": "2026-09-04T18:21:01.409934+00:00",
- "count": 4923,
+ "updated_at": "2026-09-04T18:35:59.070974+00:00",
+ "count": 4927,
  "items": [
+  {
+   "id": "9750777",
+   "title": "NYMEX Nat Gas Oct. futures settle at $2.9750/MMBTU",
+   "link": "https://www.financialjuice.com/News/9750777/NYMEX-Nat-Gas-Oct-futures-settle-at-29750MMBTU.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 18:32:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750775",
+   "title": "NYMEX WTI Crude Oct. futures settle at $91.48 a barrel up 18 cents, 0.20%",
+   "link": "https://www.financialjuice.com/News/9750775/NYMEX-WTI-Crude-Oct-futures-settle-at-9148-a-barrel-up-18-cents-020.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 18:31:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750769",
+   "title": "NYMEX gasoline October futures close at $3.2146 a gallon",
+   "link": "https://www.financialjuice.com/News/9750769/NYMEX-gasoline-October-futures-close-at-32146-a-gallon.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 18:31:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9750768",
+   "title": "NYMEX Diesel October futures close at $4.5402 a gallon",
+   "link": "https://www.financialjuice.com/News/9750768/NYMEX-Diesel-October-futures-close-at-45402-a-gallon.aspx?xy=rss",
+   "pubDate": "Fri, 04 Sep 2026 18:31:11 GMT",
+   "desc": ""
+  },
   {
    "id": "9750766",
    "title": "Trump: unsure if major processors will continue to exist, frankly.",
