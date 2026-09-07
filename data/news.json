@@ -1,7 +1,14 @@
 {
- "updated_at": "2026-09-07T19:18:33.068058+00:00",
- "count": 5170,
+ "updated_at": "2026-09-07T19:28:56.428134+00:00",
+ "count": 5171,
  "items": [
+  {
+   "id": "9752882",
+   "title": "Tuesday FX Option Expiries",
+   "link": "https://www.financialjuice.com/News/9752882/Tuesday-FX-Option-Expiries.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 19:22:23 GMT",
+   "desc": "EUR/USD: 1.1700 (EU1.28b), 1.1650 (EU1.2b), 1.1400 (EU862.8m) USD/JPY: 158.00 ($3.19b), 160.85 ($940m), 157.00 ($900.3m) AUD/USD : 0.7065 (AUD1.91b), 0.7135 (AUD1.07b), 0.7150 (AUD542.3m) USD/BRL: 5.2330 ($490m), 5.0900 ($480m), 4.8000 ($340m) USD/CAD: 1.4250 ($551.7m), 1.3785 ($505.8m), 1.3800 ($336.5m) NZD/USD: 0.5810 (NZD444.2m), 0.5720 (NZD308.2m) USD/MXN: 17.10 ($366.9m) EUR/GBP: 0.8600 (EU695.1m)"
+  },
   {
    "id": "9752839",
    "title": "Brent crude futures settle at $97.31/bbl, up $1.03, 1.1%",
