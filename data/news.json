@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-09-07T08:31:39.123851+00:00",
- "count": 5120,
+ "updated_at": "2026-09-07T08:47:49.686939+00:00",
+ "count": 5135,
  "items": [
+  {
+   "id": "9752347",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9752347/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:39:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752346",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9752346/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:39:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752345",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9752345/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:38:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752344",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9752344/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:38:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752343",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9752343/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:38:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752342",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9752342/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:37:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752341",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9752341/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:37:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752340",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9752340/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:36:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752339",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9752339/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:36:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752338",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9752338/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:34:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752337",
+   "title": "Japan seeks Takaichi-Trump talks for late September - Kyodo.",
+   "link": "https://www.financialjuice.com/News/9752337/Japan-seeks-Takaichi-Trump-talks-for-late-September---Kyodo.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:34:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752336",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9752336/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:32:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752335",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9752335/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:32:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752334",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9752334/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:31:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9752332",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9752332/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 07 Sep 2026 08:31:29 GMT",
+   "desc": ""
+  },
   {
    "id": "9752328",
    "title": "60-Day Correlation Matrix",
