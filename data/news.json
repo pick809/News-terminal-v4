@@ -1,7 +1,539 @@
 {
- "updated_at": "2026-09-08T14:36:41.895191+00:00",
- "count": 5397,
+ "updated_at": "2026-09-08T18:03:29.284104+00:00",
+ "count": 5473,
  "items": [
+  {
+   "id": "9754456",
+   "title": "US Cyber and law enforcement Officials accuse Chinese AI companies of aggressive, industrial-scale distillation activities.",
+   "link": "https://www.financialjuice.com/News/9754456/US-Cyber-and-law-enforcement-Officials-accuse-Chinese-AI-companies-of-aggressive-industrial-scale-distillation-activities.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:38:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754455",
+   "title": "OpenAI CFO: Enterprise business has been on a tear - CNBC",
+   "link": "https://www.financialjuice.com/News/9754455/OpenAI-CFO-Enterprise-business-has-been-on-a-tear---CNBC.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:34:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754429",
+   "title": "Saudi Arabia: Danger passed in the Najran province",
+   "link": "https://www.financialjuice.com/News/9754429/Saudi-Arabia-Danger-passed-in-the-Najran-province.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:11:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754428",
+   "title": "Saudi Arabia: Danger passed in Abha and Jazan after warning.",
+   "link": "https://www.financialjuice.com/News/9754428/Saudi-Arabia-Danger-passed-in-Abha-and-Jazan-after-warning.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:08:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754427",
+   "title": "Saudi Arabia: Early warning issued in Najran and Abha province.",
+   "link": "https://www.financialjuice.com/News/9754427/Saudi-Arabia-Early-warning-issued-in-Najran-and-Abha-province.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:04:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754426",
+   "title": "US 3-Year Note Auction",
+   "link": "https://www.financialjuice.com/News/9754426/US-3-Year-Note-Auction.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:03:22 GMT",
+   "desc": "High Yield 4.474% [Stop-through 0.1 bps] Bid-to-cover 2.72 Sells 58 bln Awards 29.35% of bids at high Primary Dealers take 10.9% Direct 26.9% Indirect 62.1%"
+  },
+  {
+   "id": "9754421",
+   "title": "US 3-Year Note Bid-to-Cover Actual 2.720 (Forecast -, Previous 2.710)",
+   "link": "https://www.financialjuice.com/News/9754421/US-3-Year-Note-Bid-to-Cover-Actual-2720-Forecast---Previous-2710.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:02:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754423",
+   "title": "Russian Lavrov: Putin may meet Trump, Xi at APEC in November - IFX",
+   "link": "https://www.financialjuice.com/News/9754423/Russian-Lavrov-Putin-may-meet-Trump-Xi-at-APEC-in-November---IFX.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:02:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754420",
+   "title": "US 3-Year Note High Yield Actual 4.474% (Forecast -, Previous 4.291%)",
+   "link": "https://www.financialjuice.com/News/9754420/US-3-Year-Note-High-Yield-Actual-4474-Forecast---Previous-4291.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:02:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754409",
+   "title": "Alerts activated in Saudi Arabia's Jazan - Civil Defence.",
+   "link": "https://www.financialjuice.com/News/9754409/Alerts-activated-in-Saudi-Arabias-Jazan---Civil-Defence.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:00:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754408",
+   "title": "Treasury WI 3-Year yield 4.475% before $58 billion auction.",
+   "link": "https://www.financialjuice.com/News/9754408/Treasury-WI-3-Year-yield-4475-before-58-billion-auction.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 17:00:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754405",
+   "title": "Al Hadath, citing Iranian Media: Tehran demands new conditions from Washington to resume negotiations.",
+   "link": "https://www.financialjuice.com/News/9754405/Al-Hadath-citing-Iranian-Media-Tehran-demands-new-conditions-from-Washington-to-resume-negotiations.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 16:52:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754363",
+   "title": "Qualcomm CFO: Qualcomm has another hyperscaler engagement.",
+   "link": "https://www.financialjuice.com/News/9754363/Qualcomm-CFO-Qualcomm-has-another-hyperscaler-engagement.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 16:25:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754362",
+   "title": "Qualcomm CFO: Higher memory prices have had a limited impact on the premium smartphone market.",
+   "link": "https://www.financialjuice.com/News/9754362/Qualcomm-CFO-Higher-memory-prices-have-had-a-limited-impact-on-the-premium-smartphone-market.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 16:18:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754361",
+   "title": "Qualcomm CFO: Next year, we expect to be the largest chip supplier to the automotive industry. $QCOM",
+   "link": "https://www.financialjuice.com/News/9754361/Qualcomm-CFO-Next-year-we-expect-to-be-the-largest-chip-supplier-to-the-automotive-industry-QCOM.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 16:17:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754344",
+   "title": "Samsung to integrate Mistral AI across it's semiconductor operations.",
+   "link": "https://www.financialjuice.com/News/9754344/Samsung-to-integrate-Mistral-AI-across-its-semiconductor-operations.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 16:12:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754343",
+   "title": "Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 1.2 mln barrels to 285.4 mln barrels last week, lowest since 1982.",
+   "link": "https://www.financialjuice.com/News/9754343/Stocks-of-Crude-oil-in-the-US-Strategic-Petroleum-Reserve-fell-by-about-12-mln-barrels-to-2854-mln-barrels-last-week-lowest-since-1982.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 16:08:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754321",
+   "title": "Qualcomm has high confidence in it's $5 bln data center target. $QCOM",
+   "link": "https://www.financialjuice.com/News/9754321/Qualcomm-has-high-confidence-in-its-5-bln-data-center-target-QCOM.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:57:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754320",
+   "title": "Qualcomm is going to get Amazon revenue starting in the December quarter. $QCOM",
+   "link": "https://www.financialjuice.com/News/9754320/Qualcomm-is-going-to-get-Amazon-revenue-starting-in-the-December-quarter-QCOM-.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:55:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754313",
+   "title": "Iran destroys a US MQ1 drone over the Strait of Hormuz; no US confirmation - Iran's Tasnim news agency citing IRGC.",
+   "link": "https://www.financialjuice.com/News/9754313/Iran-destroys-a-US-MQ1-drone-over-the-Strait-of-Hormuz-no-US-confirmation---Irans-Tasnim-news-agency-citing-IRGC.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:40:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754312",
+   "title": "US Treasury Secretary Bessent: 2 Iran-owned London luxury penthouses being auctioned.",
+   "link": "https://www.financialjuice.com/News/9754312/US-Treasury-Secretary-Bessent-2-Iran-owned-London-luxury-penthouses-being-auctioned.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:39:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754311",
+   "title": "US Treasury Secretary Bessent: We'll see if Iran lashes out kinetically now.",
+   "link": "https://www.financialjuice.com/News/9754311/US-Treasury-Secretary-Bessent-Well-see-if-Iran-lashes-out-kinetically-now.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:38:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754310",
+   "title": "US Treasury Secretary Bessent: No more forbearance on Iran sanctions.",
+   "link": "https://www.financialjuice.com/News/9754310/US-Treasury-Secretary-Bessent-No-more-forbearance-on-Iran-sanctions.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:36:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754308",
+   "title": "US 6-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9754308/US-6-Month-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:33:06 GMT",
+   "desc": "High Yield 3.890% Bid-to-cover 2.88 US sells $79 bln Awards 79.10% of bids at high"
+  },
+  {
+   "id": "9754305",
+   "title": "US 3-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9754305/US-3-Month-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:32:51 GMT",
+   "desc": "High Yield 3.800% Bid-to-cover 2.61 US sells $92 bln Awards 20.33% of bids at high"
+  },
+  {
+   "id": "9754304",
+   "title": "US 3-Month Awarded High Actual 20.330% (Forecast -, Previous 66.770%)",
+   "link": "https://www.financialjuice.com/News/9754304/US-3-Month-Awarded-High-Actual-20330-Forecast---Previous-66770.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:32:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754303",
+   "title": "US 6-Month Awarded High Actual 79.100% (Forecast -, Previous 49.270%)",
+   "link": "https://www.financialjuice.com/News/9754303/US-6-Month-Awarded-High-Actual-79100-Forecast---Previous-49270.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:32:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754302",
+   "title": "US 6-Month Bill Bid-to-Cover Actual 2.88 (Forecast -, Previous 2.630)",
+   "link": "https://www.financialjuice.com/News/9754302/US-6-Month-Bill-Bid-to-Cover-Actual-288-Forecast---Previous-2630.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754301",
+   "title": "US 3-Month Bill Bid-to-Cover Actual 2.61 (Forecast -, Previous 2.770)",
+   "link": "https://www.financialjuice.com/News/9754301/US-3-Month-Bill-Bid-to-Cover-Actual-261-Forecast---Previous-2770.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754300",
+   "title": "US 3-Month Bill High Yield Actual 3.8% (Forecast -, Previous 3.770%)",
+   "link": "https://www.financialjuice.com/News/9754300/US-3-Month-Bill-High-Yield-Actual-38-Forecast---Previous-3770.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754297",
+   "title": "US 6-Month Bill High Yield Actual 3.89% (Forecast -, Previous 3.885%)",
+   "link": "https://www.financialjuice.com/News/9754297/US-6-Month-Bill-High-Yield-Actual-389-Forecast---Previous-3885.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:32:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754291",
+   "title": "US Treasury Secretary Bessent: We've got to get more supply going in the housing market.",
+   "link": "https://www.financialjuice.com/News/9754291/US-Treasury-Secretary-Bessent-Weve-got-to-get-more-supply-going-in-the-housing-market.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:30:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754290",
+   "title": "US Treasury Secretary Bessent: Higher interest rates haven't pulled down house prices.",
+   "link": "https://www.financialjuice.com/News/9754290/US-Treasury-Secretary-Bessent-Higher-interest-rates-havent-pulled-down-house-prices.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:29:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754289",
+   "title": "US Treasury Secretary Bessent: We're seeing the opposite of people buying German bunds vs US bonds.",
+   "link": "https://www.financialjuice.com/News/9754289/US-Treasury-Secretary-Bessent-Were-seeing-the-opposite-of-people-buying-German-bunds-vs-US-bonds.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:29:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754288",
+   "title": "US Treasury Secretary Bessent: If people were worried, they'd buy bunds vs treasuries.",
+   "link": "https://www.financialjuice.com/News/9754288/US-Treasury-Secretary-Bessent-If-people-were-worried-theyd-buy-bunds-vs-treasuries.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:28:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754287",
+   "title": "US Treasury Secretary Bessent rejects the idea that investors are scared about US credit.",
+   "link": "https://www.financialjuice.com/News/9754287/US-Treasury-Secretary-Bessent-rejects-the-idea-that-investors-are-scared-about-US-credit.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:28:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754286",
+   "title": "US Treasury Secretary Bessent: Fever was building in the bond market pre-buyback news.",
+   "link": "https://www.financialjuice.com/News/9754286/US-Treasury-Secretary-Bessent-Fever-was-building-in-the-bond-market-pre-buyback-news.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:26:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754285",
+   "title": "US Treasury Secretary Bessent: We make a market buying older bonds.",
+   "link": "https://www.financialjuice.com/News/9754285/US-Treasury-Secretary-Bessent-We-make-a-market-buying-older-bonds.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:26:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754284",
+   "title": "US Treasury Secretary Bessent: We can't pause on AI. China won't pause.",
+   "link": "https://www.financialjuice.com/News/9754284/US-Treasury-Secretary-Bessent-We-cant-pause-on-AI-China-wont-pause.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:24:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754283",
+   "title": "US Treasury Secretary Bessent: The American people must understand what AI does for them.",
+   "link": "https://www.financialjuice.com/News/9754283/US-Treasury-Secretary-Bessent-The-American-people-must-understand-what-AI-does-for-them.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:24:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754282",
+   "title": "US Treasury Secretary Bessent repeats: Hyperscalers did a bad job on AI communication.",
+   "link": "https://www.financialjuice.com/News/9754282/US-Treasury-Secretary-Bessent-repeats-Hyperscalers-did-a-bad-job-on-AI-communication.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:21:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754281",
+   "title": "US Treasury Secretary Bessent: Iron dome and US defense wouldn't matter if China wins AI.",
+   "link": "https://www.financialjuice.com/News/9754281/US-Treasury-Secretary-Bessent-Iron-dome-and-US-defense-wouldnt-matter-if-China-wins-AI.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:20:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754280",
+   "title": "US Treasury Secretary Bessent: Nothing would matter if China pulled away on AI.",
+   "link": "https://www.financialjuice.com/News/9754280/US-Treasury-Secretary-Bessent-Nothing-would-matter-if-China-pulled-away-on-AI.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:20:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754279",
+   "title": "Trump ends remarks at the event in DC.",
+   "link": "https://www.financialjuice.com/News/9754279/Trump-ends-remarks-at-the-event-in-DC.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:18:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754278",
+   "title": "US Treasury Secretary Bessent: We want Europe to do better, we're pulling for our allies.",
+   "link": "https://www.financialjuice.com/News/9754278/US-Treasury-Secretary-Bessent-We-want-Europe-to-do-better-were-pulling-for-our-allies.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:17:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754261",
+   "title": "US Treasury Secretary Bessent: Oil to be well supplied when the Iran and Ukraine wars are over.",
+   "link": "https://www.financialjuice.com/News/9754261/US-Treasury-Secretary-Bessent-Oil-to-be-well-supplied-when-the-Iran-and-Ukraine-wars-are-over.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:16:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754257",
+   "title": "Fed bids for 3-month bills total $7.1 bln.",
+   "link": "https://www.financialjuice.com/News/9754257/Fed-bids-for-3-month-bills-total-71-bln.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:15:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754256",
+   "title": "Fed bids for 6-month bills total $6.1 bln.",
+   "link": "https://www.financialjuice.com/News/9754256/Fed-bids-for-6-month-bills-total-61-bln.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:15:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754253",
+   "title": "US Treasury Secretary Bessent: There is a path for Ukraine.",
+   "link": "https://www.financialjuice.com/News/9754253/US-Treasury-Secretary-Bessent-There-is-a-path-for-Ukraine.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:15:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754252",
+   "title": "US Treasury Secretary Bessent: Europeans don't want to engage on Russia-Ukraine.",
+   "link": "https://www.financialjuice.com/News/9754252/US-Treasury-Secretary-Bessent-Europeans-dont-want-to-engage-on-Russia-Ukraine.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:14:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754251",
+   "title": "US Treasury Secretary Bessent: Wew want to work with the G7 plus and others on China trade.",
+   "link": "https://www.financialjuice.com/News/9754251/US-Treasury-Secretary-Bessent-Wew-want-to-work-with-the-G7-plus-and-others-on-China-trade.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:12:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754250",
+   "title": "US Treasury Secretary Bessent: We want to work with the EU and Canada on China.",
+   "link": "https://www.financialjuice.com/News/9754250/US-Treasury-Secretary-Bessent-We-want-to-work-with-the-EU-and-Canada-on-China.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:11:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754249",
+   "title": "US Treasury Secretary Bessent: The rest of the world is waking up on China.",
+   "link": "https://www.financialjuice.com/News/9754249/US-Treasury-Secretary-Bessent-The-rest-of-the-world-is-waking-up-on-China.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:10:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754248",
+   "title": "US Treasury Secretary Bessent: We're now seeing China's manufacturing jobs go down.",
+   "link": "https://www.financialjuice.com/News/9754248/US-Treasury-Secretary-Bessent-Were-now-seeing-Chinas-manufacturing-jobs-go-down.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:09:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754247",
+   "title": "US Treasury Secretary Bessent: I expect that the economy will pull more people back to workforce.",
+   "link": "https://www.financialjuice.com/News/9754247/US-Treasury-Secretary-Bessent-I-expect-that-the-economy-will-pull-more-people-back-to-workforce.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:07:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754246",
+   "title": "The EU and Canada plan far-reaching deal to strengthen partnership.",
+   "link": "https://www.financialjuice.com/News/9754246/The-EU-and-Canada-plan-far-reaching-deal-to-strengthen-partnership.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:06:30 GMT",
+   "desc": "The European Union and Canada are pursuing a new, all-encompassing relationship that will cover everything from trade to security, as the transatlantic partners seek to form a new alliance to counter the global power politics dominated by the United States and China. According to people familiar with the preparations, European Commission President von der Leyen, the EU&#39;s top executive, is expected to announce the plans during her state of the union address on September 16 in Strasbourg, France. Canadian Prime Minister Mark Carney will attend the speech and then address European lawmakers the next day."
+  },
+  {
+   "id": "9754245",
+   "title": "US Treasury Secretary Bessent hints at a coming government modernization initiative.",
+   "link": "https://www.financialjuice.com/News/9754245/US-Treasury-Secretary-Bessent-hints-at-a-coming-government-modernization-initiative.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:04:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754244",
+   "title": "US Treasury Secretary Bessent: I will unveil something on the government next week.",
+   "link": "https://www.financialjuice.com/News/9754244/US-Treasury-Secretary-Bessent-I-will-unveil-something-on-the-government-next-week.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:03:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754243",
+   "title": "Trump touts the stock market and economic data.",
+   "link": "https://www.financialjuice.com/News/9754243/Trump-touts-the-stock-market-and-economic-data.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:03:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754241",
+   "title": "NY Fed: Views about current and future personal financial situations deteriorated in August.",
+   "link": "https://www.financialjuice.com/News/9754241/NY-Fed-Views-about-current-and-future-personal-financial-situations-deteriorated-in-August.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:02:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754240",
+   "title": "NY Fed: Consumers in August projected higher future gasoline prices.",
+   "link": "https://www.financialjuice.com/News/9754240/NY-Fed-Consumers-in-August-projected-higher-future-gasoline-prices.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:02:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754239",
+   "title": "NY Fed: Labor market expectations were mixed in August.",
+   "link": "https://www.financialjuice.com/News/9754239/NY-Fed-Labor-market-expectations-were-mixed-in-August.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:01:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754238",
+   "title": "NY Fed: Expectations in August of higher unemployment rate were highest since April 2020.",
+   "link": "https://www.financialjuice.com/News/9754238/NY-Fed-Expectations-in-August-of-higher-unemployment-rate-were-highest-since-April-2020.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:01:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754224",
+   "title": "NY Fed: 3-year-ahead expected inflation at 3.2% in august versus July's 3.3%.",
+   "link": "https://www.financialjuice.com/News/9754224/NY-Fed-3-year-ahead-expected-inflation-at-32-in-august-versus-Julys-33.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:01:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754223",
+   "title": "NY Fed: US 5-year inflation expectations unchanged in august at 3%.",
+   "link": "https://www.financialjuice.com/News/9754223/NY-Fed-US-5-year-inflation-expectations-unchanged-in-august-at-3.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:00:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754218",
+   "title": "NY Fed 1 Yr Inflation Expectations Actual 3.58% (Forecast 3.6%, Previous 3.63%)",
+   "link": "https://www.financialjuice.com/News/9754218/NY-Fed-1-Yr-Inflation-Expectations-Actual-358-Forecast-36-Previous-363.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 15:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754217",
+   "title": "US Treasury Secretary Bessent repeats on inflation: There's short-term energy spike.",
+   "link": "https://www.financialjuice.com/News/9754217/US-Treasury-Secretary-Bessent-repeats-on-inflation-Theres-short-term-energy-spike.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 14:58:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754216",
+   "title": "Trump: US Commerce Secretary Lutnick has some faults but is excellent overall.",
+   "link": "https://www.financialjuice.com/News/9754216/Trump-US-Commerce-Secretary-Lutnick-has-some-faults-but-is-excellent-overall.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 14:58:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754215",
+   "title": "Trump reiterates Iran will never have a nuclear weapon.",
+   "link": "https://www.financialjuice.com/News/9754215/Trump-reiterates-Iran-will-never-have-a-nuclear-weapon.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 14:54:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754214",
+   "title": "US Treasury Secretary Bessent: A Canada trade war would add 0.02% to US inflation.",
+   "link": "https://www.financialjuice.com/News/9754214/US-Treasury-Secretary-Bessent-A-Canada-trade-war-would-add-002-to-US-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 14:53:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754213",
+   "title": "US Treasury Secretary Bessent: I think we will get through the Canada trade spat.",
+   "link": "https://www.financialjuice.com/News/9754213/US-Treasury-Secretary-Bessent-I-think-we-will-get-through-the-Canada-trade-spat.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 14:52:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754212",
+   "title": "Iran's IRGC Navy: We have captured an unmanned US submersible at entrance of the Strait of Hormuz - State Media.",
+   "link": "https://www.financialjuice.com/News/9754212/Irans-IRGC-Navy-We-have-captured-an-unmanned-US-submersible-at-entrance-of-the-Strait-of-Hormuz---State-Media.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 14:51:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754211",
+   "title": "US Treasury Secretary Bessent on Canada moves: Canada's PM Carney needs to stop campaigning.",
+   "link": "https://www.financialjuice.com/News/9754211/US-Treasury-Secretary-Bessent-on-Canada-moves-Canadas-PM-Carney-needs-to-stop-campaigning.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 14:50:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754210",
+   "title": "Kyiv’s allies see the war going into 2027 after Putin met with the US envoys.",
+   "link": "https://www.financialjuice.com/News/9754210/Kyivs-allies-see-the-war-going-into-2027-after-Putin-met-with-the-US-envoys.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 14:48:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754182",
+   "title": "BoE Gov. Bailey: We want to achieve a better quality debate on global imbalances when the UK hosts the G20 next year.",
+   "link": "https://www.financialjuice.com/News/9754182/BoE-Gov-Bailey-We-want-to-achieve-a-better-quality-debate-on-global-imbalances-when-the-UK-hosts-the-G20-next-year.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 14:43:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9754181",
+   "title": "Canada extends it's federal fuel excise tax relief on gasoline.",
+   "link": "https://www.financialjuice.com/News/9754181/Canada-extends-its-federal-fuel-excise-tax-relief-on-gasoline.aspx?xy=rss",
+   "pubDate": "Tue, 08 Sep 2026 14:37:56 GMT",
+   "desc": ""
+  },
   {
    "id": "9754164",
    "title": "Trump honors 9/11 victims, first responders at White House - WATCH LIVE",
