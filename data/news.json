@@ -1,7 +1,364 @@
 {
- "updated_at": "2026-09-09T15:07:49.911220+00:00",
- "count": 5682,
+ "updated_at": "2026-09-09T18:31:43.450590+00:00",
+ "count": 5733,
  "items": [
+  {
+   "id": "9756217",
+   "title": "Trump: Had a great conversation with Putin. He wants to make a deal.",
+   "link": "https://www.financialjuice.com/News/9756217/Trump-Had-a-great-conversation-with-Putin-He-wants-to-make-a-deal.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:31:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756216",
+   "title": "Trump: Will get gasoline down below $2.",
+   "link": "https://www.financialjuice.com/News/9756216/Trump-Will-get-gasoline-down-below-2.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:29:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756215",
+   "title": "Trump on Gasoline Price: It will take a little bit longer.",
+   "link": "https://www.financialjuice.com/News/9756215/Trump-on-Gasoline-Price-It-will-take-a-little-bit-longer.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:29:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756214",
+   "title": "Trump: After the election, oil prices will tumble.",
+   "link": "https://www.financialjuice.com/News/9756214/Trump-After-the-election-oil-prices-will-tumble.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:29:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756213",
+   "title": "Trump on Gasoline Price: Can't let Iran have nuclear weapons.",
+   "link": "https://www.financialjuice.com/News/9756213/Trump-on-Gasoline-Price-Cant-let-Iran-have-nuclear-weapons.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:28:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756212",
+   "title": "Trump: The economy is very strong; we're going to explain that.",
+   "link": "https://www.financialjuice.com/News/9756212/Trump-The-economy-is-very-strong-were-going-to-explain-that.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:28:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756211",
+   "title": "LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15",
+   "link": "https://www.financialjuice.com/News/9756211/LIVE-President-Donald-Trump-Heads-to-Dallas-for-Historic-Republican-Midterm-Convention--AC15.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:27:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756210",
+   "title": "Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL",
+   "link": "https://www.financialjuice.com/News/9756210/Apple-prices-the-2-terabyte-version-of-the-iPhone-Duo-at-3199-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:21:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756206",
+   "title": "Apple's iPhone Duo starts at $1999 for 256 gigabytes. $AAPL",
+   "link": "https://www.financialjuice.com/News/9756206/Apples-iPhone-Duo-starts-at-1999-for-256-gigabytes-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:16:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756204",
+   "title": "Saudi-led coalition in Yemen: Houthis attacked on Wednesday Saudi cities of Khamis Mushait, Abha, and Jazan with ballistic missiles and drones.",
+   "link": "https://www.financialjuice.com/News/9756204/Saudi-led-coalition-in-Yemen-Houthis-attacked-on-Wednesday-Saudi-cities-of-Khamis-Mushait-Abha-and-Jazan-with-ballistic-missiles-and-drones.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:07:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756203",
+   "title": "US Treasury Debt Buyback",
+   "link": "https://www.financialjuice.com/News/9756203/US-Treasury-Debt-Buyback.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 18:03:30 GMT",
+   "desc": "Treasury receives $28.027B in buyback offers, accepts $12.5B. Treasury accepts 27 of 45 eligible issues in the debt buyback. Treasury debt buyback targets coupons maturing in 2026–2028."
+  },
+  {
+   "id": "9756184",
+   "title": "Russia's Lukoil starts oil output at the Komandirshorskoye field.",
+   "link": "https://www.financialjuice.com/News/9756184/Russias-Lukoil-starts-oil-output-at-the-Komandirshorskoye-field.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:55:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756183",
+   "title": "Apple announces foldable iPhone $AAPL",
+   "link": "https://www.financialjuice.com/News/9756183/Apple-announces-foldable-iPhone-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:54:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756168",
+   "title": "Apple announces Apple Watch Series 12 and Apple Watch Ultra 4. $AAPL",
+   "link": "https://www.financialjuice.com/News/9756168/Apple-announces-Apple-Watch-Series-12-and-Apple-Watch-Ultra-4-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:37:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756167",
+   "title": "Apple: AirPods 5 base model starts at $129 $AAPL",
+   "link": "https://www.financialjuice.com/News/9756167/Apple-AirPods-5-base-model-starts-at-129-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:35:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756163",
+   "title": "Apple announces AirPods 5 $AAPL",
+   "link": "https://www.financialjuice.com/News/9756163/Apple-announces-AirPods-5-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:32:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756151",
+   "title": "Apple iPhone 18 Pro Max starts at $1,299, iPhone 18 Pro starts at $1,199 $AAPL",
+   "link": "https://www.financialjuice.com/News/9756151/Apple-iPhone-18-Pro-Max-starts-at-1299-iPhone-18-Pro-starts-at-1199-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:31:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756149",
+   "title": "Apple: Apple reference image standard to prove the authenticity of photos at the time of capture,\nReference image not available in the EU or China. $AAPL",
+   "link": "https://www.financialjuice.com/News/9756149/Apple-Apple-reference-image-standard-to-prove-the-authenticity-of-photos-at-the-time-of-captureReference-image-not-available-in-the-EU-or-China-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:28:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756148",
+   "title": "Apple: iPhone 18 Pro has a 48 MP fusion main camera with variable aperture $AAPL",
+   "link": "https://www.financialjuice.com/News/9756148/Apple-iPhone-18-Pro-has-a-48-MP-fusion-main-camera-with-variable-aperture-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:23:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756146",
+   "title": "Apple: A20 chip will have two neural engines with 32 cores total, increasing on-device AI performance $AAPL",
+   "link": "https://www.financialjuice.com/News/9756146/Apple-A20-chip-will-have-two-neural-engines-with-32-cores-total-increasing-on-device-AI-performance-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:17:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756141",
+   "title": "Apple: A20 Pro chip has seven GPU cores. $AAPL",
+   "link": "https://www.financialjuice.com/News/9756141/Apple-A20-Pro-chip-has-seven-GPU-cores-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:16:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756140",
+   "title": "Apple announces A20 Pro chip based on 2NM technology $AAPL",
+   "link": "https://www.financialjuice.com/News/9756140/Apple-announces-A20-Pro-chip-based-on-2NM-technology-AAPL-.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:15:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756136",
+   "title": "Apple: Apple Intelligence is not available in China or the EU - Event. $AAPL",
+   "link": "https://www.financialjuice.com/News/9756136/Apple-Apple-Intelligence-is-not-available-in-China-or-the-EU---Event-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:14:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756133",
+   "title": "Apple unveils iPhone 18 Pro and iPhone 18 Pro Max at event $AAPL",
+   "link": "https://www.financialjuice.com/News/9756133/Apple-unveils-iPhone-18-Pro-and-iPhone-18-Pro-Max-at-event-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:08:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756132",
+   "title": "US 10-Year Note Auction",
+   "link": "https://www.financialjuice.com/News/9756132/US-10-Year-Note-Auction.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:03:02 GMT",
+   "desc": "High Yield 4.834% [Stop-through 1.5 bps] Bid-to-cover 2.71 Sells 39 bln Awards 89.25% of bids at high Primary Dealers take 4.3% Direct 16.5% Indirect 79.2%"
+  },
+  {
+   "id": "9756131",
+   "title": "US 10-Year Note Bid-to-Cover Actual 2.71 (Forecast -, Previous 2.530)",
+   "link": "https://www.financialjuice.com/News/9756131/US-10-Year-Note-Bid-to-Cover-Actual-271-Forecast---Previous-2530.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:02:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756130",
+   "title": "US 10-Year Note High Yield Actual 4.834% (Forecast -, Previous 4.683%)",
+   "link": "https://www.financialjuice.com/News/9756130/US-10-Year-Note-High-Yield-Actual-4834-Forecast---Previous-4683.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:02:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756112",
+   "title": "Treasury WI 10 yr yield 4.849% before $39 billion auction",
+   "link": "https://www.financialjuice.com/News/9756112/Treasury-WI-10-yr-yield-4849-before-39-billion-auction.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 17:00:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756110",
+   "title": "Russia's Siluanov: Russia weighs $50/bbl budget rule oil price - IFX.",
+   "link": "https://www.financialjuice.com/News/9756110/Russias-Siluanov-Russia-weighs-50bbl-budget-rule-oil-price---IFX.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:53:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756109",
+   "title": "WATCH LIVE: Apple Event 1 PM ET $AAPL",
+   "link": "https://www.financialjuice.com/News/9756109/WATCH-LIVE-Apple-Event-1-PM-ET-AAPL.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:50:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756096",
+   "title": "Blast heard around Strait of Hormuz - IRIB",
+   "link": "https://www.financialjuice.com/News/9756096/Blast-heard-around-Strait-of-Hormuz---IRIB.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:46:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756094",
+   "title": "Iranian media: Reports of an oil tanker being targeted in the Strait of Hormuz - Al-Hadath",
+   "link": "https://www.financialjuice.com/News/9756094/Iranian-media-Reports-of-an-oil-tanker-being-targeted-in-the-Strait-of-Hormuz---Al-Hadath.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:32:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756069",
+   "title": "No details are available regarding the source, exact location, or cause of the explosion - Fars News on explosion heard near Jask.",
+   "link": "https://www.financialjuice.com/News/9756069/No-details-are-available-regarding-the-source-exact-location-or-cause-of-the-explosion---Fars-News-on-explosion-heard-near-Jask.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:27:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756068",
+   "title": "Explosion heard from the sea near southern Jask - Fars News",
+   "link": "https://www.financialjuice.com/News/9756068/Explosion-heard-from-the-sea-near-southern-Jask---Fars-News.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:26:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756067",
+   "title": "China and Russia vote against effort to pressure Iran at IAEA.",
+   "link": "https://www.financialjuice.com/News/9756067/China-and-Russia-vote-against-effort-to-pressure-Iran-at-IAEA.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:24:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756066",
+   "title": "EIA: Middle East crude oil output shut-ins rose in August to 6.7 mln bpd, from 5 mln bpd in July.",
+   "link": "https://www.financialjuice.com/News/9756066/EIA-Middle-East-crude-oil-output-shut-ins-rose-in-August-to-67-mln-bpd-from-5-mln-bpd-in-July.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:19:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756041",
+   "title": "EIA finalized inputs into STEO forecast model on September 3rd. Forecast does not account for more recent Mideast events.",
+   "link": "https://www.financialjuice.com/News/9756041/EIA-finalized-inputs-into-STEO-forecast-model-on-September-3rd-Forecast-does-not-account-for-more-recent-Mideast-events.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:13:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756040",
+   "title": "US Agriculture Sec. Rollins: Some food costs have come down in the last two years.",
+   "link": "https://www.financialjuice.com/News/9756040/US-Agriculture-Sec-Rollins-Some-food-costs-have-come-down-in-the-last-two-years.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:11:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756039",
+   "title": "Iran Official: Iran ready for more intense war with US if required.",
+   "link": "https://www.financialjuice.com/News/9756039/Iran-Official-Iran-ready-for-more-intense-war-with-US-if-required.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:08:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756038",
+   "title": "EIA: Saudi Yanbu oil exports fell about 50% in August from July amid Bab el-Mandeb disruptions.",
+   "link": "https://www.financialjuice.com/News/9756038/EIA-Saudi-Yanbu-oil-exports-fell-about-50-in-August-from-July-amid-Bab-el-Mandeb-disruptions.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:08:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756037",
+   "title": "EIA expects Crude Oil output from Mideast will remain below pre-conflict averages until Q2 2027.",
+   "link": "https://www.financialjuice.com/News/9756037/EIA-expects-Crude-Oil-output-from-Mideast-will-remain-below-pre-conflict-averages-until-Q2-2027.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:07:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756036",
+   "title": "EIA STEO report assumes some constraints to oil exports from Middle East will persist through end of 2026.",
+   "link": "https://www.financialjuice.com/News/9756036/EIA-STEO-report-assumes-some-constraints-to-oil-exports-from-Middle-East-will-persist-through-end-of-2026.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:07:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756035",
+   "title": "EIA STEO Report: EIA expects Middle East oil output to rise in coming months due to gradually increasing flows\" through Hormuz.",
+   "link": "https://www.financialjuice.com/News/9756035/EIA-STEO-Report-EIA-expects-Middle-East-oil-output-to-rise-in-coming-months-due-to-gradually-increasing-flows-through-Hormuz.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:06:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756033",
+   "title": "EIA STEO Report",
+   "link": "https://www.financialjuice.com/News/9756033/EIA-STEO-Report.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:04:14 GMT",
+   "desc": "2026 Brent forecast raised to $91.01/bbl from $86.81; 2027 to $73.74 from $69.39. 2026 WTI forecast raised to $84.65/bbl from $80.88; 2027 to $69.74 from $65.39. 2026 world oil demand cut to 102.6 million bpd from 102.7 million; 2027 unchanged at 105 million bpd. 2026 world oil output cut to 100.6 million bpd from 100.8 million; 2027 raised to 109.9 million from 109.7 million bpd. 2026 US natural gas demand raised to 92.2 Bcf/d from 92; 2027 cut to 94.3 Bcf/d from 94.8. US oil demand unchanged at 20.6 million bpd in 2026 and 20.8 million bpd in 2027. 2026 US natural gas output raised to 111.7 Bcf/d from 111.2; 2027 trimmed to 115.9 Bcf/d from 116. 2026 US oil output raised to 13.83 million bpd from 13.8; 2027 raised to 14.26 million bpd from 14.15."
+  },
+  {
+   "id": "9756030",
+   "title": "Iran: Once the conditions of war end, the ground will be prepared for the IAEA's verification activities - ISNA",
+   "link": "https://www.financialjuice.com/News/9756030/Iran-Once-the-conditions-of-war-end-the-ground-will-be-prepared-for-the-IAEAs-verification-activities---ISNA.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:01:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756015",
+   "title": "White House denies FT report on Ratcliffe and Russia-Ukraine talks",
+   "link": "https://www.financialjuice.com/News/9756015/White-House-denies-FT-report-on-Ratcliffe-and-Russia-Ukraine-talks.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 16:01:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756001",
+   "title": "Fox Business cites Trump Admin Official on buyback announcement.",
+   "link": "https://www.financialjuice.com/News/9756001/Fox-Business-cites-Trump-Admin-Official-on-buyback-announcement.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 15:35:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756000",
+   "title": "Buyback increase is part of ongoing approach - Fox Business.",
+   "link": "https://www.financialjuice.com/News/9756000/Buyback-increase-is-part-of-ongoing-approach---Fox-Business.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 15:35:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9755999",
+   "title": "Pakistan Defense Minister reaffirms commitment to joint defense agreement with Saudi Arabia and Turkey - IRNA",
+   "link": "https://www.financialjuice.com/News/9755999/Pakistan-Defense-Minister-reaffirms-commitment-to-joint-defense-agreement-with-Saudi-Arabia-and-Turkey---IRNA.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 15:31:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9755986",
+   "title": "Pakistan's Defense Minister Expresses Hope for a Lasting Resolution to Issues Between Saudi Arabia and Yemen - IRNA",
+   "link": "https://www.financialjuice.com/News/9755986/Pakistans-Defense-Minister-Expresses-Hope-for-a-Lasting-Resolution-to-Issues-Between-Saudi-Arabia-and-Yemen---IRNA.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 15:31:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9755977",
+   "title": "The Treasury updates the buyback schedule to show long term operations of at least $4b.",
+   "link": "https://www.financialjuice.com/News/9755977/The-Treasury-updates-the-buyback-schedule-to-show-long-term-operations-of-at-least-4b.aspx?xy=rss",
+   "pubDate": "Wed, 09 Sep 2026 15:22:04 GMT",
+   "desc": ""
+  },
   {
    "id": "9755949",
    "title": "US Treasury: Will buy up to $6 bln in 10 to 20 Yr liquidity buyback operation on September 10th.",
