@@ -1,7 +1,315 @@
 {
- "updated_at": "2026-09-10T14:28:36.843732+00:00",
- "count": 5976,
+ "updated_at": "2026-09-10T17:47:00.750136+00:00",
+ "count": 6020,
  "items": [
+  {
+   "id": "9758152",
+   "title": "OpenAI embeds GPT -6 Astra in financial services product.",
+   "link": "https://www.financialjuice.com/News/9758152/OpenAI-embeds-GPT--6-Astra-in-financial-services-product.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 17:42:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758151",
+   "title": "OpenAI: introducing ChatGPT for Financial services.",
+   "link": "https://www.financialjuice.com/News/9758151/OpenAI-introducing-ChatGPT-for-Financial-services.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 17:41:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758118",
+   "title": "LIVE: President Trump Delivers Remarks At National Medal Of Honor Museum In Arlington, TX",
+   "link": "https://www.financialjuice.com/News/9758118/LIVE-President-Trump-Delivers-Remarks-At-National-Medal-Of-Honor-Museum-In-Arlington-TX.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 17:24:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758099",
+   "title": "Antropic: Moonshot diverted queries to its chatbots, without letting users know, rather than processing them through the Kimi model.",
+   "link": "https://www.financialjuice.com/News/9758099/Antropic-Moonshot-diverted-queries-to-its-chatbots-without-letting-users-know-rather-than-processing-them-through-the-Kimi-model.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 17:04:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758098",
+   "title": "Anthropic: Spotted nearly 300,000 customer requests that moonshot sent primarily to Anthropic’s Opus AI model",
+   "link": "https://www.financialjuice.com/News/9758098/Anthropic-Spotted-nearly-300000-customer-requests-that-moonshot-sent-primarily-to-Anthropics-Opus-AI-model.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 17:04:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758097",
+   "title": "Moonshot secretly routed user requests through Claude and Anthropic.",
+   "link": "https://www.financialjuice.com/News/9758097/Moonshot-secretly-routed-user-requests-through-Claude-and-Anthropic.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 17:04:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758096",
+   "title": "US 30-Year Bond Auction",
+   "link": "https://www.financialjuice.com/News/9758096/US-30-Year-Bond-Auction.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 17:02:41 GMT",
+   "desc": "High Yield 5.308% (Stopped through by 2.7 basis points) Bid-to-cover 2.61 Sells $22 bln Awards 64.29% of bids at high Primary Dealers take 2.21% Direct 18.31% Indirect 79.48%"
+  },
+  {
+   "id": "9758095",
+   "title": "US 30-Year Bond Bid-to-Cover Actual 2.610 (Forecast -, Previous 2.390)",
+   "link": "https://www.financialjuice.com/News/9758095/US-30-Year-Bond-Bid-to-Cover-Actual-2610-Forecast---Previous-2390.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 17:02:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758094",
+   "title": "US 30-Year Bond High Yield Actual 5.308% (Forecast -, Previous 5.216%)",
+   "link": "https://www.financialjuice.com/News/9758094/US-30-Year-Bond-High-Yield-Actual-5308-Forecast---Previous-5216.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 17:02:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758079",
+   "title": "Treasury WI 30-year yield 5.335% before $22 billion auction.",
+   "link": "https://www.financialjuice.com/News/9758079/Treasury-WI-30-year-yield-5335-before-22-billion-auction.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 17:00:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758077",
+   "title": "Iran's IRGC: We hit a US unmanned vessel in the Strait of Hormuz - State Media.",
+   "link": "https://www.financialjuice.com/News/9758077/Irans-IRGC-We-hit-a-US-unmanned-vessel-in-the-Strait-of-Hormuz---State-Media.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:53:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758076",
+   "title": "IRGC: Strait of Hormuz is blocked and under our intelligent control and information dominance, and any hostile presence in this strategic Strait will be targeted - IRIB.",
+   "link": "https://www.financialjuice.com/News/9758076/IRGC-Strait-of-Hormuz-is-blocked-and-under-our-intelligent-control-and-information-dominance-and-any-hostile-presence-in-this-strategic-Strait-will-be-targeted---IRIB.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:52:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758068",
+   "title": "Arab and Israeli officials are bracing for continued fighting - WSJ.",
+   "link": "https://www.financialjuice.com/News/9758068/Arab-and-Israeli-officials-are-bracing-for-continued-fighting---WSJ.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:36:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758067",
+   "title": "US and Middle East Officials: Iran Has resumed producing ballistic missiles in underground facilities using stockpiled components - WSJ.",
+   "link": "https://www.financialjuice.com/News/9758067/US-and-Middle-East-Officials-Iran-Has-resumed-producing-ballistic-missiles-in-underground-facilities-using-stockpiled-components---WSJ.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:36:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758065",
+   "title": "Iran has resumed producing ballistic missiles - US and Middle East Officials cited by the WSJ",
+   "link": "https://www.financialjuice.com/News/9758065/Iran-has-resumed-producing-ballistic-missiles---US-and-Middle-East-Officials-cited-by-the-WSJ.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:35:15 GMT",
+   "desc": "Iran assembling limited numbers of missiles from stored components Iran missile production erodes a key goal of the war for the US and Israel."
+  },
+  {
+   "id": "9758048",
+   "title": "Nvidia's CEO Huang: Investments are not circular. $NVDA",
+   "link": "https://www.financialjuice.com/News/9758048/Nvidias-CEO-Huang-Investments-are-not-circular-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:24:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758019",
+   "title": "China halts new battery projects pending capacity review - Caixin.",
+   "link": "https://www.financialjuice.com/News/9758019/China-halts-new-battery-projects-pending-capacity-review---Caixin.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:11:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758018",
+   "title": "Nvidia's CEO Huang: Our share at Anthropic is growing very quickly. $NVDA",
+   "link": "https://www.financialjuice.com/News/9758018/Nvidias-CEO-Huang-Our-share-at-Anthropic-is-growing-very-quickly-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:09:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758017",
+   "title": "ECB Sources: Further policy tightening is likely, and they may debate another hike as soon as October.",
+   "link": "https://www.financialjuice.com/News/9758017/ECB-Sources-Further-policy-tightening-is-likely-and-they-may-debate-another-hike-as-soon-as-October.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:08:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758016",
+   "title": "Google launches a Gemini app for Windows 10 and 11. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9758016/Google-launches-a-Gemini-app-for-Windows-10-and-11-GOOGL.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:08:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758015",
+   "title": "Nvidia's CEO Huang: Shipments of Grace Blackwell up 27% month to month. $NVDA",
+   "link": "https://www.financialjuice.com/News/9758015/Nvidias-CEO-Huang-Shipments-of-Grace-Blackwell-up-27-month-to-month-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:08:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758013",
+   "title": "Vantage Data Centres seeks $2b in loans from Pimco and PGIM - FT.",
+   "link": "https://www.financialjuice.com/News/9758013/Vantage-Data-Centres-seeks-2b-in-loans-from-Pimco-and-PGIM---FT.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:06:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758012",
+   "title": "US 30-year fixed rate mortgages average 6.76% September 10th week, highest since June 2025, vs 6.71$ prior week - Freddie Mac.",
+   "link": "https://www.financialjuice.com/News/9758012/US-30-year-fixed-rate-mortgages-average-676-September-10th-week-highest-since-June-2025-vs-671-prior-week---Freddie-Mac.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:04:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758011",
+   "title": "Nvidia CEO: Cybersecurity is the next major use case of AI. $NVDA",
+   "link": "https://www.financialjuice.com/News/9758011/Nvidia-CEO-Cybersecurity-is-the-next-major-use-case-of-AI-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:03:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758010",
+   "title": "US weekly crude production hits new record near 14 mln b/d",
+   "link": "https://www.financialjuice.com/News/9758010/US-weekly-crude-production-hits-new-record-near-14-mln-bd.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:03:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9758008",
+   "title": "Microsoft shares safe participation framework for AI. $MSFT",
+   "link": "https://www.financialjuice.com/News/9758008/Microsoft-shares-safe-participation-framework-for-AI-MSFT.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:01:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757997",
+   "title": "EIA Crude Cushing Inventories  Actual -0.684M (Forecast -, Previous 0.080M)",
+   "link": "https://www.financialjuice.com/News/9757997/EIA-Crude-Cushing-Inventories--Actual--0684M-Forecast---Previous-0080M.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:00:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757996",
+   "title": "EIA Gasoline Inventories Actual 1.269M (Forecast -1.275M, Previous -1.173M)",
+   "link": "https://www.financialjuice.com/News/9757996/EIA-Gasoline-Inventories-Actual-1269M-Forecast--1275M-Previous--1173M.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757995",
+   "title": "EIA Distillate Inventories Actual 2.087M (Forecast -0.7M, Previous 0.796M)",
+   "link": "https://www.financialjuice.com/News/9757995/EIA-Distillate-Inventories-Actual-2087M-Forecast--07M-Previous-0796M.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757994",
+   "title": "EIA Crude Oil Inventories Actual -0.391M (Forecast -1.35M, Previous -4.450M)",
+   "link": "https://www.financialjuice.com/News/9757994/EIA-Crude-Oil-Inventories-Actual--0391M-Forecast--135M-Previous--4450M.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 16:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757993",
+   "title": "The Trump Administration partners with OpenAI to use AI tools - Fox Business",
+   "link": "https://www.financialjuice.com/News/9757993/The-Trump-Administration-partners-with-OpenAI-to-use-AI-tools---Fox-Business.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 15:52:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757975",
+   "title": "US 4-Week Bill Auction",
+   "link": "https://www.financialjuice.com/News/9757975/US-4-Week-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 15:32:32 GMT",
+   "desc": "High Yield 3.775% Bid-to-cover 2.91 Sells $90 bln Awards 34.21% of bids at high"
+  },
+  {
+   "id": "9757974",
+   "title": "US 4-Week Bill High Yield Actual 3.775% (Forecast -, Previous 3.700%)",
+   "link": "https://www.financialjuice.com/News/9757974/US-4-Week-Bill-High-Yield-Actual-3775-Forecast---Previous-3700.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 15:32:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757973",
+   "title": "US 4-Week Bill Bid-to-Cover Actual 2.81 (Forecast -, Previous 2.970)",
+   "link": "https://www.financialjuice.com/News/9757973/US-4-Week-Bill-Bid-to-Cover-Actual-281-Forecast---Previous-2970.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 15:32:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757920",
+   "title": "ECB Officials expect more tightening with October in play.",
+   "link": "https://www.financialjuice.com/News/9757920/ECB-Officials-expect-more-tightening-with-October-in-play.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 15:13:56 GMT",
+   "desc": "Officials at the European Central Bank anticipate to boost interest rates further, with another hike probable as early as next month, according to sources. While policymakers&#39; opinions will continue to be influenced by incoming economic data, stronger monetary policy may be required to keep inflation from rising above 3%, according to persons who asked not to be identified while discussing private conversations. Market expectations for three more hikes, however, may be overly optimistic, the individuals said, adding that December may be a more opportune time to raise borrowing costs, as that meeting will be accompanied by new predictions going into 2029."
+  },
+  {
+   "id": "9757919",
+   "title": "US Treasury Announces Bill and Bond Auction Sizes",
+   "link": "https://www.financialjuice.com/News/9757919/US-Treasury-Announces-Bill-and-Bond-Auction-Sizes.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 15:02:40 GMT",
+   "desc": "US Treasury to sell $92 billion of 3-month bills on September 14, settling September 17 US Treasury to sell $79 billion of 6-month bills on September 14, settling September 17 US Treasury to sell $13 billion of reopened 20-year bonds on September 15, settling September 18 US Treasury to sell $19 billion of reopened 10-year TIPS on September 17, settling September 30"
+  },
+  {
+   "id": "9757894",
+   "title": "IMF: We are advising central bankers to remain focused on price stability mandates; encouraging fiscal authorities to have medium-term consolidation plans.",
+   "link": "https://www.financialjuice.com/News/9757894/IMF-We-are-advising-central-bankers-to-remain-focused-on-price-stability-mandates-encouraging-fiscal-authorities-to-have-medium-term-consolidation-plans.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 15:00:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757890",
+   "title": "IMF: Energy shock from war in the Middle East is not over; global debt pressures are mounting, and the disinflation process has stalled.",
+   "link": "https://www.financialjuice.com/News/9757890/IMF-Energy-shock-from-war-in-the-Middle-East-is-not-over-global-debt-pressures-are-mounting-and-the-disinflation-process-has-stalled.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 15:00:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757888",
+   "title": "IMF: Global growth remains on track to reach about 3% in 2026, but risks remain high.",
+   "link": "https://www.financialjuice.com/News/9757888/IMF-Global-growth-remains-on-track-to-reach-about-3-in-2026-but-risks-remain-high.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 15:00:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757887",
+   "title": "IMF: Global inflation expectations have risen but remain well-anchored over the longer run.",
+   "link": "https://www.financialjuice.com/News/9757887/IMF-Global-inflation-expectations-have-risen-but-remain-well-anchored-over-the-longer-run.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 15:00:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757868",
+   "title": "Yemen's Houthi-run Humanitarian Operations Coordination Centre: Red Sea navigation safe for all shipping companies except Saudi vessels.",
+   "link": "https://www.financialjuice.com/News/9757868/Yemens-Houthi-run-Humanitarian-Operations-Coordination-Centre-Red-Sea-navigation-safe-for-all-shipping-companies-except-Saudi-vessels.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 14:42:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757867",
+   "title": "Diesel futures top $5/gal for the first time since 2022.",
+   "link": "https://www.financialjuice.com/News/9757867/Diesel-futures-top-5gal-for-the-first-time-since-2022.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 14:42:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757841",
+   "title": "EIA Natural Gas Change BCF Actual 40B (Forecast 34B, Previous 30B)",
+   "link": "https://www.financialjuice.com/News/9757841/EIA-Natural-Gas-Change-BCF-Actual-40B-Forecast-34B-Previous-30B.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 14:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9757840",
+   "title": "Head of Yemen's Supreme Political Council: Saudi-backed forces will be granted amnesty if they lay down their arms - IRIB News",
+   "link": "https://www.financialjuice.com/News/9757840/Head-of-Yemens-Supreme-Political-Council-Saudi-backed-forces-will-be-granted-amnesty-if-they-lay-down-their-arms---IRIB-News.aspx?xy=rss",
+   "pubDate": "Thu, 10 Sep 2026 14:29:19 GMT",
+   "desc": ""
+  },
   {
    "id": "9757839",
    "title": "Head of Yemen's Supreme Political Council announces stability in Taiz coastal areas - IRIB.",
