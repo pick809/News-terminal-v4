@@ -1,7 +1,427 @@
 {
- "updated_at": "2026-09-10T01:05:23.749938+00:00",
- "count": 5796,
+ "updated_at": "2026-09-10T05:52:44.021307+00:00",
+ "count": 5856,
  "items": [
+  {
+   "id": "9756943",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9756943/RBA-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:52:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756942",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9756942/BoJ-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:51:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756941",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9756941/BoC-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:51:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756940",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9756940/BoE-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:51:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756939",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9756939/ECB-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:51:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756938",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9756938/Fed-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:50:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756937",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9756937/Commodities-Implied-Volatility.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:49:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756936",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9756936/FX-Implied-Volatility.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:49:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756935",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9756935/US-Index-Futures-Implied-Volatility.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:48:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756934",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9756934/Top-SP-500-Stock-Names-Implied-Volatility.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:48:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756933",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9756933/120-Day-Correlation-Matrix.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:47:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756932",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9756932/90-Day-Correlation-Matrix.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:47:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756931",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9756931/60-Day-Correlation-Matrix.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:47:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756930",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9756930/30-Day-Correlation-Matrix.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:46:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756923",
+   "title": "BoJ's Masu: Yen is rising while crude oil, global food prices rising so will scrutinize these factors comprehensively at next week's meeting in deciding on rates.",
+   "link": "https://www.financialjuice.com/News/9756923/BoJs-Masu-Yen-is-rising-while-crude-oil-global-food-prices-rising-so-will-scrutinize-these-factors-comprehensively-at-next-weeks-meeting-in-deciding-on-rates.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:44:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756922",
+   "title": "BoJ's Masu: It is unnatural for BoJ's policy rate to stay below its estimated range of neutral level.",
+   "link": "https://www.financialjuice.com/News/9756922/BoJs-Masu-It-is-unnatural-for-BoJs-policy-rate-to-stay-below-its-estimated-range-of-neutral-level.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:42:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756921",
+   "title": "BoJ's Masu: BoJ's policy rate is still below our estimated range on neutral rate, and has been below that level for a very long time so this needs to be fixed soon.",
+   "link": "https://www.financialjuice.com/News/9756921/BoJs-Masu-BoJs-policy-rate-is-still-below-our-estimated-range-on-neutral-rate-and-has-been-below-that-level-for-a-very-long-time-so-this-needs-to-be-fixed-soon.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:41:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756920",
+   "title": "BoJ's Masu: Important to stabilize price trend around 2%.",
+   "link": "https://www.financialjuice.com/News/9756920/BoJs-Masu-Important-to-stabilize-price-trend-around-2.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:39:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756919",
+   "title": "BoJ's Masu when asked about chance of 50-basis-point rate hike: We should proceed at a cautious approach in pushing up borrowing costs.",
+   "link": "https://www.financialjuice.com/News/9756919/BoJs-Masu-when-asked-about-chance-of-50-basis-point-rate-hike-We-should-proceed-at-a-cautious-approach-in-pushing-up-borrowing-costs.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:38:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756918",
+   "title": "BoJ's Masu: Underlying inflation gradually approaching 2% but don't see it overshooting sharply above that level now.",
+   "link": "https://www.financialjuice.com/News/9756918/BoJs-Masu-Underlying-inflation-gradually-approaching-2-but-dont-see-it-overshooting-sharply-above-that-level-now.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:38:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756902",
+   "title": "China chipmakers raised prices for AI processors, including Huawei and Cambricon.",
+   "link": "https://www.financialjuice.com/News/9756902/China-chipmakers-raised-prices-for-AI-processors-including-Huawei-and-Cambricon.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:16:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756885",
+   "title": "Finnish industrial output rises 4.5% in July year on year, Statistics Finland",
+   "link": "https://www.financialjuice.com/News/9756885/Finnish-industrial-output-rises-45-in-July-year-on-year-Statistics-Finland.aspx",
+   "pubDate": "Thu, 10 Sep 2026 05:00:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756884",
+   "title": "Japan chief cabinet secretary Kihara: aim to tackle abduction issue firmly to achieve Japan-North Korea summit meeting",
+   "link": "https://www.financialjuice.com/News/9756884/Japan-chief-cabinet-secretary-Kihara-aim-to-tackle-abduction-issue-firmly-to-achieve-Japan-North-Korea-summit-meeting.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:53:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756883",
+   "title": "Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa",
+   "link": "https://www.financialjuice.com/News/9756883/Russian-defence-ministry-also-struck-Ukraines-Black-Sea-port-of-Chornomorsk-two-ships-near-Odesa.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:51:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756882",
+   "title": "Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv",
+   "link": "https://www.financialjuice.com/News/9756882/Russian-Defence-Ministry-drone-warehouse-struck-in-Ukraines-Mykolaiv.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:50:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756880",
+   "title": "Russian air strikes hit Ukraine's Mykolaiv port, kill four: official",
+   "link": "https://www.financialjuice.com/News/9756880/Russian-air-strikes-hit-Ukraines-Mykolaiv-port-kill-four-official.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:46:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756853",
+   "title": "Dutch July manufacturing output rises 1.6% m/m: CBS",
+   "link": "https://www.financialjuice.com/News/9756853/Dutch-July-manufacturing-output-rises-16-mm-CBS.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:30:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756852",
+   "title": "China's state-run Sinograin purchased 14-15 shipments or about 1 mln tons of US soybeans in deals this week: sources",
+   "link": "https://www.financialjuice.com/News/9756852/Chinas-state-run-Sinograin-purchased-14-15-shipments-or-about-1-mln-tons-of-US-soybeans-in-deals-this-week-sources.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:17:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756836",
+   "title": "Russian air strikes kill five, injure 24 in Ukraine’s Sumy region: police",
+   "link": "https://www.financialjuice.com/News/9756836/Russian-air-strikes-kill-five-injure-24-in-Ukraines-Sumy-region-police.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:10:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756835",
+   "title": "Mubadala: to make major minority investment in Luckin Coffee alongside Centurium Capital",
+   "link": "https://www.financialjuice.com/News/9756835/Mubadala-to-make-major-minority-investment-in-Luckin-Coffee-alongside-Centurium-Capital.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:08:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756834",
+   "title": "Ukraine air strikes target Russia's Caspian Sea port of Makhachkala, official says",
+   "link": "https://www.financialjuice.com/News/9756834/Ukraine-air-strikes-target-Russias-Caspian-Sea-port-of-Makhachkala-official-says.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:06:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756833",
+   "title": "Saudi civil defence: threat has passed in Khamis Mushait",
+   "link": "https://www.financialjuice.com/News/9756833/Saudi-civil-defence-threat-has-passed-in-Khamis-Mushait.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:06:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756832",
+   "title": "Mubadala: continues to see strong long-term prospects in China’s consumer sector",
+   "link": "https://www.financialjuice.com/News/9756832/Mubadala-continues-to-see-strong-long-term-prospects-in-Chinas-consumer-sector.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:03:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756831",
+   "title": "IMF drops Ricardo Reis as lead candidate for new chief economist: FT",
+   "link": "https://www.financialjuice.com/News/9756831/IMF-drops-Ricardo-Reis-as-lead-candidate-for-new-chief-economist-FT.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:03:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756830",
+   "title": "Mubadala investment arrives as China’s coffee market keeps growing",
+   "link": "https://www.financialjuice.com/News/9756830/Mubadala-investment-arrives-as-Chinas-coffee-market-keeps-growing.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:03:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756829",
+   "title": "IMF dropped leading candidate for chief economist role over Trump tariff comments: FT",
+   "link": "https://www.financialjuice.com/News/9756829/IMF-dropped-leading-candidate-for-chief-economist-role-over-Trump-tariff-comments-FT.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:01:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756808",
+   "title": "Saudi civil defence issues emergency warning for province of Khamis Mushait - post on X",
+   "link": "https://www.financialjuice.com/News/9756808/Saudi-civil-defence-issues-emergency-warning-for-province-of-Khamis-Mushait---post-on-X.aspx",
+   "pubDate": "Thu, 10 Sep 2026 04:00:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756767",
+   "title": "Fortum: JP Morgan upgrades to neutral from underperform, lifts target to EUR 24.3 from EUR 17.8",
+   "link": "https://www.financialjuice.com/News/9756767/Fortum-JP-Morgan-upgrades-to-neutral-from-underperform-lifts-target-to-EUR-243-from-EUR-178.aspx",
+   "pubDate": "Thu, 10 Sep 2026 03:25:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756764",
+   "title": "Strait of Hormuz commodity vessel crossings below 10 on Wednesday, less than 10-day average of about 14, data shows",
+   "link": "https://www.financialjuice.com/News/9756764/Strait-of-Hormuz-commodity-vessel-crossings-below-10-on-Wednesday-less-than-10-day-average-of-about-14-data-shows.aspx",
+   "pubDate": "Thu, 10 Sep 2026 03:05:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756729",
+   "title": "Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult",
+   "link": "https://www.financialjuice.com/News/9756729/Trump-if-Republicans-secure-house-and-senate-Ill-issue-5000-payout-to-every-US-adult.aspx",
+   "pubDate": "Thu, 10 Sep 2026 02:10:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756626",
+   "title": "Yield gap between 10-year Chinese government bonds and US Treasury expands to record 316.7 basis points",
+   "link": "https://www.financialjuice.com/News/9756626/Yield-gap-between-10-year-Chinese-government-bonds-and-US-Treasury-expands-to-record-3167-basis-points.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:50:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756625",
+   "title": "BOJ's Masu: Debating maturity zones of JGBs held more crucial than balance sheet size",
+   "link": "https://www.financialjuice.com/News/9756625/BOJs-Masu-Debating-maturity-zones-of-JGBs-held-more-crucial-than-balance-sheet-size.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:47:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756622",
+   "title": "BOJ's Masu: no sign recent rate increases are weakening corporate demand for funds, concerned about potential overheating of corporate investment",
+   "link": "https://www.financialjuice.com/News/9756622/BOJs-Masu-no-sign-recent-rate-increases-are-weakening-corporate-demand-for-funds-concerned-about-potential-overheating-of-corporate-investment.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:46:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756619",
+   "title": "Boj's Masu: Boj Must Raise Rates Further and Push Policy Rate to Estimated Neutral Level to Prepare for Nimble Policy Moves",
+   "link": "https://www.financialjuice.com/News/9756619/Bojs-Masu-Boj-Must-Raise-Rates-Further-and-Push-Policy-Rate-to-Estimated-Neutral-Level-to-Prepare-for-Nimble-Policy-Moves.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:44:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756618",
+   "title": "BOJ's Masu: Japan's financial conditions steady, rapid rate hikes possible if inflation picks up",
+   "link": "https://www.financialjuice.com/News/9756618/BOJs-Masu-Japans-financial-conditions-steady-rapid-rate-hikes-possible-if-inflation-picks-up.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:43:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756617",
+   "title": "BOJ’s Masu: policy rate nearing estimated neutral range, must closely monitor price, job, financial conditions",
+   "link": "https://www.financialjuice.com/News/9756617/BOJs-Masu-policy-rate-nearing-estimated-neutral-range-must-closely-monitor-price-job-financial-conditions.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:42:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756616",
+   "title": "Boj's Masu: Japan no longer in deflation, must raise real interest rate above negative territory promptly",
+   "link": "https://www.financialjuice.com/News/9756616/Bojs-Masu-Japan-no-longer-in-deflation-must-raise-real-interest-rate-above-negative-territory-promptly.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:42:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756615",
+   "title": "BOJ's Masu: Weak yen has greater effect on inflation than before, warrants attention",
+   "link": "https://www.financialjuice.com/News/9756615/BOJs-Masu-Weak-yen-has-greater-effect-on-inflation-than-before-warrants-attention.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:41:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756614",
+   "title": "BOJ's Masu: food cost increases set to re-accelerate, may hold key to long-term inflation outlook",
+   "link": "https://www.financialjuice.com/News/9756614/BOJs-Masu-food-cost-increases-set-to-re-accelerate-may-hold-key-to-long-term-inflation-outlook.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:40:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756613",
+   "title": "Boj’s Masu: recent 7% rise in producer prices requires attention as increase could boost consumer inflation more than before",
+   "link": "https://www.financialjuice.com/News/9756613/Bojs-Masu-recent-7-rise-in-producer-prices-requires-attention-as-increase-could-boost-consumer-inflation-more-than-before.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:38:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756612",
+   "title": "BOJ's Masu: government measures to ease cost of living impact may increase demand, drive inflation higher",
+   "link": "https://www.financialjuice.com/News/9756612/BOJs-Masu-government-measures-to-ease-cost-of-living-impact-may-increase-demand-drive-inflation-higher.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:37:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756611",
+   "title": "BOJ board member Masu: rising costs from Middle East conflict may drive overall prices higher",
+   "link": "https://www.financialjuice.com/News/9756611/BOJ-board-member-Masu-rising-costs-from-Middle-East-conflict-may-drive-overall-prices-higher.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:36:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756610",
+   "title": "BOJ board member Masu: rise in fuel, chemical prices may be one-off shock but could affect prices through distribution costs",
+   "link": "https://www.financialjuice.com/News/9756610/BOJ-board-member-Masu-rise-in-fuel-chemical-prices-may-be-one-off-shock-but-could-affect-prices-through-distribution-costs.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:34:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756609",
+   "title": "BOJ board member Masu: key focus is preventing underlying inflation from sharply exceeding 2%",
+   "link": "https://www.financialjuice.com/News/9756609/BOJ-board-member-Masu-key-focus-is-preventing-underlying-inflation-from-sharply-exceeding-2.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:34:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756608",
+   "title": "Multiple US military aircraft damaged in strikes overnight at Muwaffaq Salti Air Base in Jordan: CBS reporter on X",
+   "link": "https://www.financialjuice.com/News/9756608/Multiple-US-military-aircraft-damaged-in-strikes-overnight-at-Muwaffaq-Salti-Air-Base-in-Jordan-CBS-reporter-on-X.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:33:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756607",
+   "title": "BOJ board member Masu: pace and timing of rate increase will depend on likelihood of meeting baseline projections and risks, considering oil price changes, al-demand, and currency fluctuations",
+   "link": "https://www.financialjuice.com/News/9756607/BOJ-board-member-Masu-pace-and-timing-of-rate-increase-will-depend-on-likelihood-of-meeting-baseline-projections-and-risks-considering-oil-price-changes-al-demand-and-currency-fluctuations.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:33:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756606",
+   "title": "BoJ board member Masu: BoJ likely to keep raising interest rates amid current loose financial conditions",
+   "link": "https://www.financialjuice.com/News/9756606/BoJ-board-member-Masu-BoJ-likely-to-keep-raising-interest-rates-amid-current-loose-financial-conditions.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:32:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756605",
+   "title": "Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level",
+   "link": "https://www.financialjuice.com/News/9756605/Bank-of-Japan-board-member-Masu-underlying-inflation-remains-under-2-but-close-to-that-level.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:31:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756588",
+   "title": "China cbank injects 3 bln yuan via 7-day reverse repos: statement",
+   "link": "https://www.financialjuice.com/News/9756588/China-cbank-injects-3-bln-yuan-via-7-day-reverse-repos-statement.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:21:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9756587",
+   "title": "China sets yuan midpoint at strongest level since Feb. 8, 2023, PBOC says",
+   "link": "https://www.financialjuice.com/News/9756587/China-sets-yuan-midpoint-at-strongest-level-since-Feb-8-2023-PBOC-says.aspx",
+   "pubDate": "Thu, 10 Sep 2026 01:16:54 GMT",
+   "desc": ""
+  },
   {
    "id": "9756558",
    "title": "Taiwan overnight interbank rate opens at 0.805% matching previous session opening",
