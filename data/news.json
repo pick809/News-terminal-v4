@@ -1,7 +1,182 @@
 {
- "updated_at": "2026-09-15T19:55:05.933468+00:00",
- "count": 7016,
+ "updated_at": "2026-09-15T22:33:11.699088+00:00",
+ "count": 7041,
  "items": [
+  {
+   "id": "9764527",
+   "title": "RBNZ assistant governor Karen Silk to depart central bank",
+   "link": "https://www.financialjuice.com/News/9764527/RBNZ-assistant-governor-Karen-Silk-to-depart-central-bank.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 22:29:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764526",
+   "title": "Meta plans to unveil camera-free Luna smart glasses this fall: The Information",
+   "link": "https://www.financialjuice.com/News/9764526/Meta-plans-to-unveil-camera-free-Luna-smart-glasses-this-fall-The-Information.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 22:24:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764525",
+   "title": "Meta to roll out smart glasses without cameras amid rising privacy concerns: The Information",
+   "link": "https://www.financialjuice.com/News/9764525/Meta-to-roll-out-smart-glasses-without-cameras-amid-rising-privacy-concerns-The-Information.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 22:23:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764524",
+   "title": "Trump advisers Lutnick, Michael confer with leading Anthropic executive on AI safety",
+   "link": "https://www.financialjuice.com/News/9764524/Trump-advisers-Lutnick-Michael-confer-with-leading-Anthropic-executive-on-AI-safety.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 22:21:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764516",
+   "title": "OpenAI considers funding round at $1.2 trillion valuation before IPO - FT (adds currency)",
+   "link": "https://www.financialjuice.com/News/9764516/OpenAI-considers-funding-round-at-12-trillion-valuation-before-IPO---FT-adds-currency.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 22:06:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764515",
+   "title": "Several blasts heard on Iran's Geshm island: IRNA citing local sources",
+   "link": "https://www.financialjuice.com/News/9764515/Several-blasts-heard-on-Irans-Geshm-island-IRNA-citing-local-sources.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 22:05:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764514",
+   "title": "Microsoft declares quarterly dividend of $0.98 per share, up 8% from prior quarter",
+   "link": "https://www.financialjuice.com/News/9764514/Microsoft-declares-quarterly-dividend-of-098-per-share-up-8-from-prior-quarter.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 22:05:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764499",
+   "title": "Kraken investigating issue with base network funding gateway, deposits and withdrawals may be delayed",
+   "link": "https://www.financialjuice.com/News/9764499/Kraken-investigating-issue-with-base-network-funding-gateway-deposits-and-withdrawals-may-be-delayed.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 22:00:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764498",
+   "title": "OpenAI weighs funding round at $1.2tn valuation before IPO: FT",
+   "link": "https://www.financialjuice.com/News/9764498/OpenAI-weighs-funding-round-at-12tn-valuation-before-IPO-FT.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 21:57:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764497",
+   "title": "OpenAI considers funding round at $0.2tn valuation ahead of IPO - FT",
+   "link": "https://www.financialjuice.com/News/9764497/OpenAI-considers-funding-round-at-02tn-valuation-ahead-of-IPO---FT.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 21:55:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764472",
+   "title": "Kraken investigating issue with Cardano funding gateway, withdrawals may be delayed",
+   "link": "https://www.financialjuice.com/News/9764472/Kraken-investigating-issue-with-Cardano-funding-gateway-withdrawals-may-be-delayed.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 21:37:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764471",
+   "title": "Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar",
+   "link": "https://www.financialjuice.com/News/9764471/Nvidia-CEO-Huang-to-attend-US-state-dinner-for-Chinas-Xi-source-familiar.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 21:35:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764454",
+   "title": "Ecuador central bank lifts 2026 economic growth forecast to 2.7% from 2.5%",
+   "link": "https://www.financialjuice.com/News/9764454/Ecuador-central-bank-lifts-2026-economic-growth-forecast-to-27-from-25.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 21:24:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764453",
+   "title": "Ukraine to allocate 43.8% of GDP for defense efforts in 2024 draft budget",
+   "link": "https://www.financialjuice.com/News/9764453/Ukraine-to-allocate-438-of-GDP-for-defense-efforts-in-2024-draft-budget.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 21:19:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764452",
+   "title": "Ukraine will need $52.6 billion in global financial support in 2027: draft budget",
+   "link": "https://www.financialjuice.com/News/9764452/Ukraine-will-need-526-billion-in-global-financial-support-in-2027-draft-budget.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 21:19:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764451",
+   "title": "Ukraine sets budget revenue goal at 5.65 trillion hryvnias ($126.7 bln) next year: draft budget",
+   "link": "https://www.financialjuice.com/News/9764451/Ukraine-sets-budget-revenue-goal-at-565-trillion-hryvnias-1267-bln-next-year-draft-budget.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 21:19:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764450",
+   "title": "Trump and Burnham expected to discuss Ukraine, Middle East and energy at United Nations General Assembly - The Times",
+   "link": "https://www.financialjuice.com/News/9764450/Trump-and-Burnham-expected-to-discuss-Ukraine-Middle-East-and-energy-at-United-Nations-General-Assembly---The-Times.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 21:18:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764449",
+   "title": "Burnham to meet Trump for first time in New York next week: The Times",
+   "link": "https://www.financialjuice.com/News/9764449/Burnham-to-meet-Trump-for-first-time-in-New-York-next-week-The-Times.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 21:17:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764424",
+   "title": "Reports of an explosion heard in Erbil, northern Iraq - Tasnim News.",
+   "link": "https://www.financialjuice.com/News/9764424/Reports-of-an-explosion-heard-in-Erbil-northern-Iraq---Tasnim-News.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 20:57:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764422",
+   "title": "US API Cushing Stock Change Actual -0.246M (Forecast -, Previous -0.3M)",
+   "link": "https://www.financialjuice.com/News/9764422/US-API-Cushing-Stock-Change-Actual--0246M-Forecast---Previous--03M.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 20:50:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764420",
+   "title": "US API Distillate Stock Change Actual 1.6M (Forecast -, Previous 2M)",
+   "link": "https://www.financialjuice.com/News/9764420/US-API-Distillate-Stock-Change-Actual-16M-Forecast---Previous-2M.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 20:48:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764419",
+   "title": "US API Gasoline Stock Change Actual 1.5M (Forecast -, Previous -1.9M)",
+   "link": "https://www.financialjuice.com/News/9764419/US-API-Gasoline-Stock-Change-Actual-15M-Forecast---Previous--19M.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 20:48:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764418",
+   "title": "US API Crude Oil Stock Change Actual 7.1M (Forecast -1.8M, Previous -0.3M)",
+   "link": "https://www.financialjuice.com/News/9764418/US-API-Crude-Oil-Stock-Change-Actual-71M-Forecast--18M-Previous--03M.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 20:48:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764403",
+   "title": "Council of Economic Advisers Chairman Phelan: It would be a mistake for the Fed to hike rates - CNBC Interview.",
+   "link": "https://www.financialjuice.com/News/9764403/Council-of-Economic-Advisers-Chairman-Phelan-It-would-be-a-mistake-for-the-Fed-to-hike-rates---CNBC-Interview.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 20:42:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764357",
+   "title": "FOMC Prep - FJElite",
+   "link": "https://www.financialjuice.com/News/9764357/FOMC-Prep---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 20:00:19 GMT",
+   "desc": ""
+  },
   {
    "id": "9764356",
    "title": "MOC Imbalance",
