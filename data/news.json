@@ -1,7 +1,280 @@
 {
- "updated_at": "2026-09-15T16:50:55.501132+00:00",
- "count": 6977,
+ "updated_at": "2026-09-15T19:55:05.933468+00:00",
+ "count": 7016,
  "items": [
+  {
+   "id": "9764356",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9764356/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:50:31 GMT",
+   "desc": "S&amp;P 500: -754 mln Nasdaq 100: -72 mln Dow 30: -124 mln Mag 7: +259 mln"
+  },
+  {
+   "id": "9764343",
+   "title": "US VP Vance: The US is not engaged in aggressive operations - NY Post.",
+   "link": "https://www.financialjuice.com/News/9764343/US-VP-Vance-The-US-is-not-engaged-in-aggressive-operations---NY-Post.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:45:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764335",
+   "title": "US VP Vance to NYP: Iran is occasionally shooting at commercial shipping.",
+   "link": "https://www.financialjuice.com/News/9764335/US-VP-Vance-to-NYP-Iran-is-occasionally-shooting-at-commercial-shipping.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:45:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764334",
+   "title": "US VP Vance agrees that the war will end after the midterms - NY Post.",
+   "link": "https://www.financialjuice.com/News/9764334/US-VP-Vance-agrees-that-the-war-will-end-after-the-midterms---NY-Post.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:44:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764316",
+   "title": "Wednesday FX Option Expiries",
+   "link": "https://www.financialjuice.com/News/9764316/Wednesday-FX-Option-Expiries.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:21:53 GMT",
+   "desc": "USD/JPY: 155.00 ($1.11b), 160.00 ($996.4m), 158.00 ($995.3m) EUR/USD: 1.1400 (EU3.16b), 1.1430 (EU1.18b), 1.1595 (EU1.09b) AUD/USD: 0.7130 (AUD1.01b), 0.7175 (AUD834.6m), 0.7150 (AUD560.8m) USD/CAD: 1.3545 ($565m), 1.3830 ($353.6m), 1.3955 ($310.2m) USD/MXN: 17.31 ($335.1m), 16.75 ($335m) EUR/GBP: 0.8675 (EU498m), 0.8680 (EU400.9m), 0.8560 (EU344.9m) GBP/USD: 1.3800 (GBP304.4m) NZD/US D: 0.5500 (NZD400m)"
+  },
+  {
+   "id": "9764315",
+   "title": "Danger has passed in Khamis Mushait - Saudi Civil Defense.",
+   "link": "https://www.financialjuice.com/News/9764315/Danger-has-passed-in-Khamis-Mushait---Saudi-Civil-Defense.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:20:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764314",
+   "title": "Danger has passed in Jazan - Saudi Civil Defense.",
+   "link": "https://www.financialjuice.com/News/9764314/Danger-has-passed-in-Jazan---Saudi-Civil-Defense.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:18:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764303",
+   "title": "Early warning issued in Khamis Mushait to alert of potential danger - Saudi Civil Defense.",
+   "link": "https://www.financialjuice.com/News/9764303/Early-warning-issued-in-Khamis-Mushait-to-alert-of-potential-danger---Saudi-Civil-Defense.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:14:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764302",
+   "title": "Saudi: Warning issued in the Jazan province.",
+   "link": "https://www.financialjuice.com/News/9764302/Saudi-Warning-issued-in-the-Jazan-province.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:12:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764301",
+   "title": "US Senate votes 50-49 against advancing the Clarity act.",
+   "link": "https://www.financialjuice.com/News/9764301/US-Senate-votes-50-49-against-advancing-the-Clarity-act.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:05:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764282",
+   "title": "US Senate blocks landmark Crypto bill.",
+   "link": "https://www.financialjuice.com/News/9764282/US-Senate-blocks-landmark-Crypto-bill.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 19:01:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764273",
+   "title": "JPmorgan's Petno: We would expect trading fees in the third quarter to be up mid to high teens. $JPM",
+   "link": "https://www.financialjuice.com/News/9764273/JPmorgans-Petno-We-would-expect-trading-fees-in-the-third-quarter-to-be-up-mid-to-high-teens-JPM.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:54:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764254",
+   "title": "Brent Crude futures settle at $108.75/bbl, up $3.07, 2.9%.",
+   "link": "https://www.financialjuice.com/News/9764254/Brent-Crude-futures-settle-at-10875bbl-up-307-29.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:45:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764253",
+   "title": "The Clarity Act is on track to fail the procedural hurdle in the Senate.",
+   "link": "https://www.financialjuice.com/News/9764253/The-Clarity-Act-is-on-track-to-fail-the-procedural-hurdle-in-the-Senate.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:42:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764252",
+   "title": "NVIDIA CEO Huang: We do not need new laws or regulations for AI safety - Salesforce Event. $NVDA",
+   "link": "https://www.financialjuice.com/News/9764252/NVIDIA-CEO-Huang-We-do-not-need-new-laws-or-regulations-for-AI-safety---Salesforce-Event-NVDA.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:33:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764251",
+   "title": "NYMEX Natural Gas October futures settle at $2.9190/MMBtu.",
+   "link": "https://www.financialjuice.com/News/9764251/NYMEX-Natural-Gas-October-futures-settle-at-29190MMBtu.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:32:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764248",
+   "title": "NYMEX Diesel October futures settle at $5.2620 a gallon, the highest on record.",
+   "link": "https://www.financialjuice.com/News/9764248/NYMEX-Diesel-October-futures-settle-at-52620-a-gallon-the-highest-on-record.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:31:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764247",
+   "title": "NYMEX Gasoline October futures settle at $3.4652 a gallon.",
+   "link": "https://www.financialjuice.com/News/9764247/NYMEX-Gasoline-October-futures-settle-at-34652-a-gallon.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:31:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764242",
+   "title": "NYMEX WTI Crude October futures settle at $105.83 a barrel, up $4.44, 4.38%.",
+   "link": "https://www.financialjuice.com/News/9764242/NYMEX-WTI-Crude-October-futures-settle-at-10583-a-barrel-up-444-438.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:31:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764234",
+   "title": "Senate Republican Leader Thune: We have to mitigate the risks of AI.",
+   "link": "https://www.financialjuice.com/News/9764234/Senate-Republican-Leader-Thune-We-have-to-mitigate-the-risks-of-AI.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:28:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764233",
+   "title": "Clarity Act Vote - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9764233/Clarity-Act-Vote---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:26:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764209",
+   "title": "US Treasury Accepts $500 Million in Long-Dated Debt Buyback",
+   "link": "https://www.financialjuice.com/News/9764209/US-Treasury-Accepts-500-Million-in-Long-Dated-Debt-Buyback.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:02:40 GMT",
+   "desc": "US Treasury receives $2.088 billion of offers and accepts $500 million Treasury accepts 6 of 16 eligible issues Buyback targets coupon securities maturing between 2040 and 2056"
+  },
+  {
+   "id": "9764188",
+   "title": "Anthropic's Amodei: The world is only making use of 5% to 10% of current AI.",
+   "link": "https://www.financialjuice.com/News/9764188/Anthropics-Amodei-The-world-is-only-making-use-of-5-to-10-of-current-AI.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:00:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764187",
+   "title": "CBO: war in Iran cost us $38 billion in first five months.",
+   "link": "https://www.financialjuice.com/News/9764187/CBO-war-in-Iran-cost-us-38-billion-in-first-five-months.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:00:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764184",
+   "title": "CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.",
+   "link": "https://www.financialjuice.com/News/9764184/CBO-Annual-PCE-inflation-projection-now-05-ppt-higher-in-Q1-2027.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 18:00:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764183",
+   "title": "WATCH LIVE: Attorney General Blanche Speaks 2 PM ET",
+   "link": "https://www.financialjuice.com/News/9764183/WATCH-LIVE-Attorney-General-Blanche-Speaks-2-PM-ET.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:58:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764182",
+   "title": "Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News",
+   "link": "https://www.financialjuice.com/News/9764182/Iranian-Army-Spokesman-Iran-and-Pakistan-are-cooperating-to-ensure-regional-security---Tasnim-News.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:53:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764158",
+   "title": "Canada's Resources Minister Tim Hodgson: Canada tax changes to serve as investment ‘motivator’ in commodity sector.",
+   "link": "https://www.financialjuice.com/News/9764158/Canadas-Resources-Minister-Tim-Hodgson-Canada-tax-changes-to-serve-as-investment-motivator-in-commodity-sector.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:20:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764157",
+   "title": "Canada's Resources Minister Tim Hodgson: Canada aiming to complete energy-, mining-project reviews within 12 months.",
+   "link": "https://www.financialjuice.com/News/9764157/Canadas-Resources-Minister-Tim-Hodgson-Canada-aiming-to-complete-energy--mining-project-reviews-within-12-months.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:20:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764152",
+   "title": "Israel helping Saudi Arabia with intelligence is aimed at ensuring freedom of navigation in the Bab al-Mandab Strait - Israel's Kan News citing foreign source",
+   "link": "https://www.financialjuice.com/News/9764152/Israel-helping-Saudi-Arabia-with-intelligence-is-aimed-at-ensuring-freedom-of-navigation-in-the-Bab-al-Mandab-Strait---Israels-Kan-News-citing-foreign-source.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:17:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764131",
+   "title": "IAEA Spokesperson Kamalvandi: Iran will not surrender. our nuclear program is peaceful.",
+   "link": "https://www.financialjuice.com/News/9764131/IAEA-Spokesperson-Kamalvandi-Iran-will-not-surrender-our-nuclear-program-is-peaceful.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:13:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764130",
+   "title": "Germany’s Chancellor Merz cancels trip to New York next week. To remain in Berlin - Govt Officials",
+   "link": "https://www.financialjuice.com/News/9764130/Germanys-Chancellor-Merz-cancels-trip-to-New-York-next-week-To-remain-in-Berlin---Govt-Officials.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:08:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764129",
+   "title": "Israel's Chief of Staff met with military commanders from Gulf countries - Israel's N12 News",
+   "link": "https://www.financialjuice.com/News/9764129/Israels-Chief-of-Staff-met-with-military-commanders-from-Gulf-countries---Israels-N12-News.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:07:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764128",
+   "title": "US prepares sale of 2,000-pound bombs to Israel - WaPo",
+   "link": "https://www.financialjuice.com/News/9764128/US-prepares-sale-of-2000-pound-bombs-to-Israel---WaPo.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:06:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764127",
+   "title": "US 20 Yr Bond Auction",
+   "link": "https://www.financialjuice.com/News/9764127/US-20-Yr-Bond-Auction.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:03:36 GMT",
+   "desc": "High Yield 5.42% (Tail of 2 BPS) Bid-to-Cover&nbsp;2.57 Sells $13 bln Awards 30.14% of bids at high Primary dealers take 16.85% Direct 30.68% Indirect 52.47%"
+  },
+  {
+   "id": "9764126",
+   "title": "US 20-Year Bond Bid-to-Cover Actual 2.570 (Forecast -, Previous 2.530)",
+   "link": "https://www.financialjuice.com/News/9764126/US-20-Year-Bond-Bid-to-Cover-Actual-2570-Forecast---Previous-2530.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:02:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764125",
+   "title": "US 20-Year Bond High Yield Actual 5.42% (Forecast -, Previous 5.204%)",
+   "link": "https://www.financialjuice.com/News/9764125/US-20-Year-Bond-High-Yield-Actual-542-Forecast---Previous-5204.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:02:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764111",
+   "title": "US Treasury Secretary Bessent hearing at House Financial Services panel concludes.",
+   "link": "https://www.financialjuice.com/News/9764111/US-Treasury-Secretary-Bessent-hearing-at-House-Financial-Services-panel-concludes.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:00:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9764106",
+   "title": "Treasury WI 20 Yr yield 5.400% before $13 billion auction",
+   "link": "https://www.financialjuice.com/News/9764106/Treasury-WI-20-Yr-yield-5400-before-13-billion-auction.aspx?xy=rss",
+   "pubDate": "Tue, 15 Sep 2026 17:00:16 GMT",
+   "desc": ""
+  },
   {
    "id": "9764091",
    "title": "French Central Bank forecasts 2026 HICP inflation at 2.3% (vs 2.5% in June), sees 1.9% in 2027 (vs 1.7%) and 1.6% in 2028 (vs 1.7%).",
