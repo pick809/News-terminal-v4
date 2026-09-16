@@ -1,7 +1,525 @@
 {
- "updated_at": "2026-09-16T14:51:28.072980+00:00",
- "count": 7221,
+ "updated_at": "2026-09-16T18:33:13.827464+00:00",
+ "count": 7295,
  "items": [
+  {
+   "id": "9766134",
+   "title": "Fed's Chair Warsh: Credit flows have been robust.",
+   "link": "https://www.financialjuice.com/News/9766134/Feds-Chair-Warsh-Credit-flows-have-been-robust.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:32:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766133",
+   "title": "Fed's Warsh: Key markers have improved in the recent months.",
+   "link": "https://www.financialjuice.com/News/9766133/Feds-Warsh-Key-markers-have-improved-in-the-recent-months.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:32:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766132",
+   "title": "Fed's Warsh: This decision comes when the economy appears to be strengthening.",
+   "link": "https://www.financialjuice.com/News/9766132/Feds-Warsh-This-decision-comes-when-the-economy-appears-to-be-strengthening.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:32:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766131",
+   "title": "NYMEX Diesel October futures settle at $5.2465 a gallon.",
+   "link": "https://www.financialjuice.com/News/9766131/NYMEX-Diesel-October-futures-settle-at-52465-a-gallon.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:31:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766130",
+   "title": "Fed's Warsh: Inflation remains elevated.",
+   "link": "https://www.financialjuice.com/News/9766130/Feds-Warsh-Inflation-remains-elevated.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:31:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766129",
+   "title": "NYMEX Gasoline October futures settle at $3.4850 a gallon.",
+   "link": "https://www.financialjuice.com/News/9766129/NYMEX-Gasoline-October-futures-settle-at-34850-a-gallon.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:31:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766128",
+   "title": "NYMEX Natural Gas October futures settle at $2.8910/MMBtu.",
+   "link": "https://www.financialjuice.com/News/9766128/NYMEX-Natural-Gas-October-futures-settle-at-28910MMBtu.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:31:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766110",
+   "title": "NYMEX WTI Crude October futures settle at $102.43 a barrel, down $3.40, 3.21%.",
+   "link": "https://www.financialjuice.com/News/9766110/NYMEX-WTI-Crude-October-futures-settle-at-10243-a-barrel-down-340-321.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:30:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766101",
+   "title": "Goldman Sachs CEO Solomon: FICC has been a little softer on a relative basis, but the equities business continues to be very strong. $GS",
+   "link": "https://www.financialjuice.com/News/9766101/Goldman-Sachs-CEO-Solomon-FICC-has-been-a-little-softer-on-a-relative-basis-but-the-equities-business-continues-to-be-very-strong-GS.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:28:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766100",
+   "title": "Deutsche Bank Chief US Economist Luzzetti: We see the Fed's patience has run out, and that it is time to act.",
+   "link": "https://www.financialjuice.com/News/9766100/Deutsche-Bank-Chief-US-Economist-Luzzetti-We-see-the-Feds-patience-has-run-out-and-that-it-is-time-to-act.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:27:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766099",
+   "title": "Deutsche Bank Chief US Economist Luzzetti on the rate statement: I think the word 'timelier' is doing a lot of work.",
+   "link": "https://www.financialjuice.com/News/9766099/Deutsche-Bank-Chief-US-Economist-Luzzetti-on-the-rate-statement-I-think-the-word-timelier-is-doing-a-lot-of-work.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:25:53 GMT",
+   "desc": "Rate Statement: &quot;Action will support a timelier return to 2% inflation goal&quot;"
+  },
+  {
+   "id": "9766098",
+   "title": "Deutsche Bank Chief US Economist Luzzetti: The US has a very strong growth backrop, supply shocks.",
+   "link": "https://www.financialjuice.com/News/9766098/Deutsche-Bank-Chief-US-Economist-Luzzetti-The-US-has-a-very-strong-growth-backrop-supply-shocks.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:23:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766096",
+   "title": "Deutsche Bank Chief US Economist Luzzetti: The dot plot was a bit more hawkish than anticipated. The view that the Fed has started a mild tightening cycle.",
+   "link": "https://www.financialjuice.com/News/9766096/Deutsche-Bank-Chief-US-Economist-Luzzetti-The-dot-plot-was-a-bit-more-hawkish-than-anticipated-The-view-that-the-Fed-has-started-a-mild-tightening-cycle.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:23:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766094",
+   "title": "FOMC Press Conference with Chair Warsh - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9766094/FOMC-Press-Conference-with-Chair-Warsh---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:22:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766093",
+   "title": "US diplomats met over the weekend with Houthi representatives at the US embassy in Oman and discussed tensions in the Red Sea -Axios.",
+   "link": "https://www.financialjuice.com/News/9766093/US-diplomats-met-over-the-weekend-with-Houthi-representatives-at-the-US-embassy-in-Oman-and-discussed-tensions-in-the-Red-Sea--Axios.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:21:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766092",
+   "title": "Pimco's Clarida: I think we can get disinflation without a recession.",
+   "link": "https://www.financialjuice.com/News/9766092/Pimcos-Clarida-I-think-we-can-get-disinflation-without-a-recession.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:20:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766062",
+   "title": "Pimco's Clarida: I think it is important it was a unanimous decision",
+   "link": "https://www.financialjuice.com/News/9766062/Pimcos-Clarida-I-think-it-is-important-it-was-a-unanimous-decision.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:08:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766061",
+   "title": "Traders maintain bets on another Fed rate hike this year",
+   "link": "https://www.financialjuice.com/News/9766061/Traders-maintain-bets-on-another-Fed-rate-hike-this-year.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:05:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766056",
+   "title": "Fed Officials' median view of the Fed funds rate at end-2029 3.6%.",
+   "link": "https://www.financialjuice.com/News/9766056/Fed-Officials-median-view-of-the-Fed-funds-rate-at-end-2029-36.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:02:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766055",
+   "title": "Fed: 16 officials project at least one more rate hike in 2026.",
+   "link": "https://www.financialjuice.com/News/9766055/Fed-16-officials-project-at-least-one-more-rate-hike-in-2026.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:01:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766054",
+   "title": "Fed: Productivity growth is strong, capital investment is robust.",
+   "link": "https://www.financialjuice.com/News/9766054/Fed-Productivity-growth-is-strong-capital-investment-is-robust.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:01:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766053",
+   "title": "Fed: Domestic spending has been resilient despite elevated uncertainty.",
+   "link": "https://www.financialjuice.com/News/9766053/Fed-Domestic-spending-has-been-resilient-despite-elevated-uncertainty.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:01:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766051",
+   "title": "Fed: Inflation remains elevated, drops earlier description of that owing in part to supply shocks.",
+   "link": "https://www.financialjuice.com/News/9766051/Fed-Inflation-remains-elevated-drops-earlier-description-of-that-owing-in-part-to-supply-shocks.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:01:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766039",
+   "title": "Fed Policymakers see 2.3% GDP growth in 2026 versus 2.2% in June, see longer-run growth at 2.0% vs 2.0% in June.",
+   "link": "https://www.financialjuice.com/News/9766039/Fed-Policymakers-see-23-GDP-growth-in-2026-versus-22-in-June-see-longer-run-growth-at-20-vs-20-in-June.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:01:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766037",
+   "title": "Fed Policymakers see end-2026 PCE inflation at 3.7% versus 3.6% in June; core seen at 3.4% versus 3.3%.",
+   "link": "https://www.financialjuice.com/News/9766037/Fed-Policymakers-see-end-2026-PCE-inflation-at-37-versus-36-in-June-core-seen-at-34-versus-33.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766036",
+   "title": "Fed Policymakers see 4.1% unemployment rate at end of 2026 versus 4.3% in June projections.",
+   "link": "https://www.financialjuice.com/News/9766036/Fed-Policymakers-see-41-unemployment-rate-at-end-of-2026-versus-43-in-June-projections.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766033",
+   "title": "Fed Median Rate Forecast (Current) Actual 4.125% (Forecast 4.125%, Previous 3.75%)",
+   "link": "https://www.financialjuice.com/News/9766033/Fed-Median-Rate-Forecast-Current-Actual-4125-Forecast-4125-Previous-375.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766032",
+   "title": "Fed Median Rate Forecast (Next 3 Yrs) Actual 3.625% (Forecast 3.375%, Previous -)",
+   "link": "https://www.financialjuice.com/News/9766032/Fed-Median-Rate-Forecast-Next-3-Yrs-Actual-3625-Forecast-3375-Previous--.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766031",
+   "title": "Fed Median Rate Forecast (Next 2 Yrs) Actual 3.875% (Forecast 3.625%, Previous 3.375%)",
+   "link": "https://www.financialjuice.com/News/9766031/Fed-Median-Rate-Forecast-Next-2-Yrs-Actual-3875-Forecast-3625-Previous-3375.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766030",
+   "title": "Fed Median Rate Forecast (Next Yr) Actual 4.125% (Forecast 3.875%, Previous 3.625%)",
+   "link": "https://www.financialjuice.com/News/9766030/Fed-Median-Rate-Forecast-Next-Yr-Actual-4125-Forecast-3875-Previous-3625.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766029",
+   "title": "Fed Median Rate Forecast (Long Run) Actual 3.25% (Forecast 3.125%, Previous 3.063%)",
+   "link": "https://www.financialjuice.com/News/9766029/Fed-Median-Rate-Forecast-Long-Run-Actual-325-Forecast-3125-Previous-3063.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766028",
+   "title": "Fed: Vote in favor of policy was unanimous.",
+   "link": "https://www.financialjuice.com/News/9766028/Fed-Vote-in-favor-of-policy-was-unanimous.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766060",
+   "title": "Fed Projections show 12 of 18 officials see one more 25-basis-point rate hike this year; four see two hikes; two see no more hikes.",
+   "link": "https://www.financialjuice.com/News/9766060/Fed-Projections-show-12-of-18-officials-see-one-more-25-basis-point-rate-hike-this-year-four-see-two-hikes-two-see-no-more-hikes.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:27 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"NTMTDVxF\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9766027",
+   "title": "Fed: Job gains have kept pace with the workforce, unemployment rate has changed little.",
+   "link": "https://www.financialjuice.com/News/9766027/Fed-Job-gains-have-kept-pace-with-the-workforce-unemployment-rate-has-changed-little.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766026",
+   "title": "US Interest Rate Decision Actual 4% (Forecast 4%, Previous 3.75%)",
+   "link": "https://www.financialjuice.com/News/9766026/US-Interest-Rate-Decision-Actual-4-Forecast-4-Previous-375.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 18:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766025",
+   "title": "SocGen's Rajappa: I feel like Warsh will keep the Jackson Hole messaging.",
+   "link": "https://www.financialjuice.com/News/9766025/SocGens-Rajappa-I-feel-like-Warsh-will-keep-the-Jackson-Hole-messaging.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:59:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766023",
+   "title": "JPMorgan's Michele: Funded long-end purchases with cash.",
+   "link": "https://www.financialjuice.com/News/9766023/JPMorgans-Michele-Funded-long-end-purchases-with-cash.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:56:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766022",
+   "title": "Societe Generale's Rajappa: If Warsh sounds dovish, could see long end sell off.",
+   "link": "https://www.financialjuice.com/News/9766022/Societe-Generales-Rajappa-If-Warsh-sounds-dovish-could-see-long-end-sell-off.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:50:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766021",
+   "title": "Societe Generale's Rajappa: Long end has gotten a bit more volatile.",
+   "link": "https://www.financialjuice.com/News/9766021/Societe-Generales-Rajappa-Long-end-has-gotten-a-bit-more-volatile.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:49:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766020",
+   "title": "Societe Generale's Rajappa: Expecting another hike in December, maybe March.",
+   "link": "https://www.financialjuice.com/News/9766020/Societe-Generales-Rajappa-Expecting-another-hike-in-December-maybe-March.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:48:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766010",
+   "title": "JPMorgan's Michele: Bessent has done his best to stabilize the long end.",
+   "link": "https://www.financialjuice.com/News/9766010/JPMorgans-Michele-Bessent-has-done-his-best-to-stabilize-the-long-end.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:42:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766009",
+   "title": "JPMorgan's Michele: We were buying the long end of US, Japan, Australia",
+   "link": "https://www.financialjuice.com/News/9766009/JPMorgans-Michele-We-were-buying-the-long-end-of-US-Japan-Australia.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:41:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766008",
+   "title": "US and China to talk AI, trade, rare earths this weekend - Axios cites sources familiar on us agenda for china talks",
+   "link": "https://www.financialjuice.com/News/9766008/US-and-China-to-talk-AI-trade-rare-earths-this-weekend---Axios-cites-sources-familiar-on-us-agenda-for-china-talks.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:41:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766007",
+   "title": "JPMorgan's Michele: It's possible these are the last dots we ever get",
+   "link": "https://www.financialjuice.com/News/9766007/JPMorgans-Michele-Its-possible-these-are-the-last-dots-we-ever-get.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:39:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766006",
+   "title": "US Treasury Secretary Bessent: US open to discuss AI \"shared risks\" with China - Axios",
+   "link": "https://www.financialjuice.com/News/9766006/US-Treasury-Secretary-Bessent-US-open-to-discuss-AI-shared-risks-with-China---Axios.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:38:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766005",
+   "title": "Azerbaijan sets oil price at $65/bbl in 2027 budget draft - Finance Ministry",
+   "link": "https://www.financialjuice.com/News/9766005/Azerbaijan-sets-oil-price-at-65bbl-in-2027-budget-draft---Finance-Ministry.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:38:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766004",
+   "title": "JPMorgan's Michele: FOMC members probably taken aback by speed rates moved",
+   "link": "https://www.financialjuice.com/News/9766004/JPMorgans-Michele-FOMC-members-probably-taken-aback-by-speed-rates-moved.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:38:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766003",
+   "title": "JPMorgan's Michele: Should be a clean Fed meeting, should hike 25 BPS",
+   "link": "https://www.financialjuice.com/News/9766003/JPMorgans-Michele-Should-be-a-clean-Fed-meeting-should-hike-25-BPS.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:37:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766002",
+   "title": "US Treasury convenes global financial institutions to advance Operation Economic Outcast - Statement",
+   "link": "https://www.financialjuice.com/News/9766002/US-Treasury-convenes-global-financial-institutions-to-advance-Operation-Economic-Outcast---Statement.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:33:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766000",
+   "title": "BoC Meeting Minutes: Members felt general trade uncertainty had made growth prospects more uncertain.",
+   "link": "https://www.financialjuice.com/News/9766000/BoC-Meeting-Minutes-Members-felt-general-trade-uncertainty-had-made-growth-prospects-more-uncertain.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:32:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765999",
+   "title": "BoC Meeting Minutes: Members felt that the main risks to July economic forecasts had become more acute.",
+   "link": "https://www.financialjuice.com/News/9765999/BoC-Meeting-Minutes-Members-felt-that-the-main-risks-to-July-economic-forecasts-had-become-more-acute.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:32:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765998",
+   "title": "BoC Meeting Minutes: Members agreed to reiterate that monetary policy stance would be guided by BoC's inflation forecast and risks around it.",
+   "link": "https://www.financialjuice.com/News/9765998/BoC-Meeting-Minutes-Members-agreed-to-reiterate-that-monetary-policy-stance-would-be-guided-by-BoCs-inflation-forecast-and-risks-around-it.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765997",
+   "title": "BoC Meeting Minutes: Members saw a higher risk of inflation spreading to non-energy goods and services in Canada.",
+   "link": "https://www.financialjuice.com/News/9765997/BoC-Meeting-Minutes-Members-saw-a-higher-risk-of-inflation-spreading-to-non-energy-goods-and-services-in-Canada.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:31:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765994",
+   "title": "BoC Meeting Minutes: Members cited persistently high price of gasoline, said Iran conflict had raised market expectations for oil prices.",
+   "link": "https://www.financialjuice.com/News/9765994/BoC-Meeting-Minutes-Members-cited-persistently-high-price-of-gasoline-said-Iran-conflict-had-raised-market-expectations-for-oil-prices.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:31:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765983",
+   "title": "Google, DeepMind launch institute to explore AGI - Axios. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9765983/Google-DeepMind-launch-institute-to-explore-AGI---Axios-GOOGL.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:21:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765964",
+   "title": "Iran's Rezai: We do not trust the US in any way.",
+   "link": "https://www.financialjuice.com/News/9765964/Irans-Rezai-We-do-not-trust-the-US-in-any-way.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 17:01:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765956",
+   "title": "Pakistan Foreign Ministry: While Pakistan navy was undertaking biennial exercise, Indian vessel carried out aggressive maneuvers in close proximity.",
+   "link": "https://www.financialjuice.com/News/9765956/Pakistan-Foreign-Ministry-While-Pakistan-navy-was-undertaking-biennial-exercise-Indian-vessel-carried-out-aggressive-maneuvers-in-close-proximity.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 16:53:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765936",
+   "title": "AWS' Desantis: Next Tranium chip to be very differentiated. $AMZN",
+   "link": "https://www.financialjuice.com/News/9765936/AWS-Desantis-Next-Tranium-chip-to-be-very-differentiated-AMZN.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 16:35:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765916",
+   "title": "FOMC Past Market Reactions & Deviations - FJElite",
+   "link": "https://www.financialjuice.com/News/9765916/FOMC-Past-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 16:26:06 GMT",
+   "desc": "Fed Rate Statement &nbsp; Fed vote in favor of policy was 9-3, with Fed&#39;s Hammack, Kashkari and Logan dissenting in favor of a 25 BPS increase. Inflation remains elevated relative to the 2% goal, in part reflecting supply shocks in certain sectors, including energy. Sentiment Fed swaps no longer fully price in a September rate hike Warsh Press Conference Warsh: inflation cannot be cured in 9 weeks. We got some encouraging inflation data, and we will be watching over the period ahead. Don&#39;t want to leave the impression we are breathlessly waiting for incoming data."
+  },
+  {
+   "id": "9765915",
+   "title": "US energy firm National Fuel Gas is exploring strategic options for its natural gas production business - sources.",
+   "link": "https://www.financialjuice.com/News/9765915/US-energy-firm-National-Fuel-Gas-is-exploring-strategic-options-for-its-natural-gas-production-business---sources.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 16:25:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765914",
+   "title": "FOMC Cribsheet - FJElite",
+   "link": "https://www.financialjuice.com/News/9765914/FOMC-Cribsheet---FJElite.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 16:19:01 GMT",
+   "desc": "NOTE: Fed credibility is also on the line. There is the potential of US assets declining in general if the Fed doesn&#39;t deliver a rate hike as markets expect it to, to combat inflation."
+  },
+  {
+   "id": "9765898",
+   "title": "SEC's Atkins: We can act within sec authority with or without crypto law.",
+   "link": "https://www.financialjuice.com/News/9765898/SECs-Atkins-We-can-act-within-sec-authority-with-or-without-crypto-law.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 16:14:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765897",
+   "title": "SEC's Atkins: Will act to give investors certainty on crypto - Post on X",
+   "link": "https://www.financialjuice.com/News/9765897/SECs-Atkins-Will-act-to-give-investors-certainty-on-crypto---Post-on-X.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 16:14:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765878",
+   "title": "German Economy Minister Reiche: Cap on fuel prices is the wrong approach",
+   "link": "https://www.financialjuice.com/News/9765878/German-Economy-Minister-Reiche-Cap-on-fuel-prices-is-the-wrong-approach.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 15:53:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765877",
+   "title": "German Economy Minister Reiche: It would be sensible to temporarily reduce VAT on fuel from 19% to 7%.",
+   "link": "https://www.financialjuice.com/News/9765877/German-Economy-Minister-Reiche-It-would-be-sensible-to-temporarily-reduce-VAT-on-fuel-from-19-to-7.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 15:53:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765876",
+   "title": "Saudis seek to resume half of key oil pipeline within days",
+   "link": "https://www.financialjuice.com/News/9765876/Saudis-seek-to-resume-half-of-key-oil-pipeline-within-days.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 15:52:06 GMT",
+   "desc": "Saudi Arabia is seeking to restore about half the capacity of its cross-country oil pipeline within days after the link was shut last week following drone attacks. State-run Saudi Aramco is working to bypass a damaged section of the route, allowing it to resume part of the pipeline’s capacity. The company is aiming to restore the pipeline to full capacity in about six weeks. Saudi Aramco and the Saudi energy ministry did not immediately respond to requests for comment."
+  },
+  {
+   "id": "9765875",
+   "title": "Saudis seek to resume half of key oil pipeline within days",
+   "link": "https://www.financialjuice.com/News/9765875/Saudis-seek-to-resume-half-of-key-oil-pipeline-within-days.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 15:47:37 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"PMNawCx2\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9765818",
+   "title": "Libya's NOC Chief: We do not anticipate further shutdowns.",
+   "link": "https://www.financialjuice.com/News/9765818/Libyas-NOC-Chief-We-do-not-anticipate-further-shutdowns.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 15:12:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765817",
+   "title": "Libya's NOC chief: Production has returned to normal levels after shutdown of three oil fields reduced it for a limited time.",
+   "link": "https://www.financialjuice.com/News/9765817/Libyas-NOC-chief-Production-has-returned-to-normal-levels-after-shutdown-of-three-oil-fields-reduced-it-for-a-limited-time.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 15:12:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765815",
+   "title": "Repair timeline unclear for pumping stations 8 and 9 damaged along Saudi east-west oil pipeline - sources",
+   "link": "https://www.financialjuice.com/News/9765815/Repair-timeline-unclear-for-pumping-stations-8-and-9-damaged-along-Saudi-east-west-oil-pipeline---sources.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 15:08:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765814",
+   "title": "2 pumping stations along Saudi Arabia's east-west oil pipeline damaged in attack last week - sources",
+   "link": "https://www.financialjuice.com/News/9765814/2-pumping-stations-along-Saudi-Arabias-east-west-oil-pipeline-damaged-in-attack-last-week---sources.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 15:08:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765813",
+   "title": "Iran's Mahan Air suspends Turkey flights from Sept. 21st. Suspends Tehran-Muscat flights from Sept. 17th.",
+   "link": "https://www.financialjuice.com/News/9765813/Irans-Mahan-Air-suspends-Turkey-flights-from-Sept-21st-Suspends-Tehran-Muscat-flights-from-Sept-17th.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 15:06:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765812",
+   "title": "French Finance Minister Lescure: I want France and Europe to accelerate on AI, so that we can control risks.",
+   "link": "https://www.financialjuice.com/News/9765812/French-Finance-Minister-Lescure-I-want-France-and-Europe-to-accelerate-on-AI-so-that-we-can-control-risks.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 15:03:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9765792",
+   "title": "ECB's Pereira: We should not underestimate the impact on growth of fiscal spending in Germany and elsewhere.",
+   "link": "https://www.financialjuice.com/News/9765792/ECBs-Pereira-We-should-not-underestimate-the-impact-on-growth-of-fiscal-spending-in-Germany-and-elsewhere.aspx?xy=rss",
+   "pubDate": "Wed, 16 Sep 2026 14:54:53 GMT",
+   "desc": ""
+  },
   {
    "id": "9765791",
    "title": "Senator Thune: I'd like to see the CLARITY crypto bill revived",
