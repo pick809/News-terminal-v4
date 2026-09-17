@@ -1,7 +1,420 @@
 {
- "updated_at": "2026-09-17T12:08:22.336655+00:00",
- "count": 7526,
+ "updated_at": "2026-09-17T16:54:30.639559+00:00",
+ "count": 7585,
  "items": [
+  {
+   "id": "9767857",
+   "title": "Fed bids for 10 Yr tips total $2.9 bln",
+   "link": "https://www.financialjuice.com/News/9767857/Fed-bids-for-10-Yr-tips-total-29-bln.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 16:45:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767854",
+   "title": "French PM Lecornu: We will not raise taxes - Le Figaro",
+   "link": "https://www.financialjuice.com/News/9767854/French-PM-Lecornu-We-will-not-raise-taxes---Le-Figaro.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 16:41:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767836",
+   "title": "French PM Lecornu: Aim to trim one-off tax on big firms to €5 billion",
+   "link": "https://www.financialjuice.com/News/9767836/French-PM-Lecornu-Aim-to-trim-one-off-tax-on-big-firms-to-5-billion.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 16:30:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767835",
+   "title": "French PM Lecornu aims to keep 2026 deficit below 5.5% GDP",
+   "link": "https://www.financialjuice.com/News/9767835/French-PM-Lecornu-aims-to-keep-2026-deficit-below-55-GDP.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 16:29:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767853",
+   "title": "Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.",
+   "link": "https://www.financialjuice.com/News/9767853/Oil-refinery-in-Russias-Yaroslavl-region-halts-crude-processing-after-a-drone-attack---sources.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 16:29:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767834",
+   "title": "French PM Lecornu: Targeting 2027 deficit at 5% of GDP",
+   "link": "https://www.financialjuice.com/News/9767834/French-PM-Lecornu-Targeting-2027-deficit-at-5-of-GDP.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 16:29:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767810",
+   "title": "US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac",
+   "link": "https://www.financialjuice.com/News/9767810/US-30-yr-fixed-rate-mortgage-averages-695-in-Sept-17-week-highest-since-Jan-30-2025-week-vs-676-prior-week---Freddie-Mac.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 16:00:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767809",
+   "title": "US weighs antitrust guidance on AI safety - DoJ Official.",
+   "link": "https://www.financialjuice.com/News/9767809/US-weighs-antitrust-guidance-on-AI-safety---DoJ-Official.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:53:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767808",
+   "title": "ECB's Zigman: Market bets don't determine the ECB’s next steps.",
+   "link": "https://www.financialjuice.com/News/9767808/ECBs-Zigman-Market-bets-dont-determine-the-ECBs-next-steps.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:51:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767807",
+   "title": "ECB's Zigman: There’s a lot of optimism for growth.",
+   "link": "https://www.financialjuice.com/News/9767807/ECBs-Zigman-Theres-a-lot-of-optimism-for-growth.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:51:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767806",
+   "title": "ECB's Zigman: We don’t see any major second-round effects.",
+   "link": "https://www.financialjuice.com/News/9767806/ECBs-Zigman-We-dont-see-any-major-second-round-effects.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:50:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767805",
+   "title": "ECB’s Zigman: Growth is at risk if inflation isn’t tackled.",
+   "link": "https://www.financialjuice.com/News/9767805/ECBs-Zigman-Growth-is-at-risk-if-inflation-isnt-tackled.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:50:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767804",
+   "title": "Three pumping stations along Saudi Arabia's east-west oil pipeline were damaged in an attack last week - Sources.",
+   "link": "https://www.financialjuice.com/News/9767804/Three-pumping-stations-along-Saudi-Arabias-east-west-oil-pipeline-were-damaged-in-an-attack-last-week---Sources.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:50:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767788",
+   "title": "US 4-Week Bill Auction",
+   "link": "https://www.financialjuice.com/News/9767788/US-4-Week-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:32:55 GMT",
+   "desc": "High Yield 3.820% Bid-to-cover 3.02 US sells $90 bln Awards 69.59% of bids at high"
+  },
+  {
+   "id": "9767787",
+   "title": "US 4-Week Bill Bid-to-Cover Actual 3.020 (Forecast -, Previous 2.810)",
+   "link": "https://www.financialjuice.com/News/9767787/US-4-Week-Bill-Bid-to-Cover-Actual-3020-Forecast---Previous-2810.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:32:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767786",
+   "title": "US 4-Week Bill High Yield Actual 3.820% (Forecast -, Previous 3.775%)",
+   "link": "https://www.financialjuice.com/News/9767786/US-4-Week-Bill-High-Yield-Actual-3820-Forecast---Previous-3775.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:32:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767775",
+   "title": "JP Morgan expects BoE to hike interest rates by 25 bp in February 2027 vs prior forecast of two rate cuts in 2027",
+   "link": "https://www.financialjuice.com/News/9767775/JP-Morgan-expects-BoE-to-hike-interest-rates-by-25-bp-in-February-2027-vs-prior-forecast-of-two-rate-cuts-in-2027.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:19:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767738",
+   "title": "US Treasury Bill and Note Auctions",
+   "link": "https://www.financialjuice.com/News/9767738/US-Treasury-Bill-and-Note-Auctions.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 15:01:06 GMT",
+   "desc": "US Treasury to sell $92 billion of 3-month bills and $79 billion of 6-month bills on September 21, settling September 24 US Treasury to sell $69 billion of 2-year notes on September 22, settling September 30 US Treasury to sell $70 billion of 5-year notes on September 23, settling September 30 US Treasury to sell $44 billion of 7-year notes on September 24, settling September 30 Results of the 2-year note auction could trigger an unscheduled reopening of 5-year notes if the high yield is between 4.625% and 4.749%"
+  },
+  {
+   "id": "9767731",
+   "title": "French PM Lecornu: Without corrective measures the 2027 budget deficit would exceed 6.5% of GDP",
+   "link": "https://www.financialjuice.com/News/9767731/French-PM-Lecornu-Without-corrective-measures-the-2027-budget-deficit-would-exceed-65-of-GDP.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:52:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767730",
+   "title": "French PM Lecornu to Le Figaro: Increase in interest rates will cost additional €10 bln to finance debt servicing cost",
+   "link": "https://www.financialjuice.com/News/9767730/French-PM-Lecornu-to-Le-Figaro-Increase-in-interest-rates-will-cost-additional-10-bln-to-finance-debt-servicing-cost.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:51:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767728",
+   "title": "French PM sees budgetary effort of around €54b for 2027 - Le Figaro",
+   "link": "https://www.financialjuice.com/News/9767728/French-PM-sees-budgetary-effort-of-around-54b-for-2027---Le-Figaro.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:47:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767691",
+   "title": "EIA Natural Gas Change BCF Actual 44B (Forecast 48B, Previous 40B)",
+   "link": "https://www.financialjuice.com/News/9767691/EIA-Natural-Gas-Change-BCF-Actual-44B-Forecast-48B-Previous-40B.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767690",
+   "title": "Fear & Greed Index: 29/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9767690/Fear--Greed-Index-29100---Fear.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:18:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767689",
+   "title": "Crypto Fear & Greed Index: 50/100 - Neutral",
+   "link": "https://www.financialjuice.com/News/9767689/Crypto-Fear--Greed-Index-50100---Neutral.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:17:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767667",
+   "title": "China's Foreign Minister Wang Yi US Secretary of State Rubio exchanged views on Middle East situation in phone call - Xinhua",
+   "link": "https://www.financialjuice.com/News/9767667/Chinas-Foreign-Minister-Wang-Yi-US-Secretary-of-State-Rubio-exchanged-views-on-Middle-East-situation-in-phone-call---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:06:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767666",
+   "title": "China's Foreign Minister Wang Yi: Two sides should strengthen communication, advance cooperation, manage differences, respect each other's core interests.",
+   "link": "https://www.financialjuice.com/News/9767666/Chinas-Foreign-Minister-Wang-Yi-Two-sides-should-strengthen-communication-advance-cooperation-manage-differences-respect-each-others-core-interests.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:06:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767665",
+   "title": "China's Foreign Minister Wang Yi: China-US relations overall moving along constructive, strategically stable track set by two leaders - Xinhua",
+   "link": "https://www.financialjuice.com/News/9767665/Chinas-Foreign-Minister-Wang-Yi-China-US-relations-overall-moving-along-constructive-strategically-stable-track-set-by-two-leaders---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:05:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767663",
+   "title": "China's Foreign Minister Wang Yi: Head-of-state diplomacy is the anchor of China-US relations.",
+   "link": "https://www.financialjuice.com/News/9767663/Chinas-Foreign-Minister-Wang-Yi-Head-of-state-diplomacy-is-the-anchor-of-China-US-relations.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:05:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767662",
+   "title": "China Foreign Minister: China, US should prepare well for next stage of high-level exchanges in spirit of equality, respect, reciprocity - Xinhua",
+   "link": "https://www.financialjuice.com/News/9767662/China-Foreign-Minister-China-US-should-prepare-well-for-next-stage-of-high-level-exchanges-in-spirit-of-equality-respect-reciprocity---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:05:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767661",
+   "title": "OpenAI near to solving another millennium problem - The Information",
+   "link": "https://www.financialjuice.com/News/9767661/OpenAI-near-to-solving-another-millennium-problem---The-Information.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:04:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767660",
+   "title": "China Foreign Minister Wang Yi held call with US Secretary of State Rubio - Chinese State Media",
+   "link": "https://www.financialjuice.com/News/9767660/China-Foreign-Minister-Wang-Yi-held-call-with-US-Secretary-of-State-Rubio---Chinese-State-Media.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:03:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767631",
+   "title": "US Pending Homes Index Actual 71.2 (Forecast -, Previous 71.2 ,Revision 71.0)",
+   "link": "https://www.financialjuice.com/News/9767631/US-Pending-Homes-Index-Actual-712-Forecast---Previous-712-Revision-710.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:00:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767630",
+   "title": "US Pending Home Sales Change MoM Actual 0.3% (Forecast -0.1%, Previous -2.3%)",
+   "link": "https://www.financialjuice.com/News/9767630/US-Pending-Home-Sales-Change-MoM-Actual-03-Forecast--01-Previous--23.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767629",
+   "title": "White House weighs US incubator for cyber research and startups",
+   "link": "https://www.financialjuice.com/News/9767629/White-House-weighs-US-incubator-for-cyber-research-and-startups.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:59:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767628",
+   "title": "Dutch chipmaker Nexperia: Will make chips with TATA electronics in India",
+   "link": "https://www.financialjuice.com/News/9767628/Dutch-chipmaker-Nexperia-Will-make-chips-with-TATA-electronics-in-India.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:57:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767619",
+   "title": "EU's Sefcovic to meet Chinese counterpart Wang on October 8-9 - EU Commission",
+   "link": "https://www.financialjuice.com/News/9767619/EUs-Sefcovic-to-meet-Chinese-counterpart-Wang-on-October-8-9---EU-Commission.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:43:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767618",
+   "title": "EU Commission team to travel to Beijing later in September.",
+   "link": "https://www.financialjuice.com/News/9767618/EU-Commission-team-to-travel-to-Beijing-later-in-September.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:39:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767617",
+   "title": "Nebius to raise GPU rates for Nvidia H100, H200, B200 and B300. $NVDA",
+   "link": "https://www.financialjuice.com/News/9767617/Nebius-to-raise-GPU-rates-for-Nvidia-H100-H200-B200-and-B300-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:37:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767602",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9767602/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: -26 mln Nasdaq 100: +2 mln Dow 30: -10 mln Mag 7: +9 mln"
+  },
+  {
+   "id": "9767587",
+   "title": "MUFG on FOMC - FJElite",
+   "link": "https://www.financialjuice.com/News/9767587/MUFG-on-FOMC---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:06:37 GMT",
+   "desc": "The US dollar has held on to most of last night’s gains following the FOMC decision to hike the fed funds rate by 25bps and provide communications that certainly suggest the scope for further action ahead. The headline grabbing comment from Fed Chair Warsh that the hike had “removed a dose of accommodation&quot; was the clearest signal that a certain level of accommodation still exists and therefore more action will be required. That was also underlined by the fact that the YoY core CPI rate only hits the 2% target in 2029. Warsh did play these forecasts down when asked about them in the press conference emphasising these were the product of all nineteen FOMC members - suggesting possibly that he would be willing to take more action and faster in order to bring inflation down more quickly. In the same light, we possibly shouldn&#39;t read too much into the median dot levels and those levels could and very likely will change as developments unfold moving forward. The 4.125% median dot for 2026 and 2027 points to another hike and then no cuts until 2028 when the median dot drops by just 25bps and then by another 25bps in 2029 to 3.625%. That’s a very cautious removal of the two hikes pencilled in for this year that certainly implies a faster reduction in core CPI will require more than just one additional hike. The long-run fed funds rate was tweaked higher by 12.5bps to 3.25% and the GDP and unemployment rate projections certainly painted a rosy picture of the outlook for the economy."
+  },
+  {
+   "id": "9767586",
+   "title": "UniCredit Review on FOMC - FJElite",
+   "link": "https://www.financialjuice.com/News/9767586/UniCredit-Review-on-FOMC---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:03:49 GMT",
+   "desc": "Yesterday, the Fed delivered a 25bp rate hike, raising the target range for the federal funds rate to 3.75-4.00%. The move was in line with our and the consensus forecast, as well as market pricing. The decision was unanimous, which we view as an important positive for the credibility of Chair Warsh and the FOMC more broadly. In our view, the Fed’s reaction function is finally becoming more transparent. The post-meeting statement contained only limited changes, portraying solid economic growth and a labour market operating at full employment, while inflation pressures remain elevated. Three aspects of the press conference and of the Summary of Economic Projections (SEP) contributed to a distinctly hawkish tone. First, we learned that Warsh&#39;s assessment at Jackson Hole that broad financial conditions were not restrictive was &quot;widely shared” by the Committee. Second, Warsh characterised yesterday’s rate increase as &quot;removing a dose of accommodation.&quot; This wording implies that the policy stance remains at least somewhat accommodative even after the latest hike and the recent, meaningful, upward shift in the yield curve. In other words, the FOMC agrees that current financial conditions are not exerting sufficient restraint on inflation. This strengthens the case for further tightening if inflation risks fail to recede. Third, the updated SEP showed the dot-plot shifting higher amid forecast revisions that were generally small but uniformly tilted in a hawkish direction. The FOMC marginally upgraded its assessment of economic growth and labour market conditions, while also slightly revising higher its projections for both headline and core PCE inflation. Taken together, the revised forecasts and the prevalence of upside risks to inflation suggest a higher degree of inflation persistence and greater confidence in the economy&#39;s ability to absorb additional tightening. The distribution of rate projections shows that sixteen of the eighteen participants - similarly to June, Warsh did not submit his own dot - expect at least one additional rate hike by year-end. As for 2027, a majority of participants expect rates to be unchanged or lower, but eight participants envisage an additional rate increase to 4.25-4.50%. Adding to the hawkish tone, in the press conference Warsh sounded resolute in his commitment to bringing inflation under control and avoiding a broadening of inflationary pressures as the energy-driven inflation shock risks becoming embedded in wages, pricing behaviour and inflation expectations."
+  },
+  {
+   "id": "9767580",
+   "title": "JPMorgan Analyst on FOMC - FJElite",
+   "link": "https://www.financialjuice.com/News/9767580/JPMorgan-Analyst-on-FOMC---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:01:12 GMT",
+   "desc": "The Fed delivered a 25bp hike overnight and signalled one further increase by year-end before remaining on hold through 2027. As discussed yesterday, with almost four hikes having already been priced out of the 2027 curve, the bar for an overtly hawkish surprise was relatively high. The dot plot&#39;s indication of no cuts next year was therefore not especially hawkish in absolute terms, although it was clearly more hawkish than the previous set of projections. The market read the outcome as hawkish and full disclosure, my initial reaction was to buy dollars following the announcement, but with several other central banks still on tightening paths and global growth remaining resilient. I am less convinced about chasing the USD materially higher from current levels. Admittedly. Warsh also addressed some of the Fed s credibility concerns, which has likely been weighing on the USD. therefore, I rotated most of my remaining AUD/USD longs into crosses, a move that has worked well overnight."
+  },
+  {
+   "id": "9767567",
+   "title": "Microsoft, Marvell and UTIMACO to deliver industry-first secure, cloud-scale payments solution. $MSFT",
+   "link": "https://www.financialjuice.com/News/9767567/Microsoft-Marvell-and-UTIMACO-to-deliver-industry-first-secure-cloud-scale-payments-solution-MSFT.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:01:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767563",
+   "title": "Effective Fed Funds Rate 3.63% September 16 vs 3.63% September 15.",
+   "link": "https://www.financialjuice.com/News/9767563/Effective-Fed-Funds-Rate-363-September-16-vs-363-September-15.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 13:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767562",
+   "title": "Standard Chartered expects US Fed to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of no policy change this year",
+   "link": "https://www.financialjuice.com/News/9767562/Standard-Chartered-expects-US-Fed-to-deliver-a-25-bps-rate-hike-in-December-2026-vs-the-prior-forecast-of-no-policy-change-this-year.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:58:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767561",
+   "title": "US Sentiment: Fed Keeps Credibility, China Convinces Iran to Rein in Houthis? - FJElite",
+   "link": "https://www.financialjuice.com/News/9767561/US-Sentiment-Fed-Keeps-Credibility-China-Convinces-Iran-to-Rein-in-Houthis---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:52:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767539",
+   "title": "Saudi Civil Defense: Iran-backed Yemen's Houthis launched drone at Saudi Taif - State TV",
+   "link": "https://www.financialjuice.com/News/9767539/Saudi-Civil-Defense-Iran-backed-Yemens-Houthis-launched-drone-at-Saudi-Taif---State-TV.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:44:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767538",
+   "title": "Nvidia's CEO Huang: Nvidia to sell twice as many chips next year as this year. $NVDA",
+   "link": "https://www.financialjuice.com/News/9767538/Nvidias-CEO-Huang-Nvidia-to-sell-twice-as-many-chips-next-year-as-this-year-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:33:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767515",
+   "title": "A high-ranking source told Al-Mayadeen that Riyadh has asked Oman to request a two-week truce from Ansar Allah (the Houthis) to allow for discussions on resolving the humanitarian crisis.",
+   "link": "https://www.financialjuice.com/News/9767515/A-high-ranking-source-told-Al-Mayadeen-that-Riyadh-has-asked-Oman-to-request-a-two-week-truce-from-Ansar-Allah-the-Houthis-to-allow-for-discussions-on-resolving-the-humanitarian-crisis.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767508",
+   "title": "Canadian PPI YoY Actual 13.5% (Forecast -, Previous 12.4%)",
+   "link": "https://www.financialjuice.com/News/9767508/Canadian-PPI-YoY-Actual-135-Forecast---Previous-124.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767507",
+   "title": "Canadian RMPI MoM Actual 3.1% (Forecast 0.8%, Previous -2.2%)",
+   "link": "https://www.financialjuice.com/News/9767507/Canadian-RMPI-MoM-Actual-31-Forecast-08-Previous--22.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767506",
+   "title": "Canadian PPI MoM Actual 1.3% (Forecast 0%, Previous 0.6%)",
+   "link": "https://www.financialjuice.com/News/9767506/Canadian-PPI-MoM-Actual-13-Forecast-0-Previous-06.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767509",
+   "title": "US Philly Fed Business Index Actual 37.8 (Forecast 32.1, Previous 47.4)",
+   "link": "https://www.financialjuice.com/News/9767509/US-Philly-Fed-Business-Index-Actual-378-Forecast-321-Previous-474.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767505",
+   "title": "US Continued Jobless Claims Actual 1.73M (Forecast 1.779M, Previous 1.774M, Revised 1.769M)",
+   "link": "https://www.financialjuice.com/News/9767505/US-Continued-Jobless-Claims-Actual-173M-Forecast-1779M-Previous-1774M-Revised-1769M.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767504",
+   "title": "US Building Permits Actual 1.394M (Forecast 1.408M, Previous 1.433M)",
+   "link": "https://www.financialjuice.com/News/9767504/US-Building-Permits-Actual-1394M-Forecast-1408M-Previous-1433M.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767503",
+   "title": "US Housing Starts Actual 1.275M (Forecast 1.32M, Previous 1.239M, Revised 1.309M)",
+   "link": "https://www.financialjuice.com/News/9767503/US-Housing-Starts-Actual-1275M-Forecast-132M-Previous-1239M-Revised-1309M.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767502",
+   "title": "US Initial Jobless Claims Actual 196k (Forecast 206.5k, Previous 206k)",
+   "link": "https://www.financialjuice.com/News/9767502/US-Initial-Jobless-Claims-Actual-196k-Forecast-2065k-Previous-206k.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767501",
+   "title": "US Building Permits Change MoM Actual -2.7% (Forecast -1.5%, Previous 4.3%)",
+   "link": "https://www.financialjuice.com/News/9767501/US-Building-Permits-Change-MoM-Actual--27-Forecast--15-Previous-43.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9767500",
+   "title": "US Housing Starts Change MoM Actual -2.6% (Forecast 6.7%, Previous -12.4%, Revised -9%)",
+   "link": "https://www.financialjuice.com/News/9767500/US-Housing-Starts-Change-MoM-Actual--26-Forecast-67-Previous--124-Revised--9.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 12:30:00 GMT",
+   "desc": ""
+  },
   {
    "id": "9767481",
    "title": "Pentagon and Lockheed agree to speed up new missile production.",
