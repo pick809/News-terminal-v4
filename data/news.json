@@ -1,7 +1,357 @@
 {
- "updated_at": "2026-09-17T01:46:39.234761+00:00",
- "count": 7382,
+ "updated_at": "2026-09-17T06:42:13.463954+00:00",
+ "count": 7432,
  "items": [
+  {
+   "id": "9766954",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9766954/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:09:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766953",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9766953/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:08:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766952",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9766952/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:08:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766951",
+   "title": "Japan Banking Lobby Head: JGB yields likely to rise further",
+   "link": "https://www.financialjuice.com/News/9766951/Japan-Banking-Lobby-Head-JGB-yields-likely-to-rise-further.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:08:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766950",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9766950/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:07:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766949",
+   "title": "Scope of Japan chip factory construction investment in the US likely to amount to several trillion Yen - Nikkei",
+   "link": "https://www.financialjuice.com/News/9766949/Scope-of-Japan-chip-factory-construction-investment-in-the-US-likely-to-amount-to-several-trillion-Yen---Nikkei.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:07:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766948",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9766948/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:07:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766947",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9766947/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:06:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766946",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9766946/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:06:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766945",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9766945/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:05:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766944",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9766944/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:05:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766943",
+   "title": "Japan and the US discussing chip factory construction as part of $550 bln investment talks - Nikkei",
+   "link": "https://www.financialjuice.com/News/9766943/Japan-and-the-US-discussing-chip-factory-construction-as-part-of-550-bln-investment-talks---Nikkei.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:05:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766942",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9766942/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:05:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766941",
+   "title": "Japan and the US are in talks on chip plant under investment plan - Nikkei",
+   "link": "https://www.financialjuice.com/News/9766941/Japan-and-the-US-are-in-talks-on-chip-plant-under-investment-plan---Nikkei.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:04:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766940",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9766940/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:04:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766939",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9766939/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:04:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766938",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9766938/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:02:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766937",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9766937/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:02:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766936",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9766936/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:01:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766935",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9766935/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 06:01:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766920",
+   "title": "Swiss Trade Balance Actual 3,786M (Forecast -, Previous 8,730M ,Revision 5,742M)",
+   "link": "https://www.financialjuice.com/News/9766920/Swiss-Trade-Balance-Actual-3786M-Forecast---Previous-8730M-Revision-5742M.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 05:58:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766899",
+   "title": "Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year",
+   "link": "https://www.financialjuice.com/News/9766899/Micron-CEO-Micron-to-test-and-assemble-hundreds-of-MLN-chips-in-India-next-year.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 05:19:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766875",
+   "title": "Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI",
+   "link": "https://www.financialjuice.com/News/9766875/Iranian-foreign-minister-Pakistan-army-chief-discuss-recent-regional-developments-in-phone-call-during-Aragchis-Beijing-visit-on-Wednesday-Iranian-MI.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766866",
+   "title": "Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion",
+   "link": "https://www.financialjuice.com/News/9766866/Japan-economy-minister-Kiuchi-wont-pursue-reckless-fiscal-expansion.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:39:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766865",
+   "title": "Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion",
+   "link": "https://www.financialjuice.com/News/9766865/Japan-economy-minister-Kiuchi-wont-pursue-reckless-fiscal-expansion.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:35:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766864",
+   "title": "Japan economy minister Kiuchi: no comment on interest rates",
+   "link": "https://www.financialjuice.com/News/9766864/Japan-economy-minister-Kiuchi-no-comment-on-interest-rates.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:34:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766863",
+   "title": "Japan economy minister Kiuchi: aims to reassure and completely alleviate market concerns",
+   "link": "https://www.financialjuice.com/News/9766863/Japan-economy-minister-Kiuchi-aims-to-reassure-and-completely-alleviate-market-concerns.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:32:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766862",
+   "title": "Japan economy minister Kiuchi: aim to balance robust economy with fiscal sustainability",
+   "link": "https://www.financialjuice.com/News/9766862/Japan-economy-minister-Kiuchi-aim-to-balance-robust-economy-with-fiscal-sustainability.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:32:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766849",
+   "title": "Japanese Prime Minister Takaichi to host press briefing at 0930 GMT",
+   "link": "https://www.financialjuice.com/News/9766849/Japanese-Prime-Minister-Takaichi-to-host-press-briefing-at-0930-GMT.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:30:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766848",
+   "title": "Dutch Unemployment rate SA Actual 4% (Forecast -, Previous 4.0%)",
+   "link": "https://www.financialjuice.com/News/9766848/Dutch-Unemployment-rate-SA-Actual-4-Forecast---Previous-40.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766847",
+   "title": "Japan economy minister Kiuchi to stay in role in cabinet reshuffle, government spokesperson says",
+   "link": "https://www.financialjuice.com/News/9766847/Japan-economy-minister-Kiuchi-to-stay-in-role-in-cabinet-reshuffle-government-spokesperson-says.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:27:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766846",
+   "title": "Japan finance minister Katayama to stay in post in cabinet reshuffle, government spokesperson:",
+   "link": "https://www.financialjuice.com/News/9766846/Japan-finance-minister-Katayama-to-stay-in-post-in-cabinet-reshuffle-government-spokesperson.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:24:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766845",
+   "title": "India foreign ministry: India will maintain approach via diversified sourcing and adapting to changing market dynamics",
+   "link": "https://www.financialjuice.com/News/9766845/India-foreign-ministry-India-will-maintain-approach-via-diversified-sourcing-and-adapting-to-changing-market-dynamics.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:22:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766844",
+   "title": "India foreign ministry: India remains strongly committed to securing energy supplies for its people",
+   "link": "https://www.financialjuice.com/News/9766844/India-foreign-ministry-India-remains-strongly-committed-to-securing-energy-supplies-for-its-people.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:22:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766843",
+   "title": "India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress",
+   "link": "https://www.financialjuice.com/News/9766843/India-foreign-ministry-India-has-noted-passage-of-bill-sanctioning-Russia-and-Iran-in-US-Congress.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:21:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766842",
+   "title": "Strait of Hormuz commodity vessel traffic declines to 3 on Wednesday, well below 10-day average of about 17, shipping data shows",
+   "link": "https://www.financialjuice.com/News/9766842/Strait-of-Hormuz-commodity-vessel-traffic-declines-to-3-on-Wednesday-well-below-10-day-average-of-about-17-shipping-data-shows.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:16:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766813",
+   "title": "China's president Xi: enhance self-reliance and control of industrial chains - Xinhua",
+   "link": "https://www.financialjuice.com/News/9766813/Chinas-president-Xi-enhance-self-reliance-and-control-of-industrial-chains---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:11:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766812",
+   "title": "China's President Xi: coordinate high-quality growth and advanced security - Xinhua",
+   "link": "https://www.financialjuice.com/News/9766812/Chinas-President-Xi-coordinate-high-quality-growth-and-advanced-security---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:10:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766811",
+   "title": "China's President Xi: to boost advanced manufacturing - Xinhua",
+   "link": "https://www.financialjuice.com/News/9766811/Chinas-President-Xi-to-boost-advanced-manufacturing---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:10:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766810",
+   "title": "China's Xi issues key directives on advanced manufacturing development - Xinhua",
+   "link": "https://www.financialjuice.com/News/9766810/Chinas-Xi-issues-key-directives-on-advanced-manufacturing-development---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:09:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766809",
+   "title": "Brussels urges Beijing to limit Chinese hybrid vehicle sales to about 15% of EU market - FT",
+   "link": "https://www.financialjuice.com/News/9766809/Brussels-urges-Beijing-to-limit-Chinese-hybrid-vehicle-sales-to-about-15-of-EU-market---FT.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:04:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766808",
+   "title": "EU urges China to voluntarily limit hybrid car exports to avoid trade war: FT",
+   "link": "https://www.financialjuice.com/News/9766808/EU-urges-China-to-voluntarily-limit-hybrid-car-exports-to-avoid-trade-war-FT.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:01:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766807",
+   "title": "EU asks China to voluntarily curb car exports - FT",
+   "link": "https://www.financialjuice.com/News/9766807/EU-asks-China-to-voluntarily-curb-car-exports---FT.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 04:01:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766799",
+   "title": "Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says",
+   "link": "https://www.financialjuice.com/News/9766799/Ukraine-drone-strike-damages-oil-refinery-in-Russias-Yaroslavl-governor-says.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 03:47:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766790",
+   "title": "Japan finance minister Katayama: expect BOJ to closely align with government, apply suitable monetary policy to meet 2% inflation goal",
+   "link": "https://www.financialjuice.com/News/9766790/Japan-finance-minister-Katayama-expect-BOJ-to-closely-align-with-government-apply-suitable-monetary-policy-to-meet-2-inflation-goal.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 03:41:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766789",
+   "title": "Japan finance minister Katayama: no remarks on BoJ policy",
+   "link": "https://www.financialjuice.com/News/9766789/Japan-finance-minister-Katayama-no-remarks-on-BoJ-policy.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 03:41:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766788",
+   "title": "Japan finance minister Katayama: we are committed to tackling extreme volatility with launch of Japan-U.S. joint intervention",
+   "link": "https://www.financialjuice.com/News/9766788/Japan-finance-minister-Katayama-we-are-committed-to-tackling-extreme-volatility-with-launch-of-Japan-US-joint-intervention.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 03:38:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766787",
+   "title": "Japan finance minister Katayama: will review budget requests, manage debt issuance to maintain market trust",
+   "link": "https://www.financialjuice.com/News/9766787/Japan-finance-minister-Katayama-will-review-budget-requests-manage-debt-issuance-to-maintain-market-trust.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 03:37:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766757",
+   "title": "Japan chief cabinet secretary Kihara: continue close communication with US Treasury to maintain orderly forex market",
+   "link": "https://www.financialjuice.com/News/9766757/Japan-chief-cabinet-secretary-Kihara-continue-close-communication-with-US-Treasury-to-maintain-orderly-forex-market.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 03:10:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9766751",
+   "title": "China’s chief trade negotiator Li Chenggang met with business delegation to discuss China-US economic, trade ties: statement",
+   "link": "https://www.financialjuice.com/News/9766751/Chinas-chief-trade-negotiator-Li-Chenggang-met-with-business-delegation-to-discuss-China-US-economic-trade-ties-statement.aspx?xy=rss",
+   "pubDate": "Thu, 17 Sep 2026 02:49:16 GMT",
+   "desc": ""
+  },
   {
    "id": "9766622",
    "title": "Taiwan stocks advance more than 2%",
