@@ -1,7 +1,672 @@
 {
- "updated_at": "2026-09-21T14:11:49.398722+00:00",
- "count": 8254,
+ "updated_at": "2026-09-21T19:29:46.620057+00:00",
+ "count": 8349,
  "items": [
+  {
+   "id": "9772422",
+   "title": "Tuesday FX Options Expiries",
+   "link": "https://www.financialjuice.com/News/9772422/Tuesday-FX-Options-Expiries.aspx",
+   "pubDate": "Mon, 21 Sep 2026 19:21:34 GMT",
+   "desc": "EUR/USD: 1.1500 (EU1.47b), 1.1800 (EU1.18b), 1.1850 (EU814.5m) USD/JPY: 158.00 ($1.3b), 157.00 ($923.8m), 160.50 ($497.8m) AUD/USD: 0.7100 (AUD457.1m), 0.7050 (AUD400m) USD/CAD: 1.3950 ($335m) USD/BRL: 5.6000 ($775m), 5.1300 ($472.5m), 5.7190 ($395.2m) GBP/USD: 1.3900 (GBP632.4m), 1.3800 (GBP404.4m), 1.3380 (GBP324.3m) USD/KRW: 1330.00 ($550m), 1370.00 ($510.6m), 1420.00 ($467.3m) USD/MXN: 17.30 ($600.2m)"
+  },
+  {
+   "id": "9772414",
+   "title": "Trump administration proposes $5 bln to kickstart investment fund to rebuild Gulf energy sites, according to sources and documents - WSJ",
+   "link": "https://www.financialjuice.com/News/9772414/Trump-administration-proposes-5-bln-to-kickstart-investment-fund-to-rebuild-Gulf-energy-sites-according-to-sources-and-documents---WSJ.aspx",
+   "pubDate": "Mon, 21 Sep 2026 19:11:05 GMT",
+   "desc": "The Trump administration has proposed investing $5 billion in a new fund that would help Middle East countries rebuild energy infrastructure battered in the Iran war and reduce their reliance on the Strait of Hormuz to transport oil and gas, according to U.S. and Middle Eastern officials and documents seen by The Wall Street Journal. The move is a tacit acknowledgment that the seven-month conflict has roiled the global energy market and destroyed regional pipelines and refineries that will be costly to rebuild. Under Trump’s plan, the U.S. would seek a matching contribution from eight Middle Eastern partners—Saudi Arabia, the United Arab Emirates, Qatar, Bahrain, Kuwait, Oman, Iraq and Jordan—with the goal of generating a $10 billion investment fund. The investment would be called the Partnership for Allied Trust and Construction, or Pact."
+  },
+  {
+   "id": "9772413",
+   "title": "Qatar: We are working to facilitate an agreement between Iran and US, even a short term one - Tasnim News",
+   "link": "https://www.financialjuice.com/News/9772413/Qatar-We-are-working-to-facilitate-an-agreement-between-Iran-and-US-even-a-short-term-one---Tasnim-News.aspx",
+   "pubDate": "Mon, 21 Sep 2026 19:02:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772396",
+   "title": "Brent Crude futures settle at $100.34/bbl, down $3.53, 3.4%",
+   "link": "https://www.financialjuice.com/News/9772396/Brent-Crude-futures-settle-at-10034bbl-down-353-34.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:50:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772383",
+   "title": "Fed's Musalem: Core inflation may be running 1 percentage point above Fed's target.",
+   "link": "https://www.financialjuice.com/News/9772383/Feds-Musalem-Core-inflation-may-be-running-1-percentage-point-above-Feds-target.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:39:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772381",
+   "title": "AWS: xAI's Grok 4.6 now available in Amazon Bedrock - Blog. $AMZN $SPCX",
+   "link": "https://www.financialjuice.com/News/9772381/AWS-xAIs-Grok-46-now-available-in-Amazon-Bedrock---Blog-AMZN-SPCX.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:36:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772380",
+   "title": "SoftBank-backed SB Energy delays its IPO - NYT",
+   "link": "https://www.financialjuice.com/News/9772380/SoftBank-backed-SB-Energy-delays-its-IPO---NYT.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:32:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772364",
+   "title": "NYMEX Nat Gas Oct. futures settle at $2.8360/MMBTU",
+   "link": "https://www.financialjuice.com/News/9772364/NYMEX-Nat-Gas-Oct-futures-settle-at-28360MMBTU.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:31:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772363",
+   "title": "NYMEX Gasoline Oct. futures settle at $3.4699 a gallon",
+   "link": "https://www.financialjuice.com/News/9772363/NYMEX-Gasoline-Oct-futures-settle-at-34699-a-gallon.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:31:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772362",
+   "title": "NYMEX Diesel Oct. futures settle at $4.8895 a gallon",
+   "link": "https://www.financialjuice.com/News/9772362/NYMEX-Diesel-Oct-futures-settle-at-48895-a-gallon.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:31:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772358",
+   "title": "NYMEX WTI Crude Oct. futures settle at $95.78 a barrel down $4.52, 4.51%",
+   "link": "https://www.financialjuice.com/News/9772358/NYMEX-WTI-Crude-Oct-futures-settle-at-9578-a-barrel-down-452-451.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:30:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772357",
+   "title": "Fed's Musalem: Business contacts say they are planning on price increases closer to 3%.",
+   "link": "https://www.financialjuice.com/News/9772357/Feds-Musalem-Business-contacts-say-they-are-planning-on-price-increases-closer-to-3.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:20:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772356",
+   "title": "Fed's Musalem: Even when stripping out supply-related factors, inflation is still 'too high' at up to 3%.",
+   "link": "https://www.financialjuice.com/News/9772356/Feds-Musalem-Even-when-stripping-out-supply-related-factors-inflation-is-still-too-high-at-up-to-3.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:20:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772355",
+   "title": "Fed's Musalem: Better for rate hikes to be 'earlier and incremental rather than later and larger.",
+   "link": "https://www.financialjuice.com/News/9772355/Feds-Musalem-Better-for-rate-hikes-to-be-earlier-and-incremental-rather-than-later-and-larger.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:20:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772354",
+   "title": "Fed's Musalem: Commodity shock is more than just oil, includes base metals like copper.",
+   "link": "https://www.financialjuice.com/News/9772354/Feds-Musalem-Commodity-shock-is-more-than-just-oil-includes-base-metals-like-copper.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:20:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772353",
+   "title": "Fed's Musalem: Labor market stable around full employment and not a source of inflation pressure.",
+   "link": "https://www.financialjuice.com/News/9772353/Feds-Musalem-Labor-market-stable-around-full-employment-and-not-a-source-of-inflation-pressure.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:19:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772352",
+   "title": "Fed's Musalem: Interest rates likely need to rise further to tame inflation that is both demand and supply-driven.",
+   "link": "https://www.financialjuice.com/News/9772352/Feds-Musalem-Interest-rates-likely-need-to-rise-further-to-tame-inflation-that-is-both-demand-and-supply-driven.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:19:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772351",
+   "title": "Fed's Musalem: Without further policy restraint it is more likely inflation will remain substantially above 2% target 18 months from now.",
+   "link": "https://www.financialjuice.com/News/9772351/Feds-Musalem-Without-further-policy-restraint-it-is-more-likely-inflation-will-remain-substantially-above-2-target-18-months-from-now.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:19:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772341",
+   "title": "Trump praises Lockheed Martin - Truth Social. $LMT",
+   "link": "https://www.financialjuice.com/News/9772341/Trump-praises-Lockheed-Martin---Truth-Social-LMT.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:09:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772339",
+   "title": "China's Vice Finance Minister Liao: Talked about trade, investment, AI with US today.",
+   "link": "https://www.financialjuice.com/News/9772339/Chinas-Vice-Finance-Minister-Liao-Talked-about-trade-investment-AI-with-US-today.aspx",
+   "pubDate": "Mon, 21 Sep 2026 18:02:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772305",
+   "title": "The US, Denmark, and Greenland are going to hold a signing ceremony on Tuesday - Fox.",
+   "link": "https://www.financialjuice.com/News/9772305/The-US-Denmark-and-Greenland-are-going-to-hold-a-signing-ceremony-on-Tuesday---Fox.aspx",
+   "pubDate": "Mon, 21 Sep 2026 17:35:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772304",
+   "title": "The UK is close to agreeing to help the Saudi military counter the Houthis.",
+   "link": "https://www.financialjuice.com/News/9772304/The-UK-is-close-to-agreeing-to-help-the-Saudi-military-counter-the-Houthis.aspx",
+   "pubDate": "Mon, 21 Sep 2026 17:32:02 GMT",
+   "desc": "The UK is close to agreeing to provide defensive military support to Saudi Arabia as the kingdom faces repeated attacks from the Iran-backed Houthis. Prime Minister Andy Burnham is reportedly leaning toward offering assistance such as aerial refuelling and encouraging other countries to provide similar support. The aim would be to help Saudi Arabia counter Houthi attacks, stabilise the region and reduce risks to shipping through the Bab el-Mandeb strait. If approved, it would be one of Burnham’s first major military decisions since becoming prime minister in July."
+  },
+  {
+   "id": "9772254",
+   "title": "Press conference by BoC's Gov. Macklem ends.",
+   "link": "https://www.financialjuice.com/News/9772254/Press-conference-by-BoCs-Gov-Macklem-ends.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:57:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772253",
+   "title": "BoC's Gov. Macklem: If we were too slow to raise rates, we'd have to raise them very quickly, and raise them more than had we moved earlier.",
+   "link": "https://www.financialjuice.com/News/9772253/BoCs-Gov-Macklem-If-we-were-too-slow-to-raise-rates-wed-have-to-raise-them-very-quickly-and-raise-them-more-than-had-we-moved-earlier.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:52:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772252",
+   "title": "More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.",
+   "link": "https://www.financialjuice.com/News/9772252/More-than-two-dozen-US-lawmakers-urge-Trump-to-maintain-ban-on-Chinese-automakers---Letter.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:52:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772251",
+   "title": "BoC's Gov. Macklem: The question is, is the current rate the right one, or do we need to raise it?",
+   "link": "https://www.financialjuice.com/News/9772251/BoCs-Gov-Macklem-The-question-is-is-the-current-rate-the-right-one-or-do-we-need-to-raise-it.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:47:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772249",
+   "title": "BoC's Gov. Macklem: The key thing we're going to be looking at is our inflation forecast.",
+   "link": "https://www.financialjuice.com/News/9772249/BoCs-Gov-Macklem-The-key-thing-were-going-to-be-looking-at-is-our-inflation-forecast.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:46:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772247",
+   "title": "BoC's Gov. Macklem: I expect inflation to drift up a little higher in the coming months.",
+   "link": "https://www.financialjuice.com/News/9772247/BoCs-Gov-Macklem-I-expect-inflation-to-drift-up-a-little-higher-in-the-coming-months.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:46:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772241",
+   "title": "BoC's Gov. Macklem: We have cut Q4 annualized growth forecast to 0.75%.",
+   "link": "https://www.financialjuice.com/News/9772241/BoCs-Gov-Macklem-We-have-cut-Q4-annualized-growth-forecast-to-075.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:45:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772240",
+   "title": "BoC's Gov. Macklem: That is a worry because that will add persistence to headline inflation.",
+   "link": "https://www.financialjuice.com/News/9772240/BoCs-Gov-Macklem-That-is-a-worry-because-that-will-add-persistence-to-headline-inflation.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:43:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772239",
+   "title": "BoC's Gov. Macklem: It could take some time for higher fuel margins to normalise, that is a worry.",
+   "link": "https://www.financialjuice.com/News/9772239/BoCs-Gov-Macklem-It-could-take-some-time-for-higher-fuel-margins-to-normalise-that-is-a-worry.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:43:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772238",
+   "title": "BoC's Gov. Macklem Speaks - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9772238/BoCs-Gov-Macklem-Speaks---WATCH-LIVE.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:38:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772237",
+   "title": "BoC's Gov. Macklem: A new era of uncertainty is not going away any time soon.",
+   "link": "https://www.financialjuice.com/News/9772237/BoCs-Gov-Macklem-A-new-era-of-uncertainty-is-not-going-away-any-time-soon.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:35:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772195",
+   "title": "Trump found himself torn between his desire to help his friend and ally, Saudi Crown Prince Mohammed bin Salman, and his desire to avoid getting involved in a war in a new front in the Middle East - Barak Ravid, News 12.",
+   "link": "https://www.financialjuice.com/News/9772195/Trump-found-himself-torn-between-his-desire-to-help-his-friend-and-ally-Saudi-Crown-Prince-Mohammed-bin-Salman-and-his-desire-to-avoid-getting-involved-in-a-war-in-a-new-front-in-the-Middle-East---Barak-Ravid-News-12.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:16:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772194",
+   "title": "Trump considered ordering an attack against Houthi rebels in Yemen over the weekend, but decided to refrain for now - two senior US officials to Barak Ravid, News 12.",
+   "link": "https://www.financialjuice.com/News/9772194/Trump-considered-ordering-an-attack-against-Houthi-rebels-in-Yemen-over-the-weekend-but-decided-to-refrain-for-now---two-senior-US-officials-to-Barak-Ravid-News-12.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:16:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772188",
+   "title": "Germany's Leading Economic Institutes forecast German growth of 1.3% in 2026 vs 0.6% previously forecast - Handelsblatt.",
+   "link": "https://www.financialjuice.com/News/9772188/Germanys-Leading-Economic-Institutes-forecast-German-growth-of-13-in-2026-vs-06-previously-forecast---Handelsblatt.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:12:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772187",
+   "title": "Germany's economic institutes forecast 1.1% growth in 2027 vs 0.9% previously - Handelsblatt.",
+   "link": "https://www.financialjuice.com/News/9772187/Germanys-economic-institutes-forecast-11-growth-in-2027-vs-09-previously---Handelsblatt.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:12:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772186",
+   "title": "The US, Japan, and South Korea are committed to denuclearization of North Korea.",
+   "link": "https://www.financialjuice.com/News/9772186/The-US-Japan-and-South-Korea-are-committed-to-denuclearization-of-North-Korea.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:11:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772185",
+   "title": "The US releases a joint statement with Japan and South Korea, affirming 'free and open Indo-Pacific\".",
+   "link": "https://www.financialjuice.com/News/9772185/The-US-releases-a-joint-statement-with-Japan-and-South-Korea-affirming-free-and-open-Indo-Pacific.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:09:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772184",
+   "title": "Pakistani Interior Minister consults with their Iranian counterpart on efforts to advance the peace process - ISNA.",
+   "link": "https://www.financialjuice.com/News/9772184/Pakistani-Interior-Minister-consults-with-their-Iranian-counterpart-on-efforts-to-advance-the-peace-process---ISNA.aspx",
+   "pubDate": "Mon, 21 Sep 2026 16:09:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772165",
+   "title": "Trump to decide on US-China AI deal this week - Fox Business",
+   "link": "https://www.financialjuice.com/News/9772165/Trump-to-decide-on-US-China-AI-deal-this-week---Fox-Business.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:57:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772164",
+   "title": "US Treasury Secretary Bessent is going to present Trump with US-China AI pact - Fox Business.",
+   "link": "https://www.financialjuice.com/News/9772164/US-Treasury-Secretary-Bessent-is-going-to-present-Trump-with-US-China-AI-pact---Fox-Business.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:53:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772163",
+   "title": "Seven tankers in the vicinity of ras tanura port on sunday - Satellite images seen by Sources Show",
+   "link": "https://www.financialjuice.com/News/9772163/Seven-tankers-in-the-vicinity-of-ras-tanura-port-on-sunday---Satellite-images-seen-by-Sources-Show.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:52:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772162",
+   "title": "Saudi Aramco Loads 14 Million Barrels of Crude on Seven VLCCs from Gulf Terminals, Ramping Up Exports Through Strait of Hormuz - Shipping Data",
+   "link": "https://www.financialjuice.com/News/9772162/Saudi-Aramco-Loads-14-Million-Barrels-of-Crude-on-Seven-VLCCs-from-Gulf-Terminals-Ramping-Up-Exports-Through-Strait-of-Hormuz---Shipping-Data.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:51:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772161",
+   "title": "Trump on AI: I will only encourage AI; we will be careful and rein in if we have to - Truth Social.",
+   "link": "https://www.financialjuice.com/News/9772161/Trump-on-AI-I-will-only-encourage-AI-we-will-be-careful-and-rein-in-if-we-have-to---Truth-Social.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:51:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772160",
+   "title": "SpaceXAI - Grok 4.7 priced at $2 per million input tokens and $6 per million output tokens.",
+   "link": "https://www.financialjuice.com/News/9772160/SpaceXAI---Grok-47-priced-at-2-per-million-input-tokens-and-6-per-million-output-tokens.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:50:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772159",
+   "title": "SpaceXAI - SpaceX AI launches grok 4.7, twice as fast at half the price of comparable models.",
+   "link": "https://www.financialjuice.com/News/9772159/SpaceXAI---SpaceX-AI-launches-grok-47-twice-as-fast-at-half-the-price-of-comparable-models.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:50:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772158",
+   "title": "Russian Railways accepts first grain shipment from southern Russia to Murmansk port, aiming for October export; grain-by-rail applications to Ultramar Baltic terminal reach ~260,000 tons in September - industry sources",
+   "link": "https://www.financialjuice.com/News/9772158/Russian-Railways-accepts-first-grain-shipment-from-southern-Russia-to-Murmansk-port-aiming-for-October-export-grain-by-rail-applications-to-Ultramar-Baltic-terminal-reach-260000-tons-in-September---industry-sources.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:50:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772151",
+   "title": "China's Foreign Minister Wang Yi: China and the EU shouldn't be in a trade war.",
+   "link": "https://www.financialjuice.com/News/9772151/Chinas-Foreign-Minister-Wang-Yi-China-and-the-EU-shouldnt-be-in-a-trade-war.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:45:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772150",
+   "title": "China's Foreign Minister Wang Yi calls for enhancing strategic communications with Germany.",
+   "link": "https://www.financialjuice.com/News/9772150/Chinas-Foreign-Minister-Wang-Yi-calls-for-enhancing-strategic-communications-with-Germany.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:44:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772149",
+   "title": "China's Foreign Minister Wang Yi speaks to Germany's Foreign Minister Wadephul - Xinhua",
+   "link": "https://www.financialjuice.com/News/9772149/Chinas-Foreign-Minister-Wang-Yi-speaks-to-Germanys-Foreign-Minister-Wadephul---Xinhua.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:43:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772148",
+   "title": "Advisor to Iraq's Najaf Governor: Initial oil production from the Al-Qarnayn field, in partnership with China's Xinhua, to begin at the start of 2027 - IRNA",
+   "link": "https://www.financialjuice.com/News/9772148/Advisor-to-Iraqs-Najaf-Governor-Initial-oil-production-from-the-Al-Qarnayn-field-in-partnership-with-Chinas-Xinhua-to-begin-at-the-start-of-2027---IRNA.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:39:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772147",
+   "title": "US 6-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9772147/US-6-Month-Bill-Auction.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:33:10 GMT",
+   "desc": "High Yield 4.155% Bid-to-cover 2.62 Sells $79 bln Awards 48.01% of bids at high"
+  },
+  {
+   "id": "9772146",
+   "title": "US 3-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9772146/US-3-Month-Bill-Auction.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:32:50 GMT",
+   "desc": "High Yield 4.015% Bid-to-cover 2.77 US sells $92 bln Awards 36.66% of bids at high"
+  },
+  {
+   "id": "9772144",
+   "title": "US 3-Month Awarded High Actual 36.660% (Forecast -, Previous 13.860%)",
+   "link": "https://www.financialjuice.com/News/9772144/US-3-Month-Awarded-High-Actual-36660-Forecast---Previous-13860.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:32:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772143",
+   "title": "US 6-Month Awarded High Actual 48.010% (Forecast -, Previous 82.500%)",
+   "link": "https://www.financialjuice.com/News/9772143/US-6-Month-Awarded-High-Actual-48010-Forecast---Previous-82500.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:32:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772142",
+   "title": "US 6-Month Bill Bid-to-Cover Actual 2.62 (Forecast -, Previous 2.740)",
+   "link": "https://www.financialjuice.com/News/9772142/US-6-Month-Bill-Bid-to-Cover-Actual-262-Forecast---Previous-2740.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772141",
+   "title": "US 6-Month Bill High Yield Actual 4.155% (Forecast -, Previous 4.060%)",
+   "link": "https://www.financialjuice.com/News/9772141/US-6-Month-Bill-High-Yield-Actual-4155-Forecast---Previous-4060.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772140",
+   "title": "US 3-Month Bill High Yield Actual 4.015% (Forecast -, Previous 3.970%)",
+   "link": "https://www.financialjuice.com/News/9772140/US-3-Month-Bill-High-Yield-Actual-4015-Forecast---Previous-3970.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:32:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772139",
+   "title": "US 3-Month Bill Bid-to-Cover Actual 2.77 (Forecast -, Previous 2.640)",
+   "link": "https://www.financialjuice.com/News/9772139/US-3-Month-Bill-Bid-to-Cover-Actual-277-Forecast---Previous-2640.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:32:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772126",
+   "title": "Moscow Oil Refinery has halted operations after a Ukrainian drone attack on September 20th - Sources.",
+   "link": "https://www.financialjuice.com/News/9772126/Moscow-Oil-Refinery-has-halted-operations-after-a-Ukrainian-drone-attack-on-September-20th---Sources.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:18:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772110",
+   "title": "Fed bids for 6-month bills total $5.3 bln.",
+   "link": "https://www.financialjuice.com/News/9772110/Fed-bids-for-6-month-bills-total-53-bln.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:15:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772104",
+   "title": "Fed bids for 3-month bills total $6.2 bln.",
+   "link": "https://www.financialjuice.com/News/9772104/Fed-bids-for-3-month-bills-total-62-bln.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:15:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772103",
+   "title": "BoE Breeden: We need to move quickly on financial stability response.",
+   "link": "https://www.financialjuice.com/News/9772103/BoE-Breeden-We-need-to-move-quickly-on-financial-stability-response.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:14:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772101",
+   "title": "BoE Breeden: It is a question whether regulation is set up for AI.",
+   "link": "https://www.financialjuice.com/News/9772101/BoE-Breeden-It-is-a-question-whether-regulation-is-set-up-for-AI.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:10:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772100",
+   "title": "BoC's Gov. Macklem: The bank expects that growth in the labor force will be close to zero over the next few years.",
+   "link": "https://www.financialjuice.com/News/9772100/BoCs-Gov-Macklem-The-bank-expects-that-growth-in-the-labor-force-will-be-close-to-zero-over-the-next-few-years.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:07:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772099",
+   "title": "BoC's Gov. Macklem: There is growing evidence that many Canadian businesses have started to adapt to US tariffs.",
+   "link": "https://www.financialjuice.com/News/9772099/BoCs-Gov-Macklem-There-is-growing-evidence-that-many-Canadian-businesses-have-started-to-adapt-to-US-tariffs.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:06:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772098",
+   "title": "BoC's Gov. Macklem: Nor do we want to be too slow to respond if inflationary pressures are becoming more persistent.",
+   "link": "https://www.financialjuice.com/News/9772098/BoCs-Gov-Macklem-Nor-do-we-want-to-be-too-slow-to-respond-if-inflationary-pressures-are-becoming-more-persistent.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:06:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772097",
+   "title": "BoC's Gov. Macklem: When it comes to rate decisions, we need to look beyond the initial shock of higher oil prices.",
+   "link": "https://www.financialjuice.com/News/9772097/BoCs-Gov-Macklem-When-it-comes-to-rate-decisions-we-need-to-look-beyond-the-initial-shock-of-higher-oil-prices.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:06:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772096",
+   "title": "BoC's Gov. Macklem: so far we haven't seen evidence that higher oil prices are spreading to other goods and services.",
+   "link": "https://www.financialjuice.com/News/9772096/BoCs-Gov-Macklem-so-far-we-havent-seen-evidence-that-higher-oil-prices-are-spreading-to-other-goods-and-services.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:06:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772095",
+   "title": "BoC's Gov. Macklem: We don't want to raise rates and restrain growth if inflationary pressures are contained.",
+   "link": "https://www.financialjuice.com/News/9772095/BoCs-Gov-Macklem-We-dont-want-to-raise-rates-and-restrain-growth-if-inflationary-pressures-are-contained.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:06:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772094",
+   "title": "BoC's Gov. Macklem: Recent gas prices have been more consistent with an oil price almost $40 higher than where it has been.",
+   "link": "https://www.financialjuice.com/News/9772094/BoCs-Gov-Macklem-Recent-gas-prices-have-been-more-consistent-with-an-oil-price-almost-40-higher-than-where-it-has-been.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:05:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772093",
+   "title": "BoC's Gov. Macklem: If new US tariffs remain in place, Q4 growth could be roughly halved to below 1%.",
+   "link": "https://www.financialjuice.com/News/9772093/BoCs-Gov-Macklem-If-new-US-tariffs-remain-in-place-Q4-growth-could-be-roughly-halved-to-below-1.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:05:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772092",
+   "title": "BoC's Gov. Macklem: Fuel prices have risen more than we'd normally expect, reflecting damage to global refining capacity.",
+   "link": "https://www.financialjuice.com/News/9772092/BoCs-Gov-Macklem-Fuel-prices-have-risen-more-than-wed-normally-expect-reflecting-damage-to-global-refining-capacity.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:05:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772091",
+   "title": "BoC's Gov. Macklem: If oil prices stay near $100 a barrel, we'd expect inflation to edge up in the coming months.",
+   "link": "https://www.financialjuice.com/News/9772091/BoCs-Gov-Macklem-If-oil-prices-stay-near-100-a-barrel-wed-expect-inflation-to-edge-up-in-the-coming-months.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:05:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772077",
+   "title": "Mexico's President Sheinbaum: The government is looking for ways to reduce imports from other nations and buy more goods from the US.",
+   "link": "https://www.financialjuice.com/News/9772077/Mexicos-President-Sheinbaum-The-government-is-looking-for-ways-to-reduce-imports-from-other-nations-and-buy-more-goods-from-the-US.aspx",
+   "pubDate": "Mon, 21 Sep 2026 15:00:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772071",
+   "title": "Total CEO: Too much refining is offline ahead of winter.",
+   "link": "https://www.financialjuice.com/News/9772071/Total-CEO-Too-much-refining-is-offline-ahead-of-winter.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:57:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772070",
+   "title": "Trump: Belarus Potash to cost less than canada supply - Truth Social",
+   "link": "https://www.financialjuice.com/News/9772070/Trump-Belarus-Potash-to-cost-less-than-canada-supply---Truth-Social-.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:48:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772061",
+   "title": "US VP Vance: Energy prices are elevated because of iran.",
+   "link": "https://www.financialjuice.com/News/9772061/US-VP-Vance-Energy-prices-are-elevated-because-of-iran.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:46:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772045",
+   "title": "US VP Vance on gasoline prices: We're doing what we can to give relief - Pool.",
+   "link": "https://www.financialjuice.com/News/9772045/US-VP-Vance-on-gasoline-prices-Were-doing-what-we-can-to-give-relief---Pool.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:42:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772044",
+   "title": "US VP Vance on Iran: Will be further discussion at the UN.",
+   "link": "https://www.financialjuice.com/News/9772044/US-VP-Vance-on-Iran-Will-be-further-discussion-at-the-UN.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:41:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772043",
+   "title": "US VP Vance on Iran: We're going to try to protect the US Navy - Pool Report.",
+   "link": "https://www.financialjuice.com/News/9772043/US-VP-Vance-on-Iran-Were-going-to-try-to-protect-the-US-Navy---Pool-Report.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:40:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772042",
+   "title": "US VP Vance on Iran: Oil is still flowing - Pool Report",
+   "link": "https://www.financialjuice.com/News/9772042/US-VP-Vance-on-Iran-Oil-is-still-flowing---Pool-Report.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:40:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772041",
+   "title": "OpenAI develops features to counter Grok bot, and mulls a response to Meta's Muse  - The Information.",
+   "link": "https://www.financialjuice.com/News/9772041/OpenAI-develops-features-to-counter-Grok-bot-and-mulls-a-response-to-Metas-Muse----The-Information.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:34:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772016",
+   "title": "Stocks of crude oil in the US strategic petroleum reserve fell to 284.6 million barrels last week, the lowest since 1982.",
+   "link": "https://www.financialjuice.com/News/9772016/Stocks-of-crude-oil-in-the-US-strategic-petroleum-reserve-fell-to-2846-million-barrels-last-week-the-lowest-since-1982.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:27:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772014",
+   "title": "US proposed extending China trade truce by six months - NYT.",
+   "link": "https://www.financialjuice.com/News/9772014/US-proposed-extending-China-trade-truce-by-six-months---NYT.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:25:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772013",
+   "title": "UKMTO: A master has reported that an LPG tanker has been hit by debris from unknown projectiles.",
+   "link": "https://www.financialjuice.com/News/9772013/UKMTO-A-master-has-reported-that-an-LPG-tanker-has-been-hit-by-debris-from-unknown-projectiles.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:24:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772012",
+   "title": "UKMTO: We received a time-late report of an incident involving lpg tanker transiting outbound of the Strait of Hormuz.",
+   "link": "https://www.financialjuice.com/News/9772012/UKMTO-We-received-a-time-late-report-of-an-incident-involving-lpg-tanker-transiting-outbound-of-the-Strait-of-Hormuz.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:24:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772010",
+   "title": "Crypto Fear and Greed Index: 70/100 = Greed",
+   "link": "https://www.financialjuice.com/News/9772010/Crypto-Fear-and-Greed-Index-70100--Greed.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:18:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772009",
+   "title": "Fear and Greed Index: 33/100 = Fear",
+   "link": "https://www.financialjuice.com/News/9772009/Fear-and-Greed-Index-33100--Fear.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:18:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772007",
+   "title": "Advanced Micro Devices hits $1 trillion in market capitalization for the first time. $AMD",
+   "link": "https://www.financialjuice.com/News/9772007/Advanced-Micro-Devices-hits-1-trillion-in-market-capitalization-for-the-first-time-AMD.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:16:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772003",
+   "title": "Japan's PM Takaichi is going to stress Japanese investment in the US in talks with Trump - Nikkei.",
+   "link": "https://www.financialjuice.com/News/9772003/Japans-PM-Takaichi-is-going-to-stress-Japanese-investment-in-the-US-in-talks-with-Trump---Nikkei.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:14:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772002",
+   "title": "USTR Greer ends remarks on Fox News.",
+   "link": "https://www.financialjuice.com/News/9772002/USTR-Greer-ends-remarks-on-Fox-News.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:12:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772001",
+   "title": "USTR Greer: There is no grand bargain to be had with China.",
+   "link": "https://www.financialjuice.com/News/9772001/USTR-Greer-There-is-no-grand-bargain-to-be-had-with-China.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:12:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9772000",
+   "title": "USTR Greer: China is making progress on it's Boeing commitment from May. $BA",
+   "link": "https://www.financialjuice.com/News/9772000/USTR-Greer-China-is-making-progress-on-its-Boeing-commitment-from-May-BA.aspx",
+   "pubDate": "Mon, 21 Sep 2026 14:11:50 GMT",
+   "desc": ""
+  },
   {
    "id": "9771999",
    "title": "USTR Greer: Rare earths are coming in, but we'd like higher quantities.",
