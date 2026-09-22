@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-09-22T11:44:24.994287+00:00",
- "count": 8469,
+ "updated_at": "2026-09-22T15:44:00.722003+00:00",
+ "count": 8569,
  "items": [
+  {
+   "id": "9773924",
+   "title": "Trump concludes the Trilateral Signing Event.",
+   "link": "https://www.financialjuice.com/News/9773924/Trump-concludes-the-Trilateral-Signing-Event.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:42:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773923",
+   "title": "Trump signs the security agreement with Denmark and Greenland.",
+   "link": "https://www.financialjuice.com/News/9773923/Trump-signs-the-security-agreement-with-Denmark-and-Greenland.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:39:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773922",
+   "title": "Saudi Aramco plans a reorganisation to create a new gas division, and considers possible new listings of units - Sources.",
+   "link": "https://www.financialjuice.com/News/9773922/Saudi-Aramco-plans-a-reorganisation-to-create-a-new-gas-division-and-considers-possible-new-listings-of-units---Sources.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:34:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773921",
+   "title": "Danish Prime minister on Trump's Greenland deal: Today we are signing a deal that can last forever.",
+   "link": "https://www.financialjuice.com/News/9773921/Danish-Prime-minister-on-Trumps-Greenland-deal-Today-we-are-signing-a-deal-that-can-last-forever.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:33:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773912",
+   "title": "The AI safety ‘mechanism’ is a channel between US Treasury Secretary Bessent and China's Vice Premier He Lifeng - Politico",
+   "link": "https://www.financialjuice.com/News/9773912/The-AI-safety-mechanism-is-a-channel-between-US-Treasury-Secretary-Bessent-and-Chinas-Vice-Premier-He-Lifeng---Politico.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:29:46 GMT",
+   "desc": "Treasury Secretary Scott Bessent proposed a new AI safety “notification mechanism” during a Sunday meeting with Chinese Vice Premier He Lifeng. But the proposal is far simpler than the term suggests: an open line of communication between the two officials, according to four people familiar with the arrangement."
+  },
+  {
+   "id": "9773911",
+   "title": "PayPal is partnering with Meta. The partnership will allow users to shop and check out using Muse agents. $META $PYPL",
+   "link": "https://www.financialjuice.com/News/9773911/PayPal-is-partnering-with-Meta-The-partnership-will-allow-users-to-shop-and-check-out-using-Muse-agents-META-PYPL.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:20:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773910",
+   "title": "French Finance Minister Lescure: There are no fuel concerns for the next two months, but we must continue to monitor for a deterioration of the situation.",
+   "link": "https://www.financialjuice.com/News/9773910/French-Finance-Minister-Lescure-There-are-no-fuel-concerns-for-the-next-two-months-but-we-must-continue-to-monitor-for-a-deterioration-of-the-situation.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:20:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773909",
+   "title": "SpaceXAI’s Grok Bot Agent users grew 24% from the prior week,  tops 400,000 users after first month.",
+   "link": "https://www.financialjuice.com/News/9773909/SpaceXAIs-Grok-Bot-Agent-users-grew-24-from-the-prior-week--tops-400000-users-after-first-month.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:19:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773908",
+   "title": "Trump Participates in a Trilateral Signing Event - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9773908/Trump-Participates-in-a-Trilateral-Signing-Event---WATCH-LIVE.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:18:29 GMT",
+   "desc": "Trilateral Signing Event with the Prime Minister of Denmark and the Prime Minister of Greenland"
+  },
+  {
+   "id": "9773895",
+   "title": "US Treasury Deputy Secretary Brooke: Markets absorbed bigger bill sales remarkably well.",
+   "link": "https://www.financialjuice.com/News/9773895/US-Treasury-Deputy-Secretary-Brooke-Markets-absorbed-bigger-bill-sales-remarkably-well.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:16:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773893",
+   "title": "US Treasury Deputy Secretary Brooke: We may see stablecoins grow demand for US Treasuries.",
+   "link": "https://www.financialjuice.com/News/9773893/US-Treasury-Deputy-Secretary-Brooke-We-may-see-stablecoins-grow-demand-for-US-Treasuries.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:16:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773889",
+   "title": "US Treasury Deputy Secretary Brooke: We want a smooth transition to central clearing.",
+   "link": "https://www.financialjuice.com/News/9773889/US-Treasury-Deputy-Secretary-Brooke-We-want-a-smooth-transition-to-central-clearing.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:13:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773888",
+   "title": "US Treasury Deputy Secretary Brooke: We continue to enhance and expand the buyback program.",
+   "link": "https://www.financialjuice.com/News/9773888/US-Treasury-Deputy-Secretary-Brooke-We-continue-to-enhance-and-expand-the-buyback-program.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:11:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773887",
+   "title": "Trump ends remarks at the United Nations General Assembly.",
+   "link": "https://www.financialjuice.com/News/9773887/Trump-ends-remarks-at-the-United-Nations-General-Assembly.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:05:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773886",
+   "title": "Trump on Greenland Deal: The deal also protects Europe in addition to America.",
+   "link": "https://www.financialjuice.com/News/9773886/Trump-on-Greenland-Deal-The-deal-also-protects-Europe-in-addition-to-America.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:05:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773885",
+   "title": "Trump calls warnings about AI \"a hoax\" in his UN speech.",
+   "link": "https://www.financialjuice.com/News/9773885/Trump-calls-warnings-about-AI-a-hoax-in-his-UN-speech.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:03:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773884",
+   "title": "Trump: We will not stifle AI growth.",
+   "link": "https://www.financialjuice.com/News/9773884/Trump-We-will-not-stifle-AI-growth.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:02:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773864",
+   "title": "Trump: The US rejects attempts of a global scheme to control AI",
+   "link": "https://www.financialjuice.com/News/9773864/Trump-The-US-rejects-attempts-of-a-global-scheme-to-control-AI.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:01:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773862",
+   "title": "US to sell $90 bln 4-week bills on September 24th, to settle on September 29th.",
+   "link": "https://www.financialjuice.com/News/9773862/US-to-sell-90-bln-4-week-bills-on-September-24th-to-settle-on-September-29th.aspx",
+   "pubDate": "Tue, 22 Sep 2026 15:00:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773857",
+   "title": "Trump: Will sign Greenland agreement later today.",
+   "link": "https://www.financialjuice.com/News/9773857/Trump-Will-sign-Greenland-agreement-later-today.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:55:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773856",
+   "title": "Trump: We will build two major military bases in Greenland.",
+   "link": "https://www.financialjuice.com/News/9773856/Trump-We-will-build-two-major-military-bases-in-Greenland.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:54:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773855",
+   "title": "Trump: US Secretary of State Rubio is deep into negotiations with Cuba.",
+   "link": "https://www.financialjuice.com/News/9773855/Trump-US-Secretary-of-State-Rubio-is-deep-into-negotiations-with-Cuba.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:54:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773854",
+   "title": "Trump: Cuba is a failed state, freedom will be coming to Cuba.",
+   "link": "https://www.financialjuice.com/News/9773854/Trump-Cuba-is-a-failed-state-freedom-will-be-coming-to-Cuba.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:54:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773853",
+   "title": "Trump: Cuba will fall.",
+   "link": "https://www.financialjuice.com/News/9773853/Trump-Cuba-will-fall.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:52:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773852",
+   "title": "Trump: United States and Venezuela together, we have more than 60% of the oil in the world. So it's perhaps the biggest deal.",
+   "link": "https://www.financialjuice.com/News/9773852/Trump-United-States-and-Venezuela-together-we-have-more-than-60-of-the-oil-in-the-world-So-its-perhaps-the-biggest-deal.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:49:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773851",
+   "title": "Trump: US-Iran will get a deal done, one way or the other.",
+   "link": "https://www.financialjuice.com/News/9773851/Trump-US-Iran-will-get-a-deal-done-one-way-or-the-other.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:49:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773850",
+   "title": "Trump: We're working very closely with the leaders of Russia and Ukraine, and we will get that one done.",
+   "link": "https://www.financialjuice.com/News/9773850/Trump-Were-working-very-closely-with-the-leaders-of-Russia-and-Ukraine-and-we-will-get-that-one-done.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:48:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773835",
+   "title": "Trump: The US will be able to supply allies at a much faster rate.",
+   "link": "https://www.financialjuice.com/News/9773835/Trump-The-US-will-be-able-to-supply-allies-at-a-much-faster-rate.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:42:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773834",
+   "title": "Trump: calls on all nations to economically isolate Iran.",
+   "link": "https://www.financialjuice.com/News/9773834/Trump-calls-on-all-nations-to-economically-isolate-Iran.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:41:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773833",
+   "title": "Trump: The US is adding weapons to our stockpiles fast.",
+   "link": "https://www.financialjuice.com/News/9773833/Trump-The-US-is-adding-weapons-to-our-stockpiles-fast.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:41:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773832",
+   "title": "Trump: I won't give credence to the election when it comes to Iran.",
+   "link": "https://www.financialjuice.com/News/9773832/Trump-I-wont-give-credence-to-the-election-when-it-comes-to-Iran.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:41:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773831",
+   "title": "Trump: The United States Navy has recently escorted more than 1 billion barrels of oil out of the Strait of Hormuz.",
+   "link": "https://www.financialjuice.com/News/9773831/Trump-The-United-States-Navy-has-recently-escorted-more-than-1-billion-barrels-of-oil-out-of-the-Strait-of-Hormuz.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:40:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773830",
+   "title": "Trump: I believe we'll make a deal with iran right after our US election.",
+   "link": "https://www.financialjuice.com/News/9773830/Trump-I-believe-well-make-a-deal-with-iran-right-after-our-US-election.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:39:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773829",
+   "title": "Trump at UN: We must be united in maintaining pressure on Iran.",
+   "link": "https://www.financialjuice.com/News/9773829/Trump-at-UN-We-must-be-united-in-maintaining-pressure-on-Iran.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:39:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773828",
+   "title": "Trump: More oil is flowing than at any point since the war started - UN.",
+   "link": "https://www.financialjuice.com/News/9773828/Trump-More-oil-is-flowing-than-at-any-point-since-the-war-started---UN.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:39:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773827",
+   "title": "EU Envoys agree to lift sanctions on russian billionaires Usmanov and Fridman after push by france, luxembourg, - EU Diplomats",
+   "link": "https://www.financialjuice.com/News/9773827/EU-Envoys-agree-to-lift-sanctions-on-russian-billionaires-Usmanov-and-Fridman-after-push-by-france-luxembourg---EU-Diplomats.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:36:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773826",
+   "title": "EU Envoys agree to renew Russia sanctions on nearly 3,000 companies and individuals for 3 years, not the usual 6 months - EU Diplomats.",
+   "link": "https://www.financialjuice.com/News/9773826/EU-Envoys-agree-to-renew-Russia-sanctions-on-nearly-3000-companies-and-individuals-for-3-years-not-the-usual-6-months---EU-Diplomats.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:35:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773825",
+   "title": "Trump: I urge iran to make a deal.",
+   "link": "https://www.financialjuice.com/News/9773825/Trump-I-urge-iran-to-make-a-deal.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:35:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773824",
+   "title": "Trump: Invested $1.5 trillion in the US military in the past 12 months.",
+   "link": "https://www.financialjuice.com/News/9773824/Trump-Invested-15-trillion-in-the-US-military-in-the-past-12-months.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:33:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773804",
+   "title": "Trump expected to meet Tuesday with representatives from nine Arab countries on potential conflict with Iran; many likely to urge him to de-escalate and seek an agreement - Barak Ravid, News 12",
+   "link": "https://www.financialjuice.com/News/9773804/Trump-expected-to-meet-Tuesday-with-representatives-from-nine-Arab-countries-on-potential-conflict-with-Iran-many-likely-to-urge-him-to-de-escalate-and-seek-an-agreement---Barak-Ravid-News-12.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:31:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773797",
+   "title": "Trump touts US economy and military at the UN.",
+   "link": "https://www.financialjuice.com/News/9773797/Trump-touts-US-economy-and-military-at-the-UN.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:29:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773795",
+   "title": "Iran’s Foreign Minister Araghchi meets with the Qatari Foreign Minister - Iranian Media.",
+   "link": "https://www.financialjuice.com/News/9773795/Irans-Foreign-Minister-Araghchi-meets-with-the-Qatari-Foreign-Minister---Iranian-Media.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:22:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773794",
+   "title": "Crypto Fear and Greed Index: 78/100 = Extreme Greed",
+   "link": "https://www.financialjuice.com/News/9773794/Crypto-Fear-and-Greed-Index-78100--Extreme-Greed.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:19:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773793",
+   "title": "Fear and Greed Index: 38/100 = Fear",
+   "link": "https://www.financialjuice.com/News/9773793/Fear-and-Greed-Index-38100--Fear.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:18:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773792",
+   "title": "Fed's Jefferson: Still important work to do to modernize the discount window.",
+   "link": "https://www.financialjuice.com/News/9773792/Feds-Jefferson-Still-important-work-to-do-to-modernize-the-discount-window.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:17:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773791",
+   "title": "Fed's Jefferson: The discount window is shock absorber during market stress, supports functioning of short-term funding markets, treasury liquidity.",
+   "link": "https://www.financialjuice.com/News/9773791/Feds-Jefferson-The-discount-window-is-shock-absorber-during-market-stress-supports-functioning-of-short-term-funding-markets-treasury-liquidity.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:17:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773790",
+   "title": "Fed's Jefferson: Banks using fed's discount window report it's faster, easier, more efficient since self-service portal started.",
+   "link": "https://www.financialjuice.com/News/9773790/Feds-Jefferson-Banks-using-feds-discount-window-report-its-faster-easier-more-efficient-since-self-service-portal-started.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:17:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773789",
+   "title": "Fed's Jefferson does not comment on monetary policy, economy in prepared remarks.",
+   "link": "https://www.financialjuice.com/News/9773789/Feds-Jefferson-does-not-comment-on-monetary-policy-economy-in-prepared-remarks.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:17:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773767",
+   "title": "Several mediating countries in contact with US and Iran to arrange a high-level meeting - Regional source involved in negotiations, via Barak Ravid, News 12",
+   "link": "https://www.financialjuice.com/News/9773767/Several-mediating-countries-in-contact-with-US-and-Iran-to-arrange-a-high-level-meeting---Regional-source-involved-in-negotiations-via-Barak-Ravid-News-12.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:14:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773764",
+   "title": "Microsoft began a new round of layoffs affecting around 500 employees - Business Insider. $MSFT",
+   "link": "https://www.financialjuice.com/News/9773764/Microsoft-began-a-new-round-of-layoffs-affecting-around-500-employees---Business-Insider-MSFT.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:07:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773762",
+   "title": "Fed's Williams: The Fed will adjust monetary policy implementation strategy as needed.",
+   "link": "https://www.financialjuice.com/News/9773762/Feds-Williams-The-Fed-will-adjust-monetary-policy-implementation-strategy-as-needed.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:05:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773761",
+   "title": "Fed's Williams: Monitoring rise of centrally cleared repo trading.",
+   "link": "https://www.financialjuice.com/News/9773761/Feds-Williams-Monitoring-rise-of-centrally-cleared-repo-trading.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:05:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773760",
+   "title": "Fed's Williams: The Fed will adjust the supply of reserves depending on market conditions.",
+   "link": "https://www.financialjuice.com/News/9773760/Feds-Williams-The-Fed-will-adjust-the-supply-of-reserves-depending-on-market-conditions.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:05:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773759",
+   "title": "Fed's Williams: The Fed's rate control system has been very effective.",
+   "link": "https://www.financialjuice.com/News/9773759/Feds-Williams-The-Feds-rate-control-system-has-been-very-effective.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:05:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773758",
+   "title": "Fed's Williams: There should be no opportunity cost to holding reserves.",
+   "link": "https://www.financialjuice.com/News/9773758/Feds-Williams-There-should-be-no-opportunity-cost-to-holding-reserves.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:05:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773757",
+   "title": "Fed's Williams does not comment on monetary policy or the economic outlook.",
+   "link": "https://www.financialjuice.com/News/9773757/Feds-Williams-does-not-comment-on-monetary-policy-or-the-economic-outlook.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:05:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773756",
+   "title": "Trump: And if necessary, we will use our unmatched military might to secure the vital national interests of the United States - White House Press Pool",
+   "link": "https://www.financialjuice.com/News/9773756/Trump-And-if-necessary-we-will-use-our-unmatched-military-might-to-secure-the-vital-national-interests-of-the-United-States---White-House-Press-Pool.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:02:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773755",
+   "title": "Trump: There is no global government, and while I am President, there will be no global taxes - White House Press Pool.",
+   "link": "https://www.financialjuice.com/News/9773755/Trump-There-is-no-global-government-and-while-I-am-President-there-will-be-no-global-taxes---White-House-Press-Pool.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:01:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773737",
+   "title": "Trump: United States will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere - White House Press Pool.",
+   "link": "https://www.financialjuice.com/News/9773737/Trump-United-States-will-no-longer-permit-threats-to-America-to-gain-a-foothold-anywhere-in-the-Western-Hemisphere---White-House-Press-Pool.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:01:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773726",
+   "title": "Eurozone Consumer Confidence Flash Actual -16.5 (Forecast -16, Previous -15.5)",
+   "link": "https://www.financialjuice.com/News/9773726/Eurozone-Consumer-Confidence-Flash-Actual--165-Forecast--16-Previous--155.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:00:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773735",
+   "title": "Richmond Fed Comp. Index Actual -2 (Forecast 2, Previous 4)",
+   "link": "https://www.financialjuice.com/News/9773735/Richmond-Fed-Comp-Index-Actual--2-Forecast-2-Previous-4.aspx",
+   "pubDate": "Tue, 22 Sep 2026 14:00:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773725",
+   "title": "RBC BlueBay's Fixed Income CIO Dowding: Favourable view on short-dated bonds for the first time this year; cautious on long-dated UK bonds, shorter-dated gilts look better value",
+   "link": "https://www.financialjuice.com/News/9773725/RBC-BlueBays-Fixed-Income-CIO-Dowding-Favourable-view-on-short-dated-bonds-for-the-first-time-this-year-cautious-on-long-dated-UK-bonds-shorter-dated-gilts-look-better-value.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:58:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773724",
+   "title": "Iran's President Pezeshkian departs Algeria for New York - Iranian Media.",
+   "link": "https://www.financialjuice.com/News/9773724/Irans-President-Pezeshkian-departs-Algeria-for-New-York---Iranian-Media.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:48:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773714",
+   "title": "Trump speaks at the UN - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9773714/Trump-speaks-at-the-UN---WATCH-LIVE.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:42:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773713",
+   "title": "United Nations: Trump message to Putin: Settle the war.",
+   "link": "https://www.financialjuice.com/News/9773713/United-Nations-Trump-message-to-Putin-Settle-the-war.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:41:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773712",
+   "title": "IRGC Deputy: The conflict in the Strait of Hormuz continues. The Strait is not open - Tasnim News.",
+   "link": "https://www.financialjuice.com/News/9773712/IRGC-Deputy-The-conflict-in-the-Strait-of-Hormuz-continues-The-Strait-is-not-open---Tasnim-News.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:41:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773711",
+   "title": "Saudi Arabia once again attempts mediation with Sana'a - IRNA cites Lebanese outlet Al-Akhbar.",
+   "link": "https://www.financialjuice.com/News/9773711/Saudi-Arabia-once-again-attempts-mediation-with-Sanaa---IRNA-cites-Lebanese-outlet-Al-Akhbar.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:39:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773710",
+   "title": "Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.",
+   "link": "https://www.financialjuice.com/News/9773710/Feds-Collins-A-somewhat-more-restrictive-federal-funds-rate-will-help-ensure-that-inflation-durably-returns-to-target.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:35:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773709",
+   "title": "Fed's Collins: With the labor market on a better footing, monetary policy can focus on a timely return to price stability, especially after five and a half years of too high inflation.",
+   "link": "https://www.financialjuice.com/News/9773709/Feds-Collins-With-the-labor-market-on-a-better-footing-monetary-policy-can-focus-on-a-timely-return-to-price-stability-especially-after-five-and-a-half-years-of-too-high-inflation.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:35:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773708",
+   "title": "Fed's Collins: While the upside risks to inflation have increased, labor market conditions seem a bit stronger overall.",
+   "link": "https://www.financialjuice.com/News/9773708/Feds-Collins-While-the-upside-risks-to-inflation-have-increased-labor-market-conditions-seem-a-bit-stronger-overall.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:34:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773707",
+   "title": "Fed's Collins: I now see an increased likelihood of future scenarios in which inflation remains notably above 2%.",
+   "link": "https://www.financialjuice.com/News/9773707/Feds-Collins-I-now-see-an-increased-likelihood-of-future-scenarios-in-which-inflation-remains-notably-above-2.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:34:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773706",
+   "title": "Fed's Collins: I supported last week's rate hike.",
+   "link": "https://www.financialjuice.com/News/9773706/Feds-Collins-I-supported-last-weeks-rate-hike.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:33:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773692",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9773692/MOO-Imbalance.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: -65 mln Nasdaq 100: -81 mln Dow 30: -55 mln Mag 7: -48 mln"
+  },
+  {
+   "id": "9773688",
+   "title": "Libya's NOC: Expect losses to rise if the shutdown persists.",
+   "link": "https://www.financialjuice.com/News/9773688/Libyas-NOC-Expect-losses-to-rise-if-the-shutdown-persists.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:29:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773687",
+   "title": "Libya's NOC: The Sharara-Zawiya Crude loading pipeline closure leads to daily losses of around 130,000 bpd - Statement.",
+   "link": "https://www.financialjuice.com/News/9773687/Libyas-NOC-The-Sharara-Zawiya-Crude-loading-pipeline-closure-leads-to-daily-losses-of-around-130000-bpd---Statement.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:29:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773675",
+   "title": "Bank of America raises it's 2H26 Brent price estimate to $95 a barrel from $83 a barrel.",
+   "link": "https://www.financialjuice.com/News/9773675/Bank-of-America-raises-its-2H26-Brent-price-estimate-to-95-a-barrel-from-83-a-barrel.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:12:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773673",
+   "title": "Trump is open to meeting Iranian officials under the right conditions - CNN.",
+   "link": "https://www.financialjuice.com/News/9773673/Trump-is-open-to-meeting-Iranian-officials-under-the-right-conditions---CNN.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:07:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773672",
+   "title": "Apple Launches New Mac Mini and Mac Studio With Latest Apple Silicon $AAPL",
+   "link": "https://www.financialjuice.com/News/9773672/Apple-Launches-New-Mac-Mini-and-Mac-Studio-With-Latest-Apple-Silicon-AAPL.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:03:26 GMT",
+   "desc": "Apple: New Mac Mini with M6 starts at $899 Apple: Mac Mini with M5 Pro starts at $1,699 Apple: Mac Studio with M5 Max starts at $2,499 , while M5 Ultra starts at $5,499 New Mac Mini and Mac Studio are available starting today"
+  },
+  {
+   "id": "9773653",
+   "title": "ECB bond holdings under PEPP €1.28 tln as of last week.",
+   "link": "https://www.financialjuice.com/News/9773653/ECB-bond-holdings-under-PEPP-128-tln-as-of-last-week.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:00:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773652",
+   "title": "ECB settled €214.7 bln corporate bond purchases.",
+   "link": "https://www.financialjuice.com/News/9773652/ECB-settled-2147-bln-corporate-bond-purchases.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:00:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773649",
+   "title": "ECB settled €1,660.5 bln public-sector bond purchases.",
+   "link": "https://www.financialjuice.com/News/9773649/ECB-settled-16605-bln-public-sector-bond-purchases.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:00:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773645",
+   "title": "Effective Fed funds rate: 3.88% September 21st vs. 3.88% September 18th.",
+   "link": "https://www.financialjuice.com/News/9773645/Effective-Fed-funds-rate-388-September-21st-vs-388-September-18th.aspx",
+   "pubDate": "Tue, 22 Sep 2026 13:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773644",
+   "title": "US Redbook YoY Actual 7.6% (Forecast -, Previous 8.5%)",
+   "link": "https://www.financialjuice.com/News/9773644/US-Redbook-YoY-Actual-76-Forecast---Previous-85.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:55:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773643",
+   "title": "CDU'S Frei: Lawmakers are going to focus on stabilizing the German coalition.",
+   "link": "https://www.financialjuice.com/News/9773643/CDUS-Frei-Lawmakers-are-going-to-focus-on-stabilizing-the-German-coalition.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:54:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773642",
+   "title": "IMF's Managing Director Georgieva Speaks at \"The Next 3 Billion\" Semafor Event - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9773642/IMFs-Managing-Director-Georgieva-Speaks-at-The-Next-3-Billion-Semafor-Event---WATCH-LIVE.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:54:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773641",
+   "title": "Trump at the UN to highlight strategy to end foreign interference.",
+   "link": "https://www.financialjuice.com/News/9773641/Trump-at-the-UN-to-highlight-strategy-to-end-foreign-interference.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:53:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773639",
+   "title": "German fuel rebate to be approved in parliament this week - CDU",
+   "link": "https://www.financialjuice.com/News/9773639/German-fuel-rebate-to-be-approved-in-parliament-this-week---CDU.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:51:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773638",
+   "title": "Deputy Speaker of Iran Parliament Nikzad: We will not back down on the Strait of Hormuz. - ISMN",
+   "link": "https://www.financialjuice.com/News/9773638/Deputy-Speaker-of-Iran-Parliament-Nikzad-We-will-not-back-down-on-the-Strait-of-Hormuz---ISMN.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:50:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773637",
+   "title": "The government will soon approve the mobilization of up to 200,000 reservists for another round - Israel's Hayom News",
+   "link": "https://www.financialjuice.com/News/9773637/The-government-will-soon-approve-the-mobilization-of-up-to-200000-reservists-for-another-round---Israels-Hayom-News.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:48:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773636",
+   "title": "Deutsche Bank: Oil Pullback Fueled Broad Risk-On Move - FJElite",
+   "link": "https://www.financialjuice.com/News/9773636/Deutsche-Bank-Oil-Pullback-Fueled-Broad-Risk-On-Move---FJElite.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:48:10 GMT",
+   "desc": "Markets started the week on a much stronger footing as Brent briefly fell below $100 a barrel on renewed hopes for a diplomatic breakthrough in the Middle East. Trump said he would be open to meeting Iran’s president at the UN, helping drive a sharp fall in oil and European natural gas prices. That eased inflation concerns, supported sovereign bonds and pushed markets to trim some expectations for further rate hikes, particularly in Europe. Overnight, oil recovered somewhat after Bessent threatened tougher sanctions on Iranian airlines and service providers, but the broader tone remains more constructive. Lower energy prices fed directly into risk appetite. The S&amp;P 500 rose 1.4% and moved back to within half a percent of its record high, while the Nasdaq and Magnificent 7 hit fresh records. Meta surged on enthusiasm around its Muse AI agent, while AMD jumped after reaching a $1 trillion valuation. Bond yields fell sharply across Europe, with smaller declines in US Treasuries, while Bitcoin moved back above $85,000. Despite some hawkish Fed commentary, the combination of easing energy prices and renewed AI optimism has kept momentum firmly on the positive side."
+  },
+  {
+   "id": "9773616",
+   "title": "Goldman Sachs on US-China Summit - FJElite",
+   "link": "https://www.financialjuice.com/News/9773616/Goldman-Sachs-on-US-China-Summit---FJElite.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:45:17 GMT",
+   "desc": "Xi’s September 24 visit to the US is expected to reinforce the current framework of “managed competition” rather than produce a broader reset. The main focus is likely to be extending the existing trade and rare-earths truce, with limited index-level market impact given low expectations. The bigger risk point comes on November 10, when the BIS Affiliates Rule suspension, China’s rare-earth pause and the 178-item Section 301 exclusion list all expire. AI remains on a separate escalation track. The US is expected to push for cooperation on monitoring AI-directed cyber attacks while maintaining restrictions on more advanced technology. Core disputes over semiconductors, AI and critical minerals are therefore likely to remain unresolved. For markets, the clearer opportunities remain in AI sovereignty, semiconductor localisation, economic security and reindustrialisation, while cross-border AI, data-centre and other geopolitically exposed sectors remain more vulnerable if tensions re-escalate."
+  },
+  {
+   "id": "9773615",
+   "title": "JPMorgan: Tech Rally Broadened as Geopolitical Optimism Supports Sentiment - FJElite",
+   "link": "https://www.financialjuice.com/News/9773615/JPMorgan-Tech-Rally-Broadened-as-Geopolitical-Optimism-Supports-Sentiment---FJElite.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:42:16 GMT",
+   "desc": "Technology led the global equity rally, helped by lower oil and energy prices as markets priced in some geopolitical optimism ahead of the UN General Assembly and Trump-Xi summit. Meta’s Muse drove much of the strength after topping app-store download charts, with growing adoption of agentic AI supporting CPU-linked stocks because of the heavier compute requirements. The tech rebound has faded somewhat in Asia this morning, while US and European futures point to a quieter open. AI leadership is expected to become broader than in the first half of the year, with opportunities extending beyond memory into CPUs, optics, substrates, packaging and other infrastructure tied to inference. Security software is also expected to benefit as agentic AI expands the potential attack surface. In China, the domestic AI ecosystem continues to strengthen, with DeepSeek seeking more local chips for model training and Alibaba planning a more powerful domestic AI chip alongside a major expansion in global data-centre capacity."
+  },
+  {
+   "id": "9773614",
+   "title": "Trump's UN speech to make the case for how he uses America's power to confront Iran, cartel violence and other threats, reshaping the world to help the US - White House official tells Fox News",
+   "link": "https://www.financialjuice.com/News/9773614/Trumps-UN-speech-to-make-the-case-for-how-he-uses-Americas-power-to-confront-Iran-cartel-violence-and-other-threats-reshaping-the-world-to-help-the-US---White-House-official-tells-Fox-News.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:35:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773612",
+   "title": "US Sentiment: Markets Treading Water, with Geopolitics & China in Focus - FJElite",
+   "link": "https://www.financialjuice.com/News/9773612/US-Sentiment-Markets-Treading-Water-with-Geopolitics--China-in-Focus---FJElite.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:32:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773575",
+   "title": "US ADP Wkly Employment Change Actual 20k (Forecast -, Previous 16.25k)",
+   "link": "https://www.financialjuice.com/News/9773575/US-ADP-Wkly-Employment-Change-Actual-20k-Forecast---Previous-1625k.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:15:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773574",
+   "title": "Kremlin: Putin and Saudi Crown Prince discussed Yemen and the Middle East and call for safe passage through Hormuz",
+   "link": "https://www.financialjuice.com/News/9773574/Kremlin-Putin-and-Saudi-Crown-Prince-discussed-Yemen-and-the-Middle-East-and-call-for-safe-passage-through-Hormuz.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:12:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773572",
+   "title": "China's Xi unlikely to bring business delegation to meeting with trump - WSJ citing Sources",
+   "link": "https://www.financialjuice.com/News/9773572/Chinas-Xi-unlikely-to-bring-business-delegation-to-meeting-with-trump---WSJ-citing-Sources.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:10:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773571",
+   "title": "Kremlin: Putin spoke with Saudi Crown Prince - TASS",
+   "link": "https://www.financialjuice.com/News/9773571/Kremlin-Putin-spoke-with-Saudi-Crown-Prince---TASS.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:09:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773570",
+   "title": "SoFi Bank to migrate $25bln card program to stablecoin settlement",
+   "link": "https://www.financialjuice.com/News/9773570/SoFi-Bank-to-migrate-25bln-card-program-to-stablecoin-settlement.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:04:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773569",
+   "title": "Sofi goes live with stablecoin settlement on the Mastercard network",
+   "link": "https://www.financialjuice.com/News/9773569/Sofi-goes-live-with-stablecoin-settlement-on-the-Mastercard-network.aspx",
+   "pubDate": "Tue, 22 Sep 2026 12:04:13 GMT",
+   "desc": ""
+  },
   {
    "id": "9773526",
    "title": "US Secretary of State Rubio, on Ukraine war: concerned about US-linked ships being targeted - Fox News interview",
