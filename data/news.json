@@ -1,7 +1,595 @@
 {
- "updated_at": "2026-09-22T15:44:00.722003+00:00",
- "count": 8569,
+ "updated_at": "2026-09-22T19:13:41.457088+00:00",
+ "count": 8653,
  "items": [
+  {
+   "id": "9774225",
+   "title": "Trump: Witkoff and Kushner met with Iran. Lots of good thoughts.",
+   "link": "https://www.financialjuice.com/News/9774225/Trump-Witkoff-and-Kushner-met-with-Iran-Lots-of-good-thoughts.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 19:12:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774224",
+   "title": "WATCH LIVE: Trump Participates in a Shield of the Americas Event",
+   "link": "https://www.financialjuice.com/News/9774224/WATCH-LIVE-Trump-Participates-in-a-Shield-of-the-Americas-Event.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 19:08:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774223",
+   "title": "Senators: Trump must end China’s access to advanced chips.",
+   "link": "https://www.financialjuice.com/News/9774223/Senators-Trump-must-end-Chinas-access-to-advanced-chips.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 19:05:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774221",
+   "title": "On Thursday, Israel's Prime Minister Netanyahu will be in New York for a few hours, no significant meetings - Israel's N12 News",
+   "link": "https://www.financialjuice.com/News/9774221/On-Thursday-Israels-Prime-Minister-Netanyahu-will-be-in-New-York-for-a-few-hours-no-significant-meetings---Israels-N12-News.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 19:02:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774202",
+   "title": "Ukraine's President Zelenskiy: Trump and I discussed an energy ceasefire and how to end the war; Ukraine ready for any format of energy ceasefire",
+   "link": "https://www.financialjuice.com/News/9774202/Ukraines-President-Zelenskiy-Trump-and-I-discussed-an-energy-ceasefire-and-how-to-end-the-war-Ukraine-ready-for-any-format-of-energy-ceasefire.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:55:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774201",
+   "title": "Pre-planned US meeting with Araghchi's Iranian team, Qatar's PM present, discussed resuming talks and opening Hormuz Strait; no deal on contentious issues - US sources cited by Israel Hayom News",
+   "link": "https://www.financialjuice.com/News/9774201/Pre-planned-US-meeting-with-Araghchis-Iranian-team-Qatars-PM-present-discussed-resuming-talks-and-opening-Hormuz-Strait-no-deal-on-contentious-issues---US-sources-cited-by-Israel-Hayom-News.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:54:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774200",
+   "title": "Meeting between US representatives and Araqi's Iranian team was planned in advance; Qatar's PM participated in most of it - US sources cited by Israel Hayom News",
+   "link": "https://www.financialjuice.com/News/9774200/Meeting-between-US-representatives-and-Araqis-Iranian-team-was-planned-in-advance-Qatars-PM-participated-in-most-of-it---US-sources-cited-by-Israel-Hayom-News.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:53:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774199",
+   "title": "Iran: US has not set any red lines in the region, and Iran is prepared for all possible scenarios - Fars News",
+   "link": "https://www.financialjuice.com/News/9774199/Iran-US-has-not-set-any-red-lines-in-the-region-and-Iran-is-prepared-for-all-possible-scenarios---Fars-News.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:51:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774198",
+   "title": "Iranian Official responds to Trump's claims: We are ready for escalation in case of enemy aggression - Fars News",
+   "link": "https://www.financialjuice.com/News/9774198/Iranian-Official-responds-to-Trumps-claims-We-are-ready-for-escalation-in-case-of-enemy-aggression---Fars-News.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:50:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774186",
+   "title": "META's Zuckerberg plans to attend Trump-Xi state dinner. $META",
+   "link": "https://www.financialjuice.com/News/9774186/METAs-Zuckerberg-plans-to-attend-Trump-Xi-state-dinner-META.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:45:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774185",
+   "title": "Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%",
+   "link": "https://www.financialjuice.com/News/9774185/Brent-Crude-futures-settle-at-9925bbl-down-109-109.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:43:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774184",
+   "title": "NYMEX nat Gas Oct. futures settle at $2.9650/MMBTU",
+   "link": "https://www.financialjuice.com/News/9774184/NYMEX-nat-Gas-Oct-futures-settle-at-29650MMBTU.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:31:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774181",
+   "title": "NYMEX Gasoline Oct. futures settle at $3.4875 a gallon",
+   "link": "https://www.financialjuice.com/News/9774181/NYMEX-Gasoline-Oct-futures-settle-at-34875-a-gallon.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:31:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774179",
+   "title": "NYMEX diesel Oct. futures settle at $4.9421 a gallon",
+   "link": "https://www.financialjuice.com/News/9774179/NYMEX-diesel-Oct-futures-settle-at-49421-a-gallon.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:31:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774178",
+   "title": "NYMEX WTI Crude Oct. futures settle at $94.59 a barrel down $1.19, 1.24%",
+   "link": "https://www.financialjuice.com/News/9774178/NYMEX-WTI-Crude-Oct-futures-settle-at-9459-a-barrel-down-119-124.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:31:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774173",
+   "title": "OpenAI introduces GPT-6 Sol & Luna, expanding the GPT-6 universe",
+   "link": "https://www.financialjuice.com/News/9774173/OpenAI-introduces-GPT-6-Sol--Luna-expanding-the-GPT-6-universe.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:20:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774171",
+   "title": "Fed's Barkin: Seeing more price pressures than I'm comfortable with",
+   "link": "https://www.financialjuice.com/News/9774171/Feds-Barkin-Seeing-more-price-pressures-than-Im-comfortable-with.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:16:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774170",
+   "title": "Fed's Barkin: Tempering business expectations about inflation may help cool price pressures versus needing to rely on demand destruction",
+   "link": "https://www.financialjuice.com/News/9774170/Feds-Barkin-Tempering-business-expectations-about-inflation-may-help-cool-price-pressures-versus-needing-to-rely-on-demand-destruction.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:16:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774167",
+   "title": "Fed's Barkin: Would not yet make an overheating case, but economy is firming and not weakening",
+   "link": "https://www.financialjuice.com/News/9774167/Feds-Barkin-Would-not-yet-make-an-overheating-case-but-economy-is-firming-and-not-weakening.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:16:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774165",
+   "title": "Fed's Barkin: Many businesses still feel they have pricing power",
+   "link": "https://www.financialjuice.com/News/9774165/Feds-Barkin-Many-businesses-still-feel-they-have-pricing-power.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:16:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774154",
+   "title": "Fed's Barkin: Businesses and institutions are less reluctant to make investment and spending decisions after era of uncertainty",
+   "link": "https://www.financialjuice.com/News/9774154/Feds-Barkin-Businesses-and-institutions-are-less-reluctant-to-make-investment-and-spending-decisions-after-era-of-uncertainty.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:16:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774151",
+   "title": "Flights from Tehran to Baghdad and Muscat cancelled starting Wednesday midnight local time; Iran is working on diverting Baghdad flights to Najaf, other international flights including Istanbul still ongoing - Tasnim News",
+   "link": "https://www.financialjuice.com/News/9774151/Flights-from-Tehran-to-Baghdad-and-Muscat-cancelled-starting-Wednesday-midnight-local-time-Iran-is-working-on-diverting-Baghdad-flights-to-Najaf-other-international-flights-including-Istanbul-still-ongoing---Tasnim-News.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 18:01:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774132",
+   "title": "EU's Foreign Minister Kallas: Met with Iranian Foreign Minister Araghchi and addressed diplomatic prospects for ending the US-Iran war.",
+   "link": "https://www.financialjuice.com/News/9774132/EUs-Foreign-Minister-Kallas-Met-with-Iranian-Foreign-Minister-Araghchi-and-addressed-diplomatic-prospects-for-ending-the-US-Iran-war.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:58:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774131",
+   "title": "US Treasury Secretary Bessent eyed for Trump’s ‘AI Czar’- Semafor",
+   "link": "https://www.financialjuice.com/News/9774131/US-Treasury-Secretary-Bessent-eyed-for-Trumps-AI-Czar--Semafor.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:58:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774130",
+   "title": "Trump ends remarks to reporters.",
+   "link": "https://www.financialjuice.com/News/9774130/Trump-ends-remarks-to-reporters.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:55:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774129",
+   "title": "US Envoy Witkoff on Iran meeting: Feel very good right now.",
+   "link": "https://www.financialjuice.com/News/9774129/US-Envoy-Witkoff-on-Iran-meeting-Feel-very-good-right-now.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:55:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774128",
+   "title": "Trump: The Iran meeting was very productive; another is scheduled in the near future.",
+   "link": "https://www.financialjuice.com/News/9774128/Trump-The-Iran-meeting-was-very-productive-another-is-scheduled-in-the-near-future.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:54:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774127",
+   "title": "Trump: The Iran meeting went very well",
+   "link": "https://www.financialjuice.com/News/9774127/Trump-The-Iran-meeting-went-very-well.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:53:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774125",
+   "title": "Trump: We'll continue to go with Canada on Potash.",
+   "link": "https://www.financialjuice.com/News/9774125/Trump-Well-continue-to-go-with-Canada-on-Potash.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:52:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774124",
+   "title": "Trump: Putin is willing to meet to end the war.",
+   "link": "https://www.financialjuice.com/News/9774124/Trump-Putin-is-willing-to-meet-to-end-the-war.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:52:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774126",
+   "title": "Trump: US officials met with an Iranian delegation earlier for three hours.",
+   "link": "https://www.financialjuice.com/News/9774126/Trump-US-officials-met-with-an-Iranian-delegation-earlier-for-three-hours.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:52:22 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"hYemCFZW\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9774123",
+   "title": "US Treasury Secretary Bessent on Diesel: Examining whether a full or partial ban would work.",
+   "link": "https://www.financialjuice.com/News/9774123/US-Treasury-Secretary-Bessent-on-Diesel-Examining-whether-a-full-or-partial-ban-would-work.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:52:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774122",
+   "title": "US Treasury Secretary Bessent: Examining Diesel export ban, whether it's feasible.",
+   "link": "https://www.financialjuice.com/News/9774122/US-Treasury-Secretary-Bessent-Examining-Diesel-export-ban-whether-its-feasible.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:51:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774121",
+   "title": "Trump on ban on Diesel exports: I've called for that too.",
+   "link": "https://www.financialjuice.com/News/9774121/Trump-on-ban-on-Diesel-exports-Ive-called-for-that-too.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:50:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774120",
+   "title": "Trump: Strikes inside russia on refining capacity are a serious hit on the Russians and a serious hit on Diesel prices.",
+   "link": "https://www.financialjuice.com/News/9774120/Trump-Strikes-inside-russia-on-refining-capacity-are-a-serious-hit-on-the-Russians-and-a-serious-hit-on-Diesel-prices.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:50:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774118",
+   "title": "Trump: Zelenskiy and I Working on Solution to End War; Ukraine Will Make a Deal; Discuss It Often, Including With Putin",
+   "link": "https://www.financialjuice.com/News/9774118/Trump-Zelenskiy-and-I-Working-on-Solution-to-End-War-Ukraine-Will-Make-a-Deal-Discuss-It-Often-Including-With-Putin.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:49:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774117",
+   "title": "Trump: Zelenskiy and I are figuring out a solution to end the war",
+   "link": "https://www.financialjuice.com/News/9774117/Trump-Zelenskiy-and-I-are-figuring-out-a-solution-to-end-the-war.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:48:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774116",
+   "title": "Trump: Have a good relationship with Zelenskyy.",
+   "link": "https://www.financialjuice.com/News/9774116/Trump-Have-a-good-relationship-with-Zelenskyy.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:48:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774115",
+   "title": "Senior White House official to Al Jazeera: No meeting with the Iranians on President Trump's schedule, but he is open to it",
+   "link": "https://www.financialjuice.com/News/9774115/Senior-White-House-official-to-Al-Jazeera-No-meeting-with-the-Iranians-on-President-Trumps-schedule-but-he-is-open-to-it.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:47:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774109",
+   "title": "Fed's Barkin: I don't think current productivity improvements mostly reflect AI.",
+   "link": "https://www.financialjuice.com/News/9774109/Feds-Barkin-I-dont-think-current-productivity-improvements-mostly-reflect-AI.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:43:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774108",
+   "title": "Fed's Barkin: Fed is highly attentive to financial conditions, but can't assume markets will keep rates at a level needed to cool inflation.",
+   "link": "https://www.financialjuice.com/News/9774108/Feds-Barkin-Fed-is-highly-attentive-to-financial-conditions-but-cant-assume-markets-will-keep-rates-at-a-level-needed-to-cool-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:37:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774107",
+   "title": "Trump Participates in a Bilateral Meeting with the President of Ukraine - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9774107/Trump-Participates-in-a-Bilateral-Meeting-with-the-President-of-Ukraine---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:35:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774092",
+   "title": "Fed's Barkin: Like to think this period will be more like the 1990s mid-cycle adjustment.",
+   "link": "https://www.financialjuice.com/News/9774092/Feds-Barkin-Like-to-think-this-period-will-be-more-like-the-1990s-mid-cycle-adjustment.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:30:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774086",
+   "title": "Trump adviser ties high Gas prices to refining - Axios",
+   "link": "https://www.financialjuice.com/News/9774086/Trump-adviser-ties-high-Gas-prices-to-refining---Axios.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:28:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774069",
+   "title": "Trump: Will talk about China-Japan relations with Takaichi.",
+   "link": "https://www.financialjuice.com/News/9774069/Trump-Will-talk-about-China-Japan-relations-with-Takaichi.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:14:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774068",
+   "title": "Trump ends remarks to reporters.",
+   "link": "https://www.financialjuice.com/News/9774068/Trump-ends-remarks-to-reporters.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:13:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774067",
+   "title": "Fed's Barkin: Consumers will spend as long as the job market remains healthy.",
+   "link": "https://www.financialjuice.com/News/9774067/Feds-Barkin-Consumers-will-spend-as-long-as-the-job-market-remains-healthy.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:12:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774066",
+   "title": "Fed's Barkin: Don't see much evidence that consumer balance sheets are stretched.",
+   "link": "https://www.financialjuice.com/News/9774066/Feds-Barkin-Dont-see-much-evidence-that-consumer-balance-sheets-are-stretched.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:11:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774064",
+   "title": "Trump Participates in a Bilateral Meeting with the Prime Minister of Japan - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9774064/Trump-Participates-in-a-Bilateral-Meeting-with-the-Prime-Minister-of-Japan---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:09:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774063",
+   "title": "Trump: Japan's PM Takaichi has done a great job, Japan is doing well.",
+   "link": "https://www.financialjuice.com/News/9774063/Trump-Japans-PM-Takaichi-has-done-a-great-job-Japan-is-doing-well.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:09:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774062",
+   "title": "Fed's Barkin: The labor market is not overheated or even particularly tight.",
+   "link": "https://www.financialjuice.com/News/9774062/Feds-Barkin-The-labor-market-is-not-overheated-or-even-particularly-tight.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:07:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774059",
+   "title": "US 2-Year Note Auction",
+   "link": "https://www.financialjuice.com/News/9774059/US-2-Year-Note-Auction.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:02:43 GMT",
+   "desc": "High Yield 4.787% (Tailed by 0.2 basis points) Bid-to-cover 2.63 Sells $69 bln Awards 33.42% of bids at high Primary Dealers take 13.19% Direct 29.02% Indirect 57.79%"
+  },
+  {
+   "id": "9774058",
+   "title": "US 2-Year Note Bid-to-Cover Actual 2.630 (Forecast -, Previous 2.600)",
+   "link": "https://www.financialjuice.com/News/9774058/US-2-Year-Note-Bid-to-Cover-Actual-2630-Forecast---Previous-2600.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:02:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774057",
+   "title": "US 2-Year Note High Yield Actual 4.787% (Forecast -, Previous 4.204%)",
+   "link": "https://www.financialjuice.com/News/9774057/US-2-Year-Note-High-Yield-Actual-4787-Forecast---Previous-4204.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:02:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774052",
+   "title": "Treasury WI 2-year yield 4.785% before $69 billion auction.",
+   "link": "https://www.financialjuice.com/News/9774052/Treasury-WI-2-year-yield-4785-before-69-billion-auction.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 17:00:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774051",
+   "title": "Trump signed the commission making Rubio the National Security Advisor, per a White House official - The Hill Reporter on X",
+   "link": "https://www.financialjuice.com/News/9774051/Trump-signed-the-commission-making-Rubio-the-National-Security-Advisor-per-a-White-House-official---The-Hill-Reporter-on-X.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:58:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774050",
+   "title": "Trump ends remarks at meeting with UK's Burnham.",
+   "link": "https://www.financialjuice.com/News/9774050/Trump-ends-remarks-at-meeting-with-UKs-Burnham.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:56:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774049",
+   "title": "Trump on UK Trade: Now we're doing well.",
+   "link": "https://www.financialjuice.com/News/9774049/Trump-on-UK-Trade-Now-were-doing-well.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:56:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774048",
+   "title": "Trump, asked on the Chagos deal: I don't support it.",
+   "link": "https://www.financialjuice.com/News/9774048/Trump-asked-on-the-Chagos-deal-I-dont-support-it.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:54:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774047",
+   "title": "Fed's Barkin: Passing shocks like tariffs and energy are not fading, there is a risk that high inflation today will impact future inflation.",
+   "link": "https://www.financialjuice.com/News/9774047/Feds-Barkin-Passing-shocks-like-tariffs-and-energy-are-not-fading-there-is-a-risk-that-high-inflation-today-will-impact-future-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:52:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774046",
+   "title": "Fed's Barkin: There is momentum outside data centers and AI, with consumer spending holding up and strength in defense and manufacturing.",
+   "link": "https://www.financialjuice.com/News/9774046/Feds-Barkin-There-is-momentum-outside-data-centers-and-AI-with-consumer-spending-holding-up-and-strength-in-defense-and-manufacturing.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:52:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774045",
+   "title": "Fed's Barkin: Economic conditions are, if anything, firming.",
+   "link": "https://www.financialjuice.com/News/9774045/Feds-Barkin-Economic-conditions-are-if-anything-firming.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:51:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774044",
+   "title": "Fed's Barkin: It is tempting to blame high inflation on a handful of categories exposed to energy costs or tariffs, but much of the personal consumption expenditures index is rising by more than 3%.",
+   "link": "https://www.financialjuice.com/News/9774044/Feds-Barkin-It-is-tempting-to-blame-high-inflation-on-a-handful-of-categories-exposed-to-energy-costs-or-tariffs-but-much-of-the-personal-consumption-expenditures-index-is-rising-by-more-than-3.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:51:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774043",
+   "title": "Fed's Barkin: Last week's rate hike will help restore price stability, we'll see if more hikes are needed.",
+   "link": "https://www.financialjuice.com/News/9774043/Feds-Barkin-Last-weeks-rate-hike-will-help-restore-price-stability-well-see-if-more-hikes-are-needed.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:51:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774042",
+   "title": "Fed's Barkin: We raised rates last week because risks to inflation outweigh risks to maximum employment.",
+   "link": "https://www.financialjuice.com/News/9774042/Feds-Barkin-We-raised-rates-last-week-because-risks-to-inflation-outweigh-risks-to-maximum-employment.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:50:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774041",
+   "title": "Trump|: The Iran relationship is developing.",
+   "link": "https://www.financialjuice.com/News/9774041/Trump-The-Iran-relationship-is-developing.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:50:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774040",
+   "title": "Trump: Some US-Iran communication has happened even today.",
+   "link": "https://www.financialjuice.com/News/9774040/Trump-Some-US-Iran-communication-has-happened-even-today.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:49:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774039",
+   "title": "Trump: Iran has been talking to us, even today.",
+   "link": "https://www.financialjuice.com/News/9774039/Trump-Iran-has-been-talking-to-us-even-today.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:49:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774038",
+   "title": "Trump on Iran: I think a settlement will be reached.",
+   "link": "https://www.financialjuice.com/News/9774038/Trump-on-Iran-I-think-a-settlement-will-be-reached.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:49:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774027",
+   "title": "Trump: I think Burnham is a natural businessperson, he gets it.",
+   "link": "https://www.financialjuice.com/News/9774027/Trump-I-think-Burnham-is-a-natural-businessperson-he-gets-it.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:46:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774026",
+   "title": "UK's PM Burnham Tells Trump: We are ready to play our part in the Middle East.",
+   "link": "https://www.financialjuice.com/News/9774026/UKs-PM-Burnham-Tells-Trump-We-are-ready-to-play-our-part-in-the-Middle-East.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:46:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774024",
+   "title": "Fed bids for 2-year notes total $10.4 bln.",
+   "link": "https://www.financialjuice.com/News/9774024/Fed-bids-for-2-year-notes-total-104-bln.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:45:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9774009",
+   "title": "Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow",
+   "link": "https://www.financialjuice.com/News/9774009/Anthropic-Launches-Claude-Opus-55-Sonnet-and-Haiku-55-to-Follow.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:31:31 GMT",
+   "desc": "Anthropic introduces Claude Opus 5.5, available across all platforms including AWS, Google Cloud and Microsoft Azure Opus 5.5 priced at $4 per million input tokens and $20 per million output tokens Anthropic: Opus 5.5 performs at the level of Claude Fable 5.1 on most workloads while costing around 40% less to run than Opus 5 Anthropic increases five-hour usage limits by 20% across all subscription plans. Lower pricing means five-hour and weekly limits for Opus 5.5 go 25% further Anthropic plans to launch Claude Sonnet 5.5 and Haiku 5.5 in the coming weeks"
+  },
+  {
+   "id": "9773996",
+   "title": "Iran's Oil Minister announces recovery of some decline in gas production and special measures to supply liquid fuel to power plants, industries this winter - IRNA.",
+   "link": "https://www.financialjuice.com/News/9773996/Irans-Oil-Minister-announces-recovery-of-some-decline-in-gas-production-and-special-measures-to-supply-liquid-fuel-to-power-plants-industries-this-winter---IRNA.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:24:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773995",
+   "title": "Apple Developing Screenless Fitness Tracker to Compete With Whoop, Oura and Garmin $AAPL",
+   "link": "https://www.financialjuice.com/News/9773995/Apple-Developing-Screenless-Fitness-Tracker-to-Compete-With-Whoop-Oura-and-Garmin-AAPL.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:21:12 GMT",
+   "desc": "Apple has been working on a screenless wearable device for several months Device would compete with fitness and health trackers from Whoop, Oura and Garmin Apple has not yet decided whether to release the device"
+  },
+  {
+   "id": "9773979",
+   "title": "Pakistan Army conducts two-week exercise with Russian and Omani forces - Tasnim News cited Pakistan TV.",
+   "link": "https://www.financialjuice.com/News/9773979/Pakistan-Army-conducts-two-week-exercise-with-Russian-and-Omani-forces---Tasnim-News-cited-Pakistan-TV.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:07:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773977",
+   "title": "Fitch Ratings raises near-term oil and European gas price assumptions.",
+   "link": "https://www.financialjuice.com/News/9773977/Fitch-Ratings-raises-near-term-oil-and-European-gas-price-assumptions.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 16:03:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773958",
+   "title": "Meta is testing a 'human concierge' for its new personal agent Muse - Internal company posts",
+   "link": "https://www.financialjuice.com/News/9773958/Meta-is-testing-a-human-concierge-for-its-new-personal-agent-Muse---Internal-company-posts.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 15:59:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773957",
+   "title": "President Trump Participates in a Bilateral Meeting with the Prime Minister of the United Kingdom",
+   "link": "https://www.financialjuice.com/News/9773957/President-Trump-Participates-in-a-Bilateral-Meeting-with-the-Prime-Minister-of-the-United-Kingdom.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 15:57:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773955",
+   "title": "Fitch Ratings: World growth holds up, but real interest rates rise.",
+   "link": "https://www.financialjuice.com/News/9773955/Fitch-Ratings-World-growth-holds-up-but-real-interest-rates-rise.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 15:55:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773954",
+   "title": "AWS wins first NATO restricted cloud approval and has 15 regions in nato member nations $AMZN",
+   "link": "https://www.financialjuice.com/News/9773954/AWS-wins-first-NATO-restricted-cloud-approval-and-has-15-regions-in-nato-member-nations-AMZN.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 15:55:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773953",
+   "title": "The US may establish more defense areas in Greenland - White House.",
+   "link": "https://www.financialjuice.com/News/9773953/The-US-may-establish-more-defense-areas-in-Greenland---White-House.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 15:54:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773952",
+   "title": "Iran National Security Committee Spokesperson: The Strait of Hormuz rule violations will carry a fine equal to 20% of the cargo value and temporary vessel seizure until the fine is paid - Fars News.",
+   "link": "https://www.financialjuice.com/News/9773952/Iran-National-Security-Committee-Spokesperson-The-Strait-of-Hormuz-rule-violations-will-carry-a-fine-equal-to-20-of-the-cargo-value-and-temporary-vessel-seizure-until-the-fine-is-paid---Fars-News.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 15:52:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9773928",
+   "title": "French Budget Minister Amiel: The cost of our new measures are estimated at €450 mln.",
+   "link": "https://www.financialjuice.com/News/9773928/French-Budget-Minister-Amiel-The-cost-of-our-new-measures-are-estimated-at-450-mln.aspx?xy=rss",
+   "pubDate": "Tue, 22 Sep 2026 15:45:45 GMT",
+   "desc": ""
+  },
   {
    "id": "9773924",
    "title": "Trump concludes the Trilateral Signing Event.",
