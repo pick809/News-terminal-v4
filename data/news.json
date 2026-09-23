@@ -1,7 +1,455 @@
 {
- "updated_at": "2026-09-23T14:32:46.553151+00:00",
- "count": 8867,
+ "updated_at": "2026-09-23T18:35:17.854441+00:00",
+ "count": 8931,
  "items": [
+  {
+   "id": "9775961",
+   "title": "NYMEX Gasoline Oct. futures settle at $3.5870 a gallon",
+   "link": "https://www.financialjuice.com/News/9775961/NYMEX-Gasoline-Oct-futures-settle-at-35870-a-gallon.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 18:31:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775958",
+   "title": "NYMEX Diesel Oct. futures settle at $4.7764 a gallon",
+   "link": "https://www.financialjuice.com/News/9775958/NYMEX-Diesel-Oct-futures-settle-at-47764-a-gallon.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 18:31:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775948",
+   "title": "NYMEX gasoline Oct. futures settle at $3.5870 a gallon",
+   "link": "https://www.financialjuice.com/News/9775948/NYMEX-gasoline-Oct-futures-settle-at-35870-a-gallon.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 18:31:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775947",
+   "title": "NYMEX WTI Crude Nov. futures settle at $92.16 a barrel up $1.64, 1.81%",
+   "link": "https://www.financialjuice.com/News/9775947/NYMEX-WTI-Crude-Nov-futures-settle-at-9216-a-barrel-up-164-181.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 18:31:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775913",
+   "title": "Spain's PM Sanchez: EU needs to reduce its dependency on China.",
+   "link": "https://www.financialjuice.com/News/9775913/Spains-PM-Sanchez-EU-needs-to-reduce-its-dependency-on-China.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 18:14:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775911",
+   "title": "US lawmakers to unveil legislation to revise national security tool used by federal communications commission to bar Chinese tech gear -Lawmakers' Statement",
+   "link": "https://www.financialjuice.com/News/9775911/US-lawmakers-to-unveil-legislation-to-revise-national-security-tool-used-by-federal-communications-commission-to-bar-Chinese-tech-gear--Lawmakers-Statement.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 18:05:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775896",
+   "title": "White House on the Diesel ban: Earlier Politico report on the ban is not accurate.",
+   "link": "https://www.financialjuice.com/News/9775896/White-House-on-the-Diesel-ban-Earlier-Politico-report-on-the-ban-is-not-accurate.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 17:59:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775892",
+   "title": "White House Official: Report that US is considering a diesel export ban is 'fake news'.",
+   "link": "https://www.financialjuice.com/News/9775892/White-House-Official-Report-that-US-is-considering-a-diesel-export-ban-is-fake-news.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 17:41:49 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"ur2QYs7w\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9775891",
+   "title": "ECB'S Lane: We're not seeing any big wage response to the energy shock.",
+   "link": "https://www.financialjuice.com/News/9775891/ECBS-Lane-Were-not-seeing-any-big-wage-response-to-the-energy-shock.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 17:38:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775890",
+   "title": "Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT",
+   "link": "https://www.financialjuice.com/News/9775890/Microsofts-Smith-AI-safety-wont-advance-if-we-rely-on-two-companies-AI-should-have-independent-evaluators-MSFT.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 17:34:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775877",
+   "title": "Microsoft President: It is the right time to invest in Gulf nations. $MSFT",
+   "link": "https://www.financialjuice.com/News/9775877/Microsoft-President-It-is-the-right-time-to-invest-in-Gulf-nations-MSFT.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 17:27:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775859",
+   "title": "US 5-Year Note Auction: High Yield 5.033% (Tailed by 3.1 basis points)",
+   "link": "https://www.financialjuice.com/News/9775859/US-5-Year-Note-Auction-High-Yield-5033-Tailed-by-31-basis-points.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 17:03:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775858",
+   "title": "US 5-Year Note Auction",
+   "link": "https://www.financialjuice.com/News/9775858/US-5-Year-Note-Auction.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 17:02:58 GMT",
+   "desc": "High Yield 5.033% (Tailed by 3.1 basis points) Bid-to-cover 2.21 Sells $70 bln Awards 30.34% of bids at high Primary Dealers take 15.77% Direct 29.92% Indirect 54.31%"
+  },
+  {
+   "id": "9775857",
+   "title": "US 5-Year Note Bid-to-Cover Actual 2.210 (Forecast -, Previous 2.370)",
+   "link": "https://www.financialjuice.com/News/9775857/US-5-Year-Note-Bid-to-Cover-Actual-2210-Forecast---Previous-2370.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 17:02:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775856",
+   "title": "US 5-Year Note High Yield Actual 5.033% (Forecast -, Previous 4.393%)",
+   "link": "https://www.financialjuice.com/News/9775856/US-5-Year-Note-High-Yield-Actual-5033-Forecast---Previous-4393.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 17:02:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775851",
+   "title": "Treasury WI 5-year yield 5.002% before $70 billion auction.",
+   "link": "https://www.financialjuice.com/News/9775851/Treasury-WI-5-year-yield-5002-before-70-billion-auction.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 17:00:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775847",
+   "title": "US Treasury Secretary Bessent: Held substantive talks with China's He",
+   "link": "https://www.financialjuice.com/News/9775847/US-Treasury-Secretary-Bessent-Held-substantive-talks-with-Chinas-He.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:59:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775844",
+   "title": "Israel's Defense Minister Gantz: Israel will not withdraw from Mount Hermon or security zone in Syria - Israel's Channel 2 News",
+   "link": "https://www.financialjuice.com/News/9775844/Israels-Defense-Minister-Gantz-Israel-will-not-withdraw-from-Mount-Hermon-or-security-zone-in-Syria---Israels-Channel-2-News.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:51:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775828",
+   "title": "IMF's Managing Director Georgieva: Fiscal challenges are growing more acute.",
+   "link": "https://www.financialjuice.com/News/9775828/IMFs-Managing-Director-Georgieva-Fiscal-challenges-are-growing-more-acute.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:46:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775826",
+   "title": "IMF's Managing Director Georgieva: The medium-term outlook for the global economy is tepid.",
+   "link": "https://www.financialjuice.com/News/9775826/IMFs-Managing-Director-Georgieva-The-medium-term-outlook-for-the-global-economy-is-tepid.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:46:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775843",
+   "title": "US prepares 90-day diesel export ban - Politico.",
+   "link": "https://www.financialjuice.com/News/9775843/US-prepares-90-day-diesel-export-ban---Politico.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:45:57 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"em3yWbn3\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9775823",
+   "title": "Fed bids for 5-year notes total $10.5 bln.",
+   "link": "https://www.financialjuice.com/News/9775823/Fed-bids-for-5-year-notes-total-105-bln.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:45:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775822",
+   "title": "US Energy Secretary Wright: China is a 'swing importer' of oil in the world market.",
+   "link": "https://www.financialjuice.com/News/9775822/US-Energy-Secretary-Wright-China-is-a-swing-importer-of-oil-in-the-world-market.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:35:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775821",
+   "title": "Microsoft is expanding investments in the Middle East, investing more than $10b by 2030. $MSFT",
+   "link": "https://www.financialjuice.com/News/9775821/Microsoft-is-expanding-investments-in-the-Middle-East-investing-more-than-10b-by-2030-MSFT.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:32:31 GMT",
+   "desc": "Microsoft: deepen cybersecurity pacts In Kuwait, Qatar, the UAE, and the KSA."
+  },
+  {
+   "id": "9775812",
+   "title": "US Energy Secretary Wright: I see Natural Gas as 'America's Energy Super Power'.",
+   "link": "https://www.financialjuice.com/News/9775812/US-Energy-Secretary-Wright-I-see-Natural-Gas-as-Americas-Energy-Super-Power.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:30:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775808",
+   "title": "IMF: Supportive fiscal policies, private investment and potential AI productivity gains could support medium-term global growth.",
+   "link": "https://www.financialjuice.com/News/9775808/IMF-Supportive-fiscal-policies-private-investment-and-potential-AI-productivity-gains-could-support-medium-term-global-growth.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775807",
+   "title": "IMF: Global public debt was already near record highs when Middle East war began.",
+   "link": "https://www.financialjuice.com/News/9775807/IMF-Global-public-debt-was-already-near-record-highs-when-Middle-East-war-began.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:29:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775806",
+   "title": "IMF: The Middle East war since late February has significantly altered global growth trajectory through energy, commodity and supply-chain disruptions.",
+   "link": "https://www.financialjuice.com/News/9775806/IMF-The-Middle-East-war-since-late-February-has-significantly-altered-global-growth-trajectory-through-energy-commodity-and-supply-chain-disruptions.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:29:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775782",
+   "title": "Russian Foreign Minister Lavrov: An agreement has been reached to continue discussions.",
+   "link": "https://www.financialjuice.com/News/9775782/Russian-Foreign-Minister-Lavrov-An-agreement-has-been-reached-to-continue-discussions.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:11:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775780",
+   "title": "Russian Foreign Minister Lavrov emphasised the need to restore bilateral relations as soon as possible.",
+   "link": "https://www.financialjuice.com/News/9775780/Russian-Foreign-Minister-Lavrov-emphasised-the-need-to-restore-bilateral-relations-as-soon-as-possible.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:11:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775779",
+   "title": "Russian Foreign Minister Lavrov and US Secretary of State Rubio discussed the situation in the Middle East, the Transcaucasus, Latin America, and the Caribbean.",
+   "link": "https://www.financialjuice.com/News/9775779/Russian-Foreign-Minister-Lavrov-and-US-Secretary-of-State-Rubio-discussed-the-situation-in-the-Middle-East-the-Transcaucasus-Latin-America-and-the-Caribbean.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:10:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775778",
+   "title": "Oman's Maritime Security Center evacuated the crew of a commercial ship, the \"Cape Dao\" after an attack on the ship.",
+   "link": "https://www.financialjuice.com/News/9775778/Omans-Maritime-Security-Center-evacuated-the-crew-of-a-commercial-ship-the-Cape-Dao-after-an-attack-on-the-ship.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:05:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775777",
+   "title": "Senators aim to fast-track Chinese vehicle ban legislation this week as China's Xi visits Washington - Document.",
+   "link": "https://www.financialjuice.com/News/9775777/Senators-aim-to-fast-track-Chinese-vehicle-ban-legislation-this-week-as-Chinas-Xi-visits-Washington---Document.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:03:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775767",
+   "title": "Israel's Channel 12 News: The \"Together\" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.",
+   "link": "https://www.financialjuice.com/News/9775767/Israels-Channel-12-News-The-Together-party-leader-Bennett-calls-on-Israeli-PM-Netanyahu-to-declare-Qatar-an-enemy-state-during-UN-General-Assembly-speech-coalition-and-opposition-would-support-move.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 16:02:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775759",
+   "title": "Lithuanian Defence Minister: Lithuania, Latvia, and Estonia have asked for the European Union's support for drone defenses.",
+   "link": "https://www.financialjuice.com/News/9775759/Lithuanian-Defence-Minister-Lithuania-Latvia-and-Estonia-have-asked-for-the-European-Unions-support-for-drone-defenses.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:50:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775758",
+   "title": "US Treasury Secretary Bessent, after meeting with China's He: We're fine with either continuing the Busan arrangement or examining a bigger deal.",
+   "link": "https://www.financialjuice.com/News/9775758/US-Treasury-Secretary-Bessent-after-meeting-with-Chinas-He-Were-fine-with-either-continuing-the-Busan-arrangement-or-examining-a-bigger-deal.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:48:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775737",
+   "title": "Head of the Iranian Atomic Energy Organization: Despite numerous IAEA inspections, not a single report of non-compliance exists. The Agency has had access to all facilities - IRIB News.",
+   "link": "https://www.financialjuice.com/News/9775737/Head-of-the-Iranian-Atomic-Energy-Organization-Despite-numerous-IAEA-inspections-not-a-single-report-of-non-compliance-exists-The-Agency-has-had-access-to-all-facilities---IRIB-News.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:42:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775735",
+   "title": "Fitch Ratings believes that lingering tensions between the US and Europe continue to raise questions over the reliability of the US' security commitments to Europe.",
+   "link": "https://www.financialjuice.com/News/9775735/Fitch-Ratings-believes-that-lingering-tensions-between-the-US-and-Europe-continue-to-raise-questions-over-the-reliability-of-the-US-security-commitments-to-Europe.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:37:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775734",
+   "title": "Iran's Foreign Ministry Spokesperson: Conditions include accepting the safe route in Hormuz, in which an understanding between the two coastal countries has been reached.",
+   "link": "https://www.financialjuice.com/News/9775734/Irans-Foreign-Ministry-Spokesperson-Conditions-include-accepting-the-safe-route-in-Hormuz-in-which-an-understanding-between-the-two-coastal-countries-has-been-reached.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:36:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775733",
+   "title": "Fed's Goolsbee: That's what happened with tariffs, COVID; that's maybe what's happening with oil, we better be careful.",
+   "link": "https://www.financialjuice.com/News/9775733/Feds-Goolsbee-Thats-what-happened-with-tariffs-COVID-thats-maybe-whats-happening-with-oil-we-better-be-careful.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:34:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775732",
+   "title": "Fed's Goolsbee: We're better off assuming that bigger negative supply shocks to have a pretty persistent effect on inflation - Economics Applied Podcast.",
+   "link": "https://www.financialjuice.com/News/9775732/Feds-Goolsbee-Were-better-off-assuming-that-bigger-negative-supply-shocks-to-have-a-pretty-persistent-effect-on-inflation---Economics-Applied-Podcast.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:34:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775731",
+   "title": "Iran's Foreign Ministry Spokesperson: Another round of message exchanges and clarifications took place between Iran and the US via the Qatari mediator on Tuesday.",
+   "link": "https://www.financialjuice.com/News/9775731/Irans-Foreign-Ministry-Spokesperson-Another-round-of-message-exchanges-and-clarifications-took-place-between-Iran-and-the-US-via-the-Qatari-mediator-on-Tuesday.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:33:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775710",
+   "title": "Iranian Tasnim News Agency, citing sources: Araqchi's move in dealing with Witkov was done without coordination with the relevant authorities - Al Hadath.",
+   "link": "https://www.financialjuice.com/News/9775710/Iranian-Tasnim-News-Agency-citing-sources-Araqchis-move-in-dealing-with-Witkov-was-done-without-coordination-with-the-relevant-authorities---Al-Hadath.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:29:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775709",
+   "title": "US-EU Ambassador Puzder: We discussed Chinese overcapacity with EU's Sefcovic.",
+   "link": "https://www.financialjuice.com/News/9775709/US-EU-Ambassador-Puzder-We-discussed-Chinese-overcapacity-with-EUs-Sefcovic.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:27:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775708",
+   "title": "US Secretary of State Rubio ends remarks to reporters.",
+   "link": "https://www.financialjuice.com/News/9775708/US-Secretary-of-State-Rubio-ends-remarks-to-reporters.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:18:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775707",
+   "title": "IIF: Global debt tops record $365 trillion in first half of 2026, emerging markets drive bulk of rise.",
+   "link": "https://www.financialjuice.com/News/9775707/IIF-Global-debt-tops-record-365-trillion-in-first-half-of-2026-emerging-markets-drive-bulk-of-rise.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:17:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775706",
+   "title": "IIF: Emerging market debt jumps $6.5 trillion to more than $110 trillion in H1, led by China.",
+   "link": "https://www.financialjuice.com/News/9775706/IIF-Emerging-market-debt-jumps-65-trillion-to-more-than-110-trillion-in-H1-led-by-China.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:17:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775684",
+   "title": "US Secretary of State Rubio: Iran talks are being impeded by the IRGC Leaders.",
+   "link": "https://www.financialjuice.com/News/9775684/US-Secretary-of-State-Rubio-Iran-talks-are-being-impeded-by-the-IRGC-Leaders.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:03:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775683",
+   "title": "US Treasury will buy up to $6 bln of 20-30 year debt in September 24th liquidity buyback.",
+   "link": "https://www.financialjuice.com/News/9775683/US-Treasury-will-buy-up-to-6-bln-of-20-30-year-debt-in-September-24th-liquidity-buyback.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:01:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775675",
+   "title": "US Treasury to buy back up to $6B in longer-dated debt on Thursday; previously said buyback would be at least $4B.",
+   "link": "https://www.financialjuice.com/News/9775675/US-Treasury-to-buy-back-up-to-6B-in-longer-dated-debt-on-Thursday-previously-said-buyback-would-be-at-least-4B.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:01:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775674",
+   "title": "US Secretary of State Rubio: There will be an opportunity for Trump to interact with China again later this year at APEC and the G20.",
+   "link": "https://www.financialjuice.com/News/9775674/US-Secretary-of-State-Rubio-There-will-be-an-opportunity-for-Trump-to-interact-with-China-again-later-this-year-at-APEC-and-the-G20.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 15:00:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775667",
+   "title": "US Secretary of State Rubio: The Iran meeting was positive, but it was not a breakthrough.",
+   "link": "https://www.financialjuice.com/News/9775667/US-Secretary-of-State-Rubio-The-Iran-meeting-was-positive-but-it-was-not-a-breakthrough.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:57:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775666",
+   "title": "US Secretary of State Rubio: The Iran talks were a continuation of previous discussions, and were largely an exchange of ideas and messages.",
+   "link": "https://www.financialjuice.com/News/9775666/US-Secretary-of-State-Rubio-The-Iran-talks-were-a-continuation-of-previous-discussions-and-were-largely-an-exchange-of-ideas-and-messages.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:56:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775665",
+   "title": "Senior Iranian Official: There are still many differences remain between Iran and the US positions, but diplomacy continues.",
+   "link": "https://www.financialjuice.com/News/9775665/Senior-Iranian-Official-There-are-still-many-differences-remain-between-Iran-and-the-US-positions-but-diplomacy-continues.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:55:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775664",
+   "title": "Senior Iranian Official: During indirect talks with the US on Tuesday, reopening the Hormuz Strait and lifting the US blockade were discussed.",
+   "link": "https://www.financialjuice.com/News/9775664/Senior-Iranian-Official-During-indirect-talks-with-the-US-on-Tuesday-reopening-the-Hormuz-Strait-and-lifting-the-US-blockade-were-discussed.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:54:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775663",
+   "title": "US Secretary of State Rubio: Trump has many options over the Houthi attacks on Saudi Arabia.",
+   "link": "https://www.financialjuice.com/News/9775663/US-Secretary-of-State-Rubio-Trump-has-many-options-over-the-Houthi-attacks-on-Saudi-Arabia.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:52:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775662",
+   "title": "Senior Iranian official: Tehran is reviewing US response to its proposal to end hostilities",
+   "link": "https://www.financialjuice.com/News/9775662/Senior-Iranian-official-Tehran-is-reviewing-US-response-to-its-proposal-to-end-hostilities.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:52:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775661",
+   "title": "US Secretary of State Rubio: We will live up to commitments in the defense agreement with Saudi Arabia.",
+   "link": "https://www.financialjuice.com/News/9775661/US-Secretary-of-State-Rubio-We-will-live-up-to-commitments-in-the-defense-agreement-with-Saudi-Arabia.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:49:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775660",
+   "title": "US Secretary of State Rubio: Much of the interaction with China over the last year has been focused on trade.",
+   "link": "https://www.financialjuice.com/News/9775660/US-Secretary-of-State-Rubio-Much-of-the-interaction-with-China-over-the-last-year-has-been-focused-on-trade.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:47:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775659",
+   "title": "US Treasury Secretary Bessent: I met with China's He to finish up Sunday talks - Fox Business.",
+   "link": "https://www.financialjuice.com/News/9775659/US-Treasury-Secretary-Bessent-I-met-with-Chinas-He-to-finish-up-Sunday-talks---Fox-Business.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:47:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775658",
+   "title": "US Energy Secretary Wright: The US might consider leaving the IEA if there is no alignment on climate issues.",
+   "link": "https://www.financialjuice.com/News/9775658/US-Energy-Secretary-Wright-The-US-might-consider-leaving-the-IEA-if-there-is-no-alignment-on-climate-issues.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:47:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775634",
+   "title": "US Secretary of State Rubio: Both Russia and Ukraine want a grain and energy ceasefire.",
+   "link": "https://www.financialjuice.com/News/9775634/US-Secretary-of-State-Rubio-Both-Russia-and-Ukraine-want-a-grain-and-energy-ceasefire.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:38:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775632",
+   "title": "US State Dept: US Secretary of State Rubio and Lavrov discussed Russia-Ukraine war and US-Russia bilateral relationship",
+   "link": "https://www.financialjuice.com/News/9775632/US-State-Dept-US-Secretary-of-State-Rubio-and-Lavrov-discussed-Russia-Ukraine-war-and-US-Russia-bilateral-relationship.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:37:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9775631",
+   "title": "US State dept: Rubio met today with Russian Foreign Minister Lavrov on sidelines of UNGA",
+   "link": "https://www.financialjuice.com/News/9775631/US-State-dept-Rubio-met-today-with-Russian-Foreign-Minister-Lavrov-on-sidelines-of-UNGA.aspx?xy=rss",
+   "pubDate": "Wed, 23 Sep 2026 14:36:47 GMT",
+   "desc": ""
+  },
   {
    "id": "9775605",
    "title": "IIF cites an “illusion of stability’ on government debt ratios.",
