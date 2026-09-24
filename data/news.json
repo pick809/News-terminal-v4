@@ -1,7 +1,553 @@
 {
- "updated_at": "2026-09-24T03:32:59.940283+00:00",
- "count": 9031,
+ "updated_at": "2026-09-24T08:43:19.949324+00:00",
+ "count": 9109,
  "items": [
+  {
+   "id": "9777015",
+   "title": "Fed's Williams: AI gains could boost us productivity like in 1996-2005, other gains reflect stronger business formation.",
+   "link": "https://www.financialjuice.com/News/9777015/Feds-Williams-AI-gains-could-boost-us-productivity-like-in-1996-2005-other-gains-reflect-stronger-business-formation.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:42:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777014",
+   "title": "ING: The USD - FJElite",
+   "link": "https://www.financialjuice.com/News/9777014/ING-The-USD---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:42:19 GMT",
+   "desc": "The dollar jumped yesterday, with DXY breaking above 101.0. Very strong US PMIs, higher oil prices and soft risk sentiment have all contributed to the bullish narrative, although the move is starting to look stretched relative to fundamentals. We are cautious in calling for a bottom in the dollar just yet because any upside surprise in upcoming US data releases can easily prompt markets to fully price in an October Fed hike and prop up short-term rates even more. But if this risk doesn’t materialise, we expect a correction in DXY in the coming weeks, with a return to the 100-100.5 area. USD/JPY remains another source of potential downside risk for the dollar. The rapid rally in the pair may draw Japanese authorities to intervene - remember last week’s reported rate check - and that could easily spill over into a weaker USD across the board. Without any intervention, a return to above 160.0 levels looks inevitable after the dovish surprise by the Bank of Japan last week. Today, focus will be on the summit between President Trump and Chinese leader Xi Jinping. There is a history of Trump striking a more conciliatory tone in face-to-face events, and Scott Bessent has already announced an extension of the trade truce by two months. We’re not sure the dollar will respond much to positive US-China headlines at this stage, with any positive effect probably more visible in AUD and NZD. Those could emerge more prominently as proxies for CNY after the People&#39;s Bank of China set a weaker fixing for the yuan for the second consecutive day."
+  },
+  {
+   "id": "9777013",
+   "title": "Europe Sentiment: Yields Remain At Record Highs - FJElite",
+   "link": "https://www.financialjuice.com/News/9777013/Europe-Sentiment-Yields-Remain-At-Record-Highs---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:38:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777012",
+   "title": "Supreme Leader's Adviser Safavi: Conflict with US could expand further - Fars",
+   "link": "https://www.financialjuice.com/News/9777012/Supreme-Leaders-Adviser-Safavi-Conflict-with-US-could-expand-further---Fars.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:34:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777009",
+   "title": "Fed's Williams: I see a tug of war between higher trend growth pushing up US r-star and demographics pulling it down.",
+   "link": "https://www.financialjuice.com/News/9777009/Feds-Williams-I-see-a-tug-of-war-between-higher-trend-growth-pushing-up-US-r-star-and-demographics-pulling-it-down.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:31:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776990",
+   "title": "Fed's Williams: None of us know if higher yields will last.",
+   "link": "https://www.financialjuice.com/News/9776990/Feds-Williams-None-of-us-know-if-higher-yields-will-last.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:28:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776989",
+   "title": "Fed's Williams: Time for explicit, very direct forward guidance is over.",
+   "link": "https://www.financialjuice.com/News/9776989/Feds-Williams-Time-for-explicit-very-direct-forward-guidance-is-over.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:24:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776988",
+   "title": "SNB governing board member Tschudin: no significant rise in Swiss franc carry trade",
+   "link": "https://www.financialjuice.com/News/9776988/SNB-governing-board-member-Tschudin-no-significant-rise-in-Swiss-franc-carry-trade.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:18:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776987",
+   "title": "Fed's Williams: It’s sensible to expect another rate increase by year-end.",
+   "link": "https://www.financialjuice.com/News/9776987/Feds-Williams-Its-sensible-to-expect-another-rate-increase-by-year-end.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:18:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776986",
+   "title": "SNB Chairman Schlegel: Low interest rate boosts franc appeal for carry trade.",
+   "link": "https://www.financialjuice.com/News/9776986/SNB-Chairman-Schlegel-Low-interest-rate-boosts-franc-appeal-for-carry-trade.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:18:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776985",
+   "title": "SNB Chairman Schlegel: Interest rate gap with euro and dollar is relatively high, making franc less appealing.",
+   "link": "https://www.financialjuice.com/News/9776985/SNB-Chairman-Schlegel-Interest-rate-gap-with-euro-and-dollar-is-relatively-high-making-franc-less-appealing.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:17:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776984",
+   "title": "Fed's Williams: aim to bring inflation back to target promptly.",
+   "link": "https://www.financialjuice.com/News/9776984/Feds-Williams-aim-to-bring-inflation-back-to-target-promptly.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:17:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776983",
+   "title": "SNB Chairman Schlegel: Balance sheet size is not a goal, just an outcome of monetary policy.",
+   "link": "https://www.financialjuice.com/News/9776983/SNB-Chairman-Schlegel-Balance-sheet-size-is-not-a-goal-just-an-outcome-of-monetary-policy.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:17:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776982",
+   "title": "Fed's Williams: Demand appears fairly robust across all sectors.",
+   "link": "https://www.financialjuice.com/News/9776982/Feds-Williams-Demand-appears-fairly-robust-across-all-sectors.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:16:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776980",
+   "title": "Fed's Williams: Major hurdle is inflation.",
+   "link": "https://www.financialjuice.com/News/9776980/Feds-Williams-Major-hurdle-is-inflation.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:16:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776979",
+   "title": "SNB Chairman: Swiss franc has weakened, but still prepared to intervene in forex markets if needed.",
+   "link": "https://www.financialjuice.com/News/9776979/SNB-Chairman-Swiss-franc-has-weakened-but-still-prepared-to-intervene-in-forex-markets-if-needed.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:16:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776978",
+   "title": "Fed's Williams: Downside risks to reaching maximum employment have eased.",
+   "link": "https://www.financialjuice.com/News/9776978/Feds-Williams-Downside-risks-to-reaching-maximum-employment-have-eased.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:16:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776959",
+   "title": "SNB chairman Schlegel: we are not isolated, foreign events impact Switzerland",
+   "link": "https://www.financialjuice.com/News/9776959/SNB-chairman-Schlegel-we-are-not-isolated-foreign-events-impact-Switzerland.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:16:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776958",
+   "title": "Fed's Williams: US economy shows remarkable resilience",
+   "link": "https://www.financialjuice.com/News/9776958/Feds-Williams-US-economy-shows-remarkable-resilience.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:15:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776957",
+   "title": "SNB Chairman Schlegal: prepared to step into fx market, unable to offer guidance",
+   "link": "https://www.financialjuice.com/News/9776957/SNB-Chairman-Schlegal-prepared-to-step-into-fx-market-unable-to-offer-guidance.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:15:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776947",
+   "title": "SNB Chairman: Current monetary policy suitable with 0% interest rate, inflation outlook within price stability range.",
+   "link": "https://www.financialjuice.com/News/9776947/SNB-Chairman-Current-monetary-policy-suitable-with-0-interest-rate-inflation-outlook-within-price-stability-range.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:14:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776946",
+   "title": "Swiss National Bank chairman: no forward guidance, will review data in December",
+   "link": "https://www.financialjuice.com/News/9776946/Swiss-National-Bank-chairman-no-forward-guidance-will-review-data-in-December.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:11:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776945",
+   "title": "BoE's Lombardelli: We are closer to adverse scenario for energy vs July.",
+   "link": "https://www.financialjuice.com/News/9776945/BoEs-Lombardelli-We-are-closer-to-adverse-scenario-for-energy-vs-July.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:08:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776944",
+   "title": "BoE's Lombardelli: Case for a hike grows the longer the conflict persists.",
+   "link": "https://www.financialjuice.com/News/9776944/BoEs-Lombardelli-Case-for-a-hike-grows-the-longer-the-conflict-persists.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:04:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776943",
+   "title": "BoE's Lombardelli: No signs so far that 2nd-round effects are large.",
+   "link": "https://www.financialjuice.com/News/9776943/BoEs-Lombardelli-No-signs-so-far-that-2nd-round-effects-are-large.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:04:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776942",
+   "title": "BoE's Lombardelli: By no means suggesting that monetary policy should respond mechanically to movements in energy prices.",
+   "link": "https://www.financialjuice.com/News/9776942/BoEs-Lombardelli-By-no-means-suggesting-that-monetary-policy-should-respond-mechanically-to-movements-in-energy-prices.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:02:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776941",
+   "title": "BoE's Lombardelli: Wage growth remains too high to be consistent with inflation target.",
+   "link": "https://www.financialjuice.com/News/9776941/BoEs-Lombardelli-Wage-growth-remains-too-high-to-be-consistent-with-inflation-target.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:02:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776940",
+   "title": "BoE's Lombardelli: Policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity.",
+   "link": "https://www.financialjuice.com/News/9776940/BoEs-Lombardelli-Policy-is-increasingly-likely-to-need-to-tighten-if-elevated-energy-prices-persist-absent-clear-evidence-of-disinflation-or-weaker-activity.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:02:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776927",
+   "title": "German institutes forecast inflation rising to 2.8% in 2026 and 3.2% in 2027, before falling to 2.0% in 2028.",
+   "link": "https://www.financialjuice.com/News/9776927/German-institutes-forecast-inflation-rising-to-28-in-2026-and-32-in-2027-before-falling-to-20-in-2028.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:01:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776912",
+   "title": "German IFO Business Climate Actual 89.9 (Forecast 89, Previous 88.8)",
+   "link": "https://www.financialjuice.com/News/9776912/German-IFO-Business-Climate-Actual-899-Forecast-89-Previous-888.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:00:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776926",
+   "title": "German IFO Expectations Actual 90.4 (Forecast 89.3, Previous 89.1)",
+   "link": "https://www.financialjuice.com/News/9776926/German-IFO-Expectations-Actual-904-Forecast-893-Previous-891.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:00:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776913",
+   "title": "German IFO Current Conditions Actual 89.5 (Forecast 89, Previous 88.5)",
+   "link": "https://www.financialjuice.com/News/9776913/German-IFO-Current-Conditions-Actual-895-Forecast-89-Previous-885.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:00:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776911",
+   "title": "Norwegian Key Policy Rate Actual 4.5% (Forecast 4.5%, Previous 4.25%)",
+   "link": "https://www.financialjuice.com/News/9776911/Norwegian-Key-Policy-Rate-Actual-45-Forecast-45-Previous-425.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 08:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776884",
+   "title": "SNB: Goods inflation mainly driven by oil product prices.",
+   "link": "https://www.financialjuice.com/News/9776884/SNB-Goods-inflation-mainly-driven-by-oil-product-prices.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:35:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776883",
+   "title": "ECB's Schnabel: Energy shock much more persistent than thought.",
+   "link": "https://www.financialjuice.com/News/9776883/ECBs-Schnabel-Energy-shock-much-more-persistent-than-thought.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:34:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776881",
+   "title": "SNB: Energy prices could turn out to be significantly higher than expected.",
+   "link": "https://www.financialjuice.com/News/9776881/SNB-Energy-prices-could-turn-out-to-be-significantly-higher-than-expected.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:33:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776880",
+   "title": "SNB anticipates that growth in the global economy will be moderate over the coming quarters. inflation is likely to remain elevated for some time.",
+   "link": "https://www.financialjuice.com/News/9776880/SNB-anticipates-that-growth-in-the-global-economy-will-be-moderate-over-the-coming-quarters-inflation-is-likely-to-remain-elevated-for-some-time.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:32:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776862",
+   "title": "SNB: The main risk to the economic outlook for Switzerland stems from developments in the global economy, in particular, the situation in the Middle East.",
+   "link": "https://www.financialjuice.com/News/9776862/SNB-The-main-risk-to-the-economic-outlook-for-Switzerland-stems-from-developments-in-the-global-economy-in-particular-the-situation-in-the-Middle-East.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:32:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776861",
+   "title": "SNB sees 2026 GDP growth 1.5%-2%.",
+   "link": "https://www.financialjuice.com/News/9776861/SNB-sees-2026-GDP-growth-15-2.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:31:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776860",
+   "title": "SNB sees 2026 inflation at 0.7%; 2027 at 0.8%; 2028 at 0.8%.",
+   "link": "https://www.financialjuice.com/News/9776860/SNB-sees-2026-inflation-at-07-2027-at-08-2028-at-08.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:31:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776859",
+   "title": "SNB: Remain ready to intervene in FX market as needed.",
+   "link": "https://www.financialjuice.com/News/9776859/SNB-Remain-ready-to-intervene-in-FX-market-as-needed.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:31:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776856",
+   "title": "Swedish Riksbank Rate Actual 1.75% (Forecast 1.75%, Previous 1.75%)",
+   "link": "https://www.financialjuice.com/News/9776856/Swedish-Riksbank-Rate-Actual-175-Forecast-175-Previous-175.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:30:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776855",
+   "title": "Swiss Interest Rate Actual 0% (Forecast 0%, Previous 0.00%)",
+   "link": "https://www.financialjuice.com/News/9776855/Swiss-Interest-Rate-Actual-0-Forecast-0-Previous-000.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776849",
+   "title": "China's foreign minister, on Iran's president's remarks on the Strait of Hormuz: All parties should look to a peaceful option and resolve disputes through dialogue",
+   "link": "https://www.financialjuice.com/News/9776849/Chinas-foreign-minister-on-Irans-presidents-remarks-on-the-Strait-of-Hormuz-All-parties-should-look-to-a-peaceful-option-and-resolve-disputes-through-dialogue.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:13:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776847",
+   "title": "Currency Strength Chart: Strongest: CHF, EUR, GBP, NZD, CAD, USD, GBP, AUD - Weakest",
+   "link": "https://www.financialjuice.com/News/9776847/Currency-Strength-Chart-Strongest-CHF-EUR-GBP-NZD-CAD-USD-GBP-AUD---Weakest.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 07:02:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776810",
+   "title": "French Business Climate Overall Actual 96 (Forecast 98, Previous 98)",
+   "link": "https://www.financialjuice.com/News/9776810/French-Business-Climate-Overall-Actual-96-Forecast-98-Previous-98.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:45:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776811",
+   "title": "French Consumer Confidence Actual 86 (Forecast 85, Previous 86)",
+   "link": "https://www.financialjuice.com/News/9776811/French-Consumer-Confidence-Actual-86-Forecast-85-Previous-86.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:45:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776809",
+   "title": "French Business Climate Mfg Actual 101 (Forecast 102, Previous 103)",
+   "link": "https://www.financialjuice.com/News/9776809/French-Business-Climate-Mfg-Actual-101-Forecast-102-Previous-103.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776773",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9776773/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:08:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776772",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9776772/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:08:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776771",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9776771/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:08:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776770",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9776770/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:07:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776769",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9776769/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:07:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776768",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9776768/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:07:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776767",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9776767/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:07:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776766",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9776766/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:06:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776765",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9776765/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:06:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776764",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9776764/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:05:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776763",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9776763/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:05:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776762",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9776762/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:05:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776761",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9776761/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:04:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776760",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9776760/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:03:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776759",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9776759/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:03:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776758",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9776758/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 06:03:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776745",
+   "title": "ECB's Kocher: Signs of somewhat more Eurozone momentum since summer",
+   "link": "https://www.financialjuice.com/News/9776745/ECBs-Kocher-Signs-of-somewhat-more-Eurozone-momentum-since-summer.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:46:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776740",
+   "title": "ECB's Kocher: Eurozone economy remains fragile",
+   "link": "https://www.financialjuice.com/News/9776740/ECBs-Kocher-Eurozone-economy-remains-fragile.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:45:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776739",
+   "title": "ECB's Kocher: Must prevent too high inflation, becoming entrenched.",
+   "link": "https://www.financialjuice.com/News/9776739/ECBs-Kocher-Must-prevent-too-high-inflation-becoming-entrenched.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:43:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776733",
+   "title": "Iran: UN team coordinates with relevant authorities - ISNA",
+   "link": "https://www.financialjuice.com/News/9776733/Iran-UN-team-coordinates-with-relevant-authorities---ISNA.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:25:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776717",
+   "title": "Ukraine’s economic outlook weakened materially to near stagnation as Russian air attacks increase, EBRD says",
+   "link": "https://www.financialjuice.com/News/9776717/Ukraines-economic-outlook-weakened-materially-to-near-stagnation-as-Russian-air-attacks-increase-EBRD-says.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776716",
+   "title": "EBRD lowers Ukraine economic growth forecast for 2026 by 0.7 percentage points to 1.5%, cuts 2027 forecast by 1.5 percentage points to 2.5%",
+   "link": "https://www.financialjuice.com/News/9776716/EBRD-lowers-Ukraine-economic-growth-forecast-for-2026-by-07-percentage-points-to-15-cuts-2027-forecast-by-15-percentage-points-to-25.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776715",
+   "title": "Black Sea attacks could reduce Ukraine's wheat, metal and oilseed exports by up to $5.5 billion in 2026: EBRD",
+   "link": "https://www.financialjuice.com/News/9776715/Black-Sea-attacks-could-reduce-Ukraines-wheat-metal-and-oilseed-exports-by-up-to-55-billion-in-2026-EBRD.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776714",
+   "title": "Lebanon's economy to shrink 5% in 2026 amid israel hostilities, recover 4% in 2027: ebrd",
+   "link": "https://www.financialjuice.com/News/9776714/Lebanons-economy-to-shrink-5-in-2026-amid-israel-hostilities-recover-4-in-2027-ebrd.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776713",
+   "title": "EBRD lowers 2026 regional growth by 0.6 percentage points to 2.5%, boosts 2027 growth by 0.4 pp to 4%",
+   "link": "https://www.financialjuice.com/News/9776713/EBRD-lowers-2026-regional-growth-by-06-percentage-points-to-25-boosts-2027-growth-by-04-pp-to-4.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776712",
+   "title": "Average U.S. import tariffs from EBRD region dropped to 8.6% from 11.6% after July 2026 adjustments",
+   "link": "https://www.financialjuice.com/News/9776712/Average-US-import-tariffs-from-EBRD-region-dropped-to-86-from-116-after-July-2026-adjustments.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776711",
+   "title": "Iraqi economy expected to shrink 12% amid oil export drops: EBRD",
+   "link": "https://www.financialjuice.com/News/9776711/Iraqi-economy-expected-to-shrink-12-amid-oil-export-drops-EBRD.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776710",
+   "title": "EBRD lowers Turkey growth forecast 0.5 percentage points to 3% in 2026 on persistent inflation pressures",
+   "link": "https://www.financialjuice.com/News/9776710/EBRD-lowers-Turkey-growth-forecast-05-percentage-points-to-3-in-2026-on-persistent-inflation-pressures.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776644",
+   "title": "Ten commodity ships pass Strait of Hormuz on Wednesday against 10-day moving average near 17, data shows",
+   "link": "https://www.financialjuice.com/News/9776644/Ten-commodity-ships-pass-Strait-of-Hormuz-on-Wednesday-against-10-day-moving-average-near-17-data-shows.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 04:00:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9776639",
+   "title": "PAM secures most seats in Morocco's parliamentary election",
+   "link": "https://www.financialjuice.com/News/9776639/PAM-secures-most-seats-in-Moroccos-parliamentary-election.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 03:41:22 GMT",
+   "desc": ""
+  },
   {
    "id": "9776594",
    "title": "Dollar/yen declines 0.33% to 157.80",
