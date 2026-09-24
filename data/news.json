@@ -1,7 +1,623 @@
 {
- "updated_at": "2026-09-24T13:48:17.443158+00:00",
- "count": 9189,
+ "updated_at": "2026-09-24T17:58:48.529704+00:00",
+ "count": 9277,
  "items": [
+  {
+   "id": "9777851",
+   "title": "China's Xi leaves the White House after meetings with Trump.",
+   "link": "https://www.financialjuice.com/News/9777851/Chinas-Xi-leaves-the-White-House-after-meetings-with-Trump.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 17:29:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777842",
+   "title": "Trump takes China's Xi inside the Presidential Helicopter.",
+   "link": "https://www.financialjuice.com/News/9777842/Trump-takes-Chinas-Xi-inside-the-Presidential-Helicopter.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 17:10:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777841",
+   "title": "Trump: We had a great meeting.",
+   "link": "https://www.financialjuice.com/News/9777841/Trump-We-had-a-great-meeting.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 17:07:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777840",
+   "title": "US 7-Year Note Auction",
+   "link": "https://www.financialjuice.com/News/9777840/US-7-Year-Note-Auction.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 17:03:02 GMT",
+   "desc": "High Yield 5.085% [Tail +0.7 bps] Bid-to-cover 2.42 Sells 44 bln Awards 91.11% of bids at high Primary Dealers take 12.5% Direct 30.3% Indirect 57.2%"
+  },
+  {
+   "id": "9777839",
+   "title": "US 7-Year Bid-to-Cover Actual 2.420 (Forecast -, Previous 2.500)",
+   "link": "https://www.financialjuice.com/News/9777839/US-7-Year-Bid-to-Cover-Actual-2420-Forecast---Previous-2500.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 17:02:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777838",
+   "title": "US 7-Year High Yield Actual 5.085% (Forecast -, Previous 4.512%)",
+   "link": "https://www.financialjuice.com/News/9777838/US-7-Year-High-Yield-Actual-5085-Forecast---Previous-4512.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 17:02:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777823",
+   "title": "Trump administration presses China on suspected nuclear tests in confidential talks - WSJ.",
+   "link": "https://www.financialjuice.com/News/9777823/Trump-administration-presses-China-on-suspected-nuclear-tests-in-confidential-talks---WSJ.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 17:01:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777822",
+   "title": "Treasury WI 7-year yield 5.078% before $44 billion auction.",
+   "link": "https://www.financialjuice.com/News/9777822/Treasury-WI-7-year-yield-5078-before-44-billion-auction.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 17:00:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777821",
+   "title": "China’s President Xi: Building constructive China-US ties is not an expedient measure.",
+   "link": "https://www.financialjuice.com/News/9777821/Chinas-President-Xi-Building-constructive-China-US-ties-is-not-an-expedient-measure.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 17:00:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777802",
+   "title": "China’s President Xi: China supports the United States and Iran in returning to the Islamabad Memorandum of Understanding - Xinhua.",
+   "link": "https://www.financialjuice.com/News/9777802/Chinas-President-Xi-China-supports-the-United-States-and-Iran-in-returning-to-the-Islamabad-Memorandum-of-Understanding---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 16:55:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777801",
+   "title": "OpenAI’s AI tried to breach 4 other targets - NYT.",
+   "link": "https://www.financialjuice.com/News/9777801/OpenAIs-AI-tried-to-breach-4-other-targets---NYT.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 16:51:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777794",
+   "title": "China’s President Xi: China hopes the US will adhere to the correct position of opposing \"Taiwan independence,\" and will handle the Taiwan question with prudence - Xinhua.",
+   "link": "https://www.financialjuice.com/News/9777794/Chinas-President-Xi-China-hopes-the-US-will-adhere-to-the-correct-position-of-opposing-Taiwan-independence-and-will-handle-the-Taiwan-question-with-prudence---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 16:46:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777768",
+   "title": "EU needs 'decisive change' in 'scale and pace' of defence efforts to be ready to defend against Russia by 2030 - Executive Summary of Report for EU Leaders.",
+   "link": "https://www.financialjuice.com/News/9777768/EU-needs-decisive-change-in-scale-and-pace-of-defence-efforts-to-be-ready-to-defend-against-Russia-by-2030---Executive-Summary-of-Report-for-EU-Leaders.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 16:27:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777766",
+   "title": "US and Iran discuss phased deal to reopen Hormuz and end US blockade - Sources.",
+   "link": "https://www.financialjuice.com/News/9777766/US-and-Iran-discuss-phased-deal-to-reopen-Hormuz-and-end-US-blockade---Sources.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 16:17:35 GMT",
+   "desc": "US and Iranian negotiators in New York are exploring a phased path out of war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade of Iran, sources close to the talks said. The strait has become the central bargaining chip in efforts to end the nearly seven-month US-lran conflict, with Iran seeking relief from the US blockade that is choking its economy and Washington seeking free passage for ships on the global oil supply route now blocked by Tehran."
+  },
+  {
+   "id": "9777752",
+   "title": "US and Iran discuss phased deal to reopen Hormuz and end US blockade - Sources.",
+   "link": "https://www.financialjuice.com/News/9777752/US-and-Iran-discuss-phased-deal-to-reopen-Hormuz-and-end-US-blockade---Sources-.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 16:15:49 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"RkZmy8qV\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9777747",
+   "title": "Russia's Kuibyshev Oil Refinery has suspended oil processing since September 22ND, following A drone attack - Sources.",
+   "link": "https://www.financialjuice.com/News/9777747/Russias-Kuibyshev-Oil-Refinery-has-suspended-oil-processing-since-September-22ND-following-A-drone-attack---Sources.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 16:14:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777742",
+   "title": "BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9777742/BNP-Paribas-and-Google-Cloud-sign-five-year-AI-pact-GOOGL.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 16:01:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777740",
+   "title": "US 30-yr fixed rate mortgage averages 7.03% in Sept 24 week, highest since Jan 16, 2025 week, vs 6.95% prior week - Freddie Mac",
+   "link": "https://www.financialjuice.com/News/9777740/US-30-yr-fixed-rate-mortgage-averages-703-in-Sept-24-week-highest-since-Jan-16-2025-week-vs-695-prior-week---Freddie-Mac.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 16:00:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777738",
+   "title": "Google introduces Gemini 3.8 Live, with live avatar. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9777738/Google-introduces-Gemini-38-Live-with-live-avatar-GOOGL.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:55:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777737",
+   "title": "China’s President Xi holds small-group exchanges with Trump - Xinhua.",
+   "link": "https://www.financialjuice.com/News/9777737/Chinas-President-Xi-holds-small-group-exchanges-with-Trump---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:48:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777714",
+   "title": "The US seeks to join Musk in his court fight with the EU over the X fine.",
+   "link": "https://www.financialjuice.com/News/9777714/The-US-seeks-to-join-Musk-in-his-court-fight-with-the-EU-over-the-X-fine.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:33:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777713",
+   "title": "US 4-Week Bill Auction",
+   "link": "https://www.financialjuice.com/News/9777713/US-4-Week-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:32:51 GMT",
+   "desc": "High Yield 3.850% Bid-to-cover 2.61 US sells $90 bln Awards 54.97% of bids at high"
+  },
+  {
+   "id": "9777710",
+   "title": "US 4-Week Bill Bid-to-Cover Actual 2.61 (Forecast -, Previous 3.020)",
+   "link": "https://www.financialjuice.com/News/9777710/US-4-Week-Bill-Bid-to-Cover-Actual-261-Forecast---Previous-3020.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:32:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777709",
+   "title": "US 4-Week Bill High Yield Actual 3.85% (Forecast -, Previous 3.820%)",
+   "link": "https://www.financialjuice.com/News/9777709/US-4-Week-Bill-High-Yield-Actual-385-Forecast---Previous-3820.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:32:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777676",
+   "title": "Fed bids for 4-week bills total $7.4 bln.",
+   "link": "https://www.financialjuice.com/News/9777676/Fed-bids-for-4-week-bills-total-74-bln.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:15:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777675",
+   "title": "UAE: The decision is based on US sanctions on Iranian airlines using airports.",
+   "link": "https://www.financialjuice.com/News/9777675/UAE-The-decision-is-based-on-US-sanctions-on-Iranian-airlines-using-airports.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:13:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777674",
+   "title": "UAE's Civil Aviation suspends flights of iranian companies from and to the country starting Thursday until further notice- UAE State News Agency.",
+   "link": "https://www.financialjuice.com/News/9777674/UAEs-Civil-Aviation-suspends-flights-of-iranian-companies-from-and-to-the-country-starting-Thursday-until-further-notice--UAE-State-News-Agency.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:12:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777673",
+   "title": "Pakistan PM meets the Iranian President on the sidelines of the UNGA.",
+   "link": "https://www.financialjuice.com/News/9777673/Pakistan-PM-meets-the-Iranian-President-on-the-sidelines-of-the-UNGA.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:08:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777672",
+   "title": "Trump & Xi Attend a US Military Review - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9777672/Trump--Xi-Attend-a-US-Military-Review---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:06:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777662",
+   "title": "Kansas City Fed Manufacturing Actual 20 (Forecast -, Previous 17)",
+   "link": "https://www.financialjuice.com/News/9777662/Kansas-City-Fed-Manufacturing-Actual-20-Forecast---Previous-17.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:01:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777663",
+   "title": "US Treasury will buy up to $6 bln of 20-30 year debt in it's September 24th liquidity buyback.",
+   "link": "https://www.financialjuice.com/News/9777663/US-Treasury-will-buy-up-to-6-bln-of-20-30-year-debt-in-its-September-24th-liquidity-buyback.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:01:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777660",
+   "title": "US Treasury Bill Auction Schedule",
+   "link": "https://www.financialjuice.com/News/9777660/US-Treasury-Bill-Auction-Schedule.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:00:56 GMT",
+   "desc": "US to sell $95 bln of 3-Month Bills on September 28, to settle on October 1 US to sell $82 bln of 6-Month Bills on September 28, to settle on October 1 US to sell $54 bln of 52-Week Bills on September 29, to settle on October 1"
+  },
+  {
+   "id": "9777654",
+   "title": "Kansas City Fed Composite Index Actual 14 (Forecast 8.5, Previous 10)",
+   "link": "https://www.financialjuice.com/News/9777654/Kansas-City-Fed-Composite-Index-Actual-14-Forecast-85-Previous-10.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 15:00:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777652",
+   "title": "Yemen's Houthis claim responsibility for the attacks on Saudi Arabia's Jazan.",
+   "link": "https://www.financialjuice.com/News/9777652/Yemens-Houthis-claim-responsibility-for-the-attacks-on-Saudi-Arabias-Jazan.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:52:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777636",
+   "title": "Trump, Xi end remarks to media.",
+   "link": "https://www.financialjuice.com/News/9777636/Trump-Xi-end-remarks-to-media.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:45:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777634",
+   "title": "China’s President Xi concludes speech at the White House.",
+   "link": "https://www.financialjuice.com/News/9777634/Chinas-President-Xi-concludes-speech-at-the-White-House.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:45:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777633",
+   "title": "China’s President Xi: China-US military should maintain communications.",
+   "link": "https://www.financialjuice.com/News/9777633/Chinas-President-Xi-China-US-military-should-maintain-communications.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:41:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777632",
+   "title": "BoE Breeden: In november, we will need to consider both the size of the energy shock, and how it is spreading through the economy.",
+   "link": "https://www.financialjuice.com/News/9777632/BoE-Breeden-In-november-we-will-need-to-consider-both-the-size-of-the-energy-shock-and-how-it-is-spreading-through-the-economy.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:41:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777631",
+   "title": "China’s President Xi on the US: Competition should be positive, with boundaries.",
+   "link": "https://www.financialjuice.com/News/9777631/Chinas-President-Xi-on-the-US-Competition-should-be-positive-with-boundaries.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:41:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777630",
+   "title": "China’s President Xi: Competition should be positive, not winning or losing.",
+   "link": "https://www.financialjuice.com/News/9777630/Chinas-President-Xi-Competition-should-be-positive-not-winning-or-losing.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:40:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777629",
+   "title": "China’s President Xi on the US: We need to get along peacefully.",
+   "link": "https://www.financialjuice.com/News/9777629/Chinas-President-Xi-on-the-US-We-need-to-get-along-peacefully.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:40:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777628",
+   "title": "China’s President Xi: We need to ensure that AI is always under human control.",
+   "link": "https://www.financialjuice.com/News/9777628/Chinas-President-Xi-We-need-to-ensure-that-AI-is-always-under-human-control.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:40:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777627",
+   "title": "China’s President Xi: I hope Chinese firms are treated fairly in the US.",
+   "link": "https://www.financialjuice.com/News/9777627/Chinas-President-Xi-I-hope-Chinese-firms-are-treated-fairly-in-the-US.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:39:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777626",
+   "title": "China’s President Xi: I am willing to step up counter-narcotics and law enforcement cooperation.",
+   "link": "https://www.financialjuice.com/News/9777626/Chinas-President-Xi-I-am-willing-to-step-up-counter-narcotics-and-law-enforcement-cooperation.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:39:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777625",
+   "title": "China’s President Xi: China and the US are capable of managing AI, we have a responsibility to do so.",
+   "link": "https://www.financialjuice.com/News/9777625/Chinas-President-Xi-China-and-the-US-are-capable-of-managing-AI-we-have-a-responsibility-to-do-so.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:39:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777624",
+   "title": "China’s President Xi: China and the US are both AI powers.",
+   "link": "https://www.financialjuice.com/News/9777624/Chinas-President-Xi-China-and-the-US-are-both-AI-powers.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:38:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777623",
+   "title": "China’s President Xi: China's door is open, we welcome US firms to invest in China.",
+   "link": "https://www.financialjuice.com/News/9777623/Chinas-President-Xi-Chinas-door-is-open-we-welcome-US-firms-to-invest-in-China.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:38:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777622",
+   "title": "China’s President Xi: There is big room for China-US cooperation.",
+   "link": "https://www.financialjuice.com/News/9777622/Chinas-President-Xi-There-is-big-room-for-China-US-cooperation.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:37:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777621",
+   "title": "China’s President Xi: I encourage economic and trade communication with the US.",
+   "link": "https://www.financialjuice.com/News/9777621/Chinas-President-Xi-I-encourage-economic-and-trade-communication-with-the-US.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:36:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777620",
+   "title": "China’s President Xi on the US: We should strengthen communication.",
+   "link": "https://www.financialjuice.com/News/9777620/Chinas-President-Xi-on-the-US-We-should-strengthen-communication.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:35:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777619",
+   "title": "China’s President Xi: I am willing to work with Trump to steer the ship of China-US ties.",
+   "link": "https://www.financialjuice.com/News/9777619/Chinas-President-Xi-I-am-willing-to-work-with-Trump-to-steer-the-ship-of-China-US-ties.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:35:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777596",
+   "title": "Trump: Xi and I will continue working together for the future.",
+   "link": "https://www.financialjuice.com/News/9777596/Trump-Xi-and-I-will-continue-working-together-for-the-future.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:30:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777588",
+   "title": "EIA Natural Gas Change BCF Actual 53B (Forecast 51B, Previous 44B)",
+   "link": "https://www.financialjuice.com/News/9777588/EIA-Natural-Gas-Change-BCF-Actual-53B-Forecast-51B-Previous-44B.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777587",
+   "title": "Trump on China: If we focus on common interests, we can achieve a lot.",
+   "link": "https://www.financialjuice.com/News/9777587/Trump-on-China-If-we-focus-on-common-interests-we-can-achieve-a-lot.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:28:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777586",
+   "title": "Trump: Xi and I will discuss security, technology and artificial intelligence.",
+   "link": "https://www.financialjuice.com/News/9777586/Trump-Xi-and-I-will-discuss-security-technology-and-artificial-intelligence.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:28:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777585",
+   "title": "Trump: We're making progress on new market access for US farmers.",
+   "link": "https://www.financialjuice.com/News/9777585/Trump-Were-making-progress-on-new-market-access-for-US-farmers.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:28:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777584",
+   "title": "Trump on China: We're working toward a more balanced trade relationship.",
+   "link": "https://www.financialjuice.com/News/9777584/Trump-on-China-Were-working-toward-a-more-balanced-trade-relationship.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:27:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777583",
+   "title": "Trump: Xi and I have made tremendous strides on issues facing the two countries.",
+   "link": "https://www.financialjuice.com/News/9777583/Trump-Xi-and-I-have-made-tremendous-strides-on-issues-facing-the-two-countries.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:27:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777582",
+   "title": "BoE Breeden: It is too far away to know if the BoE balance sheet will become fully repo-based, not an urgent issue.",
+   "link": "https://www.financialjuice.com/News/9777582/BoE-Breeden-It-is-too-far-away-to-know-if-the-BoE-balance-sheet-will-become-fully-repo-based-not-an-urgent-issue.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:27:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777581",
+   "title": "Trump: I am proud of the US, China relationship.",
+   "link": "https://www.financialjuice.com/News/9777581/Trump-I-am-proud-of-the-US-China-relationship.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:26:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777580",
+   "title": "Trump: Xi arrives at an important moment in America's history.",
+   "link": "https://www.financialjuice.com/News/9777580/Trump-Xi-arrives-at-an-important-moment-in-Americas-history.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:25:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777579",
+   "title": "Trump: I will visit the National Archives with Xi tomorrow.",
+   "link": "https://www.financialjuice.com/News/9777579/Trump-I-will-visit-the-National-Archives-with-Xi-tomorrow.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:25:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777578",
+   "title": "Trump: A lot has changed since China’s President Xi was last at the White House.",
+   "link": "https://www.financialjuice.com/News/9777578/Trump-A-lot-has-changed-since-Chinas-President-Xi-was-last-at-the-White-House.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:25:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777577",
+   "title": "Trump: China’s President Xi and I have forged a truly great friendship built on mutual respect.",
+   "link": "https://www.financialjuice.com/News/9777577/Trump-Chinas-President-Xi-and-I-have-forged-a-truly-great-friendship-built-on-mutual-respect.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:24:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777576",
+   "title": "BoE Breeden: We need to take into account the public's greater attentiveness to inflation, but also 2-sided risks.",
+   "link": "https://www.financialjuice.com/News/9777576/BoE-Breeden-We-need-to-take-into-account-the-publics-greater-attentiveness-to-inflation-but-also-2-sided-risks.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:21:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777574",
+   "title": "BoE Breeden: We cannot ignore moves in the OIS interest rate futures market, need to understand what's going on.",
+   "link": "https://www.financialjuice.com/News/9777574/BoE-Breeden-We-cannot-ignore-moves-in-the-OIS-interest-rate-futures-market-need-to-understand-whats-going-on.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:20:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777573",
+   "title": "Trump and the President of China Deliver Remarks - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9777573/Trump-and-the-President-of-China-Deliver-Remarks---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:19:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777572",
+   "title": "Saudi East-West Pipeline is building up crude volumes, tanker loading yet to resume at Yanbu - Sources.",
+   "link": "https://www.financialjuice.com/News/9777572/Saudi-East-West-Pipeline-is-building-up-crude-volumes-tanker-loading-yet-to-resume-at-Yanbu---Sources.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:18:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777571",
+   "title": "Crypto Fear and Greed Index: 71/100 = Greed",
+   "link": "https://www.financialjuice.com/News/9777571/Crypto-Fear-and-Greed-Index-71100--Greed.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:18:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777570",
+   "title": "Fear and Greed Index: 35/100 = Fear",
+   "link": "https://www.financialjuice.com/News/9777570/Fear-and-Greed-Index-35100--Fear.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:17:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777547",
+   "title": "ECB: ECB's Schnabel is going to be appointed to the IMF financial counsellor and director of the monetary and capital markets department, she will step down from her ECB position on 3rd January 2027.",
+   "link": "https://www.financialjuice.com/News/9777547/ECB-ECBs-Schnabel-is-going-to-be-appointed-to-the-IMF-financial-counsellor-and-director-of-the-monetary-and-capital-markets-department-she-will-step-down-from-her-ECB-position-on-3rd-January-2027.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:14:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777545",
+   "title": "Fed's Paulson: The economy is resilient, and showing signs of increased momentum.",
+   "link": "https://www.financialjuice.com/News/9777545/Feds-Paulson-The-economy-is-resilient-and-showing-signs-of-increased-momentum.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:11:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777544",
+   "title": "Fed's Paulson: Underlying inflation remains stubbornly high.",
+   "link": "https://www.financialjuice.com/News/9777544/Feds-Paulson-Underlying-inflation-remains-stubbornly-high.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:11:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777543",
+   "title": "Fed's Paulson: The AI buildout is helping drive inflation pressures.",
+   "link": "https://www.financialjuice.com/News/9777543/Feds-Paulson-The-AI-buildout-is-helping-drive-inflation-pressures.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:11:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777542",
+   "title": "Fed's Paulson: The inflation balance of risks shifted ahead of the September policy meeting.",
+   "link": "https://www.financialjuice.com/News/9777542/Feds-Paulson-The-inflation-balance-of-risks-shifted-ahead-of-the-September-policy-meeting.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:10:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777541",
+   "title": "Fed's Paulson: The best you can say about inflation is that it has not gotten worse.",
+   "link": "https://www.financialjuice.com/News/9777541/Feds-Paulson-The-best-you-can-say-about-inflation-is-that-it-has-not-gotten-worse.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:10:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777540",
+   "title": "Fed's Paulson: I will support doing what's needed to get inflation back to 2%.",
+   "link": "https://www.financialjuice.com/News/9777540/Feds-Paulson-I-will-support-doing-whats-needed-to-get-inflation-back-to-2.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:10:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777539",
+   "title": "Fed's Paulson: September rate hike helped move policy to better inflation-fighting posture.",
+   "link": "https://www.financialjuice.com/News/9777539/Feds-Paulson-September-rate-hike-helped-move-policy-to-better-inflation-fighting-posture.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:10:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777538",
+   "title": "Fed's Paulson: The US central bank may need to raise interest rates again to lower inflation.",
+   "link": "https://www.financialjuice.com/News/9777538/Feds-Paulson-The-US-central-bank-may-need-to-raise-interest-rates-again-to-lower-inflation.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:10:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777537",
+   "title": "Trump greets China’s President Xi at the White House ahead of bilateral talks.",
+   "link": "https://www.financialjuice.com/News/9777537/Trump-greets-Chinas-President-Xi-at-the-White-House-ahead-of-bilateral-talks.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:07:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777508",
+   "title": "US New Home Sales - Units Actual 0.684M (Forecast 0.6155M, Previous 0.607M, Revised 0.643M)",
+   "link": "https://www.financialjuice.com/News/9777508/US-New-Home-Sales---Units-Actual-0684M-Forecast-06155M-Previous-0607M-Revised-0643M.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777507",
+   "title": "US New Home Sales Change MoM Actual 6.4% (Forecast 1.3%, Previous -10.5%, Revised -4.3%)",
+   "link": "https://www.financialjuice.com/News/9777507/US-New-Home-Sales-Change-MoM-Actual-64-Forecast-13-Previous--105-Revised--43.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777505",
+   "title": "BoE Breeden: It is incredibly important that the BoE has set out a plan to exit QE, it makes it a more credible tool.",
+   "link": "https://www.financialjuice.com/News/9777505/BoE-Breeden-It-is-incredibly-important-that-the-BoE-has-set-out-a-plan-to-exit-QE-it-makes-it-a-more-credible-tool.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 13:56:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777504",
+   "title": "BoE Breeden: We may find over time that we need to do a lot more.",
+   "link": "https://www.financialjuice.com/News/9777504/BoE-Breeden-We-may-find-over-time-that-we-need-to-do-a-lot-more.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 13:55:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777503",
+   "title": "BoE Breeden: The question for me is whether we need to do a first move, there is more uncertainty about whether we need to do lots more.",
+   "link": "https://www.financialjuice.com/News/9777503/BoE-Breeden-The-question-for-me-is-whether-we-need-to-do-a-first-move-there-is-more-uncertainty-about-whether-we-need-to-do-lots-more.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 13:54:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777502",
+   "title": "BoE Breeden: We have to take a meeting-by-meeting approach to the rate decisions.",
+   "link": "https://www.financialjuice.com/News/9777502/BoE-Breeden-We-have-to-take-a-meeting-by-meeting-approach-to-the-rate-decisions.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 13:53:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777501",
+   "title": "BoE Breeden: Unlike in 2022, we're starting at a point where policy is restrictive.",
+   "link": "https://www.financialjuice.com/News/9777501/BoE-Breeden-Unlike-in-2022-were-starting-at-a-point-where-policy-is-restrictive.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 13:53:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9777499",
+   "title": "BoE Breeden: The DMP survey, PMI, and agents' surveys are important to me.",
+   "link": "https://www.financialjuice.com/News/9777499/BoE-Breeden-The-DMP-survey-PMI-and-agents-surveys-are-important-to-me.aspx?xy=rss",
+   "pubDate": "Thu, 24 Sep 2026 13:48:48 GMT",
+   "desc": ""
+  },
   {
    "id": "9777498",
    "title": "BoE Breeden: I like to focus on what firms say about how they're approaching pricing decisions.",
