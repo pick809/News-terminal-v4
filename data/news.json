@@ -1,7 +1,616 @@
 {
- "updated_at": "2026-09-25T08:08:35.642066+00:00",
- "count": 9373,
+ "updated_at": "2026-09-25T13:41:25.868977+00:00",
+ "count": 9460,
  "items": [
+  {
+   "id": "9779266",
+   "title": "BofA raises Advanced Micro Devices' price objective to $720 from $620. $AMD",
+   "link": "https://www.financialjuice.com/News/9779266/BofA-raises-Advanced-Micro-Devices-price-objective-to-720-from-620-AMD.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:37:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779250",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9779250/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: -135 mln Nasdaq 100: -58 mln Dow 30: -4 mln Mag 7: -24 mln"
+  },
+  {
+   "id": "9779248",
+   "title": "Libya's NOC says forced closure of the valve on the Sharara-Zawiya crude pipeline has caused a loss of 720,362 barrels of output, more than $75 million in direct losses as of September 24th",
+   "link": "https://www.financialjuice.com/News/9779248/Libyas-NOC-says-forced-closure-of-the-valve-on-the-Sharara-Zawiya-crude-pipeline-has-caused-a-loss-of-720362-barrels-of-output-more-than-75-million-in-direct-losses-as-of-September-24th.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:19:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779247",
+   "title": "Japan's Fin. Min. Katayama: Excessive Yen selling may be corrected - Kyodo",
+   "link": "https://www.financialjuice.com/News/9779247/Japans-Fin-Min-Katayama-Excessive-Yen-selling-may-be-corrected---Kyodo.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:17:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779244",
+   "title": "Velasco: Mexico-US to hold round of USMCA talks in the 'next weeks'",
+   "link": "https://www.financialjuice.com/News/9779244/Velasco-Mexico-US-to-hold-round-of-USMCA-talks-in-the-next-weeks.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:16:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779229",
+   "title": "Japan's Fin. Min. Katayama: Markets are 'misunderstanding' weak yen - Kyodo",
+   "link": "https://www.financialjuice.com/News/9779229/Japans-Fin-Min-Katayama-Markets-are-misunderstanding-weak-yen---Kyodo.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:15:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779223",
+   "title": "US Ambassador to China: The US hasn't changed position on one China policy.",
+   "link": "https://www.financialjuice.com/News/9779223/US-Ambassador-to-China-The-US-hasnt-changed-position-on-one-China-policy.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:10:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779222",
+   "title": "Canada August wholesale sales fell 1.5% MoM- StatCan flash",
+   "link": "https://www.financialjuice.com/News/9779222/Canada-August-wholesale-sales-fell-15-MoM--StatCan-flash.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:08:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779221",
+   "title": "US Ambassador to China: We've established an AI crisis mechanism with China.",
+   "link": "https://www.financialjuice.com/News/9779221/US-Ambassador-to-China-Weve-established-an-AI-crisis-mechanism-with-China.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:07:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779219",
+   "title": "Tesla’s Optimus hits snags in its hand manufacturing and suppliers as scale-up begins - The Information.",
+   "link": "https://www.financialjuice.com/News/9779219/Teslas-Optimus-hits-snags-in-its-hand-manufacturing-and-suppliers-as-scale-up-begins---The-Information.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:02:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779218",
+   "title": "NScale: NVIDIA commits $1b to NScale, funding due mid-November.",
+   "link": "https://www.financialjuice.com/News/9779218/NScale-NVIDIA-commits-1b-to-NScale-funding-due-mid-November.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 13:01:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779193",
+   "title": "Effective Fed Funds Rate 3.88% September 24 vs 3.88% September 23.",
+   "link": "https://www.financialjuice.com/News/9779193/Effective-Fed-Funds-Rate-388-September-24-vs-388-September-23.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:59:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779191",
+   "title": "Katayama, Bessent reaffirm undervaluing yen is an issue - Kyodo.",
+   "link": "https://www.financialjuice.com/News/9779191/Katayama-Bessent-reaffirm-undervaluing-yen-is-an-issue---Kyodo.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:57:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779190",
+   "title": "USTR Greer ends CNBC interview.",
+   "link": "https://www.financialjuice.com/News/9779190/USTR-Greer-ends-CNBC-interview.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:53:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779189",
+   "title": "Japanese and US Finance Chiefs discuss yen depreciation - Kyodo.",
+   "link": "https://www.financialjuice.com/News/9779189/Japanese-and-US-Finance-Chiefs-discuss-yen-depreciation---Kyodo.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:53:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779188",
+   "title": "Gas supplies to China via the Power of Siberia Pipeline in H1 of 2026 exceeded the level of the first half of 2025 - Tass.",
+   "link": "https://www.financialjuice.com/News/9779188/Gas-supplies-to-China-via-the-Power-of-Siberia-Pipeline-in-H1-of-2026-exceeded-the-level-of-the-first-half-of-2025---Tass.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:53:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779187",
+   "title": "USTR Greer: We are in talks with Mexico about trade deficit.",
+   "link": "https://www.financialjuice.com/News/9779187/USTR-Greer-We-are-in-talks-with-Mexico-about-trade-deficit.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:52:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779186",
+   "title": "USTR Greer: Canadians want a deal",
+   "link": "https://www.financialjuice.com/News/9779186/USTR-Greer-Canadians-want-a-deal.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:50:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779185",
+   "title": "USTR Greer: There is still a lot of strong trade with Canada. The US is still getting oil, gas, and Potash it needs from Canada.",
+   "link": "https://www.financialjuice.com/News/9779185/USTR-Greer-There-is-still-a-lot-of-strong-trade-with-Canada-The-US-is-still-getting-oil-gas-and-Potash-it-needs-from-Canada.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:50:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779184",
+   "title": "USTR Greer: Trump is comfortable with where we are on Canada - CNBC.",
+   "link": "https://www.financialjuice.com/News/9779184/USTR-Greer-Trump-is-comfortable-with-where-we-are-on-Canada---CNBC.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:50:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779175",
+   "title": "USTR Greer: Conversations with China about export controls and national security are off the table in these talks - CNBC.",
+   "link": "https://www.financialjuice.com/News/9779175/USTR-Greer-Conversations-with-China-about-export-controls-and-national-security-are-off-the-table-in-these-talks---CNBC.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:47:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779174",
+   "title": "Trump: Tremendous things will be happening",
+   "link": "https://www.financialjuice.com/News/9779174/Trump-Tremendous-things-will-be-happening.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:47:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779172",
+   "title": "Trump on Truth Social: Very productive meeting with president xi for both the US and China. tremendous things will be happening.",
+   "link": "https://www.financialjuice.com/News/9779172/Trump-on-Truth-Social-Very-productive-meeting-with-president-xi-for-both-the-US-and-China-tremendous-things-will-be-happening.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:47:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779171",
+   "title": "Trump: Very productive meeting with China's Xi",
+   "link": "https://www.financialjuice.com/News/9779171/Trump-Very-productive-meeting-with-Chinas-Xi.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:47:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779167",
+   "title": "USTR Greer on US-China Talks: AI chip discussions are not happening in these talks.",
+   "link": "https://www.financialjuice.com/News/9779167/USTR-Greer-on-US-China-Talks-AI-chip-discussions-are-not-happening-in-these-talks.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:47:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779164",
+   "title": "USTR Greer: The US and China reached an agreement on a number of trade areas.",
+   "link": "https://www.financialjuice.com/News/9779164/USTR-Greer-The-US-and-China-reached-an-agreement-on-a-number-of-trade-areas.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:46:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779162",
+   "title": "USTR Greer: We have reached agreements with China on subset of goods we can trade.",
+   "link": "https://www.financialjuice.com/News/9779162/USTR-Greer-We-have-reached-agreements-with-China-on-subset-of-goods-we-can-trade.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:45:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779158",
+   "title": "USTR's Greer: We will release on Monday details on negotiations with China and the US -CNBC",
+   "link": "https://www.financialjuice.com/News/9779158/USTRs-Greer-We-will-release-on-Monday-details-on-negotiations-with-China-and-the-US--CNBC.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:45:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779157",
+   "title": "USTR Greer: China, US in a managed trade situation, had progress.",
+   "link": "https://www.financialjuice.com/News/9779157/USTR-Greer-China-US-in-a-managed-trade-situation-had-progress.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:44:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779130",
+   "title": "US Durable Goods Actual 0% (Forecast -0.3%, Previous 1.1%, Revised 0.9%)",
+   "link": "https://www.financialjuice.com/News/9779130/US-Durable-Goods-Actual-0-Forecast--03-Previous-11-Revised-09.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779129",
+   "title": "US Core Durable Goods Actual 0.3% (Forecast 0.6%, Previous 0.4%)",
+   "link": "https://www.financialjuice.com/News/9779129/US-Core-Durable-Goods-Actual-03-Forecast-06-Previous-04.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779128",
+   "title": "US Sentiment: Risk Assets Rebound, But Yields are Still Elevated - FJElite",
+   "link": "https://www.financialjuice.com/News/9779128/US-Sentiment-Risk-Assets-Rebound-But-Yields-are-Still-Elevated---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:23:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779127",
+   "title": "US Ambassador to China Perdue: The US doesn't support Taiwan independence",
+   "link": "https://www.financialjuice.com/News/9779127/US-Ambassador-to-China-Perdue-The-US-doesnt-support-Taiwan-independence.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:19:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779126",
+   "title": "US Ambassador to China: There is no change on Taiwan policy from US.",
+   "link": "https://www.financialjuice.com/News/9779126/US-Ambassador-to-China-There-is-no-change-on-Taiwan-policy-from-US.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:18:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779124",
+   "title": "US and China on AI: Progress on law enforcement cooperation - Perdue",
+   "link": "https://www.financialjuice.com/News/9779124/US-and-China-on-AI-Progress-on-law-enforcement-cooperation---Perdue.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:17:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779103",
+   "title": "US Ambassador to China: US thinks there was China indirect support for Iran.",
+   "link": "https://www.financialjuice.com/News/9779103/US-Ambassador-to-China-US-thinks-there-was-China-indirect-support-for-Iran.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:14:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779101",
+   "title": "US and China agree that Iran should not have nuclear weapons - Perdue",
+   "link": "https://www.financialjuice.com/News/9779101/US-and-China-agree-that-Iran-should-not-have-nuclear-weapons---Perdue.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:13:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779100",
+   "title": "US Ambassador to China: Trump made clear any help China gives Iran totally unacceptable - CNBC.",
+   "link": "https://www.financialjuice.com/News/9779100/US-Ambassador-to-China-Trump-made-clear-any-help-China-gives-Iran-totally-unacceptable---CNBC.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:12:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779099",
+   "title": "US Ambassador to China: Trump and Xi are beginning to develop a relationship of some trust",
+   "link": "https://www.financialjuice.com/News/9779099/US-Ambassador-to-China-Trump-and-Xi-are-beginning-to-develop-a-relationship-of-some-trust.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:12:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779098",
+   "title": "US Ambassador to China: Trump, Xi had very candid, open conversation - CNBC.",
+   "link": "https://www.financialjuice.com/News/9779098/US-Ambassador-to-China-Trump-Xi-had-very-candid-open-conversation---CNBC.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:11:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779097",
+   "title": "Kremlin: Sanctions must be lifted to end diesel export ban - Tass",
+   "link": "https://www.financialjuice.com/News/9779097/Kremlin-Sanctions-must-be-lifted-to-end-diesel-export-ban---Tass.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:09:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779096",
+   "title": "Kremlin: No concrete talks on black sea safety - TASS",
+   "link": "https://www.financialjuice.com/News/9779096/Kremlin-No-concrete-talks-on-black-sea-safety---TASS.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:08:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779095",
+   "title": "Microsoft Copilot adds home, code, autopilot capabilities.",
+   "link": "https://www.financialjuice.com/News/9779095/Microsoft-Copilot-adds-home-code-autopilot-capabilities.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:04:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779083",
+   "title": "Pakistan, Saudi Arabia, and Turkey condemn attacks targeting Makkah, Saudi facilities - Pakistan Foreign Ministry",
+   "link": "https://www.financialjuice.com/News/9779083/Pakistan-Saudi-Arabia-and-Turkey-condemn-attacks-targeting-Makkah-Saudi-facilities---Pakistan-Foreign-Ministry.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:00:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779080",
+   "title": "Microsoft abandons personal AI chatbot race with Copilot reboot.",
+   "link": "https://www.financialjuice.com/News/9779080/Microsoft-abandons-personal-AI-chatbot-race-with-Copilot-reboot.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:00:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779078",
+   "title": "Secured overnight financing rate 3.88% Sept. 24th vs 3.87% Sept. 23rd",
+   "link": "https://www.financialjuice.com/News/9779078/Secured-overnight-financing-rate-388-Sept-24th-vs-387-Sept-23rd.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 12:00:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9779037",
+   "title": "International Criminal Court is insulated against US sanctions, according to deputy prosecutor - FT",
+   "link": "https://www.financialjuice.com/News/9779037/International-Criminal-Court-is-insulated-against-US-sanctions-according-to-deputy-prosecutor---FT.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 11:20:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778990",
+   "title": "Iran President and Qatar PM discussed efforts to de-escalate",
+   "link": "https://www.financialjuice.com/News/9778990/Iran-President-and-Qatar-PM-discussed-efforts-to-de-escalate.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:54:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778989",
+   "title": "Iran president meets Qatar PM in New York",
+   "link": "https://www.financialjuice.com/News/9778989/Iran-president-meets-Qatar-PM-in-New-York.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:53:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778988",
+   "title": "Iran leader adviser Mokhbar: Iran cannot have flights and receive airport services, then no one in the region can either - NourNews",
+   "link": "https://www.financialjuice.com/News/9778988/Iran-leader-adviser-Mokhbar-Iran-cannot-have-flights-and-receive-airport-services-then-no-one-in-the-region-can-either---NourNews.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:50:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778959",
+   "title": "Italy updated EU safe defense loan plan for slightly over €8B",
+   "link": "https://www.financialjuice.com/News/9778959/Italy-updated-EU-safe-defense-loan-plan-for-slightly-over-8B.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:23:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778946",
+   "title": "Fed's Williams: Not seeing productivity impact from AI yet",
+   "link": "https://www.financialjuice.com/News/9778946/Feds-Williams-Not-seeing-productivity-impact-from-AI-yet.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:10:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778945",
+   "title": "Iraq's Erbil and Sulaimaniya airports suspend Iranian flights starting Friday - Two Sources",
+   "link": "https://www.financialjuice.com/News/9778945/Iraqs-Erbil-and-Sulaimaniya-airports-suspend-Iranian-flights-starting-Friday---Two-Sources.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:09:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778944",
+   "title": "US Fed plans to raise bank oversight thresholds - Sources",
+   "link": "https://www.financialjuice.com/News/9778944/US-Fed-plans-to-raise-bank-oversight-thresholds---Sources.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:05:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778943",
+   "title": "Japan's Fin. Min. Katayama: Extra defense spending to address China threat",
+   "link": "https://www.financialjuice.com/News/9778943/Japans-Fin-Min-Katayama-Extra-defense-spending-to-address-China-threat.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:04:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778932",
+   "title": "Japan's Fin. Min. Katayama: Our defense policy is not determined by US pressure",
+   "link": "https://www.financialjuice.com/News/9778932/Japans-Fin-Min-Katayama-Our-defense-policy-is-not-determined-by-US-pressure.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:01:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778930",
+   "title": "Japan's Fin. Min. Katayama: Defense spending at 2% of GDP is 'not enough\"",
+   "link": "https://www.financialjuice.com/News/9778930/Japans-Fin-Min-Katayama-Defense-spending-at-2-of-GDP-is-not-enough.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:00:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778929",
+   "title": "Japan's Fin. Min. Katayama: Won't hesitate to take bold action on the yen",
+   "link": "https://www.financialjuice.com/News/9778929/Japans-Fin-Min-Katayama-Wont-hesitate-to-take-bold-action-on-the-yen.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:00:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778928",
+   "title": "Japan's Fin. Min. Katayama: Rising bond yields is global trend and temporary",
+   "link": "https://www.financialjuice.com/News/9778928/Japans-Fin-Min-Katayama-Rising-bond-yields-is-global-trend-and-temporary.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:00:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778927",
+   "title": "Japan's Fin. Min. Katayama: Takaichi very much respects the independence of the BoJ",
+   "link": "https://www.financialjuice.com/News/9778927/Japans-Fin-Min-Katayama-Takaichi-very-much-respects-the-independence-of-the-BoJ.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:00:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778924",
+   "title": "US-sanctioned oil tanker Sibu 1 that was hijacked by Somali pirates in August, has been rescued - Puntland maritime police force",
+   "link": "https://www.financialjuice.com/News/9778924/US-sanctioned-oil-tanker-Sibu-1-that-was-hijacked-by-Somali-pirates-in-August-has-been-rescued---Puntland-maritime-police-force.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 10:00:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778923",
+   "title": "BoE Gov. Bailey: Have to make judgment on incomplete evidence",
+   "link": "https://www.financialjuice.com/News/9778923/BoE-Gov-Bailey-Have-to-make-judgment-on-incomplete-evidence.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:53:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778922",
+   "title": "Fed's Williams: Fed should ensure shocks don't become entrenched",
+   "link": "https://www.financialjuice.com/News/9778922/Feds-Williams-Fed-should-ensure-shocks-dont-become-entrenched.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:50:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778921",
+   "title": "Fed's Williams: Tariffs generally don't produce sustained inflation",
+   "link": "https://www.financialjuice.com/News/9778921/Feds-Williams-Tariffs-generally-dont-produce-sustained-inflation.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:50:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778920",
+   "title": "Fed's Williams: Labor market not a source of inflationary pressure",
+   "link": "https://www.financialjuice.com/News/9778920/Feds-Williams-Labor-market-not-a-source-of-inflationary-pressure.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:50:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778904",
+   "title": "Fed's Williams: Can't ignore persistent supply shocks",
+   "link": "https://www.financialjuice.com/News/9778904/Feds-Williams-Cant-ignore-persistent-supply-shocks.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:42:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778903",
+   "title": "SNB's Chairman Schlegel: Inflation pressure is slightly higher than in June",
+   "link": "https://www.financialjuice.com/News/9778903/SNBs-Chairman-Schlegel-Inflation-pressure-is-slightly-higher-than-in-June.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:37:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778902",
+   "title": "SNB's Chairman Schlegel: Rise in Swiss inflation mainly due to petrol products",
+   "link": "https://www.financialjuice.com/News/9778902/SNBs-Chairman-Schlegel-Rise-in-Swiss-inflation-mainly-due-to-petrol-products.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:37:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778901",
+   "title": "SNB's Chairman Schlegel: Moderate Swiss growth expected in coming quarters",
+   "link": "https://www.financialjuice.com/News/9778901/SNBs-Chairman-Schlegel-Moderate-Swiss-growth-expected-in-coming-quarters.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:36:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778900",
+   "title": "BoE Gov. Bailey: Can't wait for full evidence on 2nd-round effects",
+   "link": "https://www.financialjuice.com/News/9778900/BoE-Gov-Bailey-Cant-wait-for-full-evidence-on-2nd-round-effects.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:35:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778899",
+   "title": "BoE Gov. Bailey: We do take rise in mortgage rates into consideration",
+   "link": "https://www.financialjuice.com/News/9778899/BoE-Gov-Bailey-We-do-take-rise-in-mortgage-rates-into-consideration.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:34:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778898",
+   "title": "BoE Gov. Bailey: There has been a tightening of financial conditions",
+   "link": "https://www.financialjuice.com/News/9778898/BoE-Gov-Bailey-There-has-been-a-tightening-of-financial-conditions.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:34:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778897",
+   "title": "BoE Gov. Bailey: The longer we go on with high energy prices, the harder it gets to maintain no hike in the bank rate stance",
+   "link": "https://www.financialjuice.com/News/9778897/BoE-Gov-Bailey-The-longer-we-go-on-with-high-energy-prices-the-harder-it-gets-to-maintain-no-hike-in-the-bank-rate-stance.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:33:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778896",
+   "title": "BoE Gov. Bailey: We are at the moment seeing quite subdued pass-through of energy prices, but it's early days",
+   "link": "https://www.financialjuice.com/News/9778896/BoE-Gov-Bailey-We-are-at-the-moment-seeing-quite-subdued-pass-through-of-energy-prices-but-its-early-days.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:32:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778889",
+   "title": "Kremlin: Special envoy Kirill Dmitriev is talking to us negotiators during his visit to the US and is focusing on questions of potential economic cooperation",
+   "link": "https://www.financialjuice.com/News/9778889/Kremlin-Special-envoy-Kirill-Dmitriev-is-talking-to-us-negotiators-during-his-visit-to-the-US-and-is-focusing-on-questions-of-potential-economic-cooperation.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:31:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778887",
+   "title": "Kremlin: A trilateral meeting between the US, Russia, and Ukraine could take place in the near future, but there are no details on that for now",
+   "link": "https://www.financialjuice.com/News/9778887/Kremlin-A-trilateral-meeting-between-the-US-Russia-and-Ukraine-could-take-place-in-the-near-future-but-there-are-no-details-on-that-for-now.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:30:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778885",
+   "title": "BoE Gov. Bailey: AI could be a positive shock in an era of negative supply shocks",
+   "link": "https://www.financialjuice.com/News/9778885/BoE-Gov-Bailey-AI-could-be-a-positive-shock-in-an-era-of-negative-supply-shocks.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:30:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778884",
+   "title": "Japan's PM Takaichi: Trump said in the summit meeting that the weak Yen is pressuring US trade",
+   "link": "https://www.financialjuice.com/News/9778884/Japans-PM-Takaichi-Trump-said-in-the-summit-meeting-that-the-weak-Yen-is-pressuring-US-trade.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:29:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778883",
+   "title": "Japan's PM Takaichi: Didn't discuss monetary or fiscal policy with Trump",
+   "link": "https://www.financialjuice.com/News/9778883/Japans-PM-Takaichi-Didnt-discuss-monetary-or-fiscal-policy-with-Trump.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:21:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778858",
+   "title": "Russia's Gazprom resumes gas supplies to Armenia - IFX",
+   "link": "https://www.financialjuice.com/News/9778858/Russias-Gazprom-resumes-gas-supplies-to-Armenia---IFX.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 09:11:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778835",
+   "title": "Iraq's Najaf airport halts all flights to and from Iran - INA",
+   "link": "https://www.financialjuice.com/News/9778835/Iraqs-Najaf-airport-halts-all-flights-to-and-from-Iran---INA.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 08:49:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778828",
+   "title": "MUFG: The JPY - FJElite",
+   "link": "https://www.financialjuice.com/News/9778828/MUFG-The-JPY---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 08:45:15 GMT",
+   "desc": "We start the final day of the week with some respite for fixed income markets - UST bond yields are down modestly today indicating a potential for at least a pause in the recent strong selling. Yields are currently very tightly correlated with crude oil prices and Brent crude oil is currently over 1 % lower today on reports of a possible agreement between the US and Iran on a phased reopening of the Strait of Hormuz. Iranian Foreign Minister Araghchi confirmed that Iran had offered the US a new proposal for a reopening if certain conditions were met. There is natural scepticism on this and hence the drop in crude is modest so far when compared to the 10% increase over the two previous days. If there were credible reports on the US side to emerge on progress on a deal it would likely have a much bigger impact on oil and UST bond yields. A move like that would certainly have an impact on FX and perhaps most notably in USD/JPY. The yen is already the top performer today on the comments made by Finance Minister Katayama and Growth Strategy Minister Kiuchi in Tokyo today. Katayama&#39;s comment that President Trump expressed concern over yen weakness clearly underlines lhe ongoing efforts in Tokyo lo portray the efforts lo stem yen weakness as a continued joint strategy. That certainly reinforces the possibility that additional intervention could again include the US. It’s unusual for the US to act jointly with Japan beyond one occasion so acting jointly again would be a strong message to the markets. That&#39;s certainly possible given the BoJ did hike last week and did indicate there was more to come. The yen weakened in response to the BoJ meeting but that was more a reflection of excessive hawkish pricing rather than Governor Ueda communicating a dovish message. He didn’t do that in our view. The comments from Growth Strategy Minister Miura were also interesting. He was very explidt in stating that ‘the era of *Abenomics-style’ reflationary policies - which involved aggressively easing monetary policy and taking a flexible approach to fiscal policy - is over&#39;. This could well be the kind of communication the US want to hear from Tokyo. It gains more credibility when the BoJ has hiked and yields in Japan are much more elevated - the 2-year JGB yield is now trading dose to 2.00%.&nbsp;"
+  },
+  {
+   "id": "9778827",
+   "title": "ING: The CHF - FJElite",
+   "link": "https://www.financialjuice.com/News/9778827/ING-The-CHF---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 08:42:51 GMT",
+   "desc": "The Swiss National Bank held rates unchanged as expected but surprised markets on the dovish side yesterday. Despite the upward revision to its inflation projections, policymakers signalled no concerns about second-round effects, with the price shock still viewed as temporary. The SNB slightly tweaked its currency stance, removing the reference to an &quot;increased willingness&quot; to intervene while retaining its commitment to act when necessary. While this grabbed headlines, it is merely an adjustment reflecting the franc&#39;s recent weakness and does not imply any reluctance to intervene again should the currency appreciate. Market pricing remains too hawkish in our view, and that is what matters most for the Swiss franc. A hike is already fully priced in by March, but we still see few reasons to tighten policy in the foreseeable future. We think downside risks remain for the franc, with EUR/CHF potentially retesting the 0.9480 highs seen earlier in September. USD/CHF is probably where the upside potential is even greater at this point: an October hike from the Federal Reserve could prompt a rally to 0.85 in the near term."
+  },
+  {
+   "id": "9778826",
+   "title": "Goldman Sachs: French Debt - FJElite",
+   "link": "https://www.financialjuice.com/News/9778826/Goldman-Sachs-French-Debt---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 08:41:06 GMT",
+   "desc": "The trajectory of France’s public debt is looking increasingly challenging, given the lack of progress in reducing the deficit and the recent increase in borrowing costs. We now estimate that France will eventually need to run a 1% primary surplus to stabilise its public debt-to-GDP ratio, a feat rarely achieved in recent history. As a result, we are revising our forecast for public debt to reach 125% of GDP by the start of the next decade (vs. 123% before). The longer public debt remains high and increasing, the more likely it is France will face durably higher borrowing costs. This could lead to self-reinforcing pressures where higher debt entails higher rates, lower growth, and ultimately, even higher debt. At the same time, we have noticed some more encouraging signs in the French fiscal debate. Recent polls suggest that economic and fiscal issues have risen to the top of voters’ concerns, with a large majority in favour of reducing public debt, the deficit and spending. Moreover, both Marine Le Pen and Edouard Philippe—whom polls see as the favourites to become President—have started making the case for reforming France’s fiscal framework. The other factors we are watching in the run-up to next year’s elections include Jean-Luc Mélenchon’s performance in second-round polls (given he has long downplayed fiscal concerns), Marine Le Pen’s odds of winning a majority in Parliament (which polls suggest currently stand at 60% if she is elected President), and information regarding Rassemblement National’s economic policy plans."
+  },
+  {
+   "id": "9778812",
+   "title": "Europe Sentiment: New Deal On The Horizon? - FJElite",
+   "link": "https://www.financialjuice.com/News/9778812/Europe-Sentiment-New-Deal-On-The-Horizon---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 08:28:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778790",
+   "title": "Zelenskiy: US suggests UAE as next meeting host, Kyiv awaits date",
+   "link": "https://www.financialjuice.com/News/9778790/Zelenskiy-US-suggests-UAE-as-next-meeting-host-Kyiv-awaits-date.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 08:13:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9778789",
+   "title": "Zelenskiy: US proposed preparing next trilateral meeting at technical level",
+   "link": "https://www.financialjuice.com/News/9778789/Zelenskiy-US-proposed-preparing-next-trilateral-meeting-at-technical-level.aspx?xy=rss",
+   "pubDate": "Fri, 25 Sep 2026 08:13:15 GMT",
+   "desc": ""
+  },
   {
    "id": "9778788",
    "title": "Egypt, Iran foreign ministers discuss proposals for deal.",
