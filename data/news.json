@@ -1,7 +1,700 @@
 {
- "updated_at": "2026-09-28T06:06:27.596863+00:00",
- "count": 9735,
+ "updated_at": "2026-09-28T13:44:40.298944+00:00",
+ "count": 9834,
  "items": [
+  {
+   "id": "9781762",
+   "title": "ECB's President Lagarde: AI could lower inflation in the long term by boosting productivity",
+   "link": "https://www.financialjuice.com/News/9781762/ECBs-President-Lagarde-AI-could-lower-inflation-in-the-long-term-by-boosting-productivity.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:41:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781761",
+   "title": "UK September year-ahead public inflation expectations year-ahead 4.5% vs 3.9% - Citi/YouGov",
+   "link": "https://www.financialjuice.com/News/9781761/UK-September-year-ahead-public-inflation-expectations-year-ahead-45-vs-39---CitiYouGov.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:37:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781760",
+   "title": "UK September long-term public inflation expectations 4.3% vs 4.1% in August - Citi/YouGov",
+   "link": "https://www.financialjuice.com/News/9781760/UK-September-long-term-public-inflation-expectations-43-vs-41-in-August---CitiYouGov.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:36:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781757",
+   "title": "ECB's President Lagarde: Still sees upside risks to inflation and downside risks to growth",
+   "link": "https://www.financialjuice.com/News/9781757/ECBs-President-Lagarde-Still-sees-upside-risks-to-inflation-and-downside-risks-to-growth.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:33:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781756",
+   "title": "ECB's President Lagarde: This means that while the shock is too large to look through, we view a measured response as appropriate to keep inflation in check.",
+   "link": "https://www.financialjuice.com/News/9781756/ECBs-President-Lagarde-This-means-that-while-the-shock-is-too-large-to-look-through-we-view-a-measured-response-as-appropriate-to-keep-inflation-in-check.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:32:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781755",
+   "title": "ECB's President Lagarde: We view a measured response as appropriate to keep inflation in check",
+   "link": "https://www.financialjuice.com/News/9781755/ECBs-President-Lagarde-We-view-a-measured-response-as-appropriate-to-keep-inflation-in-check.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:32:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781754",
+   "title": "ECB's President Lagarde: We remain in the middle path for monetary policy that I laid out earlier this year.",
+   "link": "https://www.financialjuice.com/News/9781754/ECBs-President-Lagarde-We-remain-in-the-middle-path-for-monetary-policy-that-I-laid-out-earlier-this-year.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:32:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781753",
+   "title": "ECB's President Lagarde: The inflation outlook will be higher in 2027 and 2028 than we expected a few months ago.",
+   "link": "https://www.financialjuice.com/News/9781753/ECBs-President-Lagarde-The-inflation-outlook-will-be-higher-in-2027-and-2028-than-we-expected-a-few-months-ago.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:32:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781752",
+   "title": "ECB's Lagarde: We see higher inflation ahead but no signs yet that it is becoming embedded.",
+   "link": "https://www.financialjuice.com/News/9781752/ECBs-Lagarde-We-see-higher-inflation-ahead-but-no-signs-yet-that-it-is-becoming-embedded.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:32:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781751",
+   "title": "ECB's President Lagarde: Major technological advancements have not reduced employment, but right now the verdict on al is still out.",
+   "link": "https://www.financialjuice.com/News/9781751/ECBs-President-Lagarde-Major-technological-advancements-have-not-reduced-employment-but-right-now-the-verdict-on-al-is-still-out.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:31:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781750",
+   "title": "ECB's President Lagarde: The outlook continues to be surrounded by high uncertainty",
+   "link": "https://www.financialjuice.com/News/9781750/ECBs-President-Lagarde-The-outlook-continues-to-be-surrounded-by-high-uncertainty.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:31:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781746",
+   "title": "ECB's President Lagarde: Manufacturing is performing solidly, the labour market remains robust.",
+   "link": "https://www.financialjuice.com/News/9781746/ECBs-President-Lagarde-Manufacturing-is-performing-solidly-the-labour-market-remains-robust.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:31:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781738",
+   "title": "ECB's President Lagarde: Growth was broad-based across most countries and sectors, pattern expected to have continued in Q3",
+   "link": "https://www.financialjuice.com/News/9781738/ECBs-President-Lagarde-Growth-was-broad-based-across-most-countries-and-sectors-pattern-expected-to-have-continued-in-Q3.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:30:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781737",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9781737/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: -85 mln Nasdaq 100: -8 mln Dow 30: -8 mln Mag 7: -4 mln"
+  },
+  {
+   "id": "9781730",
+   "title": "Total CEO: About 10M b/d going through Hormuz",
+   "link": "https://www.financialjuice.com/News/9781730/Total-CEO-About-10M-bd-going-through-Hormuz.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:25:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781729",
+   "title": "Trump's 2PM announcement will be on Iowa steel project - Official",
+   "link": "https://www.financialjuice.com/News/9781729/Trumps-2PM-announcement-will-be-on-Iowa-steel-project---Official.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:19:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781679",
+   "title": "Senate report says Tether's USDT has become a primary means of payment for Iran - WSJ",
+   "link": "https://www.financialjuice.com/News/9781679/Senate-report-says-Tethers-USDT-has-become-a-primary-means-of-payment-for-Iran---WSJ.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 13:00:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781673",
+   "title": "Effective Fed Funds Rate 3.88% September 25 vs 3.88% September 24.",
+   "link": "https://www.financialjuice.com/News/9781673/Effective-Fed-Funds-Rate-388-September-25-vs-388-September-24.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:59:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781671",
+   "title": "Trump to unveil planned $15 billion Iowa steel project - WSJ",
+   "link": "https://www.financialjuice.com/News/9781671/Trump-to-unveil-planned-15-billion-Iowa-steel-project---WSJ.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:52:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781670",
+   "title": "Goldman Sachs on Diesel - FJElite",
+   "link": "https://www.financialjuice.com/News/9781670/Goldman-Sachs-on-Diesel---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:50:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781669",
+   "title": "US House Speaker Johnson: We need Taiwan to be stable and independent",
+   "link": "https://www.financialjuice.com/News/9781669/US-House-Speaker-Johnson-We-need-Taiwan-to-be-stable-and-independent.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:49:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781668",
+   "title": "US House Speaker Johnson: We have to remain vigilant against Chinese threat.",
+   "link": "https://www.financialjuice.com/News/9781668/US-House-Speaker-Johnson-We-have-to-remain-vigilant-against-Chinese-threat.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:49:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781667",
+   "title": "Societe Generale on Bull Market - FJElite",
+   "link": "https://www.financialjuice.com/News/9781667/Societe-Generale-on-Bull-Market---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:47:43 GMT",
+   "desc": "Equity valuations still stretched Stocks still look expensive relative to bonds despite recent PE de-rating Valuations sustained by blockbuster trailing eps pushed way into the future What could pop the ‘bubble’= The Fed A tightening cycle has started and 11/14 times ends in a recession Biggest risk is that Fed discovers (or thinks) it is behind the curve Is Greedflation (aka profits-led inflation) a problem (again)? Despite soaring energy costs, total unit costs look moderate But like in 2022, companies are ‘taking advantage’ to boost profits via prices Watch the technicals for a sign of breakdown Breadth is very poor - “Never have stocks owed so much to so few” Technical measures of breadth are deteriorating rapidly"
+  },
+  {
+   "id": "9781664",
+   "title": "Oil flows through Saudi East-West pipeline reach about 3.5m b/d.",
+   "link": "https://www.financialjuice.com/News/9781664/Oil-flows-through-Saudi-East-West-pipeline-reach-about-35m-bd.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:46:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781654",
+   "title": "Deutche Banks's View on US Eco Data - FJElite",
+   "link": "https://www.financialjuice.com/News/9781654/Deutche-Bankss-View-on-US-Eco-Data---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:42:52 GMT",
+   "desc": "In the US, attention will increasingly turn towards Friday’s September payrolls report. Following August’s stronger-than-expected gain of 162k, our economists expect payrolls to rise by around 45k in September (Friday), with the unemployment rate unchanged at 4.1% and average hourly earnings growth steady at +0.3% month-on-month. Recent labour market indicators have remained reasonably firm, although some moderation after August’s strength would be consistent with a labour market that is cooling only gradually. Ahead of Friday’s payrolls release, labour market data will begin arriving tomorrow with the August JOLTS report, before the September ADP employment release on Wednesday and weekly jobless claims on Thursday. Together, these releases should help shape last minute expectations going into the official employment report. Note that last week saw claims at 197k, a rare dip below 200k. Moving onto inflation, our economists expect the August core PCE deflator (Wednesday) to rise by +0.27% month-on-month, slightly above July’s pace. The report will be accompanied by personal income and spending data, where our economists expect gains of +0.5% and +0.6% respectively. Particular attention will be paid to the PCE release given the BEA’s annual benchmark revisions and methodology changes, which could alter the recent inflation profile and affect comparisons with previous months."
+  },
+  {
+   "id": "9781653",
+   "title": "US Sentiment: Potential US-Iran Talks - FJElite",
+   "link": "https://www.financialjuice.com/News/9781653/US-Sentiment-Potential-US-Iran-Talks---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:39:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781652",
+   "title": "Meta CEO Zuckerberg: To help businesses use AI to grow in new ways $META",
+   "link": "https://www.financialjuice.com/News/9781652/Meta-CEO-Zuckerberg-To-help-businesses-use-AI-to-grow-in-new-ways-META.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:37:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781651",
+   "title": "Meta CEO Zuckerberg: Starting major new pillar of our business today. Starting Meta enterprise platform.",
+   "link": "https://www.financialjuice.com/News/9781651/Meta-CEO-Zuckerberg-Starting-major-new-pillar-of-our-business-today-Starting-Meta-enterprise-platform.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:37:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781633",
+   "title": "Iran rejects 'speculations' about incident in UK's RAF fairford.",
+   "link": "https://www.financialjuice.com/News/9781633/Iran-rejects-speculations-about-incident-in-UKs-RAF-fairford.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:25:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781607",
+   "title": "Nvidia's CEO Huang: New software is a browser for agents $NVDA",
+   "link": "https://www.financialjuice.com/News/9781607/Nvidias-CEO-Huang-New-software-is-a-browser-for-agents-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:06:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781606",
+   "title": "Talks to focus on amended version of 7-day proposal Iran presented on UNGA sidelines - Source Briefed on The Negotiations.",
+   "link": "https://www.financialjuice.com/News/9781606/Talks-to-focus-on-amended-version-of-7-day-proposal-Iran-presented-on-UNGA-sidelines---Source-Briefed-on-The-Negotiations.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:05:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781605",
+   "title": "Mediators expected to hold separate talks with the US and Iran on Monday or Tuesday, with Iran's Araghchi and Qatari mediators remaining in the US - Official briefed on the negotiations",
+   "link": "https://www.financialjuice.com/News/9781605/Mediators-expected-to-hold-separate-talks-with-the-US-and-Iran-on-Monday-or-Tuesday-with-Irans-Araghchi-and-Qatari-mediators-remaining-in-the-US---Official-briefed-on-the-negotiations.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:04:40 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"jY92mbKh\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9781604",
+   "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos - CNBC.",
+   "link": "https://www.financialjuice.com/News/9781604/Treasury-Secretary-Scott-Bessent-hires-Wall-Street-economist-David-Zervos---CNBC.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:02:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781589",
+   "title": "Secured overnight financing rate: 3.90% September 25th vs 3.88% September 24th",
+   "link": "https://www.financialjuice.com/News/9781589/Secured-overnight-financing-rate-390-September-25th-vs-388-September-24th.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 12:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781577",
+   "title": "NVIDIA commitments primarily related to procurement of memory.",
+   "link": "https://www.financialjuice.com/News/9781577/NVIDIA-commitments-primarily-related-to-procurement-of-memory.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:43:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781576",
+   "title": "Nvidia's commitments increased to $279B from $119B last quarter",
+   "link": "https://www.financialjuice.com/News/9781576/Nvidias-commitments-increased-to-279B-from-119B-last-quarter.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:42:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781575",
+   "title": "Nvidia: Anthropic’s reported contracted value exceeds $180B",
+   "link": "https://www.financialjuice.com/News/9781575/Nvidia-Anthropics-reported-contracted-value-exceeds-180B.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:41:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781574",
+   "title": "Nvidia investments portfolio consists of 13 public companies, 229 private",
+   "link": "https://www.financialjuice.com/News/9781574/Nvidia-investments-portfolio-consists-of-13-public-companies-229-private.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:41:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781573",
+   "title": "Trump: The US has the best employment numbers in history - Fox News",
+   "link": "https://www.financialjuice.com/News/9781573/Trump-The-US-has-the-best-employment-numbers-in-history---Fox-News.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:39:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781572",
+   "title": "US Health Sec. Azar: We will make sure Britain wins in AI revolution",
+   "link": "https://www.financialjuice.com/News/9781572/US-Health-Sec-Azar-We-will-make-sure-Britain-wins-in-AI-revolution.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:38:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781571",
+   "title": "AI firm Instinct raised $1B at a $10B valuation - NYT DealBook",
+   "link": "https://www.financialjuice.com/News/9781571/AI-firm-Instinct-raised-1B-at-a-10B-valuation---NYT-DealBook.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:35:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781547",
+   "title": "Citi partners with Coinbase to enable stablecoin payments for institutional clients - WSJ",
+   "link": "https://www.financialjuice.com/News/9781547/Citi-partners-with-Coinbase-to-enable-stablecoin-payments-for-institutional-clients---WSJ.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:30:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781544",
+   "title": "UK Finance Minister Healey: It falls to us to act to reduce the welfare bill",
+   "link": "https://www.financialjuice.com/News/9781544/UK-Finance-Minister-Healey-It-falls-to-us-to-act-to-reduce-the-welfare-bill.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:25:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781542",
+   "title": "UK's Chancellor Healey: We will maintain control of Britain's finances",
+   "link": "https://www.financialjuice.com/News/9781542/UKs-Chancellor-Healey-We-will-maintain-control-of-Britains-finances.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:18:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781541",
+   "title": "UK finance Minister Healey: We will meet fiscal rules",
+   "link": "https://www.financialjuice.com/News/9781541/UK-finance-Minister-Healey-We-will-meet-fiscal-rules.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:17:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781523",
+   "title": "Finland to expand data centers from 50 to 75 facilities - Fox $GOOGL",
+   "link": "https://www.financialjuice.com/News/9781523/Finland-to-expand-data-centers-from-50-to-75-facilities---Fox-GOOGL.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:11:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781522",
+   "title": "Google to invest at least $15.2b in Finland over two years - Fox $GOOGL",
+   "link": "https://www.financialjuice.com/News/9781522/Google-to-invest-at-least-152b-in-Finland-over-two-years---Fox-GOOGL.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:10:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781521",
+   "title": "BoE's Ramsden: Risk of higher and longer-lasting inflation increased between July and September MPC meetings",
+   "link": "https://www.financialjuice.com/News/9781521/BoEs-Ramsden-Risk-of-higher-and-longer-lasting-inflation-increased-between-July-and-September-MPC-meetings.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:07:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781520",
+   "title": "BoE's Ramsden: We seem to be in a period of higher and longer-lasting headline inflation, which is bearing on my thinking",
+   "link": "https://www.financialjuice.com/News/9781520/BoEs-Ramsden-We-seem-to-be-in-a-period-of-higher-and-longer-lasting-headline-inflation-which-is-bearing-on-my-thinking.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:03:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781519",
+   "title": "NVIDIA to execute total remaining program through fy 2028.",
+   "link": "https://www.financialjuice.com/News/9781519/NVIDIA-to-execute-total-remaining-program-through-fy-2028.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:03:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781518",
+   "title": "Nvidia marks largest buyback authorization boost in history, to execute total remaining program through FY 2028 $NVDA",
+   "link": "https://www.financialjuice.com/News/9781518/Nvidia-marks-largest-buyback-authorization-boost-in-history-to-execute-total-remaining-program-through-FY-2028-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:03:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781517",
+   "title": "BoE's Ramsden: We will know more about 2nd round effects at upcoming meetings",
+   "link": "https://www.financialjuice.com/News/9781517/BoEs-Ramsden-We-will-know-more-about-2nd-round-effects-at-upcoming-meetings.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:02:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781516",
+   "title": "BoE's Ramsden: Food prices are weaker than expected them to be",
+   "link": "https://www.financialjuice.com/News/9781516/BoEs-Ramsden-Food-prices-are-weaker-than-expected-them-to-be.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:02:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781498",
+   "title": "Nvidia announces a $150b share buyback authorization boost $NVDA",
+   "link": "https://www.financialjuice.com/News/9781498/Nvidia-announces-a-150b-share-buyback-authorization-boost-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 11:00:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781495",
+   "title": "UK Business Secretary Reynolds: Industrial strategy is about inventing and making in the UK",
+   "link": "https://www.financialjuice.com/News/9781495/UK-Business-Secretary-Reynolds-Industrial-strategy-is-about-inventing-and-making-in-the-UK.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:53:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781494",
+   "title": "BoE's Ramsden: Wanted QT even further into the background",
+   "link": "https://www.financialjuice.com/News/9781494/BoEs-Ramsden-Wanted-QT-even-further-into-the-background.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:46:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781471",
+   "title": "China to study policies to stabilize the property market - Radio",
+   "link": "https://www.financialjuice.com/News/9781471/China-to-study-policies-to-stabilize-the-property-market---Radio.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:44:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781470",
+   "title": "China Cabinet Meeting: Should accelerate the pace of issuance and use of various types of bonds.",
+   "link": "https://www.financialjuice.com/News/9781470/China-Cabinet-Meeting-Should-accelerate-the-pace-of-issuance-and-use-of-various-types-of-bonds.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:43:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781469",
+   "title": "China Cabinet Meeting: Should step up counter-cyclical adjustments in macroeconomic policy - State radio",
+   "link": "https://www.financialjuice.com/News/9781469/China-Cabinet-Meeting-Should-step-up-counter-cyclical-adjustments-in-macroeconomic-policy---State-radio.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:43:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781468",
+   "title": "Iran's supreme leader, Mojtaba Khamenei: Enemy forces do not dare enter the Gulf, and the Arabian Sea would soon be cleared of 'enemies' - Statement",
+   "link": "https://www.financialjuice.com/News/9781468/Irans-supreme-leader-Mojtaba-Khamenei-Enemy-forces-do-not-dare-enter-the-Gulf-and-the-Arabian-Sea-would-soon-be-cleared-of-enemies---Statement.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:41:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781457",
+   "title": "EU Commission spokesperson: Commission plans to propose a postponement of the entry into force of the methane regulation, we are now working on this at a technical level",
+   "link": "https://www.financialjuice.com/News/9781457/EU-Commission-spokesperson-Commission-plans-to-propose-a-postponement-of-the-entry-into-force-of-the-methane-regulation-we-are-now-working-on-this-at-a-technical-level.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:25:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781438",
+   "title": "BoE's Ramsden: BoE sales to start with longest maturity 2035-49 gilts",
+   "link": "https://www.financialjuice.com/News/9781438/BoEs-Ramsden-BoE-sales-to-start-with-longest-maturity-2035-49-gilts.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:15:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781437",
+   "title": "BoE's Ramsden: BoE QT changes in September have been well understood and well received by markets",
+   "link": "https://www.financialjuice.com/News/9781437/BoEs-Ramsden-BoE-QT-changes-in-September-have-been-well-understood-and-well-received-by-markets.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:11:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781436",
+   "title": "Japan Bank for International Cooperation: To issue Euro-denominated guaranteed bonds - SEC filing",
+   "link": "https://www.financialjuice.com/News/9781436/Japan-Bank-for-International-Cooperation-To-issue-Euro-denominated-guaranteed-bonds---SEC-filing.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:07:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781435",
+   "title": "BoE's Ramsden: Inflation risks have tilted more to the upside",
+   "link": "https://www.financialjuice.com/News/9781435/BoEs-Ramsden-Inflation-risks-have-tilted-more-to-the-upside.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:06:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781434",
+   "title": "BoE's Ramsden: Also looking at domestic food prices and wage settlements.",
+   "link": "https://www.financialjuice.com/News/9781434/BoEs-Ramsden-Also-looking-at-domestic-food-prices-and-wage-settlements.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:05:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781433",
+   "title": "BoE's Ramsden: Current stance continues to provide restriction",
+   "link": "https://www.financialjuice.com/News/9781433/BoEs-Ramsden-Current-stance-continues-to-provide-restriction.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:05:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781432",
+   "title": "BoE's Ramsden: Focus is on energy prices",
+   "link": "https://www.financialjuice.com/News/9781432/BoEs-Ramsden-Focus-is-on-energy-prices.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:05:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781431",
+   "title": "BoE's Ramsden: Case for hike if upside pressures persist",
+   "link": "https://www.financialjuice.com/News/9781431/BoEs-Ramsden-Case-for-hike-if-upside-pressures-persist.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:04:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781430",
+   "title": "BoE's Ramsden: Were upside pressures on the inflation outlook to continue to build, there could be a case for increasing the bank rate",
+   "link": "https://www.financialjuice.com/News/9781430/BoEs-Ramsden-Were-upside-pressures-on-the-inflation-outlook-to-continue-to-build-there-could-be-a-case-for-increasing-the-bank-rate.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:04:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781429",
+   "title": "BoE's Ramsden: Risks to the inflation outlook, whether external or domestically generated, have tilted more to the upside",
+   "link": "https://www.financialjuice.com/News/9781429/BoEs-Ramsden-Risks-to-the-inflation-outlook-whether-external-or-domestically-generated-have-tilted-more-to-the-upside.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:04:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781428",
+   "title": "BoE's Ramsden: QT plan provides a credible and coherent strategy",
+   "link": "https://www.financialjuice.com/News/9781428/BoEs-Ramsden-QT-plan-provides-a-credible-and-coherent-strategy.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:04:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781427",
+   "title": "BoE's Ramsden: Domestically, I will be focused on the outlook for indirect effects, particularly in food prices, and any early signs of second-round effects",
+   "link": "https://www.financialjuice.com/News/9781427/BoEs-Ramsden-Domestically-I-will-be-focused-on-the-outlook-for-indirect-effects-particularly-in-food-prices-and-any-early-signs-of-second-round-effects.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:04:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781426",
+   "title": "BoE's Ramsden: The inflation pressures I will continue to focus on are external pressures from energy prices, weather, ALIsupply chain",
+   "link": "https://www.financialjuice.com/News/9781426/BoEs-Ramsden-The-inflation-pressures-I-will-continue-to-focus-on-are-external-pressures-from-energy-prices-weather-ALIsupply-chain.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:03:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781425",
+   "title": "BoE's Ramsden: However, we have to recognise that the external environment can change very rapidly",
+   "link": "https://www.financialjuice.com/News/9781425/BoEs-Ramsden-However-we-have-to-recognise-that-the-external-environment-can-change-very-rapidly.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:03:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781410",
+   "title": "BoE's Ramsden: I don’t foresee that we will be considering further QE any time soon",
+   "link": "https://www.financialjuice.com/News/9781410/BoEs-Ramsden-I-dont-foresee-that-we-will-be-considering-further-QE-any-time-soon.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 10:01:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781371",
+   "title": "Kremlin: US-Russia arms talks should have been resumed; the situation is so complex that long negotiations will be needed when they do resume.",
+   "link": "https://www.financialjuice.com/News/9781371/Kremlin-US-Russia-arms-talks-should-have-been-resumed-the-situation-is-so-complex-that-long-negotiations-will-be-needed-when-they-do-resume.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 09:20:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781361",
+   "title": "Nvidia introduces open-source tool duo to boost AI security. $NVDA",
+   "link": "https://www.financialjuice.com/News/9781361/Nvidia-introduces-open-source-tool-duo-to-boost-AI-security-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 09:01:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781336",
+   "title": "NVIDIA Openshell and sentry are meant to keep AI agents in line.",
+   "link": "https://www.financialjuice.com/News/9781336/NVIDIA-Openshell-and-sentry-are-meant-to-keep-AI-agents-in-line.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 09:00:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781325",
+   "title": "MUFG: The USD - FJElite",
+   "link": "https://www.financialjuice.com/News/9781325/MUFG-The-USD---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 08:50:52 GMT",
+   "desc": "It has been a quiet start to the week for G10 currencies with the US dollar continuing to trade close to year-to-date highs. After rising back above the 101.00-level last week, the next important resistance level for the dollar index is provided by the high from 24th June at 101.80. One of the biggest movers overnight has been the price of oil which has risen back up towards recent highs at around USD110/barrel. It reflects some disappointment over the lack of progress towards a deal to end the US-lran conflict and re-open the Strait of Hormuz. Bloomberg has reported over the weekend that Iran is sticking to its seven-day proposal for re-opening the Strait and won’t soften its conditions. While US President Trump has sent mixed signals about his willingness to reach a deal. He told Axios that he expects negotiations to resume this week even though he rejected Iran’s latest proposals. US and Iranian negotiators have reportedly been exploring a deal that would see Tehran reopen the Strait and Washington lift the blockade of Iranian ports. At the same time, Saudi Arabi’s capital came up attack from Houthi militants in Yemen on Saturday. Saudi-backed coalition forces in Yemen said air defences intercepted two drones launched by the Houthis toward Riyadh. Higher energy prices for longer have been a key driver of the sell-off in global bond markets since the summer, with the major central banks including the Fed no longer willing to look through the energy price shock. After delivering their first hike this month, the US rate market now expects the Fed to deliver almost another 100bps of rate hikes in the year ahead which is reinforcing support for the US dollar from the positive terms of trade shock for the US economy from higher energy prices. The release of stronger US economic data over the past week has added to the impression the US economy is better able to withstand higher interest rates as well. On the other hand, US Treasury Secretary Scott Bessent has urged the Fed over the weekend to keep an “open mind&quot; on the US inflation outlook. He stated that Fed Chair Kevin Warsh is &quot;well aware” that the US economy is seeing gains similar to &quot;if not more substantial&quot; than when Alan Green Greenspan was Fed chair during the 1990&#39;s internet boom. He noted that Alan Greenspan had &quot;let things run&quot; and the Fed should have an open mind because, again, it&#39;s the deregulatory aspect. However, recent hawkish comments from Fed officials have indicated that they are not currently attaching a lot of weight to the potentially disinflationary impact from Al-related productivity gains when setting policy. The current backdrop is supportive of the US dollar remaining stronger for longer."
+  },
+  {
+   "id": "9781324",
+   "title": "MUFG: Commodities - FJElite",
+   "link": "https://www.financialjuice.com/News/9781324/MUFG-Commodities---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 08:49:52 GMT",
+   "desc": "Oil rises as US-lran talks stall over Hormu z. Oil advanced as prospects for a rapid reopening of the Strait of Hormuz faded, with Brent rising to around USD 106/b and WTI above USD 93/b. President Trump rejected Iran’s proposed conditions for reopening the waterway and lifting the US blockade, although negotiations are expected to resume this week. Physical flows through Hormuz remain closely watched, with Trump citing record shipments over the weekend while Iranian forces reportedly continued targeting vessels using unauthorized routes. US pressure on Iran is also intensifying, with Treasury Secretary Scott Bessent estimating only -15mb of Iranian crude remain in transit and suggesting deliveries to China could largely cease within two weeks. Regional security risks remain elevated, with Saudi-led forces intercepting further Houthi drones and missiles targeting Saudi cities. Continued disagreement over Hormuz and persistent attacks should keep the geopolitical risk premium elevated despite recovering Gulf oil flows. Gold slides as energy prices reinforce rate hike risks. Gold fell as much as 1.8% to below USD 4,206/oz, extending the previous week s more than 2% decline as elevated energy prices reinforced inflation concerns and expectations for further Fed tightening. Fed officials have continued to signal that additional tightening may be necessary after this month’s 25bps hike, with markets pricing around a 65% probability of another increase in October. Long-term Treasury yields remain elevated amid stronger growth, fiscal concerns and expectations of higher policy rates, while the 2s1 Os yield spread narrowed to just 17bps last week. Persistent energy-driven inflation and elevated Treasury yields remain significant headwinds for gold despite continued geopolitical uncertainty."
+  },
+  {
+   "id": "9781323",
+   "title": "ING: The EUR - FJElite",
+   "link": "https://www.financialjuice.com/News/9781323/ING-The-EUR---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 08:49:06 GMT",
+   "desc": "Our models still suggest EUR/USD should be trading above 1.140. Clearly, the latest moves in bond markets, equities and oil all suggest against aggressively bucking the dollar uptrend. But we feel this week could bring some stabilisation after a decline that looks a bit overdone. The highlight of the week in the eurozone is inflation data for September. Country releases start tomorrow with Spain, and eurozone-wide numbers are due Friday. Headline CPI should accelerate on energy prices, but we expect core inflation to inch only O.lppt higher to 2.5%, confirming there&#39;s no sign of second-round effects. Still, we doubt that will be enough to drive the European Central Bank to a more dovish stance. Policymakers still seem to prefer keeping market pricing hawkish as long as energy prices remain elevated. The closer we get to the October meeting, the more impactful ECB speakers can be on markets. With data not exactly screaming for another hike just yet, pricing relies significantly on short-term guidance. Today, we’ll hear from President Christine Lagarde, and from many other ECB officials during the week. We have a preference for EUR/USD to inch back higher and stabilise just above 1.140, but we aren’t blind to the lingering downside risks. Among those are French bonds, where another round of spread widening can start to become noticeable in FX."
+  },
+  {
+   "id": "9781309",
+   "title": "Europe Sentiment: Oil Rises As Iran And US Fail To Agree - FJElite",
+   "link": "https://www.financialjuice.com/News/9781309/Europe-Sentiment-Oil-Rises-As-Iran-And-US-Fail-To-Agree---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 08:45:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781299",
+   "title": "EU extends mandates of Rafah crossing point and police missions in Palestinian authorities until June 30, 2027",
+   "link": "https://www.financialjuice.com/News/9781299/EU-extends-mandates-of-Rafah-crossing-point-and-police-missions-in-Palestinian-authorities-until-June-30-2027.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 08:38:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781267",
+   "title": "Italian Non-EU Flash Trade Balance Actual 2.00B (Forecast -, Previous 2.55B)",
+   "link": "https://www.financialjuice.com/News/9781267/Italian-Non-EU-Flash-Trade-Balance-Actual-200B-Forecast---Previous-255B.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 08:10:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781266",
+   "title": "Anthropic won't appear at Australian Senate probe - Guardian",
+   "link": "https://www.financialjuice.com/News/9781266/Anthropic-wont-appear-at-Australian-Senate-probe---Guardian.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 08:04:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781248",
+   "title": "Japan's Top Currency Diplomat Mimura when asked about market views funding constraints may limit Japan's ability to conduct yen-buying intervention: I have absolutely no such concern.",
+   "link": "https://www.financialjuice.com/News/9781248/Japans-Top-Currency-Diplomat-Mimura-when-asked-about-market-views-funding-constraints-may-limit-Japans-ability-to-conduct-yen-buying-intervention-I-have-absolutely-no-such-concern.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:56:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781250",
+   "title": "Japan's Top Currency Diplomat Mimura: Japan's strong ‘currency alliance’ with US covers not just FX but wider bilateral cooperation on economic policy, global supply chain.",
+   "link": "https://www.financialjuice.com/News/9781250/Japans-Top-Currency-Diplomat-Mimura-Japans-strong-currency-alliance-with-US-covers-not-just-FX-but-wider-bilateral-cooperation-on-economic-policy-global-supply-chain.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:55:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781249",
+   "title": "Japan's Top Currency Diplomat Mimura: We are always carefully watching how such Japan-US rate trend has affected market moves.",
+   "link": "https://www.financialjuice.com/News/9781249/Japans-Top-Currency-Diplomat-Mimura-We-are-always-carefully-watching-how-such-Japan-US-rate-trend-has-affected-market-moves.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:55:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781251",
+   "title": "Japan's Top Currency Diplomat Mimura: Japan remains neither satisfied nor reassured about underlying yen moves.",
+   "link": "https://www.financialjuice.com/News/9781251/Japans-Top-Currency-Diplomat-Mimura-Japan-remains-neither-satisfied-nor-reassured-about-underlying-yen-moves.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:55:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781233",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9781233/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:41:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781232",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9781232/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:40:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781231",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9781231/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:40:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781230",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9781230/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:39:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781229",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9781229/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:38:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781228",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9781228/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:38:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781227",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9781227/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:38:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781226",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9781226/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:37:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9781225",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9781225/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 28 Sep 2026 07:36:03 GMT",
+   "desc": ""
+  },
   {
    "id": "9781111",
    "title": "Swedish Trade Balance Actual -11.9B (Forecast -, Previous 1.2B)",
