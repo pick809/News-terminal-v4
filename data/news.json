@@ -1,7 +1,469 @@
 {
- "updated_at": "2026-09-29T05:56:19.209772+00:00",
- "count": 10027,
+ "updated_at": "2026-09-29T11:52:53.888619+00:00",
+ "count": 10093,
  "items": [
+  {
+   "id": "9783438",
+   "title": "Russia initiative is still in its early stages - Atlantic.",
+   "link": "https://www.financialjuice.com/News/9783438/Russia-initiative-is-still-in-its-early-stages---Atlantic.aspx",
+   "pubDate": "Tue, 29 Sep 2026 11:51:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783437",
+   "title": "Trump expressed support for the plan a few months ago - Atlantic.",
+   "link": "https://www.financialjuice.com/News/9783437/Trump-expressed-support-for-the-plan-a-few-months-ago---Atlantic.aspx",
+   "pubDate": "Tue, 29 Sep 2026 11:51:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783436",
+   "title": "Trump backs Russia sanction relief on prisoner release - Atlantic.",
+   "link": "https://www.financialjuice.com/News/9783436/Trump-backs-Russia-sanction-relief-on-prisoner-release---Atlantic.aspx",
+   "pubDate": "Tue, 29 Sep 2026 11:50:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783435",
+   "title": "ECB’s Escriva: This can add pressure to interest rates.",
+   "link": "https://www.financialjuice.com/News/9783435/ECBs-Escriva-This-can-add-pressure-to-interest-rates.aspx",
+   "pubDate": "Tue, 29 Sep 2026 11:49:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783434",
+   "title": "ECB's Escriva: What I would start to worry about is the global upward trajectory of long-term rates.",
+   "link": "https://www.financialjuice.com/News/9783434/ECBs-Escriva-What-I-would-start-to-worry-about-is-the-global-upward-trajectory-of-long-term-rates.aspx",
+   "pubDate": "Tue, 29 Sep 2026 11:49:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783433",
+   "title": "ECB’s Escriva: We are still not in a restrictive territory.",
+   "link": "https://www.financialjuice.com/News/9783433/ECBs-Escriva-We-are-still-not-in-a-restrictive-territory.aspx",
+   "pubDate": "Tue, 29 Sep 2026 11:47:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783407",
+   "title": "Iran: It discussed expanding energy trade with Azerbaijan.",
+   "link": "https://www.financialjuice.com/News/9783407/Iran-It-discussed-expanding-energy-trade-with-Azerbaijan.aspx",
+   "pubDate": "Tue, 29 Sep 2026 11:43:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783386",
+   "title": "Putin's Envoy Dmitriev, US Officials discussed possible US-Russia energy initiatives after the war ends - US Official.",
+   "link": "https://www.financialjuice.com/News/9783386/Putins-Envoy-Dmitriev-US-Officials-discussed-possible-US-Russia-energy-initiatives-after-the-war-ends---US-Official.aspx",
+   "pubDate": "Tue, 29 Sep 2026 11:29:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783375",
+   "title": "Rosatom, Iran discuss options to build new nuclear plants - Tass",
+   "link": "https://www.financialjuice.com/News/9783375/Rosatom-Iran-discuss-options-to-build-new-nuclear-plants---Tass.aspx",
+   "pubDate": "Tue, 29 Sep 2026 11:14:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783374",
+   "title": "Rosatom starts planned repairs at Bushehr unit in Iran - IFX",
+   "link": "https://www.financialjuice.com/News/9783374/Rosatom-starts-planned-repairs-at-Bushehr-unit-in-Iran---IFX.aspx",
+   "pubDate": "Tue, 29 Sep 2026 11:13:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783359",
+   "title": "Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.",
+   "link": "https://www.financialjuice.com/News/9783359/Qatar-Foreign-Ministry-Spokesman-Exchanging-messages-possible-solutions-with-US-Iran.aspx",
+   "pubDate": "Tue, 29 Sep 2026 10:54:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783334",
+   "title": "Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.",
+   "link": "https://www.financialjuice.com/News/9783334/Italys-Energy-Minister-Will-speak-with-US-Energy-Secretary-Wright-later-on-Tuesday-will-ask-about-potential-US-diesel-export-ban.aspx",
+   "pubDate": "Tue, 29 Sep 2026 10:42:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783333",
+   "title": "UK Navy: Vessel struck by projectile in Hormuz September 28.",
+   "link": "https://www.financialjuice.com/News/9783333/UK-Navy-Vessel-struck-by-projectile-in-Hormuz-September-28.aspx",
+   "pubDate": "Tue, 29 Sep 2026 10:33:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783306",
+   "title": "Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico",
+   "link": "https://www.financialjuice.com/News/9783306/Three-House-Democrats-penned-letter-to-tech-CEOs-Altman-Amodei-Musk---Politico.aspx",
+   "pubDate": "Tue, 29 Sep 2026 10:20:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783241",
+   "title": "China FX Regulator: AI-related exports and imports expected to maintain rapid growth.",
+   "link": "https://www.financialjuice.com/News/9783241/China-FX-Regulator-AI-related-exports-and-imports-expected-to-maintain-rapid-growth.aspx",
+   "pubDate": "Tue, 29 Sep 2026 09:30:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783235",
+   "title": "UK PM expected to signal plans for electoral reform - Guardian",
+   "link": "https://www.financialjuice.com/News/9783235/UK-PM-expected-to-signal-plans-for-electoral-reform---Guardian.aspx",
+   "pubDate": "Tue, 29 Sep 2026 09:22:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783218",
+   "title": "Italian PPI YoY Actual 10.9% (Forecast -, Previous 7.8%)",
+   "link": "https://www.financialjuice.com/News/9783218/Italian-PPI-YoY-Actual-109-Forecast---Previous-78.aspx",
+   "pubDate": "Tue, 29 Sep 2026 09:12:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783217",
+   "title": "Italian PPI MoM Actual 2.4% (Forecast -, Previous 2.4%)",
+   "link": "https://www.financialjuice.com/News/9783217/Italian-PPI-MoM-Actual-24-Forecast---Previous-24.aspx",
+   "pubDate": "Tue, 29 Sep 2026 09:12:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783216",
+   "title": "OpenAI to debut always-on AI agent at DevDay - Axios",
+   "link": "https://www.financialjuice.com/News/9783216/OpenAI-to-debut-always-on-AI-agent-at-DevDay---Axios.aspx",
+   "pubDate": "Tue, 29 Sep 2026 09:05:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783215",
+   "title": "UK 10 Yr Gilt Bid-to-Cover Actual 3.34 (Forecast -, Previous 3.65)",
+   "link": "https://www.financialjuice.com/News/9783215/UK-10-Yr-Gilt-Bid-to-Cover-Actual-334-Forecast---Previous-365.aspx",
+   "pubDate": "Tue, 29 Sep 2026 09:02:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783214",
+   "title": "UK 10 Yr Gilt Yield Actual 5.383% (Forecast -, Previous 5.155%)",
+   "link": "https://www.financialjuice.com/News/9783214/UK-10-Yr-Gilt-Yield-Actual-5383-Forecast---Previous-5155.aspx",
+   "pubDate": "Tue, 29 Sep 2026 09:02:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783185",
+   "title": "UK AI Minister Narayan: Need to build data centres with control, UK values.",
+   "link": "https://www.financialjuice.com/News/9783185/UK-AI-Minister-Narayan-Need-to-build-data-centres-with-control-UK-values.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:52:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783184",
+   "title": "NVIDIA and AMD up White House lobbying on China exports - Politico",
+   "link": "https://www.financialjuice.com/News/9783184/NVIDIA-and-AMD-up-White-House-lobbying-on-China-exports---Politico.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:47:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783162",
+   "title": "MUFG: The JPY - FJElite",
+   "link": "https://www.financialjuice.com/News/9783162/MUFG-The-JPY---FJElite.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:35:58 GMT",
+   "desc": "The yen has continued to trade at stronger levels overnight after strengthening at the start of this week on the back of fresh warnings from Japanese policymakers over the threat of further intervention. USD/JPY fell to an intra-day low yesterday of 156.51 after Reuters reported comments from Japan&#39;s chief currency official Atsushi Mimura stated that the country&#39;s prime minister and finance minister, along with the US, have recently sent a “very clear&quot; message about yen depreciation. He added that markets should take that message at face value, saying he would be watching closely to see whether they do. He remains neither satisfied nor reassured by the yen’s recent moves. The report by has been followed by comments overnight from Finance Minister Satsuki Katayama who told reporters that &quot;as Takaichi said during the recent Japan-US commit in New York, and I believe, generally speaking, the undervaluation of the yen is a problem”. She reiterated that &quot;we will continue to maintain close communication between Japanese and US financial authorities and work to maintain orderly conditions in the foreign exchange market&quot;. Finance Minister Katayama held a phone call with US Treasury Secretary Scott Bessent on Friday in which both officials reaffirmed shared concerns over the yen&#39;s undervaluation and agreed to further strengthen cooperation. She reportedly told Scott Bessent that Prime Minister Sanae Takaichi is not a reflationist to reassure him that the government is not seeking unchecked expansionary policies. At the same time. Finance Minister Katayama indicated that she is not overly concerned by on the ongoing rise in JGB yields. She stated that she shares the measured view of Stanley Druckenmiller and Jamie Dimon that the rise in yields in Japan is not particularly large compared to other major bond markets. There was good news for ultra-long JGBs overnight when the latest 40-year auction drew its strongest demand in six years. The bid-to-cover ratio of 3.1 was the highest since 2020 coming well above the one-year average of 2.67. Another tentative sign that higher yields are beginning to make JGBs more attractive. The JGB curve has flattened significantly in recent months as short­term yields have risen much more than longer-term yields. Overall, the comments from Japanese officials at the start of this week continue to send a strong signal that Japan is prepared to intervene against to support the yen. They are also encouraging speculation that Japan will also make other policy adjustments to provide more support for the yen such speeding up the pace of BoJ rate hikes under pressure from the US. The BoJ has already sped up the pace of hikes this month (every three months) and signalled that a faster pace of hikes is likely to continue heading into year end. We expect the next hike to be delivered in December while the Japanese rate market is attaching a higher-than-normal probability (&#39;36%) to a back-to-back hike next month. The latest developments are helping to cap further upside for USD/JPY even as the US dollar strengthens broadly. It is helping to the yen to outperform other G10 currencies in the near-term."
+  },
+  {
+   "id": "9783161",
+   "title": "MUFG: The AUD - FJElite",
+   "link": "https://www.financialjuice.com/News/9783161/MUFG-The-AUD---FJElite.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:34:33 GMT",
+   "desc": "The Australian dollar has softened overnight falling back below the 0.7000-level against the US dollar. The pair is currently testing important levels at around the 0.7000-level where the 200-day moving average is also located at close to 0.7030. It has held above the 200-day moving average since November of last year. The Australian dollar has lost upward momentum this month amidst broad-based US dollar strength, and a correction lower for commodity prices. The price of iron ore has dropped by around 5% from the high set earlier this month. Similarly, the sharp ongoing rise in global bond yields is creating a more challenging backdrop for investor risk sentiment putting a dampener on the near-term performance of high beta G10 currencies such as the Australian dollar. The Australian dollar&#39;s position as one of the highest yielding G10 currencies was supported overnight by the RBA&#39;s decision to hike rates for the fourth time this year lifting the policy rate up to 4.60%. The decision to hike rates was justified by the RBA’s judgement that inflationary pressures are likely to persist for longer than previously expected. The RBA reiterated that they will &quot;continue to do what it considers necessary to bring inflation sustainably back to target, including increasing the cash rate target further if needed&quot;. The board remains &quot;focused on ensuring that high inflation does not become embedded”. The Australian rate market is expecting one more hike by the end of this year in either November or December. Governor Bullock did add though in the press conference that she hopes that four hikes are restrictive enough to slow inflation, but she doesn&#39;t know. She added that the RBA considered a 25hike at today&#39;s meeting or a pause. Those comments may put a dampener on expectations for further tightening and has weighed on the Aussie overnight."
+  },
+  {
+   "id": "9783160",
+   "title": "ING: The EUR - FJElite",
+   "link": "https://www.financialjuice.com/News/9783160/ING-The-EUR---FJElite.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:33:20 GMT",
+   "desc": "The euro held up relatively well yesterday considering the slew of dovish-leaning comments by ECB President Lagarde, which favoured a widening in the SOFR-ESTR 2yr swap to beyond 155bp. We are now not far from the 163bp max width reached in early July. Lagarde seemed willing to tone down some market enthusiasm about an October hike yesterday, saying that tight financial conditions are limiting the pass-through of energy costs to the broader economy. She also stressed that the ECB should adopt a “measured response” given no evidence of second-round effects. Her remarks confirm our suspicion that if one central bank hikes in October, it will be the Fed, and not the ECB. Pricing is now 17bp and 9bp, respectively. Our macro team thinks both will wait until December, hence our baseline view for a higher EUR/USD by year-end. But any hint of strong US data could prompt a test of the 1.1320-30 summer lows, with Lagarde&#39;s comments lifting some support off the euro."
+  },
+  {
+   "id": "9783134",
+   "title": "BoE Consumer Credit Actual 2.464B (Forecast 1.9B, Previous 2.006B)",
+   "link": "https://www.financialjuice.com/News/9783134/BoE-Consumer-Credit-Actual-2464B-Forecast-19B-Previous-2006B.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:30:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783133",
+   "title": "UK M4 Money Supply Actual 0.4% (Forecast -, Previous -0.3%)",
+   "link": "https://www.financialjuice.com/News/9783133/UK-M4-Money-Supply-Actual-04-Forecast---Previous--03.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:30:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783132",
+   "title": "UK Mortgage Lending Actual 4.410B (Forecast 4.4B, Previous 4.292B ,Revision 4.082B)",
+   "link": "https://www.financialjuice.com/News/9783132/UK-Mortgage-Lending-Actual-4410B-Forecast-44B-Previous-4292B-Revision-4082B.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:30:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783135",
+   "title": "UK Mortgage Approvals Actual 54.918k (Forecast 56.1k, Previous 56.053k)",
+   "link": "https://www.financialjuice.com/News/9783135/UK-Mortgage-Approvals-Actual-54918k-Forecast-561k-Previous-56053k.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:30:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783131",
+   "title": "ECB's Kazimir: We need flexibility, we have enough time.",
+   "link": "https://www.financialjuice.com/News/9783131/ECBs-Kazimir-We-need-flexibility-we-have-enough-time.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:29:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783130",
+   "title": "ECB's Kazimir: Key for me will be January repricing.",
+   "link": "https://www.financialjuice.com/News/9783130/ECBs-Kazimir-Key-for-me-will-be-January-repricing.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:28:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783129",
+   "title": "ECB's Kazimir: Energy prices remain key factor.",
+   "link": "https://www.financialjuice.com/News/9783129/ECBs-Kazimir-Energy-prices-remain-key-factor.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:28:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783128",
+   "title": "ECB's Kazimir: Rate hike was unavoidable.",
+   "link": "https://www.financialjuice.com/News/9783128/ECBs-Kazimir-Rate-hike-was-unavoidable.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:28:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783099",
+   "title": "Italian Industrial Sales MoM Actual 0.6% (Forecast -, Previous -1.0%)",
+   "link": "https://www.financialjuice.com/News/9783099/Italian-Industrial-Sales-MoM-Actual-06-Forecast---Previous--10.aspx",
+   "pubDate": "Tue, 29 Sep 2026 08:01:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783073",
+   "title": "Iran's Parliament Speaker Qalibaf: No one in the region shall sell its oil if Iran cannot sell its oil, if Iran has no security then no regional infrastructure shall be safe - State Media",
+   "link": "https://www.financialjuice.com/News/9783073/Irans-Parliament-Speaker-Qalibaf-No-one-in-the-region-shall-sell-its-oil-if-Iran-cannot-sell-its-oil-if-Iran-has-no-security-then-no-regional-infrastructure-shall-be-safe---State-Media.aspx",
+   "pubDate": "Tue, 29 Sep 2026 07:39:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783034",
+   "title": "Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.",
+   "link": "https://www.financialjuice.com/News/9783034/Irans-IRGC-Spokesperson-US-has-no-other-choice-but-to-declare-failure-and-leave-the-region.aspx",
+   "pubDate": "Tue, 29 Sep 2026 07:24:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783033",
+   "title": "Iran's Revolutionary Guards Spokesperson: Trump is 'a big liar’, US people need to be told the truth.",
+   "link": "https://www.financialjuice.com/News/9783033/Irans-Revolutionary-Guards-Spokesperson-Trump-is-a-big-liar-US-people-need-to-be-told-the-truth.aspx",
+   "pubDate": "Tue, 29 Sep 2026 07:13:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783032",
+   "title": "Currency Strength Chart: Strongest: USD, JPY, CAD, EUR, GBP, CHF, NZD, AUD - Weakest",
+   "link": "https://www.financialjuice.com/News/9783032/Currency-Strength-Chart-Strongest-USD-JPY-CAD-EUR-GBP-CHF-NZD-AUD---Weakest.aspx",
+   "pubDate": "Tue, 29 Sep 2026 07:01:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783010",
+   "title": "Spanish Retail Sales SA YoY Actual -0.4% (Forecast -, Previous -0.3%)",
+   "link": "https://www.financialjuice.com/News/9783010/Spanish-Retail-Sales-SA-YoY-Actual--04-Forecast---Previous--03.aspx",
+   "pubDate": "Tue, 29 Sep 2026 07:00:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783009",
+   "title": "Spanish CPI YoY Flash Actual 4.9% (Forecast 4.6%, Previous 4.3%)",
+   "link": "https://www.financialjuice.com/News/9783009/Spanish-CPI-YoY-Flash-Actual-49-Forecast-46-Previous-43.aspx",
+   "pubDate": "Tue, 29 Sep 2026 07:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783008",
+   "title": "Swiss KOF Indicator Actual 109.1 (Forecast 106, Previous 106.7)",
+   "link": "https://www.financialjuice.com/News/9783008/Swiss-KOF-Indicator-Actual-1091-Forecast-106-Previous-1067.aspx",
+   "pubDate": "Tue, 29 Sep 2026 07:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783007",
+   "title": "Spanish HICP YoY Flash  Actual 5% (Forecast 4.9%, Previous 4.6%)",
+   "link": "https://www.financialjuice.com/News/9783007/Spanish-HICP-YoY-Flash--Actual-5-Forecast-49-Previous-46.aspx",
+   "pubDate": "Tue, 29 Sep 2026 07:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783006",
+   "title": "Spanish HICP MoM Flash  Actual 0.6% (Forecast 0.6%, Previous 0.7%)",
+   "link": "https://www.financialjuice.com/News/9783006/Spanish-HICP-MoM-Flash--Actual-06-Forecast-06-Previous-07.aspx",
+   "pubDate": "Tue, 29 Sep 2026 07:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9783005",
+   "title": "Spanish CPI MoM Flash Actual 0.3% (Forecast 0.1%, Previous 0.70%)",
+   "link": "https://www.financialjuice.com/News/9783005/Spanish-CPI-MoM-Flash-Actual-03-Forecast-01-Previous-070.aspx",
+   "pubDate": "Tue, 29 Sep 2026 07:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782973",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9782973/SNB-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:27:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782972",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9782972/RBNZ-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:26:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782971",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9782971/RBA-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:26:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782970",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9782970/BoJ-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:26:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782969",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9782969/BoC-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:25:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782968",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9782968/BoE-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:25:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782967",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9782967/ECB-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:24:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782966",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9782966/Fed-Interest-Rate-Probabilities.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:24:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782965",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9782965/Commodities-Implied-Volatility.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:23:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782964",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9782964/FX-Implied-Volatility.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:23:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782963",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9782963/US-Index-Futures-Implied-Volatility.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:22:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782962",
+   "title": "RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.",
+   "link": "https://www.financialjuice.com/News/9782962/RBAs-Gov-Bullock-We-need-to-see-quarterly-core-inflation-numbers-sitting-around-06.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:22:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782961",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9782961/Top-SP-500-Stock-Names-Implied-Volatility.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:22:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782960",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9782960/120-Day-Correlation-Matrix.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:21:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782959",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9782959/90-Day-Correlation-Matrix.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:20:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782958",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9782958/60-Day-Correlation-Matrix.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:20:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782957",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9782957/30-Day-Correlation-Matrix.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:20:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782956",
+   "title": "RBA's Gov. Bullock: Neutral interest rate moving up in australia, globally.",
+   "link": "https://www.financialjuice.com/News/9782956/RBAs-Gov-Bullock-Neutral-interest-rate-moving-up-in-australia-globally.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:19:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782945",
+   "title": "RBA's Gov. Bullock: There is no wage price spiral in Australia",
+   "link": "https://www.financialjuice.com/News/9782945/RBAs-Gov-Bullock-There-is-no-wage-price-spiral-in-Australia.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:03:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782944",
+   "title": "RBA's Gov. Bullock: We're looking to schedule board meetings around ABS inflation data",
+   "link": "https://www.financialjuice.com/News/9782944/RBAs-Gov-Bullock-Were-looking-to-schedule-board-meetings-around-ABS-inflation-data.aspx",
+   "pubDate": "Tue, 29 Sep 2026 06:02:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9782931",
+   "title": "RBA's Gov. Bullock: We are aiming to tighten in a measured way",
+   "link": "https://www.financialjuice.com/News/9782931/RBAs-Gov-Bullock-We-are-aiming-to-tighten-in-a-measured-way.aspx",
+   "pubDate": "Tue, 29 Sep 2026 05:58:23 GMT",
+   "desc": ""
+  },
   {
    "id": "9782930",
    "title": "RBA's Gov. Bullock: The board considered pause and 25-bps hike today",
