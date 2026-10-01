@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-10-01T06:30:45.608830+00:00",
- "count": 10786,
+ "updated_at": "2026-10-01T13:49:55.867356+00:00",
+ "count": 10886,
  "items": [
+  {
+   "id": "9787662",
+   "title": "US S&P Manufacturing PMI Final Actual 55.9 (Forecast 57, Previous 57.0)",
+   "link": "https://www.financialjuice.com/News/9787662/US-SP-Manufacturing-PMI-Final-Actual-559-Forecast-57-Previous-570.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787658",
+   "title": "The US proposal asks the EU to release diesel over 180 days - Politico",
+   "link": "https://www.financialjuice.com/News/9787658/The-US-proposal-asks-the-EU-to-release-diesel-over-180-days---Politico.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:35:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787657",
+   "title": "UK's Healey summons UK bank chiefs to pre-budget summit next week - Sky",
+   "link": "https://www.financialjuice.com/News/9787657/UKs-Healey-summons-UK-bank-chiefs-to-pre-budget-summit-next-week---Sky.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:35:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787656",
+   "title": "ECB President Lagarde: Europe needs to develop its own AI capabilities to avoid dependence on access controlled elsewhere",
+   "link": "https://www.financialjuice.com/News/9787656/ECB-President-Lagarde-Europe-needs-to-develop-its-own-AI-capabilities-to-avoid-dependence-on-access-controlled-elsewhere.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:33:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787655",
+   "title": "US asked Europe to release over 1/3 of diesel reserves - Politico",
+   "link": "https://www.financialjuice.com/News/9787655/US-asked-Europe-to-release-over-13-of-diesel-reserves---Politico.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:33:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787654",
+   "title": "ECB President Lagarde: Reliance on a small number of AI models could prove highly disruptive to financial stability if access is lost.",
+   "link": "https://www.financialjuice.com/News/9787654/ECB-President-Lagarde-Reliance-on-a-small-number-of-AI-models-could-prove-highly-disruptive-to-financial-stability-if-access-is-lost.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:33:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787653",
+   "title": "ECB's President Lagarde: Widespread use of similar AI models could reinforce financial market price moves",
+   "link": "https://www.financialjuice.com/News/9787653/ECBs-President-Lagarde-Widespread-use-of-similar-AI-models-could-reinforce-financial-market-price-moves.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:32:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787620",
+   "title": "Canadian Manufacturing PMI Actual 51.5 (Forecast -, Previous 53.0)",
+   "link": "https://www.financialjuice.com/News/9787620/Canadian-Manufacturing-PMI-Actual-515-Forecast---Previous-530.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:30:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787634",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9787634/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: -65 mln Nasdaq 100: +82 mln Dow 30: +39 mln Mag 7: +65 mln"
+  },
+  {
+   "id": "9787619",
+   "title": "Credit Agricole's View on BoJ - FJElite",
+   "link": "https://www.financialjuice.com/News/9787619/Credit-Agricoles-View-on-BoJ---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:25:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787617",
+   "title": "EU countries in crisis talks over diesel stocks release - FT.",
+   "link": "https://www.financialjuice.com/News/9787617/EU-countries-in-crisis-talks-over-diesel-stocks-release---FT.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:22:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787616",
+   "title": "JPMorgan's Cross Asset Volatility Monitor - FJElite",
+   "link": "https://www.financialjuice.com/News/9787616/JPMorgans-Cross-Asset-Volatility-Monitor---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:18:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787611",
+   "title": "Fed's Schmid: I am trying to see in the data how much inflation is due to demand and how much is driven by supply shocks.",
+   "link": "https://www.financialjuice.com/News/9787611/Feds-Schmid-I-am-trying-to-see-in-the-data-how-much-inflation-is-due-to-demand-and-how-much-is-driven-by-supply-shocks.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:13:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787610",
+   "title": "Fed's Schmid: Energy prices are one of the biggest challenges for monetary policy today.",
+   "link": "https://www.financialjuice.com/News/9787610/Feds-Schmid-Energy-prices-are-one-of-the-biggest-challenges-for-monetary-policy-today.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:12:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787609",
+   "title": "JPMorgan's Feroli's View on ISM Data Today - FJElite",
+   "link": "https://www.financialjuice.com/News/9787609/JPMorgans-Ferolis-View-on-ISM-Data-Today---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:12:51 GMT",
+   "desc": "Feroli sees the print coming in a touch lower, 54.5 vs. 54.6 prior month. He flags continued strength from new orders and output, though ISM has been lagging PMI levels. Feroli is concerned about inflationary pressure due to higher energy prices and is tracking input prices."
+  },
+  {
+   "id": "9787608",
+   "title": "Deutsche Bank's Review of Q3 - FJElite",
+   "link": "https://www.financialjuice.com/News/9787608/Deutsche-Banks-Review-of-Q3---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:08:46 GMT",
+   "desc": "Which assets saw the biggest gains in Q3? Commodities: Q3 was a strong one for commodities across the board. Brent crude oil was up +42.0% amidst the re-escalation of the US-lran conflict. In Europe, natural gas futures were up +66.6%. Metals saw gains, including gold (+3.7%), silver (+3.1%) and copper (+6.9%). And there were huge jumps for some agricultural commodities, including wheat (+16.3%), corn (+21.3%) and sugar (+22.9%). Japanese Yen: At the start of August, the US and Japan intervened to support the Japanese yen, whilst the Bank of Japan also delivered a 25bp rate hike in September. That boosted the yen, which was the top-performing G10 currency in Q3, up +3.3% against the US dollar. Which assets saw the biggest losses in Q3? Sovereign Bonds: Higher inflation, resilient growth, and more rate hikes meant it was a tough quarter for sovereign bonds. US Treasuries were down -3.2% in total return terms, whilst Euro sovereigns fell -4.4%. French Assets: Q3 was a particularly tough one for French assets, with the CAC 40 down -4.4% in total return terms. Moreover, the spread of French 10yr yields over German bunds also widened +48bps to 127bps, the biggest quarterly widening since 2011 during the Euro crisis."
+  },
+  {
+   "id": "9787607",
+   "title": "Fed's Collins: Economic growth near trend or above.",
+   "link": "https://www.financialjuice.com/News/9787607/Feds-Collins-Economic-growth-near-trend-or-above.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:07:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787606",
+   "title": "Fed's Collins:  We won't get ahead of the next meeting",
+   "link": "https://www.financialjuice.com/News/9787606/Feds-Collins--We-wont-get-ahead-of-the-next-meeting.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:07:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787605",
+   "title": "Fed's Schmid: Officials have work to do on inflation.",
+   "link": "https://www.financialjuice.com/News/9787605/Feds-Schmid-Officials-have-work-to-do-on-inflation.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:07:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787604",
+   "title": "Fed's Collins:  Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too high",
+   "link": "https://www.financialjuice.com/News/9787604/Feds-Collins--Economic-growth-is-near-trend-if-not-more-than-that-labor-market-near-full-employment-but-inflation-is-too-high.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:05:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787603",
+   "title": "US Sentiment: Google Argon Boost, Slew of Fed Speak Expected - FJElite",
+   "link": "https://www.financialjuice.com/News/9787603/US-Sentiment-Google-Argon-Boost-Slew-of-Fed-Speak-Expected---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 13:02:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787584",
+   "title": "Effective Fed Funds Rate 3.88% September 30 vs 3.88% September 29.",
+   "link": "https://www.financialjuice.com/News/9787584/Effective-Fed-Funds-Rate-388-September-30-vs-388-September-29.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:59:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787546",
+   "title": "US Initial Jobless Claims Actual 197k (Forecast 200k, Previous 197k, Revised 198K)",
+   "link": "https://www.financialjuice.com/News/9787546/US-Initial-Jobless-Claims-Actual-197k-Forecast-200k-Previous-197k-Revised-198K.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787545",
+   "title": "US Continued Jobless Claims Actual 1.701M (Forecast 1.725M, Previous 1.719M, Revised 1.712M)",
+   "link": "https://www.financialjuice.com/News/9787545/US-Continued-Jobless-Claims-Actual-1701M-Forecast-1725M-Previous-1719M-Revised-1712M.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787544",
+   "title": "German economy ministry on diesel reserves: Market must not be destabilized",
+   "link": "https://www.financialjuice.com/News/9787544/German-economy-ministry-on-diesel-reserves-Market-must-not-be-destabilized.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:27:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787543",
+   "title": "German Economy Ministry on Diesel Reserves: Any measures must be based on careful joint assessment of situation within framework of international procedures established for that purpose.",
+   "link": "https://www.financialjuice.com/News/9787543/German-Economy-Ministry-on-Diesel-Reserves-Any-measures-must-be-based-on-careful-joint-assessment-of-situation-within-framework-of-international-procedures-established-for-that-purpose.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:27:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787542",
+   "title": "German economy ministry on diesel reserves: At this time, no new requirements from the IEA",
+   "link": "https://www.financialjuice.com/News/9787542/German-economy-ministry-on-diesel-reserves-At-this-time-no-new-requirements-from-the-IEA.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:26:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787541",
+   "title": "Israel's Prime Minister Netanyahu: The pilot who attacked the other pilot was Omani",
+   "link": "https://www.financialjuice.com/News/9787541/Israels-Prime-Minister-Netanyahu-The-pilot-who-attacked-the-other-pilot-was-Omani.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:18:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787540",
+   "title": "Israel's Prime Minister Netanyahu: There are indications that Iran and proxies want to attack Israel",
+   "link": "https://www.financialjuice.com/News/9787540/Israels-Prime-Minister-Netanyahu-There-are-indications-that-Iran-and-proxies-want-to-attack-Israel.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:17:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787516",
+   "title": "Netanyahu: We will be able to say in matter of days whether co-pilot has connections to Iran.",
+   "link": "https://www.financialjuice.com/News/9787516/Netanyahu-We-will-be-able-to-say-in-matter-of-days-whether-co-pilot-has-connections-to-Iran.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:14:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787515",
+   "title": "Netanyahu on FlyDubai Attacks: Too early to say if he had connections with Iran.",
+   "link": "https://www.financialjuice.com/News/9787515/Netanyahu-on-FlyDubai-Attacks-Too-early-to-say-if-he-had-connections-with-Iran.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:13:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787514",
+   "title": "BoE's Mann: Policy, CPI expectations will shift without action.",
+   "link": "https://www.financialjuice.com/News/9787514/BoEs-Mann-Policy-CPI-expectations-will-shift-without-action.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:11:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787513",
+   "title": "BoE's Mann: BoE may not have clearly articulated its reaction function to Middle East shock in March, not publishing baseline forecast in April likely did not help either.",
+   "link": "https://www.financialjuice.com/News/9787513/BoEs-Mann-BoE-may-not-have-clearly-articulated-its-reaction-function-to-Middle-East-shock-in-March-not-publishing-baseline-forecast-in-April-likely-did-not-help-either.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:10:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787512",
+   "title": "BoE's Mann: Need clearly communicated reaction function.",
+   "link": "https://www.financialjuice.com/News/9787512/BoEs-Mann-Need-clearly-communicated-reaction-function.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:08:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787509",
+   "title": "BoE's Mann: Current stance is not sufficiently tight.",
+   "link": "https://www.financialjuice.com/News/9787509/BoEs-Mann-Current-stance-is-not-sufficiently-tight.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:06:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787508",
+   "title": "BoE's Mann: Can't rely on risk premia to do the work of monetary policy, need to raise the bank rate",
+   "link": "https://www.financialjuice.com/News/9787508/BoEs-Mann-Cant-rely-on-risk-premia-to-do-the-work-of-monetary-policy-need-to-raise-the-bank-rate.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:05:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787507",
+   "title": "BoE's Mann: Real and nominal conditions need to remain tight.",
+   "link": "https://www.financialjuice.com/News/9787507/BoEs-Mann-Real-and-nominal-conditions-need-to-remain-tight.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:05:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787506",
+   "title": "BoE's Mann: Raising rate can ensure sustainable return to 2%.",
+   "link": "https://www.financialjuice.com/News/9787506/BoEs-Mann-Raising-rate-can-ensure-sustainable-return-to-2.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:05:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787505",
+   "title": "BoE's Mann: Risk management strategy apt given inflation risks.",
+   "link": "https://www.financialjuice.com/News/9787505/BoEs-Mann-Risk-management-strategy-apt-given-inflation-risks.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:04:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787486",
+   "title": "France’s budget watchdog calls 2027 growth forecast optimistic.",
+   "link": "https://www.financialjuice.com/News/9787486/Frances-budget-watchdog-calls-2027-growth-forecast-optimistic.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:01:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787485",
+   "title": "France hcFp: 2027 budget plan targets are a ‘significant’ adjustment.",
+   "link": "https://www.financialjuice.com/News/9787485/France-hcFp-2027-budget-plan-targets-are-a-significant-adjustment.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:00:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787484",
+   "title": "France HCFP: French deficit goal is minimum given ‘alarming’ finances",
+   "link": "https://www.financialjuice.com/News/9787484/France-HCFP-French-deficit-goal-is-minimum-given-alarming-finances.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:00:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787473",
+   "title": "France HCFP: Deficit target for 2026 plausible, sees risks.",
+   "link": "https://www.financialjuice.com/News/9787473/France-HCFP-Deficit-target-for-2026-plausible-sees-risks.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:00:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787472",
+   "title": "Secured Overnight Financing Rate 3.90% September 30 vs 3.88% September 29.",
+   "link": "https://www.financialjuice.com/News/9787472/Secured-Overnight-Financing-Rate-390-September-30-vs-388-September-29.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 12:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787471",
+   "title": "USTR Greer: Gaps remain between US and Canada on trade.",
+   "link": "https://www.financialjuice.com/News/9787471/USTR-Greer-Gaps-remain-between-US-and-Canada-on-trade.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:56:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787470",
+   "title": "USTR Greer: We're open to deal with Canada, but it's up to Canada",
+   "link": "https://www.financialjuice.com/News/9787470/USTR-Greer-Were-open-to-deal-with-Canada-but-its-up-to-Canada.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:56:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787469",
+   "title": "USTR Greer: I have been speaking with Canadians on trade",
+   "link": "https://www.financialjuice.com/News/9787469/USTR-Greer-I-have-been-speaking-with-Canadians-on-trade.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:55:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787468",
+   "title": "USTR Greer: We will meet with EU counterparts to discuss diesel today",
+   "link": "https://www.financialjuice.com/News/9787468/USTR-Greer-We-will-meet-with-EU-counterparts-to-discuss-diesel-today.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:55:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787467",
+   "title": "USTR Greer: Europe should release some diesel inventories",
+   "link": "https://www.financialjuice.com/News/9787467/USTR-Greer-Europe-should-release-some-diesel-inventories.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:54:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787466",
+   "title": "USTR Greer: Europe has to act on the issue of excess capacity",
+   "link": "https://www.financialjuice.com/News/9787466/USTR-Greer-Europe-has-to-act-on-the-issue-of-excess-capacity.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:53:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787465",
+   "title": "French Fiscal Watchdog: Government's 2027 deficit reduction plans are a \"minimum\".",
+   "link": "https://www.financialjuice.com/News/9787465/French-Fiscal-Watchdog-Governments-2027-deficit-reduction-plans-are-a-minimum.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:52:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787464",
+   "title": "USTR Greer, on the EU: They have executed on the trade terms we agreed to",
+   "link": "https://www.financialjuice.com/News/9787464/USTR-Greer-on-the-EU-They-have-executed-on-the-trade-terms-we-agreed-to.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:52:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787458",
+   "title": "Fed's Kashkari: FOMC atmosphere has been remarkably consistent under Warsh",
+   "link": "https://www.financialjuice.com/News/9787458/Feds-Kashkari-FOMC-atmosphere-has-been-remarkably-consistent-under-Warsh.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:46:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787456",
+   "title": "Fed's Kashkari: I don't think labor market pain is needed to achieve goal",
+   "link": "https://www.financialjuice.com/News/9787456/Feds-Kashkari-I-dont-think-labor-market-pain-is-needed-to-achieve-goal.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:45:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787455",
+   "title": "Fed's Kashkari: If it's 5yrs of supply shocks, it becomes Fed's job.",
+   "link": "https://www.financialjuice.com/News/9787455/Feds-Kashkari-If-its-5yrs-of-supply-shocks-it-becomes-Feds-job.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:45:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787454",
+   "title": "Fed's Kashkari: There is clearly not a wage-price spiral today",
+   "link": "https://www.financialjuice.com/News/9787454/Feds-Kashkari-There-is-clearly-not-a-wage-price-spiral-today.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:44:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787453",
+   "title": "Fed's Kashkari: My view on supply shocks and inflation has evolved",
+   "link": "https://www.financialjuice.com/News/9787453/Feds-Kashkari-My-view-on-supply-shocks-and-inflation-has-evolved.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:44:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787452",
+   "title": "Fed's Kashkari: Diesel and availability of truckers are top of mind in the Minneapolis district",
+   "link": "https://www.financialjuice.com/News/9787452/Feds-Kashkari-Diesel-and-availability-of-truckers-are-top-of-mind-in-the-Minneapolis-district.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:43:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787451",
+   "title": "Fed's Kashkari: 4.1% unemployment rate is good, labor market is healthy",
+   "link": "https://www.financialjuice.com/News/9787451/Feds-Kashkari-41-unemployment-rate-is-good-labor-market-is-healthy.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:41:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787450",
+   "title": "Fed's Kashkari: Consumer spending is strong across the economy",
+   "link": "https://www.financialjuice.com/News/9787450/Feds-Kashkari-Consumer-spending-is-strong-across-the-economy.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:41:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787449",
+   "title": "Fed's Kashkari: If we keep raising rates, it will put different pressure on different parts of the economy",
+   "link": "https://www.financialjuice.com/News/9787449/Feds-Kashkari-If-we-keep-raising-rates-it-will-put-different-pressure-on-different-parts-of-the-economy.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:41:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787448",
+   "title": "Fed's Kashkari: Anything adjacent to housing is under a lot of pressure",
+   "link": "https://www.financialjuice.com/News/9787448/Feds-Kashkari-Anything-adjacent-to-housing-is-under-a-lot-of-pressure.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:40:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787447",
+   "title": "Fed's Kashkari: If there is some tentativeness in markets, it suggests rates are having an impact",
+   "link": "https://www.financialjuice.com/News/9787447/Feds-Kashkari-If-there-is-some-tentativeness-in-markets-it-suggests-rates-are-having-an-impact.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:39:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787446",
+   "title": "Fed's Kashkari: My implied Fed September 2-yr yield is a bit over 4%",
+   "link": "https://www.financialjuice.com/News/9787446/Feds-Kashkari-My-implied-Fed-September-2-yr-yield-is-a-bit-over-4.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:39:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787445",
+   "title": "Fed's Kashkari: When markets have a view, they're not shy about expressing them.",
+   "link": "https://www.financialjuice.com/News/9787445/Feds-Kashkari-When-markets-have-a-view-theyre-not-shy-about-expressing-them-.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:37:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787444",
+   "title": "Fed's Kashkari: There's a big gap between 2-year yield and short-rates",
+   "link": "https://www.financialjuice.com/News/9787444/Feds-Kashkari-Theres-a-big-gap-between-2-year-yield-and-short-rates.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:36:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787443",
+   "title": "Fed's Kashkari: If AI proves to be as productive as expected, the investment cycle could persist for a long time",
+   "link": "https://www.financialjuice.com/News/9787443/Feds-Kashkari-If-AI-proves-to-be-as-productive-as-expected-the-investment-cycle-could-persist-for-a-long-time.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:35:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787442",
+   "title": "Fed's Kashkari: We will do what we need to get inflation to the goal",
+   "link": "https://www.financialjuice.com/News/9787442/Feds-Kashkari-We-will-do-what-we-need-to-get-inflation-to-the-goal.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:34:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787441",
+   "title": "Fed's Kashkari: Don't know how high rates need to go.",
+   "link": "https://www.financialjuice.com/News/9787441/Feds-Kashkari-Dont-know-how-high-rates-need-to-go.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:34:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787440",
+   "title": "Fed's Kashkari: The economy's resilience keeps surprising me",
+   "link": "https://www.financialjuice.com/News/9787440/Feds-Kashkari-The-economys-resilience-keeps-surprising-me.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:34:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787439",
+   "title": "Iran's president Pezeshkian: Tehran won't ever shy away from dialogue, even as the US targeted Iran several times - Tasnim",
+   "link": "https://www.financialjuice.com/News/9787439/Irans-president-Pezeshkian-Tehran-wont-ever-shy-away-from-dialogue-even-as-the-US-targeted-Iran-several-times---Tasnim.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:32:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787411",
+   "title": "Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time",
+   "link": "https://www.financialjuice.com/News/9787411/Trump-Dinner-with-Anthropic-CEO-Amodei-lasted-more-than-two-hours---Time.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:18:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787401",
+   "title": "ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels",
+   "link": "https://www.financialjuice.com/News/9787401/ECBs-Nagel-on-rise-in-bond-yields---All-ECB-instruments-are-for-delivering-price-stability-not-for-certain-yield-levels.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:14:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787400",
+   "title": "Trump: Certain levels of inflation help pay off debt - Time",
+   "link": "https://www.financialjuice.com/News/9787400/Trump-Certain-levels-of-inflation-help-pay-off-debt---Time.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:10:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787399",
+   "title": "Trump: High rates hurting economy more than inflation - Time",
+   "link": "https://www.financialjuice.com/News/9787399/Trump-High-rates-hurting-economy-more-than-inflation---Time.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:10:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787398",
+   "title": "Trump to Time: We'll soon be filling up strategic oil reserves",
+   "link": "https://www.financialjuice.com/News/9787398/Trump-to-Time-Well-soon-be-filling-up-strategic-oil-reserves.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:10:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787397",
+   "title": "Trump to Time: Some forms of ammunition are a little bit lower",
+   "link": "https://www.financialjuice.com/News/9787397/Trump-to-Time-Some-forms-of-ammunition-are-a-little-bit-lower.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:07:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787396",
+   "title": "Trump sees ramping up bombing Iran after midterms possible - Time",
+   "link": "https://www.financialjuice.com/News/9787396/Trump-sees-ramping-up-bombing-Iran-after-midterms-possible---Time.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:06:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787395",
+   "title": "Trump to Time: I liked Anthropic CEO Amodei a lot",
+   "link": "https://www.financialjuice.com/News/9787395/Trump-to-Time-I-liked-Anthropic-CEO-Amodei-a-lot.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:03:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787391",
+   "title": "The EU is talking to some European states and the UK about the diesel situation",
+   "link": "https://www.financialjuice.com/News/9787391/The-EU-is-talking-to-some-European-states-and-the-UK-about-the-diesel-situation.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 11:01:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787353",
+   "title": "France Fin. Min. Lescure: French 2027 budget sees €54B effort; 5% deficit goal. 60% of French 2027 budget effort to be on spending",
+   "link": "https://www.financialjuice.com/News/9787353/France-Fin-Min-Lescure-French-2027-budget-sees-54B-effort-5-deficit-goal-60-of-French-2027-budget-effort-to-be-on-spending.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 10:33:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787338",
+   "title": "Israel requested an urgent increase in Etihad flights to Tel Aviv",
+   "link": "https://www.financialjuice.com/News/9787338/Israel-requested-an-urgent-increase-in-Etihad-flights-to-Tel-Aviv.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 10:29:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787337",
+   "title": "French budget minister Amiel: We cannot wait until next year's election to take action on the budget",
+   "link": "https://www.financialjuice.com/News/9787337/French-budget-minister-Amiel-We-cannot-wait-until-next-years-election-to-take-action-on-the-budget.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 10:26:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787336",
+   "title": "EU: Next meeting of the oil coordination group on October 15th",
+   "link": "https://www.financialjuice.com/News/9787336/EU-Next-meeting-of-the-oil-coordination-group-on-October-15th.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 10:25:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787335",
+   "title": "Traders pare ECB rate bets, favor three hikes by end of 2027",
+   "link": "https://www.financialjuice.com/News/9787335/Traders-pare-ECB-rate-bets-favor-three-hikes-by-end-of-2027.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 10:25:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787334",
+   "title": "French warship, part of the EU Red Sea mission, escorted about ten ships through the Bab el-Mandeb Strait over last week - French army spokesperson",
+   "link": "https://www.financialjuice.com/News/9787334/French-warship-part-of-the-EU-Red-Sea-mission-escorted-about-ten-ships-through-the-Bab-el-Mandeb-Strait-over-last-week---French-army-spokesperson.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 10:25:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787333",
+   "title": "The US slowed export licensing for plane parts to China - Sources",
+   "link": "https://www.financialjuice.com/News/9787333/The-US-slowed-export-licensing-for-plane-parts-to-China---Sources.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 10:25:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787332",
+   "title": "EU: In 'high level contact’ with the US on emergency diesel stocks",
+   "link": "https://www.financialjuice.com/News/9787332/EU-In-high-level-contact-with-the-US-on-emergency-diesel-stocks.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 10:24:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787263",
+   "title": "TSMC mulls multibillion-dollar Texas campus for more AI chips.",
+   "link": "https://www.financialjuice.com/News/9787263/TSMC-mulls-multibillion-dollar-Texas-campus-for-more-AI-chips.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 10:24:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787278",
+   "title": "Iran and Japan foreign ministers discuss US talks in call - Tasnim",
+   "link": "https://www.financialjuice.com/News/9787278/Iran-and-Japan-foreign-ministers-discuss-US-talks-in-call---Tasnim.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:40:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787277",
+   "title": "Kremlin on economic cooperation with the US: We believe we can be working together for our mutual benefit right now",
+   "link": "https://www.financialjuice.com/News/9787277/Kremlin-on-economic-cooperation-with-the-US-We-believe-we-can-be-working-together-for-our-mutual-benefit-right-now.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:37:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787276",
+   "title": "Kremlin: Dmitriev reports to Putin on the results of his contacts with the US, Russia-US dialogue is continuing",
+   "link": "https://www.financialjuice.com/News/9787276/Kremlin-Dmitriev-reports-to-Putin-on-the-results-of-his-contacts-with-the-US-Russia-US-dialogue-is-continuing.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:37:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787275",
+   "title": "Kremlin on Dmitriev's talks in the US: Unfortunately, the US links the realisation of joint economic projects to settlement in Ukraine",
+   "link": "https://www.financialjuice.com/News/9787275/Kremlin-on-Dmitrievs-talks-in-the-US-Unfortunately-the-US-links-the-realisation-of-joint-economic-projects-to-settlement-in-Ukraine.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:37:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787274",
+   "title": "Amazon added to conviction list at Goldman $AMZN",
+   "link": "https://www.financialjuice.com/News/9787274/Amazon-added-to-conviction-list-at-Goldman-AMZN.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:32:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787273",
+   "title": "EU seeks joint stance on diesel stock after US demands release",
+   "link": "https://www.financialjuice.com/News/9787273/EU-seeks-joint-stance-on-diesel-stock-after-US-demands-release.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:32:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787264",
+   "title": "US Challenger Layoffs Actual 43.281k (Forecast -, Previous 52.881k)",
+   "link": "https://www.financialjuice.com/News/9787264/US-Challenger-Layoffs-Actual-43281k-Forecast---Previous-52881k.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:30:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787262",
+   "title": "New UK sanctions target Russia LNG shadow fleet vessels",
+   "link": "https://www.financialjuice.com/News/9787262/New-UK-sanctions-target-Russia-LNG-shadow-fleet-vessels.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:17:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787261",
+   "title": "Latest UK sanctions also target ships believed to be involved in carrying Russian liquefied natural gas",
+   "link": "https://www.financialjuice.com/News/9787261/Latest-UK-sanctions-also-target-ships-believed-to-be-involved-in-carrying-Russian-liquefied-natural-gas.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:16:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787260",
+   "title": "Latest UK sanctions against Russian military & intelligence officers alleged to have mistreated civilians in Ukraine",
+   "link": "https://www.financialjuice.com/News/9787260/Latest-UK-sanctions-against-Russian-military--intelligence-officers-alleged-to-have-mistreated-civilians-in-Ukraine.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:16:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787242",
+   "title": "Hawley, Murphy to introduce AI liability legislation - Axios.",
+   "link": "https://www.financialjuice.com/News/9787242/Hawley-Murphy-to-introduce-AI-liability-legislation---Axios.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 09:01:38 GMT",
+   "desc": ""
+  },
   {
    "id": "9787028",
    "title": "Swiss Core CPI YoY Actual 0.5% (Forecast 0.5%, Previous 0.4%)",
