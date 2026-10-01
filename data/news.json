@@ -1,7 +1,574 @@
 {
- "updated_at": "2026-10-01T00:38:53.520068+00:00",
- "count": 10705,
+ "updated_at": "2026-10-01T06:30:45.608830+00:00",
+ "count": 10786,
  "items": [
+  {
+   "id": "9787028",
+   "title": "Swiss Core CPI YoY Actual 0.5% (Forecast 0.5%, Previous 0.4%)",
+   "link": "https://www.financialjuice.com/News/9787028/Swiss-Core-CPI-YoY-Actual-05-Forecast-05-Previous-04.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787027",
+   "title": "Swiss CPI MoM Actual 0% (Forecast 0%, Previous 0.4%)",
+   "link": "https://www.financialjuice.com/News/9787027/Swiss-CPI-MoM-Actual-0-Forecast-0-Previous-04.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787026",
+   "title": "Swiss Retail Sales YoY Actual 3.2% (Forecast -, Previous 2.3%)",
+   "link": "https://www.financialjuice.com/News/9787026/Swiss-Retail-Sales-YoY-Actual-32-Forecast---Previous-23.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787025",
+   "title": "Swiss CPI YoY Actual 1% (Forecast 1%, Previous 0.8%)",
+   "link": "https://www.financialjuice.com/News/9787025/Swiss-CPI-YoY-Actual-1-Forecast-1-Previous-08.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787010",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9787010/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:14:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787009",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9787009/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:14:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787008",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9787008/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:13:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787007",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9787007/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:13:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787006",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9787006/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:13:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787005",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9787005/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:12:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787004",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9787004/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:12:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787003",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9787003/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:11:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787002",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9787002/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:10:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787001",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9787001/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:10:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9787000",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9787000/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:10:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786999",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9786999/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:09:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786998",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9786998/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:09:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786997",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9786997/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:08:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786996",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9786996/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:06:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786995",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9786995/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:06:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786977",
+   "title": "UK Nationwide House Price MoM Actual -0.2% (Forecast -, Previous 0.2%)",
+   "link": "https://www.financialjuice.com/News/9786977/UK-Nationwide-House-Price-MoM-Actual--02-Forecast---Previous-02.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:00:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786976",
+   "title": "UK Nationwide House Price YoY Actual 0.8% (Forecast -, Previous 1.6%)",
+   "link": "https://www.financialjuice.com/News/9786976/UK-Nationwide-House-Price-YoY-Actual-08-Forecast---Previous-16.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 06:00:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786946",
+   "title": "Dutch Retail Sales YoY Actual 2.5% (Forecast -, Previous 3.2%)",
+   "link": "https://www.financialjuice.com/News/9786946/Dutch-Retail-Sales-YoY-Actual-25-Forecast---Previous-32.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 05:07:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786928",
+   "title": "Netherlands S&P Global September manufacturing PMI rises to 55.6 from 53.8 in August",
+   "link": "https://www.financialjuice.com/News/9786928/Netherlands-SP-Global-September-manufacturing-PMI-rises-to-556-from-538-in-August.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 05:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786927",
+   "title": "India HSBC/S&P Global September final manufacturing PMI at 55.1, below forecast 55.6",
+   "link": "https://www.financialjuice.com/News/9786927/India-HSBCSP-Global-September-final-manufacturing-PMI-at-551-below-forecast-556.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 05:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786926",
+   "title": "Bahrain Aug private sector credit advances 6.31% y/y: central bank",
+   "link": "https://www.financialjuice.com/News/9786926/Bahrain-Aug-private-sector-credit-advances-631-yy-central-bank.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:55:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786925",
+   "title": "Bahrain aug m2 money supply rises 7.76% y/y: central bank",
+   "link": "https://www.financialjuice.com/News/9786925/Bahrain-aug-m2-money-supply-rises-776-yy-central-bank.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:54:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786914",
+   "title": "India monthly economic report: net foreign direct investment inflows projected to rise this financial year from last year",
+   "link": "https://www.financialjuice.com/News/9786914/India-monthly-economic-report-net-foreign-direct-investment-inflows-projected-to-rise-this-financial-year-from-last-year.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:37:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786913",
+   "title": "India monthly economic report: expansion momentum persists amid increased global uncertainty",
+   "link": "https://www.financialjuice.com/News/9786913/India-monthly-economic-report-expansion-momentum-persists-amid-increased-global-uncertainty.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:37:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786912",
+   "title": "India monthly economic report: trade ties with US remain unsettled after passage and presidential assent of Graham bill",
+   "link": "https://www.financialjuice.com/News/9786912/India-monthly-economic-report-trade-ties-with-US-remain-unsettled-after-passage-and-presidential-assent-of-Graham-bill.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:35:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786911",
+   "title": "India monthly econ report: concerns over trade ties with US, tariff challenges, crude oil supply issues weigh on India's appeal as investment destination",
+   "link": "https://www.financialjuice.com/News/9786911/India-monthly-econ-report-concerns-over-trade-ties-with-US-tariff-challenges-crude-oil-supply-issues-weigh-on-Indias-appeal-as-investment-destination.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:35:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786910",
+   "title": "India monthly econ report: for now, investor interest in India is cautious but not low",
+   "link": "https://www.financialjuice.com/News/9786910/India-monthly-econ-report-for-now-investor-interest-in-India-is-cautious-but-not-low.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:34:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786909",
+   "title": "India monthly economic report: domestic economy maintains strength amid tough global conditions",
+   "link": "https://www.financialjuice.com/News/9786909/India-monthly-economic-report-domestic-economy-maintains-strength-amid-tough-global-conditions.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:33:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786908",
+   "title": "India monthly econ report: external sector stays resilient on robust services exports, remittances, forex reserves and capital inflows",
+   "link": "https://www.financialjuice.com/News/9786908/India-monthly-econ-report-external-sector-stays-resilient-on-robust-services-exports-remittances-forex-reserves-and-capital-inflows.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:33:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786907",
+   "title": "India monthly econ report: proactive government supply-side and market measures may help contain upside risks, cushion temporary price pressure effects",
+   "link": "https://www.financialjuice.com/News/9786907/India-monthly-econ-report-proactive-government-supply-side-and-market-measures-may-help-contain-upside-risks-cushion-temporary-price-pressure-effects.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:32:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786906",
+   "title": "India monthly econ report: cenbank's open market operations may support balanced financial conditions, limit excessive demand-side overheating",
+   "link": "https://www.financialjuice.com/News/9786906/India-monthly-econ-report-cenbanks-open-market-operations-may-support-balanced-financial-conditions-limit-excessive-demand-side-overheating.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:32:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786905",
+   "title": "Filed lawsuit challenging Trump administration's unlawful attempt to withhold congressionally appropriated federal funding",
+   "link": "https://www.financialjuice.com/News/9786905/Filed-lawsuit-challenging-Trump-administrations-unlawful-attempt-to-withhold-congressionally-appropriated-federal-funding.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:31:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786904",
+   "title": "India monthly economic report: festive demand, rising input costs may increase short-term price pressure",
+   "link": "https://www.financialjuice.com/News/9786904/India-monthly-economic-report-festive-demand-rising-input-costs-may-increase-short-term-price-pressure.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:31:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786903",
+   "title": "India monthly economic report: geopolitical strains, high crude oil costs may increase imported inflation pressures",
+   "link": "https://www.financialjuice.com/News/9786903/India-monthly-economic-report-geopolitical-strains-high-crude-oil-costs-may-increase-imported-inflation-pressures.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:31:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786889",
+   "title": "India monthly econ report: India's economic outlook faces upside inflation risks from mounting climate, geopolitical and monetary pressures",
+   "link": "https://www.financialjuice.com/News/9786889/India-monthly-econ-report-Indias-economic-outlook-faces-upside-inflation-risks-from-mounting-climate-geopolitical-and-monetary-pressures.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:31:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786886",
+   "title": "S. Korea president Lee appoints Ha Joon-Kyung as new policy adviser for economic growth - Blue House",
+   "link": "https://www.financialjuice.com/News/9786886/S-Korea-president-Lee-appoints-Ha-Joon-Kyung-as-new-policy-adviser-for-economic-growth---Blue-House.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:30:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786862",
+   "title": "EU questions Binance over ongoing operations despite order to wind down - FT",
+   "link": "https://www.financialjuice.com/News/9786862/EU-questions-Binance-over-ongoing-operations-despite-order-to-wind-down---FT.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:02:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786861",
+   "title": "California agriculture files lawsuit challenging Trump administration's unlawful attempt to impound congressionally approved federal funding",
+   "link": "https://www.financialjuice.com/News/9786861/California-agriculture-files-lawsuit-challenging-Trump-administrations-unlawful-attempt-to-impound-congressionally-approved-federal-funding.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 04:02:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786816",
+   "title": "Pakistan govt: 22 militants killed in airstrike, large caches of weapons, ammunition eliminated",
+   "link": "https://www.financialjuice.com/News/9786816/Pakistan-govt-22-militants-killed-in-airstrike-large-caches-of-weapons-ammunition-eliminated.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 03:34:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786815",
+   "title": "Pakistan govt: carried out airstrikes on terrorist group hideouts in Afghanistan",
+   "link": "https://www.financialjuice.com/News/9786815/Pakistan-govt-carried-out-airstrikes-on-terrorist-group-hideouts-in-Afghanistan.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 03:33:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786806",
+   "title": "OpenAI: most of the activity reviewed involved routine research tasks, including accessing public web content",
+   "link": "https://www.financialjuice.com/News/9786806/OpenAI-most-of-the-activity-reviewed-involved-routine-research-tasks-including-accessing-public-web-content.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 03:28:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786805",
+   "title": "OpenAI: reviewing findings, gave initial briefing to Canadian officials conducting government review",
+   "link": "https://www.financialjuice.com/News/9786805/OpenAI-reviewing-findings-gave-initial-briefing-to-Canadian-officials-conducting-government-review.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 03:27:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786804",
+   "title": "OpenAI: aware of reports of models trying to access publicly available data from Canadian government websites",
+   "link": "https://www.financialjuice.com/News/9786804/OpenAI-aware-of-reports-of-models-trying-to-access-publicly-available-data-from-Canadian-government-websites.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 03:27:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786784",
+   "title": "India trade minister: discussed with USTR Greer on early wrap-up of interim deal under India-US trade agreement",
+   "link": "https://www.financialjuice.com/News/9786784/India-trade-minister-discussed-with-USTR-Greer-on-early-wrap-up-of-interim-deal-under-India-US-trade-agreement.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 02:57:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786783",
+   "title": "Nine killed in two Pakistani airstrikes in Afghanistan: Afghan Taliban spokesperson",
+   "link": "https://www.financialjuice.com/News/9786783/Nine-killed-in-two-Pakistani-airstrikes-in-Afghanistan-Afghan-Taliban-spokesperson.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 02:56:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786763",
+   "title": "South Korea President Lee: nuclear power projects must ensure commercial viability on a plant-by-plant basis",
+   "link": "https://www.financialjuice.com/News/9786763/South-Korea-President-Lee-nuclear-power-projects-must-ensure-commercial-viability-on-a-plant-by-plant-basis.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 02:38:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786762",
+   "title": "South Korea President Lee: Investment project gains to be split 50-50 until principal and interest fully repaid",
+   "link": "https://www.financialjuice.com/News/9786762/South-Korea-President-Lee-Investment-project-gains-to-be-split-50-50-until-principal-and-interest-fully-repaid.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 02:37:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786761",
+   "title": "South Korea President Lee: Alaska LNG project to start only if commercially viable and compliant with South Korean law",
+   "link": "https://www.financialjuice.com/News/9786761/South-Korea-President-Lee-Alaska-LNG-project-to-start-only-if-commercially-viable-and-compliant-with-South-Korean-law.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 02:36:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786760",
+   "title": "Four killed, six wounded in Pakistani air strike on Afghanistan: Afghan provincial official",
+   "link": "https://www.financialjuice.com/News/9786760/Four-killed-six-wounded-in-Pakistani-air-strike-on-Afghanistan-Afghan-provincial-official.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 02:22:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786750",
+   "title": "Canadian dollar drops to three-month low at C$1.4246",
+   "link": "https://www.financialjuice.com/News/9786750/Canadian-dollar-drops-to-three-month-low-at-C14246.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 02:13:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786749",
+   "title": "New Zealand dollar dips to $0.5618, lowest since November 2025",
+   "link": "https://www.financialjuice.com/News/9786749/New-Zealand-dollar-dips-to-05618-lowest-since-November-2025.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 02:09:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786748",
+   "title": "Dollar/yen rises 0.5% to 158.19",
+   "link": "https://www.financialjuice.com/News/9786748/Dollaryen-rises-05-to-15819.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 02:07:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786661",
+   "title": "South Korea industry ministry: US Alaska LNG project investment still undecided - Yonhap",
+   "link": "https://www.financialjuice.com/News/9786661/South-Korea-industry-ministry-US-Alaska-LNG-project-investment-still-undecided---Yonhap.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:59:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786646",
+   "title": "South Korea president Lee: country to enhance missile defense with AI-based command networks and laser interceptors",
+   "link": "https://www.financialjuice.com/News/9786646/South-Korea-president-Lee-country-to-enhance-missile-defense-with-AI-based-command-networks-and-laser-interceptors.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:39:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786645",
+   "title": "South Korea President Lee: to adopt practical steps to reduce military tensions with North Korea",
+   "link": "https://www.financialjuice.com/News/9786645/South-Korea-President-Lee-to-adopt-practical-steps-to-reduce-military-tensions-with-North-Korea.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:38:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786644",
+   "title": "South Korea President Lee: urges North Korea to cooperate in rebuilding trust and restarting talks",
+   "link": "https://www.financialjuice.com/News/9786644/South-Korea-President-Lee-urges-North-Korea-to-cooperate-in-rebuilding-trust-and-restarting-talks.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:38:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786643",
+   "title": "South Korea's Lee: will adopt practical steps to reduce military tension with North Korea",
+   "link": "https://www.financialjuice.com/News/9786643/South-Koreas-Lee-will-adopt-practical-steps-to-reduce-military-tension-with-North-Korea.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:37:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786642",
+   "title": "South Korea President Lee: Seoul to develop nuclear-powered submarines by mid-2030s",
+   "link": "https://www.financialjuice.com/News/9786642/South-Korea-President-Lee-Seoul-to-develop-nuclear-powered-submarines-by-mid-2030s.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:35:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786620",
+   "title": "Australian Exports Actual 3.7% (Forecast -, Previous -3.3%)",
+   "link": "https://www.financialjuice.com/News/9786620/Australian-Exports-Actual-37-Forecast---Previous--33.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786619",
+   "title": "Australian Imports Actual 5.8% (Forecast -, Previous -2.5%)",
+   "link": "https://www.financialjuice.com/News/9786619/Australian-Imports-Actual-58-Forecast---Previous--25.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786631",
+   "title": "Australia August trade balance goods A$495 million, seasonally adjusted: poll A$2 billion",
+   "link": "https://www.financialjuice.com/News/9786631/Australia-August-trade-balance-goods-A495-million-seasonally-adjusted-poll-A2-billion.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786630",
+   "title": "RBA: key threats to domestic financial stability stem from overseas",
+   "link": "https://www.financialjuice.com/News/9786630/RBA-key-threats-to-domestic-financial-stability-stem-from-overseas.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786629",
+   "title": "RBA: increase in leveraged investors in bonds, Australian equities heightens volatility and raises risks",
+   "link": "https://www.financialjuice.com/News/9786629/RBA-increase-in-leveraged-investors-in-bonds-Australian-equities-heightens-volatility-and-raises-risks.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786628",
+   "title": "RBA: elevated asset prices and leverage leave global markets exposed to sharp correction",
+   "link": "https://www.financialjuice.com/News/9786628/RBA-elevated-asset-prices-and-leverage-leave-global-markets-exposed-to-sharp-correction.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786627",
+   "title": "RBA: Private credit has expanded notably in Australia, but remains modest overall",
+   "link": "https://www.financialjuice.com/News/9786627/RBA-Private-credit-has-expanded-notably-in-Australia-but-remains-modest-overall.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786626",
+   "title": "RBA: proportion of owner-occupier borrowers facing cash flow shortfall remains low at about 2%",
+   "link": "https://www.financialjuice.com/News/9786626/RBA-proportion-of-owner-occupier-borrowers-facing-cash-flow-shortfall-remains-low-at-about-2.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786625",
+   "title": "Australia aug goods exports rise 3.7% m/m, seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9786625/Australia-aug-goods-exports-rise-37-mm-seasonally-adjusted.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786624",
+   "title": "RBA: cash flow challenges to rise for smaller companies, energy-intensive sectors",
+   "link": "https://www.financialjuice.com/News/9786624/RBA-cash-flow-challenges-to-rise-for-smaller-companies-energy-intensive-sectors.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786623",
+   "title": "RBA: Alternative funding globally becoming more opaque, circular, and at risk of profit disappointment",
+   "link": "https://www.financialjuice.com/News/9786623/RBA-Alternative-funding-globally-becoming-more-opaque-circular-and-at-risk-of-profit-disappointment.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786622",
+   "title": "RBA: lending standards stay firm, riskier types of credit curbed",
+   "link": "https://www.financialjuice.com/News/9786622/RBA-lending-standards-stay-firm-riskier-types-of-credit-curbed.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786621",
+   "title": "RBA: Private credit not currently a risk to Australia's overall financial stability",
+   "link": "https://www.financialjuice.com/News/9786621/RBA-Private-credit-not-currently-a-risk-to-Australias-overall-financial-stability.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786618",
+   "title": "Australian Trade Balance Actual 495M (Forecast 2000M, Previous 1,923M)",
+   "link": "https://www.financialjuice.com/News/9786618/Australian-Trade-Balance-Actual-495M-Forecast-2000M-Previous-1923M.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786606",
+   "title": "Israel's PM Netanyahu: 'we don't know yet' on possible Iranian role in incident - Fox interview",
+   "link": "https://www.financialjuice.com/News/9786606/Israels-PM-Netanyahu-we-dont-know-yet-on-possible-Iranian-role-in-incident---Fox-interview.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:14:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786605",
+   "title": "Israel's PM Netanyahu: Israel to take part in investigation",
+   "link": "https://www.financialjuice.com/News/9786605/Israels-PM-Netanyahu-Israel-to-take-part-in-investigation.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:13:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786604",
+   "title": "Israel's PM Netanyahu: it's too soon to comment on motivation",
+   "link": "https://www.financialjuice.com/News/9786604/Israels-PM-Netanyahu-its-too-soon-to-comment-on-motivation.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:13:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9786595",
+   "title": "Taiwan overnight interbank rate starts at 0.805% vs 0.805% at previous session open",
+   "link": "https://www.financialjuice.com/News/9786595/Taiwan-overnight-interbank-rate-starts-at-0805-vs-0805-at-previous-session-open.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 01:00:30 GMT",
+   "desc": ""
+  },
   {
    "id": "9786565",
    "title": "Taiwan s&p global September manufacturing PMI climbs to 56.7 from 54.7 in August",
