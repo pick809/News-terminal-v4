@@ -1,7 +1,420 @@
 {
- "updated_at": "2026-10-02T02:09:11.580285+00:00",
- "count": 11081,
+ "updated_at": "2026-10-02T08:25:53.460593+00:00",
+ "count": 11140,
  "items": [
+  {
+   "id": "9789041",
+   "title": "Moody's on France: It is far from certain a compromise can be reached on the 2027 budget as the proximity of next spring's elections risks hardening political positions.",
+   "link": "https://www.financialjuice.com/News/9789041/Moodys-on-France-It-is-far-from-certain-a-compromise-can-be-reached-on-the-2027-budget-as-the-proximity-of-next-springs-elections-risks-hardening-political-positions.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:20:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789038",
+   "title": "Moody's on France: Ability of France's institutions to address key policy challenges despite political fragmentation is crucial for resolving negative outlook.",
+   "link": "https://www.financialjuice.com/News/9789038/Moodys-on-France-Ability-of-Frances-institutions-to-address-key-policy-challenges-despite-political-fragmentation-is-crucial-for-resolving-negative-outlook.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:16:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789022",
+   "title": "Moody's on France: President and PM faces ongoing challenges in multiyear fiscal consolidation effort.",
+   "link": "https://www.financialjuice.com/News/9789022/Moodys-on-France-President-and-PM-faces-ongoing-challenges-in-multiyear-fiscal-consolidation-effort.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:14:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789021",
+   "title": "Macron: G7 nations have shared interest in coordinated action without export limits - Elysee",
+   "link": "https://www.financialjuice.com/News/9789021/Macron-G7-nations-have-shared-interest-in-coordinated-action-without-export-limits---Elysee.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:09:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789020",
+   "title": "French president underlined G7 countries' interest in coordinated action without export restrictions.",
+   "link": "https://www.financialjuice.com/News/9789020/French-president-underlined-G7-countries-interest-in-coordinated-action-without-export-restrictions.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:08:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789019",
+   "title": "Macron also discussed these matters with Canada’s Carney - Elysee",
+   "link": "https://www.financialjuice.com/News/9789019/Macron-also-discussed-these-matters-with-Canadas-Carney---Elysee.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:08:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789018",
+   "title": "Macron stressed need to collaborate to tackle rising fuel costs, ensure global supply of refined products - Elysee",
+   "link": "https://www.financialjuice.com/News/9789018/Macron-stressed-need-to-collaborate-to-tackle-rising-fuel-costs-ensure-global-supply-of-refined-products---Elysee.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:08:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789017",
+   "title": "France plans call with G7 leaders to coordinate on prices, supply: Elysee Palace source",
+   "link": "https://www.financialjuice.com/News/9789017/France-plans-call-with-G7-leaders-to-coordinate-on-prices-supply-Elysee-Palace-source.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:07:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789016",
+   "title": "France's Macron spoke with Trump to discuss worldwide energy situation- Elysee",
+   "link": "https://www.financialjuice.com/News/9789016/Frances-Macron-spoke-with-Trump-to-discuss-worldwide-energy-situation--Elysee.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:07:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789014",
+   "title": "French president says need to cooperate to combat fuel price increases, supply of refined products in two separate calls",
+   "link": "https://www.financialjuice.com/News/9789014/French-president-says-need-to-cooperate-to-combat-fuel-price-increases-supply-of-refined-products-in-two-separate-calls.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:06:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789010",
+   "title": "French President Macron spoke last night with U.S. President Trump, Canada PM Carney on global energy outlook.",
+   "link": "https://www.financialjuice.com/News/9789010/French-President-Macron-spoke-last-night-with-US-President-Trump-Canada-PM-Carney-on-global-energy-outlook.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:05:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789002",
+   "title": "Italian Retail Sales MoM Actual 0.30% (Forecast -, Previous -0.40%)",
+   "link": "https://www.financialjuice.com/News/9789002/Italian-Retail-Sales-MoM-Actual-030-Forecast---Previous--040.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:01:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789004",
+   "title": "Italian Retail Sales NSA YoY Actual 0.5% (Forecast -, Previous 0.80%)",
+   "link": "https://www.financialjuice.com/News/9789004/Italian-Retail-Sales-NSA-YoY-Actual-05-Forecast---Previous-080.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 08:01:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788999",
+   "title": "France has proposed plan to release 50 mln barrels of diesel from Europe and 50 mln barrels of crude oil across IEA members - Source Familiar with Discussion.",
+   "link": "https://www.financialjuice.com/News/9788999/France-has-proposed-plan-to-release-50-mln-barrels-of-diesel-from-Europe-and-50-mln-barrels-of-crude-oil-across-IEA-members---Source-Familiar-with-Discussion.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 07:58:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788998",
+   "title": "G7 leaders may talk Friday afternoon to discuss next steps - source familiar with discussion.",
+   "link": "https://www.financialjuice.com/News/9788998/G7-leaders-may-talk-Friday-afternoon-to-discuss-next-steps---source-familiar-with-discussion.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 07:56:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788997",
+   "title": "US has requested that large European countries release 800,000 kilotons of diesel over 6 months - Source Familiar with Discussion",
+   "link": "https://www.financialjuice.com/News/9788997/US-has-requested-that-large-European-countries-release-800000-kilotons-of-diesel-over-6-months---Source-Familiar-with-Discussion.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 07:54:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788996",
+   "title": "EU countries addressed us demand to release diesel stocks and threat of US diesel export ban in meeting on Friday - Source Familiar with Details of The Discussion.",
+   "link": "https://www.financialjuice.com/News/9788996/EU-countries-addressed-us-demand-to-release-diesel-stocks-and-threat-of-US-diesel-export-ban-in-meeting-on-Friday---Source-Familiar-with-Details-of-The-Discussion.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 07:52:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788958",
+   "title": "ECB's Rehn: One uncertainty is possibility of a sudden reversal in market sentiment towards AI.",
+   "link": "https://www.financialjuice.com/News/9788958/ECBs-Rehn-One-uncertainty-is-possibility-of-a-sudden-reversal-in-market-sentiment-towards-AI.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 07:30:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788957",
+   "title": "ECB's Rehn: Rise in long-term interest rates will slow growth and reduce the pass-through of energy shock to prices, wages",
+   "link": "https://www.financialjuice.com/News/9788957/ECBs-Rehn-Rise-in-long-term-interest-rates-will-slow-growth-and-reduce-the-pass-through-of-energy-shock-to-prices-wages.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 07:30:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788956",
+   "title": "ECB's Rehn: ECB projections subject to very high, pervasive uncertainty",
+   "link": "https://www.financialjuice.com/News/9788956/ECBs-Rehn-ECB-projections-subject-to-very-high-pervasive-uncertainty.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 07:30:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788953",
+   "title": "ECB's Rehn: Higher energy prices bring us closer to the ECB's adverse scenario for inflation",
+   "link": "https://www.financialjuice.com/News/9788953/ECBs-Rehn-Higher-energy-prices-bring-us-closer-to-the-ECBs-adverse-scenario-for-inflation.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 07:30:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788932",
+   "title": "EU Commissioner Jorgensen: We are discussing with all members of the IEA, not only with the US, when it is time to release diesel",
+   "link": "https://www.financialjuice.com/News/9788932/EU-Commissioner-Jorgensen-We-are-discussing-with-all-members-of-the-IEA-not-only-with-the-US-when-it-is-time-to-release-diesel.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 07:03:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788930",
+   "title": "Currency Strength Chart: Strongest: CHF, JPY, NZD, EUR, GBP, AUD, CAD, USD - Weakest",
+   "link": "https://www.financialjuice.com/News/9788930/Currency-Strength-Chart-Strongest-CHF-JPY-NZD-EUR-GBP-AUD-CAD-USD---Weakest.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 07:01:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788912",
+   "title": "UK Debt Office: Will hold AD HOC gilt tender for up to 1.5 billion of 2028 gilt on October 7th",
+   "link": "https://www.financialjuice.com/News/9788912/UK-Debt-Office-Will-hold-AD-HOC-gilt-tender-for-up-to-15-billion-of-2028-gilt-on-October-7th.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:31:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788895",
+   "title": "Norwegian Unemployment Rate NSA Actual 2.0% (Forecast -, Previous 2.1%)",
+   "link": "https://www.financialjuice.com/News/9788895/Norwegian-Unemployment-Rate-NSA-Actual-20-Forecast---Previous-21.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:27:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788894",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9788894/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:22:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788893",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9788893/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:21:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788892",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9788892/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:21:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788891",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9788891/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:21:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788890",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9788890/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:20:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788889",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9788889/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:20:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788888",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9788888/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:20:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788887",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9788887/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:19:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788886",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9788886/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:19:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788885",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9788885/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:18:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788884",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9788884/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:18:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788883",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9788883/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:17:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788882",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9788882/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:17:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788881",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9788881/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:16:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788880",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9788880/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:16:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788877",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9788877/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 06:16:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788849",
+   "title": "French finance minister Lescure: Debt sales go well, but interest rates are too high, budget will help bring them down",
+   "link": "https://www.financialjuice.com/News/9788849/French-finance-minister-Lescure-Debt-sales-go-well-but-interest-rates-are-too-high-budget-will-help-bring-them-down.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 05:43:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788812",
+   "title": "Russia hits electrical substation in Kyiv region: IFX cites Russian defence ministry",
+   "link": "https://www.financialjuice.com/News/9788812/Russia-hits-electrical-substation-in-Kyiv-region-IFX-cites-Russian-defence-ministry.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 05:07:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788811",
+   "title": "Russia strikes vessel in Black Sea: IFX cites Russian Defence Ministry",
+   "link": "https://www.financialjuice.com/News/9788811/Russia-strikes-vessel-in-Black-Sea-IFX-cites-Russian-Defence-Ministry.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 05:06:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788810",
+   "title": "Russia strikes industrial, production complex at port of Izmail in Ukraine’s Odesa region overnight: IFX cites Russian defence ministry",
+   "link": "https://www.financialjuice.com/News/9788810/Russia-strikes-industrial-production-complex-at-port-of-Izmail-in-Ukraines-Odesa-region-overnight-IFX-cites-Russian-defence-ministry.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 05:05:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788809",
+   "title": "Russia hits bridge across Dnieper river in Kyiv overnight: IFX cites Russian defense ministry",
+   "link": "https://www.financialjuice.com/News/9788809/Russia-hits-bridge-across-Dnieper-river-in-Kyiv-overnight-IFX-cites-Russian-defense-ministry.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 05:04:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788777",
+   "title": "Russian airstrike kills one, injures two in Kyiv, city authorities say",
+   "link": "https://www.financialjuice.com/News/9788777/Russian-airstrike-kills-one-injures-two-in-Kyiv-city-authorities-say.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 04:44:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788740",
+   "title": "Yemen's armed forces: air force conducts 20 strikes on Houthi targets across multiple areas of Taiz province in past three hours - spokesperson on X",
+   "link": "https://www.financialjuice.com/News/9788740/Yemens-armed-forces-air-force-conducts-20-strikes-on-Houthi-targets-across-multiple-areas-of-Taiz-province-in-past-three-hours---spokesperson-on-X.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 04:04:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788739",
+   "title": "Amazon plans to sell $8bn of Nvidia chips to investors: FT",
+   "link": "https://www.financialjuice.com/News/9788739/Amazon-plans-to-sell-8bn-of-Nvidia-chips-to-investors-FT.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 04:01:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788720",
+   "title": "African Union Commission: urges Ethiopia, Eritrea and Egypt to exercise maximum restraint, avoid actions or statements that may escalate tensions and undermine regional peace",
+   "link": "https://www.financialjuice.com/News/9788720/African-Union-Commission-urges-Ethiopia-Eritrea-and-Egypt-to-exercise-maximum-restraint-avoid-actions-or-statements-that-may-escalate-tensions-and-undermine-regional-peace.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 03:24:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788699",
+   "title": "Japan economy minister Kiuchi: Takaichi administration's strategy differs from Abenomics by targeting both robust economy and fiscal discipline, emphasizing supply capacity enhancement",
+   "link": "https://www.financialjuice.com/News/9788699/Japan-economy-minister-Kiuchi-Takaichi-administrations-strategy-differs-from-Abenomics-by-targeting-both-robust-economy-and-fiscal-discipline-emphasizing-supply-capacity-enhancement.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 02:35:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788698",
+   "title": "Japan economy minister Kiuchi: Takaichi administration’s approach differs from reflation policy aimed at ending Japan’s deflation",
+   "link": "https://www.financialjuice.com/News/9788698/Japan-economy-minister-Kiuchi-Takaichi-administrations-approach-differs-from-reflation-policy-aimed-at-ending-Japans-deflation.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 02:34:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788697",
+   "title": "Japan economy minister Kiuchi: Japan is no longer in deflation, no need for overly loose monetary policy favoring higher inflation",
+   "link": "https://www.financialjuice.com/News/9788697/Japan-economy-minister-Kiuchi-Japan-is-no-longer-in-deflation-no-need-for-overly-loose-monetary-policy-favoring-higher-inflation.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 02:32:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788685",
+   "title": "Japan economy minister Kiuchi: Japan no longer requires exceptional monetary stimulus following BoJ's move to end yield curve control",
+   "link": "https://www.financialjuice.com/News/9788685/Japan-economy-minister-Kiuchi-Japan-no-longer-requires-exceptional-monetary-stimulus-following-BoJs-move-to-end-yield-curve-control.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 02:23:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788684",
+   "title": "Japan economy minister Kiuchi: hopes BoJ maintains close communication with government in steering policy",
+   "link": "https://www.financialjuice.com/News/9788684/Japan-economy-minister-Kiuchi-hopes-BoJ-maintains-close-communication-with-government-in-steering-policy.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 02:21:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788683",
+   "title": "Japan economy minister Kiuchi: won’t discuss monetary policy under BoJ jurisdiction",
+   "link": "https://www.financialjuice.com/News/9788683/Japan-economy-minister-Kiuchi-wont-discuss-monetary-policy-under-BoJ-jurisdiction.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 02:20:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788682",
+   "title": "Japan finmin Katayama: there are about 200 current funds, valued at about 7 trillion yen",
+   "link": "https://www.financialjuice.com/News/9788682/Japan-finmin-Katayama-there-are-about-200-current-funds-valued-at-about-7-trillion-yen.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 02:16:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788681",
+   "title": "Japan finance minister Katayama: will significantly simplify idled funds in budget procedure",
+   "link": "https://www.financialjuice.com/News/9788681/Japan-finance-minister-Katayama-will-significantly-simplify-idled-funds-in-budget-procedure.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 02:15:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788680",
+   "title": "Japan finance minister Katayama: will intensify efforts to promote domestic version of doge, review subsidies and funding",
+   "link": "https://www.financialjuice.com/News/9788680/Japan-finance-minister-Katayama-will-intensify-efforts-to-promote-domestic-version-of-doge-review-subsidies-and-funding.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 02:14:20 GMT",
+   "desc": ""
+  },
   {
    "id": "9788679",
    "title": "Russian air strikes hit bridge in Ukraine's Kyiv: mayor",
