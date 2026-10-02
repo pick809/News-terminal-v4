@@ -1,7 +1,231 @@
 {
- "updated_at": "2026-10-01T23:06:20.254582+00:00",
- "count": 11049,
+ "updated_at": "2026-10-02T02:09:11.580285+00:00",
+ "count": 11081,
  "items": [
+  {
+   "id": "9788679",
+   "title": "Russian air strikes hit bridge in Ukraine's Kyiv: mayor",
+   "link": "https://www.financialjuice.com/News/9788679/Russian-air-strikes-hit-bridge-in-Ukraines-Kyiv-mayor.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 02:04:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788568",
+   "title": "S.Korea central bank announces sale of 91-day monetary stabilisation bonds at 3.170% yield",
+   "link": "https://www.financialjuice.com/News/9788568/SKorea-central-bank-announces-sale-of-91-day-monetary-stabilisation-bonds-at-3170-yield.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 01:40:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788567",
+   "title": "South Korean President Lee urges Ukraine to recognize deal and apologize",
+   "link": "https://www.financialjuice.com/News/9788567/South-Korean-President-Lee-urges-Ukraine-to-recognize-deal-and-apologize.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 01:38:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788566",
+   "title": "South Korean president Lee: will take further actions if Ukraine keeps refusing deal on North Korean POW repatriation",
+   "link": "https://www.financialjuice.com/News/9788566/South-Korean-president-Lee-will-take-further-actions-if-Ukraine-keeps-refusing-deal-on-North-Korean-POW-repatriation.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 01:37:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788565",
+   "title": "South Korean President Lee: deeply regrets Ukraine's reaction to North Korean POW repatriation disclosure dispute",
+   "link": "https://www.financialjuice.com/News/9788565/South-Korean-President-Lee-deeply-regrets-Ukraines-reaction-to-North-Korean-POW-repatriation-disclosure-dispute.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 01:37:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788531",
+   "title": "Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)",
+   "link": "https://www.financialjuice.com/News/9788531/Taiwan-overnight-interbank-rate-starts-at-0805-unchanged-from-previous-session.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 01:00:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788529",
+   "title": "Ukrainian drones hit industrial sites in Russia's Volgograd: governor",
+   "link": "https://www.financialjuice.com/News/9788529/Ukrainian-drones-hit-industrial-sites-in-Russias-Volgograd-governor.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 00:55:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788528",
+   "title": "South Korea finance minister: will closely watch markets, take pre-emptive measures if needed",
+   "link": "https://www.financialjuice.com/News/9788528/South-Korea-finance-minister-will-closely-watch-markets-take-pre-emptive-measures-if-needed.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 00:47:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788514",
+   "title": "Saudi-led coalition: Intercepts and destroys ballistic missile launched by Yemen's Houthis toward Khamis Mushait",
+   "link": "https://www.financialjuice.com/News/9788514/Saudi-led-coalition-Intercepts-and-destroys-ballistic-missile-launched-by-Yemens-Houthis-toward-Khamis-Mushait.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 00:29:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788486",
+   "title": "Japanese Monetary Base YoY Actual -15.2% (Forecast -, Previous -15.7%)",
+   "link": "https://www.financialjuice.com/News/9788486/Japanese-Monetary-Base-YoY-Actual--152-Forecast---Previous--157.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:50:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788474",
+   "title": "Tokyo overall CPI climbs at fastest rate since November 2025",
+   "link": "https://www.financialjuice.com/News/9788474/Tokyo-overall-CPI-climbs-at-fastest-rate-since-November-2025.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:34:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788473",
+   "title": "Tokyo core-core CPI climbs at fastest rate since August 2025",
+   "link": "https://www.financialjuice.com/News/9788473/Tokyo-core-core-CPI-climbs-at-fastest-rate-since-August-2025.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:33:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788472",
+   "title": "Tokyo core CPI rises at fastest rate since November 2025",
+   "link": "https://www.financialjuice.com/News/9788472/Tokyo-core-CPI-rises-at-fastest-rate-since-November-2025.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:31:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788456",
+   "title": "Japanese Unemployment Rate Actual 2.5% (Forecast 2.4%, Previous 2.4%)",
+   "link": "https://www.financialjuice.com/News/9788456/Japanese-Unemployment-Rate-Actual-25-Forecast-24-Previous-24.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:30:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788460",
+   "title": "Tokyo area September overall inflation rises 2.7% yr/yr: govt",
+   "link": "https://www.financialjuice.com/News/9788460/Tokyo-area-September-overall-inflation-rises-27-yryr-govt.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:30:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788459",
+   "title": "Tokyo area September CPI excluding fresh food and energy rises 3.0% yr/yr: govt",
+   "link": "https://www.financialjuice.com/News/9788459/Tokyo-area-September-CPI-excluding-fresh-food-and-energy-rises-30-yryr-govt.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:30:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788458",
+   "title": "Japan Aug seasonally adjusted jobless rate 2.5%: govt (Poll: 2.4%)",
+   "link": "https://www.financialjuice.com/News/9788458/Japan-Aug-seasonally-adjusted-jobless-rate-25-govt-Poll-24.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:30:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788457",
+   "title": "Tokyo area September core CPI rises 2.7% year/year: government poll 2.4%",
+   "link": "https://www.financialjuice.com/News/9788457/Tokyo-area-September-core-CPI-rises-27-yearyear-government-poll-24.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:30:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788455",
+   "title": "Japan aug jobs-applicants ratio steady at 1.18 in july: govt",
+   "link": "https://www.financialjuice.com/News/9788455/Japan-aug-jobs-applicants-ratio-steady-at-118-in-july-govt.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788454",
+   "title": "Tokyo CPI Overall Actual 2.7% (Forecast 2.5%, Previous 1.9%)",
+   "link": "https://www.financialjuice.com/News/9788454/Tokyo-CPI-Overall-Actual-27-Forecast-25-Previous-19.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788453",
+   "title": "Tokyo Core CPI YoY Actual 2.7% (Forecast 2.3%, Previous 1.8%)",
+   "link": "https://www.financialjuice.com/News/9788453/Tokyo-Core-CPI-YoY-Actual-27-Forecast-23-Previous-18.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788452",
+   "title": "Japanese Jobs/Applicants Ratio Actual 1.18 (Forecast 1.18, Previous 1.18)",
+   "link": "https://www.financialjuice.com/News/9788452/Japanese-JobsApplicants-Ratio-Actual-118-Forecast-118-Previous-118.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788451",
+   "title": "Logan: Uncertainty remains on how high policy rate must rise to bring inflation to 2%",
+   "link": "https://www.financialjuice.com/News/9788451/Logan-Uncertainty-remains-on-how-high-policy-rate-must-rise-to-bring-inflation-to-2.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:20:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788450",
+   "title": "Logan: at minimum, several more rate hikes would reverse last fall's reductions",
+   "link": "https://www.financialjuice.com/News/9788450/Logan-at-minimum-several-more-rate-hikes-would-reverse-last-falls-reductions.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:20:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788449",
+   "title": "Logan: without higher rates, inflation won’t reach Fed’s 2% target",
+   "link": "https://www.financialjuice.com/News/9788449/Logan-without-higher-rates-inflation-wont-reach-Feds-2-target.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:20:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788448",
+   "title": "Logan: increase in long-term yields signals market expects higher interest rates",
+   "link": "https://www.financialjuice.com/News/9788448/Logan-increase-in-long-term-yields-signals-market-expects-higher-interest-rates.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:20:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788447",
+   "title": "Fed's Logan: policy rate must increase by additional 50 bps or more",
+   "link": "https://www.financialjuice.com/News/9788447/Feds-Logan-policy-rate-must-increase-by-additional-50-bps-or-more.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:20:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788446",
+   "title": "Logan: we must revive price stability",
+   "link": "https://www.financialjuice.com/News/9788446/Logan-we-must-revive-price-stability.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:20:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788445",
+   "title": "Logan: will monitor bond yield changes and evaluate their impact",
+   "link": "https://www.financialjuice.com/News/9788445/Logan-will-monitor-bond-yield-changes-and-evaluate-their-impact.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:20:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788444",
+   "title": "Logan: Fed policy is not restrictive, must be modestly tight",
+   "link": "https://www.financialjuice.com/News/9788444/Logan-Fed-policy-is-not-restrictive-must-be-modestly-tight.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:20:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788443",
+   "title": "Logan: Economic expansion strengthening, labor market well balanced",
+   "link": "https://www.financialjuice.com/News/9788443/Logan-Economic-expansion-strengthening-labor-market-well-balanced.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:20:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9788442",
+   "title": "Logan: higher yields may also indicate increased term premiums, lowering need to tighten monetary policy",
+   "link": "https://www.financialjuice.com/News/9788442/Logan-higher-yields-may-also-indicate-increased-term-premiums-lowering-need-to-tighten-monetary-policy.aspx?xy=rss",
+   "pubDate": "Thu, 01 Oct 2026 23:20:02 GMT",
+   "desc": ""
+  },
   {
    "id": "9788420",
    "title": "S. Korea Sept consumer price index rises 2.9% y/y: stats office",
