@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-10-02T08:25:53.460593+00:00",
- "count": 11140,
+ "updated_at": "2026-10-02T14:50:33.361652+00:00",
+ "count": 11240,
  "items": [
+  {
+   "id": "9789606",
+   "title": "Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from IRGC - IRNA",
+   "link": "https://www.financialjuice.com/News/9789606/Irans-General-Naghdi-The-enemys-economic-siege-will-have-no-effect-and-if-it-does-not-back-down-it-will-receive-a-severe-blow-from-IRGC---IRNA.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:36:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789603",
+   "title": "Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from the armed forces of the Islamic Republic of Iran - IRNA",
+   "link": "https://www.financialjuice.com/News/9789603/Irans-General-Naghdi-The-enemys-economic-siege-will-have-no-effect-and-if-it-does-not-back-down-it-will-receive-a-severe-blow-from-the-armed-forces-of-the-Islamic-Republic-of-Iran---IRNA.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:35:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789585",
+   "title": "NFP Market Reactions, Deviations & Fed Fund Rate Futures - FJElite",
+   "link": "https://www.financialjuice.com/News/9789585/NFP-Market-Reactions-Deviations--Fed-Fund-Rate-Futures---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:30:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789584",
+   "title": "G7: Call on all producers to refrain from imposing bans that could exacerbate market tensions.",
+   "link": "https://www.financialjuice.com/News/9789584/G7-Call-on-all-producers-to-refrain-from-imposing-bans-that-could-exacerbate-market-tensions.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:22:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789583",
+   "title": "Crypto Fear & Greed Index: 72/100 - Greed",
+   "link": "https://www.financialjuice.com/News/9789583/Crypto-Fear--Greed-Index-72100---Greed.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:18:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789582",
+   "title": "France's Elysee: Will discuss in coming days more potential releases.",
+   "link": "https://www.financialjuice.com/News/9789582/Frances-Elysee-Will-discuss-in-coming-days-more-potential-releases.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:18:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789581",
+   "title": "Fear & Greed Index: 32/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9789581/Fear--Greed-Index-32100---Fear.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:18:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789580",
+   "title": "France's Elysee: There will a substantial diesel release within first 20 days.",
+   "link": "https://www.financialjuice.com/News/9789580/Frances-Elysee-There-will-a-substantial-diesel-release-within-first-20-days.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:17:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789563",
+   "title": "France’s President Macron: We agreed to continue to co ordinate actions to help supplies come out of Hormuz",
+   "link": "https://www.financialjuice.com/News/9789563/Frances-President-Macron-We-agreed-to-continue-to-co-ordinate-actions-to-help-supplies-come-out-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:07:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789561",
+   "title": "Trump: Europe agreed to release a massive amount of their heavily stocked Diesel Oil. The process begins immediately - Truth Social",
+   "link": "https://www.financialjuice.com/News/9789561/Trump-Europe-agreed-to-release-a-massive-amount-of-their-heavily-stocked-Diesel-Oil-The-process-begins-immediately---Truth-Social.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:01:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789538",
+   "title": "Fed's Logan does not comment on economic outlook, monetary policy in remarks at Dallas Fed conference on migration.",
+   "link": "https://www.financialjuice.com/News/9789538/Feds-Logan-does-not-comment-on-economic-outlook-monetary-policy-in-remarks-at-Dallas-Fed-conference-on-migration.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:00:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789537",
+   "title": "US Durable Goods Revised Actual -0.1% (Forecast 0%, Previous 0.0%)",
+   "link": "https://www.financialjuice.com/News/9789537/US-Durable-Goods-Revised-Actual--01-Forecast-0-Previous-00.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789536",
+   "title": "US Core Durable Goods Revised Actual 0.2% (Forecast 0.3%, Previous 0.3%)",
+   "link": "https://www.financialjuice.com/News/9789536/US-Core-Durable-Goods-Revised-Actual-02-Forecast-03-Previous-03.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789535",
+   "title": "US Factory Orders MoM Actual 0.1% (Forecast 0.2%, Previous 0.9%)",
+   "link": "https://www.financialjuice.com/News/9789535/US-Factory-Orders-MoM-Actual-01-Forecast-02-Previous-09.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789534",
+   "title": "France’s President Macron: We will release up to 100 mln barrels.",
+   "link": "https://www.financialjuice.com/News/9789534/Frances-President-Macron-We-will-release-up-to-100-mln-barrels.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:58:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789533",
+   "title": "France’s President Macron: Diesel and crude stocks to be released over 4 months.",
+   "link": "https://www.financialjuice.com/News/9789533/Frances-President-Macron-Diesel-and-crude-stocks-to-be-released-over-4-months.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:58:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789532",
+   "title": "WH Sr. Adviser Hassett: Only Iranian oil isn't flowing through Hormuz",
+   "link": "https://www.financialjuice.com/News/9789532/WH-Sr-Adviser-Hassett-Only-Iranian-oil-isnt-flowing-through-Hormuz.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:57:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789531",
+   "title": "WH Sr. Adviser Hassett ends remarks on Bloomberg TV",
+   "link": "https://www.financialjuice.com/News/9789531/WH-Sr-Adviser-Hassett-ends-remarks-on-Bloomberg-TV.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:55:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789530",
+   "title": "WH Sr. Adviser Hassett: We do not want to inflate our way out of debt.",
+   "link": "https://www.financialjuice.com/News/9789530/WH-Sr-Adviser-Hassett-We-do-not-want-to-inflate-our-way-out-of-debt.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:52:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789529",
+   "title": "WH Sr. Adviser Hassett on yields: They're higher due to strong economy.",
+   "link": "https://www.financialjuice.com/News/9789529/WH-Sr-Adviser-Hassett-on-yields-Theyre-higher-due-to-strong-economy.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:50:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789528",
+   "title": "WH Sr. Adviser Hassett: It's going to be a strong holiday season.",
+   "link": "https://www.financialjuice.com/News/9789528/WH-Sr-Adviser-Hassett-Its-going-to-be-a-strong-holiday-season.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:49:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789527",
+   "title": "WH Sr. Adviser Hassett: We see in the data that the consumer is very strong",
+   "link": "https://www.financialjuice.com/News/9789527/WH-Sr-Adviser-Hassett-We-see-in-the-data-that-the-consumer-is-very-strong.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:48:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789526",
+   "title": "WH Sr. Adviser Hassett: This job's report was about expected.",
+   "link": "https://www.financialjuice.com/News/9789526/WH-Sr-Adviser-Hassett-This-jobs-report-was-about-expected.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:47:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789523",
+   "title": "WH Sr. Adviser Hassett: A lot of news this week has been positive",
+   "link": "https://www.financialjuice.com/News/9789523/WH-Sr-Adviser-Hassett-A-lot-of-news-this-week-has-been-positive.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:46:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789518",
+   "title": "WH Sr. Adviser Hassett ends remarks on Fox news",
+   "link": "https://www.financialjuice.com/News/9789518/WH-Sr-Adviser-Hassett-ends-remarks-on-Fox-news.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:43:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789517",
+   "title": "Trump expected to pick Clayton to be the new AI Czar - CNN",
+   "link": "https://www.financialjuice.com/News/9789517/Trump-expected-to-pick-Clayton-to-be-the-new-AI-Czar---CNN.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:43:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789516",
+   "title": "Goldman Sachs on EUR/USD - FJElite",
+   "link": "https://www.financialjuice.com/News/9789516/Goldman-Sachs-on-EURUSD---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:43:28 GMT",
+   "desc": "Yesterday was the return of European sovereign risk — not the slow, benign spread widening we&#39;ve grown used to, but a violent, two-sided one: Italy and France both sold off, the Bund caught a safe-haven bid, equities wobbled and EUR/USD got hit hard. The tell was the front end 2y BTP-Bund spreads blew out, which smells like genuine stress spilling over from France, not just a long-end credit drift. You can call it a carry unwind — steepeners and sovereign longs getting deleveraged in a hawkish, energy-shocked, higher-vol regime and maybe it is. But don&#39;t reach for the 2011 playbook: back then the ECB had low inflation and room to be generous. Today it doesn’t. Remember SVB — markets priced dovishness, then learned the economy was still hot and got run over by a duration sell-off. For EUR/USD the mechanism is clean: if the ECB trades tighter sovereign conditions for more hikes, or goes dovish and supportive on the balance sheet, euro goes lower. The only bullish path is spread control via the balance sheet — moderating full-pace QT, reinvestments, a BoE-2022-style backstop — while still hiking.”"
+  },
+  {
+   "id": "9789515",
+   "title": "WH Sr. Adviser Hassett: Housing data are up because the economy is so strong.",
+   "link": "https://www.financialjuice.com/News/9789515/WH-Sr-Adviser-Hassett-Housing-data-are-up-because-the-economy-is-so-strong.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:39:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789514",
+   "title": "WH Sr. Adviser Hassett: More announcements next week on energy.",
+   "link": "https://www.financialjuice.com/News/9789514/WH-Sr-Adviser-Hassett-More-announcements-next-week-on-energy.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:38:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789513",
+   "title": "WH Sr. Adviser Hassett: The Navy has opened Hormuz and crude is coming through",
+   "link": "https://www.financialjuice.com/News/9789513/WH-Sr-Adviser-Hassett-The-Navy-has-opened-Hormuz-and-crude-is-coming-through.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:38:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789512",
+   "title": "UK Defence Secretary Streeting: Iran likely behind fairford, not formally named",
+   "link": "https://www.financialjuice.com/News/9789512/UK-Defence-Secretary-Streeting-Iran-likely-behind-fairford-not-formally-named.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:37:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789511",
+   "title": "Goldman Sachs on Diesel - FJElite",
+   "link": "https://www.financialjuice.com/News/9789511/Goldman-Sachs-on-Diesel---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:37:00 GMT",
+   "desc": "Refined product margins have widened significantly since March. Diesel has been especially affected, reflecting highly inelastic demand due to its importance in industrial supply chains and ongoing strikes on refineries in the Middle East and Russia. Wholesale prices have increased by over 90% in Europe and over 80% in the US and Asia since the start of the war in Iran (Exhibit 1). In the very near term, a US diesel ban would put downward pressure on prices in the US, with our commodities team estimating a $0.25/gallon price reduction (or just under 4% of the current price) per week of export bans, implying a modest 2-3bp drag on headline US inflation after a month and a 4-5bp drag after two months. But this small decline in inflation would likely reverse and ultimately turn inflationary after roughly two months, since our commodity strategists estimate that each week of a diesel export ban would raise US retail gasoline prices by $0.3/gallon per week once diesel storage capacity is exhausted after 9-10 weeks. The upside to gasoline prices would be smaller if refiners can switch more from diesel to gasoline or if diesel demand rises sharply. But gasoline accounts for a much larger share of the consumption basket, so the net impact would most likely be inflationary after two months. Core inflation impacts would likely remain small but negative for at least 12 weeks, reflecting the relatively greater importance of diesel as an intermediate input in production and delayed pass-through from producer costs to consumer prices."
+  },
+  {
+   "id": "9789510",
+   "title": "JPMorgan's 1M Before/After Midterm Elections Indicator on Industry Average Returns Across Scenarios - FJElite",
+   "link": "https://www.financialjuice.com/News/9789510/JPMorgans-1M-BeforeAfter-Midterm-Elections-Indicator-on-Industry-Average-Returns-Across-Scenarios---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:33:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789493",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9789493/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:30:36 GMT",
+   "desc": "S&amp;P 500: -69 mln Nasdaq 100: -41 mln Dow 30: -21 mln Mag 7: -53 mln"
+  },
+  {
+   "id": "9789477",
+   "title": "US Sentiment: Weaker-than-Expected NFP Leads to No Longer Fully Pricing 1 More Hike - FJElite",
+   "link": "https://www.financialjuice.com/News/9789477/US-Sentiment-Weaker-than-Expected-NFP-Leads-to-No-Longer-Fully-Pricing-1-More-Hike---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:24:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789476",
+   "title": "WH Sr. Adviser Hassett on Diesel: I am hopeful to have news on that sometime soon.",
+   "link": "https://www.financialjuice.com/News/9789476/WH-Sr-Adviser-Hassett-on-Diesel-I-am-hopeful-to-have-news-on-that-sometime-soon.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:23:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789475",
+   "title": "WH Sr. Adviser Hassett, on diesel: We have been talking with Europe",
+   "link": "https://www.financialjuice.com/News/9789475/WH-Sr-Adviser-Hassett-on-diesel-We-have-been-talking-with-Europe.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:22:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789474",
+   "title": "WH Sr. Adviser Hassett: GDP still hovering around 4%.",
+   "link": "https://www.financialjuice.com/News/9789474/WH-Sr-Adviser-Hassett-GDP-still-hovering-around-4.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:20:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789473",
+   "title": "WH Sr. Adviser Hassett: Government employment down, everything else is up",
+   "link": "https://www.financialjuice.com/News/9789473/WH-Sr-Adviser-Hassett-Government-employment-down-everything-else-is-up.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:19:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789472",
+   "title": "WH Sr. Adviser Hassett: I am not disappointed in jobs report.",
+   "link": "https://www.financialjuice.com/News/9789472/WH-Sr-Adviser-Hassett-I-am-not-disappointed-in-jobs-report.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:18:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789462",
+   "title": "Tesla Q3 Deliveries Beat Estimates, Energy Storage Deployments Reach 13.7 GWh $TSLA",
+   "link": "https://www.financialjuice.com/News/9789462/Tesla-Q3-Deliveries-Beat-Estimates-Energy-Storage-Deployments-Reach-137-GWh-TSLA.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:02:18 GMT",
+   "desc": "Tesla Q3 total deliveries 486,532 units, above Visible Alpha estimate of 456,896 units Tesla Q3 Model 3/Y production 457,387 units, deliveries 478,237 units Tesla Q3 other models production 7,004 units, deliveries 8,295 units Tesla deployed 13.7 GWh of energy storage products in Q3"
+  },
+  {
+   "id": "9789445",
+   "title": "Effective Fed Funds Rate 3.88% October 1 vs 3.88% September 30.",
+   "link": "https://www.financialjuice.com/News/9789445/Effective-Fed-Funds-Rate-388-October-1-vs-388-September-30.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 13:00:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789442",
+   "title": "Israel's Prime Minister Netanyahu: We are investigating whether the pilot was sent, and whoever sent him will pay a very heavy price - i24 News Reporter.",
+   "link": "https://www.financialjuice.com/News/9789442/Israels-Prime-Minister-Netanyahu-We-are-investigating-whether-the-pilot-was-sent-and-whoever-sent-him-will-pay-a-very-heavy-price---i24-News-Reporter.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:55:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789422",
+   "title": "Trump: $8.4b for enhanced oil recovery project.",
+   "link": "https://www.financialjuice.com/News/9789422/Trump-84b-for-enhanced-oil-recovery-project.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:39:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789421",
+   "title": "Trump: Republic of Korea deal keeps getting better.",
+   "link": "https://www.financialjuice.com/News/9789421/Trump-Republic-of-Korea-deal-keeps-getting-better.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:39:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789420",
+   "title": "Fed-dated swaps no longer price one full rate hike this year.",
+   "link": "https://www.financialjuice.com/News/9789420/Fed-dated-swaps-no-longer-price-one-full-rate-hike-this-year.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:36:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789419",
+   "title": "Russia's oil refining volumes down 14% year on year in January-September - Two industry sources",
+   "link": "https://www.financialjuice.com/News/9789419/Russias-oil-refining-volumes-down-14-year-on-year-in-January-September---Two-industry-sources.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:35:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789418",
+   "title": "Traders pare bets on October Fed rate hike",
+   "link": "https://www.financialjuice.com/News/9789418/Traders-pare-bets-on-October-Fed-rate-hike.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:32:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789417",
+   "title": "US short-term interest-rate futures jump after weaker-than-expected jobs data, traders trim Fed rate hike bets.",
+   "link": "https://www.financialjuice.com/News/9789417/US-short-term-interest-rate-futures-jump-after-weaker-than-expected-jobs-data-traders-trim-Fed-rate-hike-bets.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:31:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789387",
+   "title": "US Government Payrolls Actual -17k (Forecast -, Previous 35k ,Revision 44k)",
+   "link": "https://www.financialjuice.com/News/9789387/US-Government-Payrolls-Actual--17k-Forecast---Previous-35k-Revision-44k.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:30:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789380",
+   "title": "US Manufacturing Payrolls Actual 9k (Forecast 10k, Previous 16k ,Revision 15k)",
+   "link": "https://www.financialjuice.com/News/9789380/US-Manufacturing-Payrolls-Actual-9k-Forecast-10k-Previous-16k-Revision-15k.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:30:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789386",
+   "title": "US Average Earnings MoM Actual 0.1% (Forecast 0.3%, Previous 0.3%)",
+   "link": "https://www.financialjuice.com/News/9789386/US-Average-Earnings-MoM-Actual-01-Forecast-03-Previous-03.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:30:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789385",
+   "title": "US Unemployment Rate Actual 4.2% (Forecast 4.1%, Previous 4.1%)",
+   "link": "https://www.financialjuice.com/News/9789385/US-Unemployment-Rate-Actual-42-Forecast-41-Previous-41.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789384",
+   "title": "US Labor Force Participation  Actual 61.8% (Forecast 61.6%, Previous 61.6%)",
+   "link": "https://www.financialjuice.com/News/9789384/US-Labor-Force-Participation--Actual-618-Forecast-616-Previous-616.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789383",
+   "title": "US Nonfarm Payrolls Actual 29k (Forecast 90k, Previous 162k, Revised 133k)",
+   "link": "https://www.financialjuice.com/News/9789383/US-Nonfarm-Payrolls-Actual-29k-Forecast-90k-Previous-162k-Revised-133k.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:30:04 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"wtTk6KFJ\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9789382",
+   "title": "US Private Payrolls Actual 46k (Forecast 81k, Previous 127k, Revised 89k)",
+   "link": "https://www.financialjuice.com/News/9789382/US-Private-Payrolls-Actual-46k-Forecast-81k-Previous-127k-Revised-89k.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789381",
+   "title": "US Average Earnings YoY Actual 3% (Forecast 3.1%, Previous 3.1%)",
+   "link": "https://www.financialjuice.com/News/9789381/US-Average-Earnings-YoY-Actual-3-Forecast-31-Previous-31.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789379",
+   "title": "US Average Workweek Hrs Actual 34.4 (Forecast 34.3, Previous 34.4)",
+   "link": "https://www.financialjuice.com/News/9789379/US-Average-Workweek-Hrs-Actual-344-Forecast-343-Previous-344.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789378",
+   "title": "Pakistan's foreign minister: More than six countries are keen to join the Makkah defence pact",
+   "link": "https://www.financialjuice.com/News/9789378/Pakistans-foreign-minister-More-than-six-countries-are-keen-to-join-the-Makkah-defence-pact.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:25:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789377",
+   "title": "Pakistan Foreign Minister: We will discuss political engagement with Houthis instead of kinetic action in the meeting next week",
+   "link": "https://www.financialjuice.com/News/9789377/Pakistan-Foreign-Minister-We-will-discuss-political-engagement-with-Houthis-instead-of-kinetic-action-in-the-meeting-next-week.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:19:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789368",
+   "title": "NFP Past Market Reactions & Deviations - FJElite",
+   "link": "https://www.financialjuice.com/News/9789368/NFP-Past-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:09:13 GMT",
+   "desc": "Sentiment Post Latest NFP Data Traders add to bets on Fed rate increase in September. Rate-futures traders add to bets on a September Fed rate hike after bigger-than-expected August jobs gain."
+  },
+  {
+   "id": "9789367",
+   "title": "US NFP Prep: Focus on Wages for Inflation Signals - FJElite",
+   "link": "https://www.financialjuice.com/News/9789367/US-NFP-Prep-Focus-on-Wages-for-Inflation-Signals---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:04:01 GMT",
+   "desc": "[Repost]"
+  },
+  {
+   "id": "9789366",
+   "title": "US September Employment Situation Crib Sheet - FJElite",
+   "link": "https://www.financialjuice.com/News/9789366/US-September-Employment-Situation-Crib-Sheet---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:03:59 GMT",
+   "desc": "[Repost]"
+  },
+  {
+   "id": "9789365",
+   "title": "Pakistan foreign minister: Meeting in Riyadh next week will focus on Houthi attacks in Saudi Arabia",
+   "link": "https://www.financialjuice.com/News/9789365/Pakistan-foreign-minister-Meeting-in-Riyadh-next-week-will-focus-on-Houthi-attacks-in-Saudi-Arabia.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:03:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789364",
+   "title": "Price of Russian gas for China may rise 1.4% in 2027 - Tass",
+   "link": "https://www.financialjuice.com/News/9789364/Price-of-Russian-gas-for-China-may-rise-14-in-2027---Tass.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:02:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789342",
+   "title": "Secured overnight financing rate 3.87% October 1st vs 3.90% September 30th.",
+   "link": "https://www.financialjuice.com/News/9789342/Secured-overnight-financing-rate-387-October-1st-vs-390-September-30th.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 12:00:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789340",
+   "title": "Iran's IRGC: Ready for response to any threat or attack. The response would be more lethal than the previous one",
+   "link": "https://www.financialjuice.com/News/9789340/Irans-IRGC-Ready-for-response-to-any-threat-or-attack-The-response-would-be-more-lethal-than-the-previous-one.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:58:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789339",
+   "title": "The EU presidency will convene a meeting of coreper i at 15:30 to discuss the global energy situation",
+   "link": "https://www.financialjuice.com/News/9789339/The-EU-presidency-will-convene-a-meeting-of-coreper-i-at-1530-to-discuss-the-global-energy-situation.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:51:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789338",
+   "title": "France's Macron to chair a videoconference of G7 leaders today at 2:30 PM focused on the global energy situation - Elysee",
+   "link": "https://www.financialjuice.com/News/9789338/Frances-Macron-to-chair-a-videoconference-of-G7-leaders-today-at-230-PM-focused-on-the-global-energy-situation---Elysee.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:50:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789334",
+   "title": "Pakistan Foreign Minister: A meeting of the strategic political defence committee under the Makkah Accord to meet in Riyadh soon",
+   "link": "https://www.financialjuice.com/News/9789334/Pakistan-Foreign-Minister-A-meeting-of-the-strategic-political-defence-committee-under-the-Makkah-Accord-to-meet-in-Riyadh-soon.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:45:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789328",
+   "title": "Standard Chartered expects the ECB to deliver a 25 bp rate cut in Q4 2027 vs. the prior forecast of Q3",
+   "link": "https://www.financialjuice.com/News/9789328/Standard-Chartered-expects-the-ECB-to-deliver-a-25-bp-rate-cut-in-Q4-2027-vs-the-prior-forecast-of-Q3.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:38:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789327",
+   "title": "Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates",
+   "link": "https://www.financialjuice.com/News/9789327/Standard-Chartered-expects-the-ECB-to-deliver-a-25-bps-rate-hike-in-December-2026-vs-the-prior-forecast-of-unchanged-rates.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:35:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789310",
+   "title": "Saudi Arabia has about 4.5m b/d pipeline flow available for export",
+   "link": "https://www.financialjuice.com/News/9789310/Saudi-Arabia-has-about-45m-bd-pipeline-flow-available-for-export.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:33:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789309",
+   "title": "Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.",
+   "link": "https://www.financialjuice.com/News/9789309/Saudi-Arabia-pumping-close-to-6m-bd-oil-on-East-West-pipeline.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:33:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789308",
+   "title": "ECB's Vujcic: Bank capital levels are not a competitive disadvantage for Europe, but rules could be simplified",
+   "link": "https://www.financialjuice.com/News/9789308/ECBs-Vujcic-Bank-capital-levels-are-not-a-competitive-disadvantage-for-Europe-but-rules-could-be-simplified.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:30:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789301",
+   "title": "Microsoft & Amazon cloud arms set to face deeper EU scrutiny $MSFT $AMZN",
+   "link": "https://www.financialjuice.com/News/9789301/Microsoft--Amazon-cloud-arms-set-to-face-deeper-EU-scrutiny-MSFT-AMZN.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:16:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789278",
+   "title": "Russia’s Deputy PM Novak: OPEC+ members continue production capacity review - Tass",
+   "link": "https://www.financialjuice.com/News/9789278/Russias-Deputy-PM-Novak-OPEC-members-continue-production-capacity-review---Tass.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:14:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789277",
+   "title": "Russian Deputy PM Novak: Russia is currently basing its 2027 oil production forecast on a moderately conservative scenario",
+   "link": "https://www.financialjuice.com/News/9789277/Russian-Deputy-PM-Novak-Russia-is-currently-basing-its-2027-oil-production-forecast-on-a-moderately-conservative-scenario.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:13:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789276",
+   "title": "OPEC+ oil capacity assessment exercise is expected to be completed by mid-November - Source.",
+   "link": "https://www.financialjuice.com/News/9789276/OPEC-oil-capacity-assessment-exercise-is-expected-to-be-completed-by-mid-November---Source.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:12:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789275",
+   "title": "OPEC+ oil production capacity assessment exercise is delayed because not all countries have submitted data - Sources",
+   "link": "https://www.financialjuice.com/News/9789275/OPEC-oil-production-capacity-assessment-exercise-is-delayed-because-not-all-countries-have-submitted-data---Sources.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:12:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789274",
+   "title": "Russian Deputy PM Novak: OPEC+ countries will discuss standard issues relating to the oil market and quota compliance at Sunday's meeting",
+   "link": "https://www.financialjuice.com/News/9789274/Russian-Deputy-PM-Novak-OPEC-countries-will-discuss-standard-issues-relating-to-the-oil-market-and-quota-compliance-at-Sundays-meeting.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 11:12:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789244",
+   "title": "EU Spokesperson: We reject any ban on diesel.",
+   "link": "https://www.financialjuice.com/News/9789244/EU-Spokesperson-We-reject-any-ban-on-diesel.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:42:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789243",
+   "title": "EU Spokesperson: Supplies are stable for the time being",
+   "link": "https://www.financialjuice.com/News/9789243/EU-Spokesperson-Supplies-are-stable-for-the-time-being.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:42:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789225",
+   "title": "The EU is ready for collective oil market action if the IEA sees it as necessary",
+   "link": "https://www.financialjuice.com/News/9789225/The-EU-is-ready-for-collective-oil-market-action-if-the-IEA-sees-it-as-necessary.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:29:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789224",
+   "title": "EU Spokesperson: A coordination meeting between the Commission and member states was held this morning, and further discussions might happen in the afternoon",
+   "link": "https://www.financialjuice.com/News/9789224/EU-Spokesperson-A-coordination-meeting-between-the-Commission-and-member-states-was-held-this-morning-and-further-discussions-might-happen-in-the-afternoon.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:29:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789223",
+   "title": "EU Spokesperson: The EU is ready for collective action on possible stock release under IEA coordination",
+   "link": "https://www.financialjuice.com/News/9789223/EU-Spokesperson-The-EU-is-ready-for-collective-action-on-possible-stock-release-under-IEA-coordination.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:28:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789222",
+   "title": "German Government wants to stabilize diesel supply - Spokesman",
+   "link": "https://www.financialjuice.com/News/9789222/German-Government-wants-to-stabilize-diesel-supply---Spokesman.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:28:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789221",
+   "title": "EU Spokesperson: Next oil coordination group on the 15th of October, if the situation requires, we are ready to convene one earlier",
+   "link": "https://www.financialjuice.com/News/9789221/EU-Spokesperson-Next-oil-coordination-group-on-the-15th-of-October-if-the-situation-requires-we-are-ready-to-convene-one-earlier.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:25:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789220",
+   "title": "EU Spokesperson: Any release is something that is organized by the International Energy Agency",
+   "link": "https://www.financialjuice.com/News/9789220/EU-Spokesperson-Any-release-is-something-that-is-organized-by-the-International-Energy-Agency.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:25:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789219",
+   "title": "German Government Spokesperson on diesel stocks: We do not want to unsettle markets further",
+   "link": "https://www.financialjuice.com/News/9789219/German-Government-Spokesperson-on-diesel-stocks-We-do-not-want-to-unsettle-markets-further.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:22:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789218",
+   "title": "EU Spokesperson: A ban would not be beneficial to anyone. It would undermine our trust in the United States as a reliable partner",
+   "link": "https://www.financialjuice.com/News/9789218/EU-Spokesperson-A-ban-would-not-be-beneficial-to-anyone-It-would-undermine-our-trust-in-the-United-States-as-a-reliable-partner.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:22:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789217",
+   "title": "EU Spokesperson: We fully reject any ban on diesel",
+   "link": "https://www.financialjuice.com/News/9789217/EU-Spokesperson-We-fully-reject-any-ban-on-diesel.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:22:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789216",
+   "title": "German Government Spokesperson: We continue to see the US as a reliable supplier of fuel",
+   "link": "https://www.financialjuice.com/News/9789216/German-Government-Spokesperson-We-continue-to-see-the-US-as-a-reliable-supplier-of-fuel.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:22:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789197",
+   "title": "UK diesel average prices rise above £2/litre for the first time - RAC",
+   "link": "https://www.financialjuice.com/News/9789197/UK-diesel-average-prices-rise-above-2litre-for-the-first-time---RAC.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 10:06:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789167",
+   "title": "Russia’s Deputy PM Novak: Russia may allow diesel exports if overproduction - Tass",
+   "link": "https://www.financialjuice.com/News/9789167/Russias-Deputy-PM-Novak-Russia-may-allow-diesel-exports-if-overproduction---Tass.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 09:51:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789166",
+   "title": "Russian Deputy PM Novak: Russia will be considering partially lifting diesel export restrictions",
+   "link": "https://www.financialjuice.com/News/9789166/Russian-Deputy-PM-Novak-Russia-will-be-considering-partially-lifting-diesel-export-restrictions.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 09:51:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789165",
+   "title": "Russian Deputy PM Novak: Russia repelled attacks on 4 oil refineries overnight",
+   "link": "https://www.financialjuice.com/News/9789165/Russian-Deputy-PM-Novak-Russia-repelled-attacks-on-4-oil-refineries-overnight.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 09:51:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789164",
+   "title": "Russia’s Deputy PM Novak: Damage to refineries much lower now - Tass",
+   "link": "https://www.financialjuice.com/News/9789164/Russias-Deputy-PM-Novak-Damage-to-refineries-much-lower-now---Tass.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 09:50:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789163",
+   "title": "Russia’s Deputy PM Novak: Russia did a lot of work on protecting refineries - TASS",
+   "link": "https://www.financialjuice.com/News/9789163/Russias-Deputy-PM-Novak-Russia-did-a-lot-of-work-on-protecting-refineries---TASS.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 09:50:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789162",
+   "title": "Poll: US Dollar More likely to trade stronger than expectations at year-end, according to 52 of 66 FX strategists",
+   "link": "https://www.financialjuice.com/News/9789162/Poll-US-Dollar-More-likely-to-trade-stronger-than-expectations-at-year-end-according-to-52-of-66-FX-strategists.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 09:50:01 GMT",
+   "desc": ""
+  },
   {
    "id": "9789041",
    "title": "Moody's on France: It is far from certain a compromise can be reached on the 2027 budget as the proximity of next spring's elections risks hardening political positions.",
