@@ -1,7 +1,308 @@
 {
- "updated_at": "2026-10-02T19:39:50.722830+00:00",
- "count": 11287,
+ "updated_at": "2026-10-02T23:14:18.729095+00:00",
+ "count": 11330,
  "items": [
+  {
+   "id": "9790125",
+   "title": "South Korean military heightens alert on additional launches: South Korea's defense ministry",
+   "link": "https://www.financialjuice.com/News/9790125/South-Korean-military-heightens-alert-on-additional-launches-South-Koreas-defense-ministry.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 22:43:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790124",
+   "title": "North Korea launches ballistic missile from Wonsan: South Korean military",
+   "link": "https://www.financialjuice.com/News/9790124/North-Korea-launches-ballistic-missile-from-Wonsan-South-Korean-military.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 22:42:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790123",
+   "title": "North Korea's projectile was ballistic missile: South Korean military",
+   "link": "https://www.financialjuice.com/News/9790123/North-Koreas-projectile-was-ballistic-missile-South-Korean-military.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 22:42:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790119",
+   "title": "OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation",
+   "link": "https://www.financialjuice.com/News/9790119/OpenAIs-Altman-Cerebras-is-a-close-partner-with-deep-engagement-after-partnership-speculation.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 22:23:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790118",
+   "title": "Saudi civil defense: shrapnel from intercepted ballistic missile in Ahad Rafidah governorate in Asir injures one person - state news agency",
+   "link": "https://www.financialjuice.com/News/9790118/Saudi-civil-defense-shrapnel-from-intercepted-ballistic-missile-in-Ahad-Rafidah-governorate-in-Asir-injures-one-person---state-news-agency.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 22:10:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790117",
+   "title": "IMF: board greenlit 36-month deal under the EFF for Bolivia, with access to SDR 1.369 billion, or 570% of quota, about $1.9 billion",
+   "link": "https://www.financialjuice.com/News/9790117/IMF-board-greenlit-36-month-deal-under-the-EFF-for-Bolivia-with-access-to-SDR-1369-billion-or-570-of-quota-about-19-billion.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 22:03:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790116",
+   "title": "IMF: executive board endorses 36-month extended fund facility for Bolivia",
+   "link": "https://www.financialjuice.com/News/9790116/IMF-executive-board-endorses-36-month-extended-fund-facility-for-Bolivia.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 22:02:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790104",
+   "title": "North Korean missile seems to have landed beyond Japan's EEZ: NHK",
+   "link": "https://www.financialjuice.com/News/9790104/North-Korean-missile-seems-to-have-landed-beyond-Japans-EEZ-NHK.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 22:00:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790086",
+   "title": "North Korea launches unidentified projectile into sea off east coast: South Korea military",
+   "link": "https://www.financialjuice.com/News/9790086/North-Korea-launches-unidentified-projectile-into-sea-off-east-coast-South-Korea-military.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 21:41:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790036",
+   "title": "Scope affirms US long-term ratings at aa- with stable outlook",
+   "link": "https://www.financialjuice.com/News/9790036/Scope-affirms-US-long-term-ratings-at-aa--with-stable-outlook.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 20:20:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790012",
+   "title": "Trump ends comments at the White House",
+   "link": "https://www.financialjuice.com/News/9790012/Trump-ends-comments-at-the-White-House.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 20:03:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790008",
+   "title": "Trump on Diesel: Export ban was never really on the table",
+   "link": "https://www.financialjuice.com/News/9790008/Trump-on-Diesel-Export-ban-was-never-really-on-the-table.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 20:01:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9790007",
+   "title": "Trump: We were never going to do a diesel export ban",
+   "link": "https://www.financialjuice.com/News/9790007/Trump-We-were-never-going-to-do-a-diesel-export-ban.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 20:01:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789994",
+   "title": "CME Group withdraws filing for 10-barrel oil futures.",
+   "link": "https://www.financialjuice.com/News/9789994/CME-Group-withdraws-filing-for-10-barrel-oil-futures.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 20:01:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789992",
+   "title": "trump on Diesel: Europe is making a major contribution, so are we",
+   "link": "https://www.financialjuice.com/News/9789992/trump-on-Diesel-Europe-is-making-a-major-contribution-so-are-we.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 20:00:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789991",
+   "title": "Hedge funds turn short UK pound for the first time since 2024 - CFTC.",
+   "link": "https://www.financialjuice.com/News/9789991/Hedge-funds-turn-short-UK-pound-for-the-first-time-since-2024---CFTC.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 20:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789990",
+   "title": "Trump on Diesel: Won't do export ban.",
+   "link": "https://www.financialjuice.com/News/9789990/Trump-on-Diesel-Wont-do-export-ban.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 20:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789987",
+   "title": "Trump: If South Korea doesn't do the pipeline, will charge them more.",
+   "link": "https://www.financialjuice.com/News/9789987/Trump-If-South-Korea-doesnt-do-the-pipeline-will-charge-them-more.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:59:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789986",
+   "title": "Trump on South Korea investment in the US: I didn't jump the gun on the Alaska pipeline.",
+   "link": "https://www.financialjuice.com/News/9789986/Trump-on-South-Korea-investment-in-the-US-I-didnt-jump-the-gun-on-the-Alaska-pipeline.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:59:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789985",
+   "title": "Trump: Iran is not doing well.",
+   "link": "https://www.financialjuice.com/News/9789985/Trump-Iran-is-not-doing-well.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:58:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789983",
+   "title": "Week Ahead: Rates & Geopolitics, Parallel Risks In Play - FJElite",
+   "link": "https://www.financialjuice.com/News/9789983/Week-Ahead-Rates--Geopolitics-Parallel-Risks-In-Play---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:55:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789981",
+   "title": "Nature of radicalization couldn't be determined - WSJ",
+   "link": "https://www.financialjuice.com/News/9789981/Nature-of-radicalization-couldnt-be-determined---WSJ.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:54:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789980",
+   "title": "attacker subsequently allowed to fly a sensitive route to Tel Aviv from Dubai - WSJ",
+   "link": "https://www.financialjuice.com/News/9789980/attacker-subsequently-allowed-to-fly-a-sensitive-route-to-Tel-Aviv-from-Dubai---WSJ.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:54:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789979",
+   "title": "Oman banned Flydubai attacker from flying for radical views, sources say - WSJ",
+   "link": "https://www.financialjuice.com/News/9789979/Oman-banned-Flydubai-attacker-from-flying-for-radical-views-sources-say---WSJ.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:54:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789978",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9789978/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:50:31 GMT",
+   "desc": "S&amp;P 500: +1157 mln Nasdaq 100: +394 mln Dow 30: +510 mln Mag 7: +356 mln"
+  },
+  {
+   "id": "9789964",
+   "title": "USD CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789964/USD-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:44:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789963",
+   "title": "EUR CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789963/EUR-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:44:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789962",
+   "title": "AUD CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789962/AUD-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:44:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789961",
+   "title": "JPY CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789961/JPY-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:44:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789960",
+   "title": "GBP CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789960/GBP-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:43:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789959",
+   "title": "CHF CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789959/CHF-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:43:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789958",
+   "title": "NZD CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789958/NZD-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:43:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789957",
+   "title": "CAD CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789957/CAD-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:42:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789956",
+   "title": "ZN CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789956/ZN-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:42:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789955",
+   "title": "Hedge funds turned short yen in the week ended September 29th - CFTC",
+   "link": "https://www.financialjuice.com/News/9789955/Hedge-funds-turned-short-yen-in-the-week-ended-September-29th---CFTC.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:42:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789954",
+   "title": "ZT CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789954/ZT-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:42:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789953",
+   "title": "VIX CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789953/VIX-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789952",
+   "title": "NQ CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789952/NQ-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:41:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789951",
+   "title": "ES CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789951/ES-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:41:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789950",
+   "title": "WTI CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789950/WTI-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:41:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789949",
+   "title": "Copper CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789949/Copper-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:40:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789948",
+   "title": "Gold CFTC Positions Week September 29th - FJElite",
+   "link": "https://www.financialjuice.com/News/9789948/Gold-CFTC-Positions-Week-September-29th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:40:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9789947",
+   "title": "US Army to create autonomous systems command - Axios citing memo",
+   "link": "https://www.financialjuice.com/News/9789947/US-Army-to-create-autonomous-systems-command---Axios-citing-memo.aspx?xy=rss",
+   "pubDate": "Fri, 02 Oct 2026 19:36:04 GMT",
+   "desc": ""
+  },
   {
    "id": "9789946",
    "title": "ECB's Nagel: Possible that the German economy will grow around 1% this year",
