@@ -1,7 +1,98 @@
 {
- "updated_at": "2026-10-04T23:00:54.962216+00:00",
- "count": 11433,
+ "updated_at": "2026-10-05T01:51:57.223413+00:00",
+ "count": 11446,
  "items": [
+  {
+   "id": "9791057",
+   "title": "Taiwan stocks gain over 2%",
+   "link": "https://www.financialjuice.com/News/9791057/Taiwan-stocks-gain-over-2.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 01:01:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791033",
+   "title": "Japanese Services PMI Actual 51.3 (Forecast -, Previous 51.6)",
+   "link": "https://www.financialjuice.com/News/9791033/Japanese-Services-PMI-Actual-513-Forecast---Previous-516.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:30:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791032",
+   "title": "Japanese Composite PMI Final Actual 52.3 (Forecast -, Previous 52.5)",
+   "link": "https://www.financialjuice.com/News/9791032/Japanese-Composite-PMI-Final-Actual-523-Forecast---Previous-525.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:30:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791034",
+   "title": "Japan s&p global september services pmi at 51.3 vs flash 51.6",
+   "link": "https://www.financialjuice.com/News/9791034/Japan-sp-global-september-services-pmi-at-513-vs-flash-516.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791031",
+   "title": "BoJ deputy governor Uchida: Tentatively, demand-side impact of al appears first, making financial conditions more accommodative on balance, while correction risk remains if profits do not",
+   "link": "https://www.financialjuice.com/News/9791031/BoJ-deputy-governor-Uchida-Tentatively-demand-side-impact-of-al-appears-first-making-financial-conditions-more-accommodative-on-balance-while-correction-risk-remains-if-profits-do-not.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:29:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791030",
+   "title": "BoJ deputy governor Uchida: We will keep closely monitoring economic and financial indicators to understand the consistent effects of AI adoption",
+   "link": "https://www.financialjuice.com/News/9791030/BoJ-deputy-governor-Uchida-We-will-keep-closely-monitoring-economic-and-financial-indicators-to-understand-the-consistent-effects-of-AI-adoption.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:28:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791029",
+   "title": "BOJ deputy governor Uchida: AI has driven up stock prices, easing financial conditions, while significant bond sales by AI-related firms have pushed long-term rates higher",
+   "link": "https://www.financialjuice.com/News/9791029/BOJ-deputy-governor-Uchida-AI-has-driven-up-stock-prices-easing-financial-conditions-while-significant-bond-sales-by-AI-related-firms-have-pushed-long-term-rates-higher.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:28:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791028",
+   "title": "BoJ deputy governor Uchida: AI may influence supply side, potentially boosting productivity and increasing capital stock accumulation",
+   "link": "https://www.financialjuice.com/News/9791028/BoJ-deputy-governor-Uchida-AI-may-influence-supply-side-potentially-boosting-productivity-and-increasing-capital-stock-accumulation.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:28:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791027",
+   "title": "BoJ Deputy Governor Uchida: AI a major positive demand shock putting upward pressure on economy and prices",
+   "link": "https://www.financialjuice.com/News/9791027/BoJ-Deputy-Governor-Uchida-AI-a-major-positive-demand-shock-putting-upward-pressure-on-economy-and-prices.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:28:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791026",
+   "title": "BoJ deputy governor Uchida: AI impacts key monetary policy parameters including output gap, financial conditions, and star variables",
+   "link": "https://www.financialjuice.com/News/9791026/BoJ-deputy-governor-Uchida-AI-impacts-key-monetary-policy-parameters-including-output-gap-financial-conditions-and-star-variables.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:27:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791025",
+   "title": "BOJ deputy governor uchida: AI has become a major focus among central banks, including at BOJ monetary policy meetings",
+   "link": "https://www.financialjuice.com/News/9791025/BOJ-deputy-governor-uchida-AI-has-become-a-major-focus-among-central-banks-including-at-BOJ-monetary-policy-meetings.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:27:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791024",
+   "title": "BOJ deputy governor Uchida: adoption of AI could have both positive and negative effects on productivity and labor markets",
+   "link": "https://www.financialjuice.com/News/9791024/BOJ-deputy-governor-Uchida-adoption-of-AI-could-have-both-positive-and-negative-effects-on-productivity-and-labor-markets.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:26:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791013",
+   "title": "Ireland S&P Global September services PMI at 54.1 versus 55.4 in August",
+   "link": "https://www.financialjuice.com/News/9791013/Ireland-SP-Global-September-services-PMI-at-541-versus-554-in-August.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 00:01:03 GMT",
+   "desc": ""
+  },
   {
    "id": "9790995",
    "title": "US B-1 bombers evacuated from UK base after attack threats from Iran - Axios",
