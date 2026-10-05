@@ -1,7 +1,378 @@
 {
- "updated_at": "2026-10-05T01:51:57.223413+00:00",
- "count": 11446,
+ "updated_at": "2026-10-05T07:56:22.197930+00:00",
+ "count": 11499,
  "items": [
+  {
+   "id": "9791450",
+   "title": "German Services PMI Final Actual 52.9 (Forecast 52.9, Previous 52.9)",
+   "link": "https://www.financialjuice.com/News/9791450/German-Services-PMI-Final-Actual-529-Forecast-529-Previous-529.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:55:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791449",
+   "title": "German Composite PMI Final Actual 53.8 (Forecast 53.8, Previous 53.8)",
+   "link": "https://www.financialjuice.com/News/9791449/German-Composite-PMI-Final-Actual-538-Forecast-538-Previous-538.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:55:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791448",
+   "title": "French Composite PMI Actual 51.1 (Forecast 51.2, Previous 51.2)",
+   "link": "https://www.financialjuice.com/News/9791448/French-Composite-PMI-Actual-511-Forecast-512-Previous-512.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:50:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791447",
+   "title": "French Services PMI Actual 51.2 (Forecast 51.4, Previous 51.4)",
+   "link": "https://www.financialjuice.com/News/9791447/French-Services-PMI-Actual-512-Forecast-514-Previous-514.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:50:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791432",
+   "title": "Italian Services PMI Actual 51.7 (Forecast 54.5, Previous 55.2)",
+   "link": "https://www.financialjuice.com/News/9791432/Italian-Services-PMI-Actual-517-Forecast-545-Previous-552.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791431",
+   "title": "Italian Composite PMI Actual 51 (Forecast 53.2, Previous 53.6)",
+   "link": "https://www.financialjuice.com/News/9791431/Italian-Composite-PMI-Actual-51-Forecast-532-Previous-536.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791402",
+   "title": "Spain’s PM Sanchez: election set for November 29, 2026",
+   "link": "https://www.financialjuice.com/News/9791402/Spains-PM-Sanchez-election-set-for-November-29-2026.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:09:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791401",
+   "title": "Spain's PM Sanchez: I am calling an early election",
+   "link": "https://www.financialjuice.com/News/9791401/Spains-PM-Sanchez-I-am-calling-an-early-election.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:08:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791399",
+   "title": "Currency Strength Chart: Strongest: JPY, USD, CAD, CHF, GBP, AUD, NZD, EUR - Weakest",
+   "link": "https://www.financialjuice.com/News/9791399/Currency-Strength-Chart-Strongest-JPY-USD-CAD-CHF-GBP-AUD-NZD-EUR---Weakest.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:01:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791376",
+   "title": "Turkish CPI MoM Actual 1.84% (Forecast 2.28%, Previous 1.84%)",
+   "link": "https://www.financialjuice.com/News/9791376/Turkish-CPI-MoM-Actual-184-Forecast-228-Previous-184.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:00:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791368",
+   "title": "Turkish CPI YoY Actual 29.73% (Forecast 30.26%, Previous 31.51%)",
+   "link": "https://www.financialjuice.com/News/9791368/Turkish-CPI-YoY-Actual-2973-Forecast-3026-Previous-3151.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 07:00:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791367",
+   "title": "Yemeni Government forces launch attack Houthi positions in Dhubab district overlooking Bab El-Mandeb - Two Military Sources.",
+   "link": "https://www.financialjuice.com/News/9791367/Yemeni-Government-forces-launch-attack-Houthi-positions-in-Dhubab-district-overlooking-Bab-El-Mandeb---Two-Military-Sources.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 06:55:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791296",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9791296/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:36:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791295",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9791295/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:36:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791294",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9791294/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:35:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791293",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9791293/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:35:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791292",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9791292/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:35:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791291",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9791291/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:34:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791290",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9791290/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:34:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791289",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9791289/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:34:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791288",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9791288/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:33:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791287",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9791287/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:33:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791286",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9791286/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:32:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791285",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9791285/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:32:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791284",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9791284/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:31:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791283",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9791283/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:31:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791280",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9791280/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:31:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791277",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9791277/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:30:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791263",
+   "title": "Japan's PM Takaichi: We will draw up a 5-year investment plan by year-end",
+   "link": "https://www.financialjuice.com/News/9791263/Japans-PM-Takaichi-We-will-draw-up-a-5-year-investment-plan-by-year-end.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:12:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791262",
+   "title": "Japan PM Takaichi: If economy, markets make unexpected movements, we will analyse their impact, respond nimbly as needed.",
+   "link": "https://www.financialjuice.com/News/9791262/Japan-PM-Takaichi-If-economy-markets-make-unexpected-movements-we-will-analyse-their-impact-respond-nimbly-as-needed.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:12:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791261",
+   "title": "Japan's PM Takaichi: We will seek to enhance market trust in our policies by communicating closely with the public, domestic and overseas market players",
+   "link": "https://www.financialjuice.com/News/9791261/Japans-PM-Takaichi-We-will-seek-to-enhance-market-trust-in-our-policies-by-communicating-closely-with-the-public-domestic-and-overseas-market-players.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:11:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791260",
+   "title": "Japan's PM Takaichi: We will control the annual debt issuance amount appropriately while scrutinising the economy, prices, tax revenues, interest rates, debt-servicing costs, and market developments",
+   "link": "https://www.financialjuice.com/News/9791260/Japans-PM-Takaichi-We-will-control-the-annual-debt-issuance-amount-appropriately-while-scrutinising-the-economy-prices-tax-revenues-interest-rates-debt-servicing-costs-and-market-developments.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:11:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791259",
+   "title": "Japanese Consumer Confidence Actual 35.4 (Forecast 35.3, Previous 35.5)",
+   "link": "https://www.financialjuice.com/News/9791259/Japanese-Consumer-Confidence-Actual-354-Forecast-353-Previous-355.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:09:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791258",
+   "title": "India finance minister: fertiliser costs have surged, unsustainable for any nation to continue purchasing at this rate",
+   "link": "https://www.financialjuice.com/News/9791258/India-finance-minister-fertiliser-costs-have-surged-unsustainable-for-any-nation-to-continue-purchasing-at-this-rate.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 05:04:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791245",
+   "title": "Russian air strikes hit port infrastructure in Ukraine's Odesa region, authorities say",
+   "link": "https://www.financialjuice.com/News/9791245/Russian-air-strikes-hit-port-infrastructure-in-Ukraines-Odesa-region-authorities-say.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:56:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791244",
+   "title": "India finance minister: discussions on investment pacts with multiple countries including Russia, focusing on safeguarding investments",
+   "link": "https://www.financialjuice.com/News/9791244/India-finance-minister-discussions-on-investment-pacts-with-multiple-countries-including-Russia-focusing-on-safeguarding-investments.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:55:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791243",
+   "title": "India finance minister: to finalize investment pacts with three additional countries by year-end",
+   "link": "https://www.financialjuice.com/News/9791243/India-finance-minister-to-finalize-investment-pacts-with-three-additional-countries-by-year-end.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:55:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791242",
+   "title": "India finance minister: talks with Canada on bilateral investment protection under way, cabinet expected to approve elements",
+   "link": "https://www.financialjuice.com/News/9791242/India-finance-minister-talks-with-Canada-on-bilateral-investment-protection-under-way-cabinet-expected-to-approve-elements.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:54:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791241",
+   "title": "India finance minister: to finalize bilateral investment pact with Canada by December or early next year",
+   "link": "https://www.financialjuice.com/News/9791241/India-finance-minister-to-finalize-bilateral-investment-pact-with-Canada-by-December-or-early-next-year.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:52:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791240",
+   "title": "India finance minister: new model for bilateral investment treaties to be approved soon",
+   "link": "https://www.financialjuice.com/News/9791240/India-finance-minister-new-model-for-bilateral-investment-treaties-to-be-approved-soon.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:52:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791239",
+   "title": "German Bund futures rise 0.1%; French OAT futures fall 0.22%",
+   "link": "https://www.financialjuice.com/News/9791239/German-Bund-futures-rise-01-French-OAT-futures-fall-022.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:49:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791230",
+   "title": "India finance minister: tariffs are being used as weapons despite framework",
+   "link": "https://www.financialjuice.com/News/9791230/India-finance-minister-tariffs-are-being-used-as-weapons-despite-framework.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:31:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791219",
+   "title": "India finance minister: US aiming to cut trade imbalance using methods beyond talks",
+   "link": "https://www.financialjuice.com/News/9791219/India-finance-minister-US-aiming-to-cut-trade-imbalance-using-methods-beyond-talks.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:29:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791218",
+   "title": "India finance minister: beyond this plateau, offering more in trade deal will be very difficult for India and US",
+   "link": "https://www.financialjuice.com/News/9791218/India-finance-minister-beyond-this-plateau-offering-more-in-trade-deal-will-be-very-difficult-for-India-and-US.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:26:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791217",
+   "title": "India finance minister: like to believe India and US have reached plateau in trade deal discussions",
+   "link": "https://www.financialjuice.com/News/9791217/India-finance-minister-like-to-believe-India-and-US-have-reached-plateau-in-trade-deal-discussions.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:25:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791216",
+   "title": "India finance minister: US trade deal is a tough and thoroughly negotiated agreement",
+   "link": "https://www.financialjuice.com/News/9791216/India-finance-minister-US-trade-deal-is-a-tough-and-thoroughly-negotiated-agreement.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:25:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791194",
+   "title": "Saudi Arabia S&P Global composite PMI at 55.3 in September versus 53.8 in August",
+   "link": "https://www.financialjuice.com/News/9791194/Saudi-Arabia-SP-Global-composite-PMI-at-553-in-September-versus-538-in-August.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:15:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791193",
+   "title": "United Arab Emirates S&P Global September Composite PMI steady at 55.3 versus August",
+   "link": "https://www.financialjuice.com/News/9791193/United-Arab-Emirates-SP-Global-September-Composite-PMI-steady-at-553-versus-August.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:15:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791192",
+   "title": "EU to restrict Ukraine’s access to agricultural subsidies if it joins bloc - FT",
+   "link": "https://www.financialjuice.com/News/9791192/EU-to-restrict-Ukraines-access-to-agricultural-subsidies-if-it-joins-bloc---FT.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 04:03:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791157",
+   "title": "Sterling falls 0.27% to $1.32019",
+   "link": "https://www.financialjuice.com/News/9791157/Sterling-falls-027-to-132019.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 03:06:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791156",
+   "title": "Euro declines further, down 0.7% at $1.11735",
+   "link": "https://www.financialjuice.com/News/9791156/Euro-declines-further-down-07-at-111735.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 03:05:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791131",
+   "title": "euro falls to lowest since May 2025, down 0.35% at $1.1213",
+   "link": "https://www.financialjuice.com/News/9791131/euro-falls-to-lowest-since-May-2025-down-035-at-11213.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 02:26:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791130",
+   "title": "euro slides 0.38% to $1.1211",
+   "link": "https://www.financialjuice.com/News/9791130/euro-slides-038-to-11211.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 02:24:39 GMT",
+   "desc": ""
+  },
   {
    "id": "9791057",
    "title": "Taiwan stocks gain over 2%",
