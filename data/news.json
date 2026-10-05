@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-10-05T07:56:22.197930+00:00",
- "count": 11499,
+ "updated_at": "2026-10-05T16:41:47.151423+00:00",
+ "count": 11599,
  "items": [
+  {
+   "id": "9792195",
+   "title": "Trump: Refinery Disruptions, Not Strait of Hormuz, Are Driving Gasoline Prices Higher - Truth Social",
+   "link": "https://www.financialjuice.com/News/9792195/Trump-Refinery-Disruptions-Not-Strait-of-Hormuz-Are-Driving-Gasoline-Prices-Higher---Truth-Social.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 16:33:18 GMT",
+   "desc": "Trump: Record volumes of oil are now moving through the Strait of Hormuz on an almost daily basis Trump attributes higher gasoline prices to refinery disruptions, including Ukrainian attacks on Russian refineries and refinery closures in California Trump blames Democratic-led states for US refinery closures"
+  },
+  {
+   "id": "9792182",
+   "title": "Iran's Minister of Interior arrives in Doha - IRIB News.",
+   "link": "https://www.financialjuice.com/News/9792182/Irans-Minister-of-Interior-arrives-in-Doha---IRIB-News.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 16:22:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792181",
+   "title": "US Department of Energy: Announces $4.2 billion investment to boost nuclear power and help lower energy costs in Pennsylvania and Ohio.",
+   "link": "https://www.financialjuice.com/News/9792181/US-Department-of-Energy-Announces-42-billion-investment-to-boost-nuclear-power-and-help-lower-energy-costs-in-Pennsylvania-and-Ohio.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 16:20:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792123",
+   "title": "Yemen's Armed Forces: We have taken control of Mocha.",
+   "link": "https://www.financialjuice.com/News/9792123/Yemens-Armed-Forces-We-have-taken-control-of-Mocha.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:42:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792121",
+   "title": "US CFTC Chairman Selig in WSJ: Today, the CFTC is proposing its first round of regulations for the crypto markets.",
+   "link": "https://www.financialjuice.com/News/9792121/US-CFTC-Chairman-Selig-in-WSJ-Today-the-CFTC-is-proposing-its-first-round-of-regulations-for-the-crypto-markets.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:38:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792120",
+   "title": "US 6-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9792120/US-6-Month-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:33:19 GMT",
+   "desc": "High Yield 4.165% Bid-to-cover 2.79 US sells $82 bln Awards 40.62% of bids at high"
+  },
+  {
+   "id": "9792119",
+   "title": "US 3-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9792119/US-3-Month-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:33:05 GMT",
+   "desc": "High Yield 4.050% Bid-to-cover 2.51 US sells $95 bln Awards 21.30% of bids at high"
+  },
+  {
+   "id": "9792118",
+   "title": "US 6-Month Awarded High Actual 40.620% (Forecast -, Previous 37.890%)",
+   "link": "https://www.financialjuice.com/News/9792118/US-6-Month-Awarded-High-Actual-40620-Forecast---Previous-37890.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:32:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792117",
+   "title": "US 3-Month Awarded High Actual 21.300% (Forecast -, Previous 61.140%)",
+   "link": "https://www.financialjuice.com/News/9792117/US-3-Month-Awarded-High-Actual-21300-Forecast---Previous-61140.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:32:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792115",
+   "title": "US 6-Month Bill High Yield Actual 4.165% (Forecast -, Previous 4.285%)",
+   "link": "https://www.financialjuice.com/News/9792115/US-6-Month-Bill-High-Yield-Actual-4165-Forecast---Previous-4285.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:32:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792114",
+   "title": "US 3-Month Bill Bid-to-Cover Actual 2.51 (Forecast -, Previous 2.990)",
+   "link": "https://www.financialjuice.com/News/9792114/US-3-Month-Bill-Bid-to-Cover-Actual-251-Forecast---Previous-2990.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:32:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792113",
+   "title": "US 3-Month Bill High Yield Actual 4.05% (Forecast -, Previous 4.110%)",
+   "link": "https://www.financialjuice.com/News/9792113/US-3-Month-Bill-High-Yield-Actual-405-Forecast---Previous-4110.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:32:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792112",
+   "title": "US 6-Month Bill Bid-to-Cover Actual 2.79 (Forecast -, Previous 2.640)",
+   "link": "https://www.financialjuice.com/News/9792112/US-6-Month-Bill-Bid-to-Cover-Actual-279-Forecast---Previous-2640.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:32:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792111",
+   "title": "The United States has given Israel the green light, removing operational restrictions on the Israeli Air Force over Iraqi airspace. According to sources, this authorization allows Israel to strike Iranian-backed militias in the region - Israel's Hayom News.",
+   "link": "https://www.financialjuice.com/News/9792111/The-United-States-has-given-Israel-the-green-light-removing-operational-restrictions-on-the-Israeli-Air-Force-over-Iraqi-airspace-According-to-sources-this-authorization-allows-Israel-to-strike-Iranian-backed-militias-in-the-region---Israel.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:31:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792084",
+   "title": "Fed bids for 6-month bills total $6.2 bln.",
+   "link": "https://www.financialjuice.com/News/9792084/Fed-bids-for-6-month-bills-total-62-bln.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:15:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792082",
+   "title": "Fed bids for 3-month bills total $7.2 bln.",
+   "link": "https://www.financialjuice.com/News/9792082/Fed-bids-for-3-month-bills-total-72-bln.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:15:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792081",
+   "title": "OpenAI is going to add a text watermark to EU ChatGPT users, as an approach to eu text provenance rules.",
+   "link": "https://www.financialjuice.com/News/9792081/OpenAI-is-going-to-add-a-text-watermark-to-EU-ChatGPT-users-as-an-approach-to-eu-text-provenance-rules.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:13:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792080",
+   "title": "Trump is going to unveil a plan on red-dyed diesel on Monday - Officials",
+   "link": "https://www.financialjuice.com/News/9792080/Trump-is-going-to-unveil-a-plan-on-red-dyed-diesel-on-Monday---Officials.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:06:51 GMT",
+   "desc": "Trump to ease use of tax-exempt variety of diesel"
+  },
+  {
+   "id": "9792079",
+   "title": "US VP Vance: The US pulled bombers from UK base out of caution.",
+   "link": "https://www.financialjuice.com/News/9792079/US-VP-Vance-The-US-pulled-bombers-from-UK-base-out-of-caution.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:03:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792078",
+   "title": "US VP Vance on the FlyDubai incident: We haven't seen anything conclusive yet on ties to Iran.",
+   "link": "https://www.financialjuice.com/News/9792078/US-VP-Vance-on-the-FlyDubai-incident-We-havent-seen-anything-conclusive-yet-on-ties-to-Iran.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:02:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792077",
+   "title": "US VP Vance: We're looking at procedures in the US after the FlyDubai incident.",
+   "link": "https://www.financialjuice.com/News/9792077/US-VP-Vance-Were-looking-at-procedures-in-the-US-after-the-FlyDubai-incident.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 15:02:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792058",
+   "title": "French Unions call for a nationwide day of strikes on November 5th.",
+   "link": "https://www.financialjuice.com/News/9792058/French-Unions-call-for-a-nationwide-day-of-strikes-on-November-5th.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:55:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792057",
+   "title": "Iran's General: The enemy’s next mistake will bring new fronts and surprises - Post on X.",
+   "link": "https://www.financialjuice.com/News/9792057/Irans-General-The-enemys-next-mistake-will-bring-new-fronts-and-surprises---Post-on-X.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:55:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792026",
+   "title": "UKMTO has received a time-late report of an incident within the Strait of Hormuz. A verified source has reported that an LPG tanker transiting inbound has been struck by an unknown projectile.",
+   "link": "https://www.financialjuice.com/News/9792026/UKMTO-has-received-a-time-late-report-of-an-incident-within-the-Strait-of-Hormuz-A-verified-source-has-reported-that-an-LPG-tanker-transiting-inbound-has-been-struck-by-an-unknown-projectile.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:28:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792025",
+   "title": "Iraq seeks more oil tankers in an effort to control Hormuz transit.",
+   "link": "https://www.financialjuice.com/News/9792025/Iraq-seeks-more-oil-tankers-in-an-effort-to-control-Hormuz-transit.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:21:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792024",
+   "title": "Crypto Fear and Greed Index: 70/100 = Greed",
+   "link": "https://www.financialjuice.com/News/9792024/Crypto-Fear-and-Greed-Index-70100--Greed.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:18:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792023",
+   "title": "Fear and Greed Index: 43/100 = Fear",
+   "link": "https://www.financialjuice.com/News/9792023/Fear-and-Greed-Index-43100--Fear.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:17:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792010",
+   "title": "US Fincen announces withdrawals of proposed digital asset-related rules - Statement.",
+   "link": "https://www.financialjuice.com/News/9792010/US-Fincen-announces-withdrawals-of-proposed-digital-asset-related-rules---Statement.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:11:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792009",
+   "title": "Iran Interior Minister heads to doha for talks - ISNA.",
+   "link": "https://www.financialjuice.com/News/9792009/Iran-Interior-Minister-heads-to-doha-for-talks---ISNA.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:09:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792008",
+   "title": "Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 767,000 barrels to 283 mln barrels last week, the lowest since 1982.",
+   "link": "https://www.financialjuice.com/News/9792008/Stocks-of-Crude-oil-in-the-US-Strategic-Petroleum-Reserve-fell-by-about-767000-barrels-to-283-mln-barrels-last-week-the-lowest-since-1982.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:05:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9792006",
+   "title": "Trump's Top National Security Officials Hold Secret Camp David Meeting on Iran and Yemen – Axios",
+   "link": "https://www.financialjuice.com/News/9792006/Trumps-Top-National-Security-Officials-Hold-Secret-Camp-David-Meeting-on-Iran-and-Yemen--Axios.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:02:43 GMT",
+   "desc": "Trump&#39;s top cabinet officials met for hours at Camp David on Friday to discuss next steps in the Iran war and Saudi-Houthi conflict in Yemen The meeting was not publicly announced by the Trump administration Axios: The last similar meeting took place in June 2025, days before Israel went to war with Iran"
+  },
+  {
+   "id": "9791975",
+   "title": "US ISM Services PMI Actual 54.9 (Forecast 55, Previous 55.4)",
+   "link": "https://www.financialjuice.com/News/9791975/US-ISM-Services-PMI-Actual-549-Forecast-55-Previous-554.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791974",
+   "title": "US ISM Services Employment Actual 50.1 (Forecast 48.8, Previous 47.8)",
+   "link": "https://www.financialjuice.com/News/9791974/US-ISM-Services-Employment-Actual-501-Forecast-488-Previous-478.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791973",
+   "title": "US ISM Services Prices Paid Actual 74 (Forecast 73.3, Previous 72.6)",
+   "link": "https://www.financialjuice.com/News/9791973/US-ISM-Services-Prices-Paid-Actual-74-Forecast-733-Previous-726.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791972",
+   "title": "US ISM Services New Orders Actual 59.8 (Forecast 60.3, Previous 60.9)",
+   "link": "https://www.financialjuice.com/News/9791972/US-ISM-Services-New-Orders-Actual-598-Forecast-603-Previous-609.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791970",
+   "title": "Activity surges higher as new order growth hits a four-and-a-half-year high; the rate of job creation is the strongest since June 2022\nInput cost inflation reaccelerates - S&P Services PMI Report",
+   "link": "https://www.financialjuice.com/News/9791970/Activity-surges-higher-as-new-order-growth-hits-a-four-and-a-half-year-high-the-rate-of-job-creation-is-the-strongest-since-June-2022Input-cost-inflation-reaccelerates---SP-Services-PMI-Report-.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 13:47:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791947",
+   "title": "US S&P Services PMI Final Actual 58.8 (Forecast 58.7, Previous 58.7)",
+   "link": "https://www.financialjuice.com/News/9791947/US-SP-Services-PMI-Final-Actual-588-Forecast-587-Previous-587.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 13:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791946",
+   "title": "US S&P Composite PMI Final Actual 58.4 (Forecast 58.3, Previous 58.4)",
+   "link": "https://www.financialjuice.com/News/9791946/US-SP-Composite-PMI-Final-Actual-584-Forecast-583-Previous-584.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 13:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791930",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9791930/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: -40 mln Nasdaq 100: +16 mln Dow 30: -14 mln Mag 7: -2 mln"
+  },
+  {
+   "id": "9791928",
+   "title": "Yemeni sources report an attack on an oil refinery in Jeddah - Tasnim News.",
+   "link": "https://www.financialjuice.com/News/9791928/Yemeni-sources-report-an-attack-on-an-oil-refinery-in-Jeddah---Tasnim-News.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 13:29:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791927",
+   "title": "KPC CEO: There is not enough refining capacity in the world to make up for shuttered capacity in the Middle East Gulf; will work with partners around the world to expand Kuwait's tanker fleet, whether on ownership or leasing options on crude and product tankers.",
+   "link": "https://www.financialjuice.com/News/9791927/KPC-CEO-There-is-not-enough-refining-capacity-in-the-world-to-make-up-for-shuttered-capacity-in-the-Middle-East-Gulf-will-work-with-partners-around-the-world-to-expand-Kuwaits-tanker-fleet-whether-on-ownership-or-leasing-options-on-crude-an.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 13:27:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791926",
+   "title": "KPC CEO: On expanding Kuwait tanker fleet, we will work with partners around world to do that. whether on ownership or leasing options on crude, product tankers.",
+   "link": "https://www.financialjuice.com/News/9791926/KPC-CEO-On-expanding-Kuwait-tanker-fleet-we-will-work-with-partners-around-world-to-do-that-whether-on-ownership-or-leasing-options-on-crude-product-tankers.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 13:27:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791896",
+   "title": "Effective Fed Funds Rate 3.88% October 2 vs 3.88% October 1.",
+   "link": "https://www.financialjuice.com/News/9791896/Effective-Fed-Funds-Rate-388-October-2-vs-388-October-1.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:59:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791895",
+   "title": "KPC CEO: We are looking at increasing domestic storage and at our three overseas refineries.",
+   "link": "https://www.financialjuice.com/News/9791895/KPC-CEO-We-are-looking-at-increasing-domestic-storage-and-at-our-three-overseas-refineries.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:58:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791894",
+   "title": "KPC CEO: We need to focus on getting refined products out of MidEast Gulf to de-bottleneck refineries in the region.",
+   "link": "https://www.financialjuice.com/News/9791894/KPC-CEO-We-need-to-focus-on-getting-refined-products-out-of-MidEast-Gulf-to-de-bottleneck-refineries-in-the-region.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:56:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791893",
+   "title": "US Agriculture Sec. Rollins: We're looking at how to bring  the cost of diesel down.",
+   "link": "https://www.financialjuice.com/News/9791893/US-Agriculture-Sec-Rollins-Were-looking-at-how-to-bring--the-cost-of-diesel-down.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:52:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791891",
+   "title": "CEO of Kuwait's KPC: We now produce around 2 mln bpd, down from 2.6 mln bpd before war started.",
+   "link": "https://www.financialjuice.com/News/9791891/CEO-of-Kuwaits-KPC-We-now-produce-around-2-mln-bpd-down-from-26-mln-bpd-before-war-started.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:49:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791890",
+   "title": "Houthi-Run Body: Saudi airspace will not be safe as long as Saudi ‘aggression continues - Houthi-Affiliated Media.",
+   "link": "https://www.financialjuice.com/News/9791890/Houthi-Run-Body-Saudi-airspace-will-not-be-safe-as-long-as-Saudi-aggression-continues---Houthi-Affiliated-Media.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:48:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791889",
+   "title": "Ukraine’s President Zelenskiy: Russian drones attack Turkish-owned civilian vessel in neutral waters of black sea.",
+   "link": "https://www.financialjuice.com/News/9791889/Ukraines-President-Zelenskiy-Russian-drones-attack-Turkish-owned-civilian-vessel-in-neutral-waters-of-black-sea.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:47:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791888",
+   "title": "Houthi-run body issues warning for airlines flying in Saudi airspace - Houthi-affiliated media.",
+   "link": "https://www.financialjuice.com/News/9791888/Houthi-run-body-issues-warning-for-airlines-flying-in-Saudi-airspace---Houthi-affiliated-media.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:47:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791881",
+   "title": "US Secretary of State Rubio on UK base incident: British couldn't be more cooperative.",
+   "link": "https://www.financialjuice.com/News/9791881/US-Secretary-of-State-Rubio-on-UK-base-incident-British-couldnt-be-more-cooperative.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:43:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791880",
+   "title": "US Secretary of State Rubio on UK base incident: still have confidence in security of all of our bases.",
+   "link": "https://www.financialjuice.com/News/9791880/US-Secretary-of-State-Rubio-on-UK-base-incident-still-have-confidence-in-security-of-all-of-our-bases.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:43:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791879",
+   "title": "US Secretary of State Rubio, on bombers' reallocation: It's not unusual",
+   "link": "https://www.financialjuice.com/News/9791879/US-Secretary-of-State-Rubio-on-bombers-reallocation-Its-not-unusual.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:42:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791878",
+   "title": "EU commission should open more trade investigations and adopt a broader sector wide approach - Franco-German Joint Document",
+   "link": "https://www.financialjuice.com/News/9791878/EU-commission-should-open-more-trade-investigations-and-adopt-a-broader-sector-wide-approach---Franco-German-Joint-Document.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:39:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791877",
+   "title": "New EU instrument would not single out any specific country - Joint Franco-German paper",
+   "link": "https://www.financialjuice.com/News/9791877/New-EU-instrument-would-not-single-out-any-specific-country---Joint-Franco-German-paper.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:39:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791876",
+   "title": "New EU instrument should be activated by a commission proposal that adopted unless qualified majority of EU members opposes - Franco-German Joint Document",
+   "link": "https://www.financialjuice.com/News/9791876/New-EU-instrument-should-be-activated-by-a-commission-proposal-that-adopted-unless-qualified-majority-of-EU-members-opposes---Franco-German-Joint-Document.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:38:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791875",
+   "title": "EU Commission should propose new diversification tool to prevent eu over-reliance on single countries for critical supplies - Joint Franco-German Paper",
+   "link": "https://www.financialjuice.com/News/9791875/EU-Commission-should-propose-new-diversification-tool-to-prevent-eu-over-reliance-on-single-countries-for-critical-supplies---Joint-Franco-German-Paper.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:38:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791874",
+   "title": "EU needs new trade instrument to react to severe and systemic distortions created by third countries - Franco-German Joint Document",
+   "link": "https://www.financialjuice.com/News/9791874/EU-needs-new-trade-instrument-to-react-to-severe-and-systemic-distortions-created-by-third-countries---Franco-German-Joint-Document.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:38:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791873",
+   "title": "EU needs new trade tools to allow decisive reaction to unfair practices from third countries - Franco-German Joint Document",
+   "link": "https://www.financialjuice.com/News/9791873/EU-needs-new-trade-tools-to-allow-decisive-reaction-to-unfair-practices-from-third-countries---Franco-German-Joint-Document.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:38:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791843",
+   "title": "Deutsche Bank: September Jobs Data Still Points to a Stable Labour Market - FJElite",
+   "link": "https://www.financialjuice.com/News/9791843/Deutsche-Bank-September-Jobs-Data-Still-Points-to-a-Stable-Labour-Market---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:30:23 GMT",
+   "desc": "September payrolls disappointed, with headline employment rising 29K and private payrolls 46K, alongside 60K of downward revisions to the previous two months. Average hourly earnings also slowed to 0.1% month-on-month, although labour-income growth remained relatively firm at an annualised 4.2%, still supportive of consumer spending. The household survey was more encouraging. The unemployment rate edged only slightly higher to 4.175%, while the U-6 rate fell to 7.6%, employment rose by 406K and labour-force participation climbed to 61.8%, its highest since May. Prime-age participation and employment rates also continued to recover. Overall, the labour market still looks broadly stable, with low firing, resilient hiring indicators and some signs of tightening in parts of the economy, leaving the Fed more focused on inflation. The base case remains for two further 25bp hikes over the next couple of quarters."
+  },
+  {
+   "id": "9791841",
+   "title": "CACIB: Less urgency to hike after September jobs report, though underlying details not as bad - FJElite",
+   "link": "https://www.financialjuice.com/News/9791841/CACIB-Less-urgency-to-hike-after-September-jobs-report-though-underlying-details-not-as-bad---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:28:39 GMT",
+   "desc": "September’s jobs report was weaker than expected on the headline measures, with nonfarm payrolls rising just 29K versus 90K expected, alongside 60K of downward revisions to the previous two months. Even so, the three-month average remained at 51K, which may still be around or slightly above breakeven given lower immigration. The unemployment rate edged up to 4.2%, but the increase largely reflected stronger participation, while household employment rose by more than 400K. Average hourly earnings increased just 0.1% month-on-month, slowing annual growth to 3.0% and reinforcing the view that the labour market is not a major source of inflation pressure. The softer report may reduce the urgency for an October Fed hike, but it does not materially change the broader assessment of a labour market with low hiring and low firing. Inflation data are expected to remain more important for near-term Fed policy, with the base case still for a hold in October followed by another hike in December."
+  },
+  {
+   "id": "9791840",
+   "title": "Credit Agricole: High Energy Prices Persist, but Global Growth Remains Surprisingly Resilient - FJElite",
+   "link": "https://www.financialjuice.com/News/9791840/Credit-Agricole-High-Energy-Prices-Persist-but-Global-Growth-Remains-Surprisingly-Resilient---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:27:04 GMT",
+   "desc": "Geopolitical tensions continue to drive the outlook through energy markets. Oil supply losses from the Persian Gulf have proved harder to offset than the Russian disruption in 2022, keeping the forecast for Brent relatively elevated at around $95 a barrel through late 2026 and 2027. Europe also faces renewed natural gas risks, with inventories unusually low, Qatari LNG still absent and Asian demand expected to keep the market tight into 2027. Despite high energy costs, persistent inflation and tighter monetary conditions, growth remains relatively resilient. US GDP is forecast at 2.1% in 2026 and 2.0% in 2027, supported by strong AI investment, a still-solid labour market, supportive fiscal policy and household wealth. US inflation is expected to average 3.4% in 2026 before slowing to 2.3% in 2027. Emerging economies are also holding up well, helped by domestic demand and exports tied to metals, hydrocarbons and AI. China is expected to grow around 4.5% in both 2026 and 2027, although weak domestic demand and inflation of only around 1% suggest deflationary pressures remain."
+  },
+  {
+   "id": "9791839",
+   "title": "US Sentiment: Euro-area Politics & Geopolitical Risks Subduing Risk Sentiment - FJElite",
+   "link": "https://www.financialjuice.com/News/9791839/US-Sentiment-Euro-area-Politics--Geopolitical-Risks-Subduing-Risk-Sentiment---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:23:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791838",
+   "title": "Kuwait is pumping oil at about 75% of prewar rate - KPC CEO.",
+   "link": "https://www.financialjuice.com/News/9791838/Kuwait-is-pumping-oil-at-about-75-of-prewar-rate---KPC-CEO.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 12:20:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791814",
+   "title": "Secured overnight financing rate: 3.88% October 2nd vs 3.87% October 1st",
+   "link": "https://www.financialjuice.com/News/9791814/Secured-overnight-financing-rate-388-October-2nd-vs-387-October-1st.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 11:59:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791774",
+   "title": "German labor union demands 6% pay raise from private banks",
+   "link": "https://www.financialjuice.com/News/9791774/German-labor-union-demands-6-pay-raise-from-private-banks.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 11:22:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791766",
+   "title": "UK's PM Spokesman Wells: Lutnick attending UK roundtable in Downing Street Monday.",
+   "link": "https://www.financialjuice.com/News/9791766/UKs-PM-Spokesman-Wells-Lutnick-attending-UK-roundtable-in-Downing-Street-Monday.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 11:15:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791765",
+   "title": "US Commerce Secretary Lutnick to meet UK government business advisor and CEOs",
+   "link": "https://www.financialjuice.com/News/9791765/US-Commerce-Secretary-Lutnick-to-meet-UK-government-business-advisor-and-CEOs.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 11:14:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791763",
+   "title": "US ambassador to China: Trump is as strong on Taiwan as ever seen",
+   "link": "https://www.financialjuice.com/News/9791763/US-ambassador-to-China-Trump-is-as-strong-on-Taiwan-as-ever-seen.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 11:02:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791740",
+   "title": "Altman expects calls for guardrails will continue -Politico",
+   "link": "https://www.financialjuice.com/News/9791740/Altman-expects-calls-for-guardrails-will-continue--Politico.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 10:59:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791695",
+   "title": "UKMTO: Tanker transiting through the strait was hailed by IRGC and instructed to turn back, or it would be targeted",
+   "link": "https://www.financialjuice.com/News/9791695/UKMTO-Tanker-transiting-through-the-strait-was-hailed-by-IRGC-and-instructed-to-turn-back-or-it-would-be-targeted.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 10:27:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791693",
+   "title": "UKMTO: Received report of incident 11nm north of Oman's Khasab",
+   "link": "https://www.financialjuice.com/News/9791693/UKMTO-Received-report-of-incident-11nm-north-of-Omans-Khasab.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 10:27:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791692",
+   "title": "EU Commission spokesperson: We are heading towards a very difficult winter in terms of energy prices",
+   "link": "https://www.financialjuice.com/News/9791692/EU-Commission-spokesperson-We-are-heading-towards-a-very-difficult-winter-in-terms-of-energy-prices.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 10:26:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791691",
+   "title": "EU Commission spokesperson: decision to release stocks will impact oil prices for member states positively",
+   "link": "https://www.financialjuice.com/News/9791691/EU-Commission-spokesperson-decision-to-release-stocks-will-impact-oil-prices-for-member-states-positively.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 10:26:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791669",
+   "title": "Yemen's armed forces: Began 'strategic offensive’ in Sanaa",
+   "link": "https://www.financialjuice.com/News/9791669/Yemens-armed-forces-Began-strategic-offensive-in-Sanaa.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 10:03:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791639",
+   "title": "Yemeni government forces launch attacks on Houthis from three fronts in the north, west, and south of Yemen - Military sources",
+   "link": "https://www.financialjuice.com/News/9791639/Yemeni-government-forces-launch-attacks-on-Houthis-from-three-fronts-in-the-north-west-and-south-of-Yemen---Military-sources.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:57:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791638",
+   "title": "Afghan taliban foreign minister: Believe existing problems between Afghanistan and Pakistan can be resolved through dialogue and diplomacy",
+   "link": "https://www.financialjuice.com/News/9791638/Afghan-taliban-foreign-minister-Believe-existing-problems-between-Afghanistan-and-Pakistan-can-be-resolved-through-dialogue-and-diplomacy.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:46:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791637",
+   "title": "Afghan taliban foreign minister: Afghanistan considers self-defense against any aggression to be its legitimate and undeniable right",
+   "link": "https://www.financialjuice.com/News/9791637/Afghan-taliban-foreign-minister-Afghanistan-considers-self-defense-against-any-aggression-to-be-its-legitimate-and-undeniable-right.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:46:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791626",
+   "title": "Qatar LNG is still an attractive investment - ConocoPhillips",
+   "link": "https://www.financialjuice.com/News/9791626/Qatar-LNG-is-still-an-attractive-investment---ConocoPhillips.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:32:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791612",
+   "title": "Conoco sees US oil output above 14M b/d in 2027 if prices hold",
+   "link": "https://www.financialjuice.com/News/9791612/Conoco-sees-US-oil-output-above-14M-bd-in-2027-if-prices-hold.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:30:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791611",
+   "title": "Kremlin on Zelenskiy saying that Ukraine will hit Russian oil refineries: Ukraine will pay the price",
+   "link": "https://www.financialjuice.com/News/9791611/Kremlin-on-Zelenskiy-saying-that-Ukraine-will-hit-Russian-oil-refineries-Ukraine-will-pay-the-price.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:30:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791596",
+   "title": "Saudi-led coalition: Attacked 324 'high-value targets' as part of the operation in Yemen",
+   "link": "https://www.financialjuice.com/News/9791596/Saudi-led-coalition-Attacked-324-high-value-targets-as-part-of-the-operation-in-Yemen.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:08:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791595",
+   "title": "Saudi-led coalition: 100 fighter jets took part in an operation in Yemen - Statement",
+   "link": "https://www.financialjuice.com/News/9791595/Saudi-led-coalition-100-fighter-jets-took-part-in-an-operation-in-Yemen---Statement.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:08:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791594",
+   "title": "Aramco CEO: Less than 10% of the world's oil inventory is actually available",
+   "link": "https://www.financialjuice.com/News/9791594/Aramco-CEO-Less-than-10-of-the-worlds-oil-inventory-is-actually-available.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:08:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791566",
+   "title": "Eurozone PPI MoM Actual 1.9% (Forecast 1.9%, Previous 1.6%)",
+   "link": "https://www.financialjuice.com/News/9791566/Eurozone-PPI-MoM-Actual-19-Forecast-19-Previous-16.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791565",
+   "title": "Eurozone PPI YoY Actual 8.2% (Forecast 7.9%, Previous 5.8%)",
+   "link": "https://www.financialjuice.com/News/9791565/Eurozone-PPI-YoY-Actual-82-Forecast-79-Previous-58.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 09:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791564",
+   "title": "MUFG: The EUR - FJElite",
+   "link": "https://www.financialjuice.com/News/9791564/MUFG-The-EUR---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:57:42 GMT",
+   "desc": "The euro has come under further pressure as the sharp sell-off in French government bonds raises concerns about broader financial instability and renewed fragmentation risks across the Eurozone. The deterioration has begun to spread beyond France, with Italian government bonds also coming under pressure, raising concerns that widening spreads could interfere with the transmission of ECB monetary policy. The resulting tightening in financial conditions has already led markets to scale back expectations for further ECB rate hikes, while lower German short-term yields reflect the growing belief that financial conditions may do some of the ECB’s tightening for it. This creates a difficult policy dilemma for the ECB. Markets are increasingly considering whether the central bank may need to slow quantitative tightening or eventually use its Transmission Protection Instrument to contain disorderly bond-market moves. However, activating the TPI could create political and market concerns over the ECB effectively supporting government financing, meaning any intervention would likely require temporary purchases alongside credible fiscal adjustment. The current market pricing is broadly consistent with expectations for two further hikes, although renewed fragmentation could make even that path difficult to achieve. France’s latest budget plans have so far failed to restore confidence, with the government targeting a reduction in the deficit through significant fiscal tightening. Political uncertainty remains a major obstacle, however, given the government’s lack of a parliamentary majority, doubts over whether the measures will pass and the proximity of next year’s presidential election. With limited near-term solutions to the fiscal and bond-market pressures, the risks remain tilted toward further euro weakness as investors continue to monitor French debt, contagion across the region and the ECB’s response."
+  },
+  {
+   "id": "9791563",
+   "title": "Saudi east-west oil pipeline is flowing as normal - People say",
+   "link": "https://www.financialjuice.com/News/9791563/Saudi-east-west-oil-pipeline-is-flowing-as-normal---People-say.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:49:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791562",
+   "title": "Goldman Sachs: France - FJElite",
+   "link": "https://www.financialjuice.com/News/9791562/Goldman-Sachs-France---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:48:45 GMT",
+   "desc": "France’s sharply higher borrowing costs and weaker equity market have tightened financial conditions significantly, creating a meaningful headwind for the economy. While the impact of tighter financial conditions is likely to be less severe than elsewhere in Europe because French households and companies have relatively long debt maturities, the renewed rise in political and policy uncertainty adds another drag. At the same time, higher interest payments mean that fiscal policy is likely to remain contractionary next year despite the budget deficit staying above 5% of GDP. As a result, the outlook is for very weak French growth, with activity expected to remain below trend until after the elections. Growth forecasts have been lowered for 2027, reflecting the combined effects of tighter financial conditions, political uncertainty and fiscal restraint. Incoming financial-market developments and the Q3 GDP release will be important in determining whether the slowdown becomes more pronounced. However, there are several reasons to expect a slowdown rather than a deep recession. Stronger growth elsewhere in the Eurozone should provide support through external demand, while France lacks the large external imbalances that contributed to severe downturns during the European debt crisis. There is also limited risk of a destabilising sovereign-bank feedback loop because French banks have relatively limited exposure to domestic government debt."
+  },
+  {
+   "id": "9791541",
+   "title": "Aramco CEO: Oil demand picking up, inventories need refilling",
+   "link": "https://www.financialjuice.com/News/9791541/Aramco-CEO-Oil-demand-picking-up-inventories-need-refilling.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:40:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791519",
+   "title": "UK Services PMI Final Actual 52.1 (Forecast 51.7, Previous 51.7)",
+   "link": "https://www.financialjuice.com/News/9791519/UK-Services-PMI-Final-Actual-521-Forecast-517-Previous-517.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:30:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791520",
+   "title": "UK Composite PMI Final Actual 52 (Forecast 51.7, Previous 51.7)",
+   "link": "https://www.financialjuice.com/News/9791520/UK-Composite-PMI-Final-Actual-52-Forecast-517-Previous-517.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791518",
+   "title": "Eurozone Sentix Investor Confidence Index Actual 2.7 (Forecast 4.5, Previous 5.1)",
+   "link": "https://www.financialjuice.com/News/9791518/Eurozone-Sentix-Investor-Confidence-Index-Actual-27-Forecast-45-Previous-51.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791517",
+   "title": "Aramco CEO: max oil-output capacity of 12M b/d is available in days",
+   "link": "https://www.financialjuice.com/News/9791517/Aramco-CEO-max-oil-output-capacity-of-12M-bd-is-available-in-days.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:29:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791516",
+   "title": "Aramco CEO: Upstream facilities are currently \"intact\"",
+   "link": "https://www.financialjuice.com/News/9791516/Aramco-CEO-Upstream-facilities-are-currently-intact.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:28:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791515",
+   "title": "Europe Sentiment: Oil Drops As Yemen Fights for Control of Yemen - FJElite",
+   "link": "https://www.financialjuice.com/News/9791515/Europe-Sentiment-Oil-Drops-As-Yemen-Fights-for-Control-of-Yemen---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:18:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791514",
+   "title": "Aramco CEO: Global community must help free flow of goods",
+   "link": "https://www.financialjuice.com/News/9791514/Aramco-CEO-Global-community-must-help-free-flow-of-goods.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:17:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791485",
+   "title": "Aramco studies alternate oil export routes and more global storage",
+   "link": "https://www.financialjuice.com/News/9791485/Aramco-studies-alternate-oil-export-routes-and-more-global-storage.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:14:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791484",
+   "title": "Aramco CEO sees central role for mideast oil & gas for decades",
+   "link": "https://www.financialjuice.com/News/9791484/Aramco-CEO-sees-central-role-for-mideast-oil--gas-for-decades.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:14:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9791483",
+   "title": "Germany's Foreign Intelligence Chief: There could be low-level military activities by Russia against the Baltics, but we don't expect a large-scale attack on NATO territory",
+   "link": "https://www.financialjuice.com/News/9791483/Germanys-Foreign-Intelligence-Chief-There-could-be-low-level-military-activities-by-Russia-against-the-Baltics-but-we-dont-expect-a-large-scale-attack-on-NATO-territory.aspx?xy=rss",
+   "pubDate": "Mon, 05 Oct 2026 08:13:43 GMT",
+   "desc": ""
+  },
   {
    "id": "9791450",
    "title": "German Services PMI Final Actual 52.9 (Forecast 52.9, Previous 52.9)",
