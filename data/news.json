@@ -1,7 +1,476 @@
 {
- "updated_at": "2026-10-06T16:04:22.037596+00:00",
- "count": 11871,
+ "updated_at": "2026-10-06T20:55:00.911435+00:00",
+ "count": 11938,
  "items": [
+  {
+   "id": "9794302",
+   "title": "US API Gasoline Stock Change Actual -1.4M (Forecast -, Previous 2.991M)",
+   "link": "https://www.financialjuice.com/News/9794302/US-API-Gasoline-Stock-Change-Actual--14M-Forecast---Previous-2991M.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:50:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794301",
+   "title": "US API Distillate Stock Change Actual 0.461M (Forecast -, Previous -0.286M)",
+   "link": "https://www.financialjuice.com/News/9794301/US-API-Distillate-Stock-Change-Actual-0461M-Forecast---Previous--0286M.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:50:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794300",
+   "title": "US API Cushing Stock Change Actual 0.866M (Forecast -, Previous 0.233M)",
+   "link": "https://www.financialjuice.com/News/9794300/US-API-Cushing-Stock-Change-Actual-0866M-Forecast---Previous-0233M.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:50:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794299",
+   "title": "US API Crude Oil Stock Change Actual -2.1M (Forecast -, Previous 1.019M)",
+   "link": "https://www.financialjuice.com/News/9794299/US-API-Crude-Oil-Stock-Change-Actual--21M-Forecast---Previous-1019M.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:50:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794270",
+   "title": "US Treasury Secretary Bessent: Iran has not loaded a single barrel of crude onto a vessel since August 25th.",
+   "link": "https://www.financialjuice.com/News/9794270/US-Treasury-Secretary-Bessent-Iran-has-not-loaded-a-single-barrel-of-crude-onto-a-vessel-since-August-25th.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:42:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794269",
+   "title": "Trump ends remarks in Baltimore",
+   "link": "https://www.financialjuice.com/News/9794269/Trump-ends-remarks-in-Baltimore.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:35:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794264",
+   "title": "Trump on Iran: Biggest problem is that nobody knows who is running the country",
+   "link": "https://www.financialjuice.com/News/9794264/Trump-on-Iran-Biggest-problem-is-that-nobody-knows-who-is-running-the-country.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:24:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794263",
+   "title": "Trump: Iran's drone-making capacity will soon be gone",
+   "link": "https://www.financialjuice.com/News/9794263/Trump-Irans-drone-making-capacity-will-soon-be-gone.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:24:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794262",
+   "title": "Trump on Iran: We still have to finish it off",
+   "link": "https://www.financialjuice.com/News/9794262/Trump-on-Iran-We-still-have-to-finish-it-off.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:22:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794260",
+   "title": "Trump: Russia-Ukraine war getting closer to ending",
+   "link": "https://www.financialjuice.com/News/9794260/Trump-Russia-Ukraine-war-getting-closer-to-ending.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:20:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794245",
+   "title": "Finance Minister: Prepared to exercise special constitutional powers to pass cuts - WSJ",
+   "link": "https://www.financialjuice.com/News/9794245/Finance-Minister-Prepared-to-exercise-special-constitutional-powers-to-pass-cuts---WSJ.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:11:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794244",
+   "title": "French Finance Minister: Will circumvent parliament if budget negotiations stall - WSJ",
+   "link": "https://www.financialjuice.com/News/9794244/French-Finance-Minister-Will-circumvent-parliament-if-budget-negotiations-stall---WSJ.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:11:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794243",
+   "title": "France's Finance Minister: Government ready to circumvent parliament to pass spending cuts - WSJ",
+   "link": "https://www.financialjuice.com/News/9794243/Frances-Finance-Minister-Government-ready-to-circumvent-parliament-to-pass-spending-cuts---WSJ.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:10:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794241",
+   "title": "Towa plans chipmaking tool plant for Japanese supply chain - Nikkei",
+   "link": "https://www.financialjuice.com/News/9794241/Towa-plans-chipmaking-tool-plant-for-Japanese-supply-chain---Nikkei.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:05:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794240",
+   "title": "Trump: Pretty soon you'll find out how we finish up Iran",
+   "link": "https://www.financialjuice.com/News/9794240/Trump-Pretty-soon-youll-find-out-how-we-finish-up-Iran.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:04:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794239",
+   "title": "Trump on Iran: We have to finish up; the question is how.",
+   "link": "https://www.financialjuice.com/News/9794239/Trump-on-Iran-We-have-to-finish-up-the-question-is-how.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:04:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794238",
+   "title": "S&P 500 registers a record closing high for the first time since August 13th",
+   "link": "https://www.financialjuice.com/News/9794238/SP-500-registers-a-record-closing-high-for-the-first-time-since-August-13th.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:02:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794234",
+   "title": "Australia's housing downturn has wiped over $5 bln off the market - BE",
+   "link": "https://www.financialjuice.com/News/9794234/Australias-housing-downturn-has-wiped-over-5-bln-off-the-market---BE.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:02:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794221",
+   "title": "RBA warns AI stock correction could hit household spending",
+   "link": "https://www.financialjuice.com/News/9794221/RBA-warns-AI-stock-correction-could-hit-household-spending.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:00:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794220",
+   "title": "RBA warns AI, other shares correcting could cut spending 2.4%",
+   "link": "https://www.financialjuice.com/News/9794220/RBA-warns-AI-other-shares-correcting-could-cut-spending-24.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:00:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794218",
+   "title": "RBA documents show NAIRU at 4.6%, matching the current jobless rate",
+   "link": "https://www.financialjuice.com/News/9794218/RBA-documents-show-NAIRU-at-46-matching-the-current-jobless-rate.aspx",
+   "pubDate": "Tue, 06 Oct 2026 20:00:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794216",
+   "title": "Flames and smoke seen at Venezuela's Cardon refinery - Four Sources",
+   "link": "https://www.financialjuice.com/News/9794216/Flames-and-smoke-seen-at-Venezuelas-Cardon-refinery---Four-Sources-.aspx",
+   "pubDate": "Tue, 06 Oct 2026 19:58:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794214",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9794214/MOC-Imbalance.aspx",
+   "pubDate": "Tue, 06 Oct 2026 19:50:30 GMT",
+   "desc": "S&amp;P 500: -1497 mln Nasdaq 100: -859 mln Dow 30: -765 mln Mag 7: -660 mln"
+  },
+  {
+   "id": "9794186",
+   "title": "Local sources reported hearing the sound of an explosion in the province of Sulaymaniyah in northern Iraq - ISNA",
+   "link": "https://www.financialjuice.com/News/9794186/Local-sources-reported-hearing-the-sound-of-an-explosion-in-the-province-of-Sulaymaniyah-in-northern-Iraq---ISNA.aspx",
+   "pubDate": "Tue, 06 Oct 2026 19:23:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794185",
+   "title": "Trump: told the federal gas tax needs suspending. Thinking about it",
+   "link": "https://www.financialjuice.com/News/9794185/Trump-told-the-federal-gas-tax-needs-suspending-Thinking-about-it.aspx",
+   "pubDate": "Tue, 06 Oct 2026 19:18:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794176",
+   "title": "Trump: You can make case that strong dollar slows things down.",
+   "link": "https://www.financialjuice.com/News/9794176/Trump-You-can-make-case-that-strong-dollar-slows-things-down.aspx",
+   "pubDate": "Tue, 06 Oct 2026 19:13:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794174",
+   "title": "Trump: Strong dollar gives you no inflation.",
+   "link": "https://www.financialjuice.com/News/9794174/Trump-Strong-dollar-gives-you-no-inflation.aspx",
+   "pubDate": "Tue, 06 Oct 2026 19:12:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794172",
+   "title": "Trump: We have a very strong dollar, a strong dollar is good",
+   "link": "https://www.financialjuice.com/News/9794172/Trump-We-have-a-very-strong-dollar-a-strong-dollar-is-good.aspx",
+   "pubDate": "Tue, 06 Oct 2026 19:12:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794171",
+   "title": "Trump reiterates that oil keeps flowing through Hormuz",
+   "link": "https://www.financialjuice.com/News/9794171/Trump-reiterates-that-oil-keeps-flowing-through-Hormuz.aspx",
+   "pubDate": "Tue, 06 Oct 2026 19:11:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794170",
+   "title": "Trump reiterates that Iran is doing very poorly.",
+   "link": "https://www.financialjuice.com/News/9794170/Trump-reiterates-that-Iran-is-doing-very-poorly.aspx",
+   "pubDate": "Tue, 06 Oct 2026 19:10:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794156",
+   "title": "The US issues a health alert on Russia",
+   "link": "https://www.financialjuice.com/News/9794156/The-US-issues-a-health-alert-on-Russia.aspx",
+   "pubDate": "Tue, 06 Oct 2026 18:58:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794155",
+   "title": "Brent crude futures settle at $100.58/bbl, up 26 cents, 0.26%",
+   "link": "https://www.financialjuice.com/News/9794155/Brent-crude-futures-settle-at-10058bbl-up-26-cents-026.aspx",
+   "pubDate": "Tue, 06 Oct 2026 18:50:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794138",
+   "title": "NYMEX Natural Gas November futures settle at $3.1140/MMBTU",
+   "link": "https://www.financialjuice.com/News/9794138/NYMEX-Natural-Gas-November-futures-settle-at-31140MMBTU.aspx",
+   "pubDate": "Tue, 06 Oct 2026 18:32:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794137",
+   "title": "NYMEX gasoline November futures settle at $3.2732 a gallon",
+   "link": "https://www.financialjuice.com/News/9794137/NYMEX-gasoline-November-futures-settle-at-32732-a-gallon.aspx",
+   "pubDate": "Tue, 06 Oct 2026 18:31:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794136",
+   "title": "NYMEX Diesel November futures settle at $4.5694 a gallon",
+   "link": "https://www.financialjuice.com/News/9794136/NYMEX-Diesel-November-futures-settle-at-45694-a-gallon.aspx",
+   "pubDate": "Tue, 06 Oct 2026 18:31:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794124",
+   "title": "NYMEX WTI crude futures settle at $89.44 a barrel, up 1 cent, 0.01%",
+   "link": "https://www.financialjuice.com/News/9794124/NYMEX-WTI-crude-futures-settle-at-8944-a-barrel-up-1-cent-001.aspx",
+   "pubDate": "Tue, 06 Oct 2026 18:31:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794116",
+   "title": "Sierra and Meta agent protocol developed with Walmart and others $META $WMT",
+   "link": "https://www.financialjuice.com/News/9794116/Sierra-and-Meta-agent-protocol-developed-with-Walmart-and-others-META-WMT.aspx",
+   "pubDate": "Tue, 06 Oct 2026 18:21:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794115",
+   "title": "Sierra CEO Taylor: Sierra and Meta announce personal agent protocol, with the protocol to help define how agents interact with businesses $META",
+   "link": "https://www.financialjuice.com/News/9794115/Sierra-CEO-Taylor-Sierra-and-Meta-announce-personal-agent-protocol-with-the-protocol-to-help-define-how-agents-interact-with-businesses-META.aspx",
+   "pubDate": "Tue, 06 Oct 2026 18:20:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794099",
+   "title": "Treasury receives $14.763B of offers for buyback, accepts $1.33B; accepts 12 of 33 eligible issues, targets coupons maturing in 2028 - 2029",
+   "link": "https://www.financialjuice.com/News/9794099/Treasury-receives-14763B-of-offers-for-buyback-accepts-133B-accepts-12-of-33-eligible-issues-targets-coupons-maturing-in-2028---2029.aspx",
+   "pubDate": "Tue, 06 Oct 2026 18:03:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794083",
+   "title": "Fed's Schmid: The Fed still has work to do on the short rate despite higher long-term yields.",
+   "link": "https://www.financialjuice.com/News/9794083/Feds-Schmid-The-Fed-still-has-work-to-do-on-the-short-rate-despite-higher-long-term-yields.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:47:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794074",
+   "title": "OpenAI: Advancing computer use with Ironclad; pact to train AI on contract workflows; OpenAI to expand framework to more software company partners",
+   "link": "https://www.financialjuice.com/News/9794074/OpenAI-Advancing-computer-use-with-Ironclad-pact-to-train-AI-on-contract-workflows-OpenAI-to-expand-framework-to-more-software-company-partners.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:43:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794073",
+   "title": "Fed's Schmid: Fed's credibility at stake in fighting inflation",
+   "link": "https://www.financialjuice.com/News/9794073/Feds-Schmid-Feds-credibility-at-stake-in-fighting-inflation.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:36:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794072",
+   "title": "Fed's Schmid: AI is now one of the largest drivers of inflation",
+   "link": "https://www.financialjuice.com/News/9794072/Feds-Schmid-AI-is-now-one-of-the-largest-drivers-of-inflation.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:34:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794053",
+   "title": "Fed's Schmid: Still have a way to go in beating inflation",
+   "link": "https://www.financialjuice.com/News/9794053/Feds-Schmid-Still-have-a-way-to-go-in-beating-inflation.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:25:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794052",
+   "title": "Fed's Schmid: Inflation is frustrating, must be fixed",
+   "link": "https://www.financialjuice.com/News/9794052/Feds-Schmid-Inflation-is-frustrating-must-be-fixed.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:24:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794051",
+   "title": "Fed's Schmid: Labor force remains in a good place",
+   "link": "https://www.financialjuice.com/News/9794051/Feds-Schmid-Labor-force-remains-in-a-good-place.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:23:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794050",
+   "title": "Explosion heard on Qeshm Island a few minutes ago, reportedly coming from the sea; no injuries or damage reported on the island - IRNA",
+   "link": "https://www.financialjuice.com/News/9794050/Explosion-heard-on-Qeshm-Island-a-few-minutes-ago-reportedly-coming-from-the-sea-no-injuries-or-damage-reported-on-the-island---IRNA.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:22:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794049",
+   "title": "Oman: Carried out medical evacuation for ten crew members of a Panama-flagged commercial vessel that was attacked northeast of Lima in Oman's Musandam Governorate",
+   "link": "https://www.financialjuice.com/News/9794049/Oman-Carried-out-medical-evacuation-for-ten-crew-members-of-a-Panama-flagged-commercial-vessel-that-was-attacked-northeast-of-Lima-in-Omans-Musandam-Governorate.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:19:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794033",
+   "title": "Google became aware of a series of domain hijacks in Ghana last week $GOOGL",
+   "link": "https://www.financialjuice.com/News/9794033/Google-became-aware-of-a-series-of-domain-hijacks-in-Ghana-last-week-GOOGL.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:13:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794032",
+   "title": "Google: Chrome's response to recent CCTLD registry hijacks $GOOGL",
+   "link": "https://www.financialjuice.com/News/9794032/Google-Chromes-response-to-recent-CCTLD-registry-hijacks-GOOGL.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:13:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794031",
+   "title": "Three-year US Treasury clears at 4.932%, highest auction yield since 2006",
+   "link": "https://www.financialjuice.com/News/9794031/Three-year-US-Treasury-clears-at-4932-highest-auction-yield-since-2006.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:10:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794030",
+   "title": "China House Panel moolenaar seeks review of Hong Kong Fed liquidity tool access.",
+   "link": "https://www.financialjuice.com/News/9794030/China-House-Panel-moolenaar-seeks-review-of-Hong-Kong-Fed-liquidity-tool-access.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:08:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794029",
+   "title": "US 3-Year Note Auction",
+   "link": "https://www.financialjuice.com/News/9794029/US-3-Year-Note-Auction.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:02:59 GMT",
+   "desc": "High Yield 4.932% [Stop-through 0.2 bps] Bid-to-cover 2.62 Sells 58 bln Awards 8.35% of bids at high Primary Dealers take 10.7% Direct 31.7% Indirect 57.6%"
+  },
+  {
+   "id": "9794028",
+   "title": "US 3-Year Note Bid-to-Cover Actual 2.620 (Forecast -, Previous 2.720)",
+   "link": "https://www.financialjuice.com/News/9794028/US-3-Year-Note-Bid-to-Cover-Actual-2620-Forecast---Previous-2720.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:02:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794027",
+   "title": "US 3-Year Note High Yield Actual 4.932% (Forecast -, Previous 4.474%)",
+   "link": "https://www.financialjuice.com/News/9794027/US-3-Year-Note-High-Yield-Actual-4932-Forecast---Previous-4474.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:02:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794026",
+   "title": "Tanker burning near Russia's Black Sea coast - Local Authorities",
+   "link": "https://www.financialjuice.com/News/9794026/Tanker-burning-near-Russias-Black-Sea-coast---Local-Authorities.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:01:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794025",
+   "title": "Treasury WI 3-year yield 4.934% before $58 billion auction.",
+   "link": "https://www.financialjuice.com/News/9794025/Treasury-WI-3-year-yield-4934-before-58-billion-auction.aspx",
+   "pubDate": "Tue, 06 Oct 2026 17:01:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794013",
+   "title": "Nvidia-backed cloud computing firm Lambda raising up to $4 billion at pre-money valuation of $14.5 billion - WSJ. $NVDA",
+   "link": "https://www.financialjuice.com/News/9794013/Nvidia-backed-cloud-computing-firm-Lambda-raising-up-to-4-billion-at-pre-money-valuation-of-145-billion---WSJ-NVDA.aspx",
+   "pubDate": "Tue, 06 Oct 2026 16:48:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794011",
+   "title": "Fed bids for 3-Year notes total $1.4 bln",
+   "link": "https://www.financialjuice.com/News/9794011/Fed-bids-for-3-Year-notes-total-14-bln.aspx",
+   "pubDate": "Tue, 06 Oct 2026 16:45:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794008",
+   "title": "Yemini Armed Forces Spokesperson: Saudi Mercenaries Fail to Capture Bab-el-Mandeb - Tasnim News",
+   "link": "https://www.financialjuice.com/News/9794008/Yemini-Armed-Forces-Spokesperson-Saudi-Mercenaries-Fail-to-Capture-Bab-el-Mandeb---Tasnim-News.aspx",
+   "pubDate": "Tue, 06 Oct 2026 16:39:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794007",
+   "title": "US Energy Secretary Wright: US farmers and truckers will quickly experience lower diesel cost - Post on X",
+   "link": "https://www.financialjuice.com/News/9794007/US-Energy-Secretary-Wright-US-farmers-and-truckers-will-quickly-experience-lower-diesel-cost---Post-on-X.aspx",
+   "pubDate": "Tue, 06 Oct 2026 16:36:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9794006",
+   "title": "Yemen Houthis' Al-Bakhti: We believe it's unlikely that Turkey and Pakistan will directly enter the war in Yemen - Fars News",
+   "link": "https://www.financialjuice.com/News/9794006/Yemen-Houthis-Al-Bakhti-We-believe-its-unlikely-that-Turkey-and-Pakistan-will-directly-enter-the-war-in-Yemen---Fars-News.aspx",
+   "pubDate": "Tue, 06 Oct 2026 16:34:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9793990",
+   "title": "Yemen Houthis' Al-Bakhti: We have the capability to shut down all airports and ports in Saudi Arabia - Fars News",
+   "link": "https://www.financialjuice.com/News/9793990/Yemen-Houthis-Al-Bakhti-We-have-the-capability-to-shut-down-all-airports-and-ports-in-Saudi-Arabia---Fars-News.aspx",
+   "pubDate": "Tue, 06 Oct 2026 16:30:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9793975",
+   "title": "Aviation sources reporting multiple flights between Doha and Tehran this week - The Correspondent reporter on X",
+   "link": "https://www.financialjuice.com/News/9793975/Aviation-sources-reporting-multiple-flights-between-Doha-and-Tehran-this-week---The-Correspondent-reporter-on-X.aspx",
+   "pubDate": "Tue, 06 Oct 2026 16:13:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9793974",
+   "title": "Qatari official: Talks between the US and Iran are ongoing, messages are being exchanged between US and Iran with Qatar acting as mediator - NewsNation reporter post on X",
+   "link": "https://www.financialjuice.com/News/9793974/Qatari-official-Talks-between-the-US-and-Iran-are-ongoing-messages-are-being-exchanged-between-US-and-Iran-with-Qatar-acting-as-mediator---NewsNation-reporter-post-on-X.aspx",
+   "pubDate": "Tue, 06 Oct 2026 16:11:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9793973",
+   "title": "Google launches EmbeddingGemma 2 multimodal model. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9793973/Google-launches-EmbeddingGemma-2-multimodal-model-GOOGL.aspx",
+   "pubDate": "Tue, 06 Oct 2026 16:05:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9793971",
+   "title": "EIA STEO Report",
+   "link": "https://www.financialjuice.com/News/9793971/EIA-STEO-Report.aspx",
+   "pubDate": "Tue, 06 Oct 2026 16:04:13 GMT",
+   "desc": "2026 Brent forecast raised to $96.32/bbl from $91.01; 2027 raised to $83.74 from $73.74. 2026 WTI forecast raised to $88.21/bbl from $84.65; 2027 raised to $79.74 from $69.74. 2026 world oil demand cut to 102.4 mln bpd from 102.6 mln; 2027 cut to 104.6 mln from 105 mln. 2026 world oil output raised to 101.1 mln bpd from 100.6 mln; 2027 cut to 109.6 mln from 109.9 mln. 2026 US natural gas demand raised to 92.4 Bcf/d from 92.2; 2027 cut to 93.8 Bcf/d from 94.3. US oil demand unchanged at 20.6 mln bpd in 2026 and 20.8 mln bpd in 2027. 2026 US natural gas output raised to 112.2 Bcf/d from 111.7; 2027 raised to 116.1 Bcf/d from 115.9. 2026 US oil output raised to 13.87 mln bpd from 13.83 mln; 2027 raised to 14.3 mln bpd from 14.26 mln."
+  },
   {
    "id": "9793970",
    "title": "EIA expects US retail diesel prices to stay above $6/gallon in October before gradually declining to about $4.50/gallon in 2027 - STEO",
