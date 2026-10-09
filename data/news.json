@@ -1,7 +1,574 @@
 {
- "updated_at": "2026-10-09T07:49:26.306662+00:00",
- "count": 12568,
+ "updated_at": "2026-10-09T14:42:10.830945+00:00",
+ "count": 12649,
  "items": [
+  {
+   "id": "9799136",
+   "title": "Crypto Fear and Greed Index: 59/100 = Greed",
+   "link": "https://www.financialjuice.com/News/9799136/Crypto-Fear-and-Greed-Index-59100--Greed.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:25:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799135",
+   "title": "Fear and Greed Index: 43/100 = Fear",
+   "link": "https://www.financialjuice.com/News/9799135/Fear-and-Greed-Index-43100--Fear.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:24:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799134",
+   "title": "Iran's Foreign Ministry spokesperson: France seeks to remain a nuclear power while restricting countries pursuing peaceful nuclear energy under what it calls a false nuclear threat narrative.",
+   "link": "https://www.financialjuice.com/News/9799134/Irans-Foreign-Ministry-spokesperson-France-seeks-to-remain-a-nuclear-power-while-restricting-countries-pursuing-peaceful-nuclear-energy-under-what-it-calls-a-false-nuclear-threat-narrative.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:16:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799114",
+   "title": "Loud boom heard near Aden Airport, Yemen - Residents.",
+   "link": "https://www.financialjuice.com/News/9799114/Loud-boom-heard-near-Aden-Airport-Yemen---Residents.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:13:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799113",
+   "title": "German auto association VDA President: EU-China trade deal on hybrid vehicles an initial positive sign and expression of both sides' willingness to address existing challenges through dialogue.",
+   "link": "https://www.financialjuice.com/News/9799113/German-auto-association-VDA-President-EU-China-trade-deal-on-hybrid-vehicles-an-initial-positive-sign-and-expression-of-both-sides-willingness-to-address-existing-challenges-through-dialogue.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:12:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799112",
+   "title": "Canadian Employment Change Deviations & Market Reactions - FJElite",
+   "link": "https://www.financialjuice.com/News/9799112/Canadian-Employment-Change-Deviations--Market-Reactions---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:07:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799111",
+   "title": "Fed: Participation in the stock market fell between 2022 and 2025.",
+   "link": "https://www.financialjuice.com/News/9799111/Fed-Participation-in-the-stock-market-fell-between-2022-and-2025.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:06:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799110",
+   "title": "China vows a necessary response if any actions harm its interests.",
+   "link": "https://www.financialjuice.com/News/9799110/China-vows-a-necessary-response-if-any-actions-harm-its-interests.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:03:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799109",
+   "title": "China: Don't politicize economic matters.",
+   "link": "https://www.financialjuice.com/News/9799109/China-Dont-politicize-economic-matters.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:03:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799093",
+   "title": "University Michigan 5 Yr Inflation Prelim Actual 3.5% (Forecast 3.5%, Previous 3.4%)",
+   "link": "https://www.financialjuice.com/News/9799093/University-Michigan-5-Yr-Inflation-Prelim-Actual-35-Forecast-35-Previous-34.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799092",
+   "title": "University Michigan 1 Yr Inflation Prelim Actual 4.7% (Forecast 4.8%, Previous 4.6%)",
+   "link": "https://www.financialjuice.com/News/9799092/University-Michigan-1-Yr-Inflation-Prelim-Actual-47-Forecast-48-Previous-46.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799091",
+   "title": "University Michigan Sentiment Prelim Actual 46.3 (Forecast 47.6, Previous 48.1)",
+   "link": "https://www.financialjuice.com/News/9799091/University-Michigan-Sentiment-Prelim-Actual-463-Forecast-476-Previous-481.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799090",
+   "title": "University Michigan Expectations Prelim Actual 47.3 (Forecast 45.7, Previous 46.3)",
+   "link": "https://www.financialjuice.com/News/9799090/University-Michigan-Expectations-Prelim-Actual-473-Forecast-457-Previous-463.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799089",
+   "title": "University Michigan Condition Prelim Actual 44.7 (Forecast 50.1, Previous 50.9)",
+   "link": "https://www.financialjuice.com/News/9799089/University-Michigan-Condition-Prelim-Actual-447-Forecast-501-Previous-509.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799088",
+   "title": "Pakistan's Foreign Ministry: The forces stationed in Saudi Arabia have a defensive role - ISNA",
+   "link": "https://www.financialjuice.com/News/9799088/Pakistans-Foreign-Ministry-The-forces-stationed-in-Saudi-Arabia-have-a-defensive-role---ISNA.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:56:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799087",
+   "title": "The EU and China are going to continue to engage in dialogue on medical devices.",
+   "link": "https://www.financialjuice.com/News/9799087/The-EU-and-China-are-going-to-continue-to-engage-in-dialogue-on-medical-devices.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:51:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799068",
+   "title": "Houthi militias have manufactured concrete blocks on the roads in Bab al-Mandeb - Al Arabiya citing military source.",
+   "link": "https://www.financialjuice.com/News/9799068/Houthi-militias-have-manufactured-concrete-blocks-on-the-roads-in-Bab-al-Mandeb---Al-Arabiya-citing-military-source.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:39:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799067",
+   "title": "EU's Trade Chief Sefcovic: We achieved very good results in China trade talks.",
+   "link": "https://www.financialjuice.com/News/9799067/EUs-Trade-Chief-Sefcovic-We-achieved-very-good-results-in-China-trade-talks.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:35:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799048",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9799048/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: -64 mln Nasdaq 100: -17 mln Dow 30: -9 mln Mag 7: -9 mln"
+  },
+  {
+   "id": "9799041",
+   "title": "China: We are studying policies facilitating trade with EU.",
+   "link": "https://www.financialjuice.com/News/9799041/China-We-are-studying-policies-facilitating-trade-with-EU.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:29:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799040",
+   "title": "EU's Trade Chief Sefcovic: Where dialogue fails, the EU will use tools to rebalance",
+   "link": "https://www.financialjuice.com/News/9799040/EUs-Trade-Chief-Sefcovic-Where-dialogue-fails-the-EU-will-use-tools-to-rebalance.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:28:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799038",
+   "title": "EU's Trade Chief Sefcovic: There is an understanding for China rare earth, magnet exports.",
+   "link": "https://www.financialjuice.com/News/9799038/EUs-Trade-Chief-Sefcovic-There-is-an-understanding-for-China-rare-earth-magnet-exports.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:27:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799037",
+   "title": "EU's Trade Chief Sefcovic: More China access for goods is worth almost €4b.",
+   "link": "https://www.financialjuice.com/News/9799037/EUs-Trade-Chief-Sefcovic-More-China-access-for-goods-is-worth-almost-4b.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:27:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799036",
+   "title": "China's Wang expresses concerns to EU's recent restrictive move.",
+   "link": "https://www.financialjuice.com/News/9799036/Chinas-Wang-expresses-concerns-to-EUs-recent-restrictive-move.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:27:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799035",
+   "title": "EU's Trade Chief Sefcovic: More access to the China market for car parts and olive oil",
+   "link": "https://www.financialjuice.com/News/9799035/EUs-Trade-Chief-Sefcovic-More-access-to-the-China-market-for-car-parts-and-olive-oil.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:27:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799034",
+   "title": "EU's Trade Chief Sefcovic: There is an understanding to improve access to china market.",
+   "link": "https://www.financialjuice.com/News/9799034/EUs-Trade-Chief-Sefcovic-There-is-an-understanding-to-improve-access-to-china-market.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:26:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799033",
+   "title": "EU's Sefcovic: Reached understanding to moderate China hybrid exports, prospect of cutting China hybrids, EVs by over half; understanding to improve access to China market",
+   "link": "https://www.financialjuice.com/News/9799033/EUs-Sefcovic-Reached-understanding-to-moderate-China-hybrid-exports-prospect-of-cutting-China-hybrids-EVs-by-over-half-understanding-to-improve-access-to-China-market.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:26:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799032",
+   "title": "EU's Trade Chief Sefcovic: EU and China reaffirmed to properly handling differences under the framework of WTO rules.",
+   "link": "https://www.financialjuice.com/News/9799032/EUs-Trade-Chief-Sefcovic-EU-and-China-reaffirmed-to-properly-handling-differences-under-the-framework-of-WTO-rules.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:25:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799031",
+   "title": "EU's Trade Chief Sefcovic: The China trade deficit is a mountain of challenges.",
+   "link": "https://www.financialjuice.com/News/9799031/EUs-Trade-Chief-Sefcovic-The-China-trade-deficit-is-a-mountain-of-challenges.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:25:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799030",
+   "title": "EU's Trade Chief Sefcovic Speaks In Beijing On EU-China Trade Deficit - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9799030/EUs-Trade-Chief-Sefcovic-Speaks-In-Beijing-On-EU-China-Trade-Deficit---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:23:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799029",
+   "title": "China's He Lifeng meets the EU trade chief - Xinhua.",
+   "link": "https://www.financialjuice.com/News/9799029/Chinas-He-Lifeng-meets-the-EU-trade-chief---Xinhua.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:19:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799028",
+   "title": "Iran's President Pezeshkian: Negotiations only have meaning when based on mutual respect and commitment, and when pressure and threats are set aside - Iranian Media.",
+   "link": "https://www.financialjuice.com/News/9799028/Irans-President-Pezeshkian-Negotiations-only-have-meaning-when-based-on-mutual-respect-and-commitment-and-when-pressure-and-threats-are-set-aside---Iranian-Media.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:16:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9799007",
+   "title": "Gazprom, Lukoil start production at Layavozhskoye field.",
+   "link": "https://www.financialjuice.com/News/9799007/Gazprom-Lukoil-start-production-at-Layavozhskoye-field.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 13:04:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798994",
+   "title": "Effective fed funds rate: 3.88% October 8th vs 3.88% October 7th.",
+   "link": "https://www.financialjuice.com/News/9798994/Effective-fed-funds-rate-388-October-8th-vs-388-October-7th.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:59:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798992",
+   "title": "UKMTO: Vessel reported to be struck by an unknown projectile",
+   "link": "https://www.financialjuice.com/News/9798992/UKMTO-Vessel-reported-to-be-struck-by-an-unknown-projectile.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:52:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798991",
+   "title": "Several explosions reported in Erbil, Iraq - Fars News.",
+   "link": "https://www.financialjuice.com/News/9798991/Several-explosions-reported-in-Erbil-Iraq---Fars-News.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:52:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798990",
+   "title": "UKMTO gets a report of an incident 13NM west of Al Jazeera, UAE.",
+   "link": "https://www.financialjuice.com/News/9798990/UKMTO-gets-a-report-of-an-incident-13NM-west-of-Al-Jazeera-UAE.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:51:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798969",
+   "title": "Bank of Canada October rate hike chances fall to 27% from 40% on jobs report - Swap Market Data Shows",
+   "link": "https://www.financialjuice.com/News/9798969/Bank-of-Canada-October-rate-hike-chances-fall-to-27-from-40-on-jobs-report---Swap-Market-Data-Shows.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:38:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798968",
+   "title": "Traders pull back on bets for a BOC rate hike by year's end",
+   "link": "https://www.financialjuice.com/News/9798968/Traders-pull-back-on-bets-for-a-BOC-rate-hike-by-years-end.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:38:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798967",
+   "title": "Kremlin: Putin-Trump call will be soon - IFX",
+   "link": "https://www.financialjuice.com/News/9798967/Kremlin-Putin-Trump-call-will-be-soon---IFX.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:37:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798966",
+   "title": "IRGC: From now on, the handling of offending vessels will not be limited to the Strait of Hormuz, and any vessel that passes through unauthorized routes will be pursued throughout the region, and its punishment will be certain.",
+   "link": "https://www.financialjuice.com/News/9798966/IRGC-From-now-on-the-handling-of-offending-vessels-will-not-be-limited-to-the-Strait-of-Hormuz-and-any-vessel-that-passes-through-unauthorized-routes-will-be-pursued-throughout-the-region-and-its-punishment-will-be-certain.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:36:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798965",
+   "title": "IRGC on tanker attack: Responsibility for escalating tensions in the region's maritime transport lies with the US.",
+   "link": "https://www.financialjuice.com/News/9798965/IRGC-on-tanker-attack-Responsibility-for-escalating-tensions-in-the-regions-maritime-transport-lies-with-the-US.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:34:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798964",
+   "title": "IRGC: Large LPG Tanker Hit and Catches Fire - Tasnim News",
+   "link": "https://www.financialjuice.com/News/9798964/IRGC-Large-LPG-Tanker-Hit-and-Catches-Fire---Tasnim-News.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:33:39 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"mZQoI3mu\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9798963",
+   "title": "ING: Dollar Upside Risks Remain Despite Brief Pullback - FJElite",
+   "link": "https://www.financialjuice.com/News/9798963/ING-Dollar-Upside-Risks-Remain-Despite-Brief-Pullback---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:32:39 GMT",
+   "desc": "The dollar eased as Treasuries stabilised, but there are few signs of a broader USD correction. Trump’s statement that the US will not attack Iran before the November 3 midterms has done little to remove the geopolitical premium from oil, with crude still holding above $100 a barrel despite improved Gulf supply. Attention now turns to the University of Michigan survey, where inflation expectations are expected to rise slightly as sentiment softens. Fed rhetoric also remains hawkish, with Musalem and Waller reiterating the need for further tightening. With global bond markets and risk sentiment still fragile, and markets continuing to expect a December hike, the near-term bias remains for a somewhat stronger dollar."
+  },
+  {
+   "id": "9798942",
+   "title": "Goldman Sachs: Higher Treasury Yields Keep Credit Attractive Despite Tight Spreads - FJElite",
+   "link": "https://www.financialjuice.com/News/9798942/Goldman-Sachs-Higher-Treasury-Yields-Keep-Credit-Attractive-Despite-Tight-Spreads---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:31:07 GMT",
+   "desc": "Elevated US Treasury yields have supported strong demand for USD credit by allowing pensions, insurers and foreign investors to meet all-in yield targets even with relatively tight credit spreads. In US investment-grade credit, spreads now account for less than 15% of total yield, compared with roughly 45% on average from 2019 to 2021. In high yield, spreads contribute around 37% of all-in yield versus about 75% previously. The same shift is even more pronounced in Europe, where sovereign yields have risen sharply from the negative-rate environment of several years ago. As a result, much of the return available in corporate bonds is increasingly being driven by the risk-free component rather than credit risk, leading parts of the credit market to behave more like a quasi-rates product."
+  },
+  {
+   "id": "9798934",
+   "title": "Canadian Participation Rate Actual 64.8% (Forecast 65%, Previous 65.0%)",
+   "link": "https://www.financialjuice.com/News/9798934/Canadian-Participation-Rate-Actual-648-Forecast-65-Previous-650.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798933",
+   "title": "Canadian Employment Change Actual -68.3k (Forecast 10k, Previous -41.7k)",
+   "link": "https://www.financialjuice.com/News/9798933/Canadian-Employment-Change-Actual--683k-Forecast-10k-Previous--417k.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:30:02 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"lhCrLW4Q\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9798932",
+   "title": "Canadian Average Hourly Earnings YoY Actual 2.3% (Forecast 2.3%, Previous 2.00%)",
+   "link": "https://www.financialjuice.com/News/9798932/Canadian-Average-Hourly-Earnings-YoY-Actual-23-Forecast-23-Previous-200.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798931",
+   "title": "Canadian Unemployment Rate Actual 6.5% (Forecast 6.5%, Previous 6.4%)",
+   "link": "https://www.financialjuice.com/News/9798931/Canadian-Unemployment-Rate-Actual-65-Forecast-65-Previous-64.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798930",
+   "title": "CACIB: EUR Downside Hedges Look Most Attractive in EUR/GBP - FJElite",
+   "link": "https://www.financialjuice.com/News/9798930/CACIB-EUR-Downside-Hedges-Look-Most-Attractive-in-EURGBP---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:29:27 GMT",
+   "desc": "EUR weakness has pushed implied volatility higher, particularly for downside strikes, as renewed Eurozone fiscal and political concerns widen sovereign spreads. Demand for protection has been strongest in EUR/USD and EUR/CHF, where ATM volatility and 25-delta risk reversals have already moved beyond the stress seen in comparable 2018 and 2022 episodes. EUR/JPY volatility has also risen, though the downside skew has adjusted less, while EUR/GBP has seen a more restrained move. Relative-value measures suggest EUR/GBP volatility remains the least expensive, with longer-dated risk reversals still positive despite an increasingly negative vol/spot relationship. The 3-month EUR/GBP tenor is also seasonally cheap versus 1-month and 6-month volatility, potentially underpricing risks around France’s 2027 budget process. Against that backdrop, 3-month out-of-the-money EUR/GBP puts are seen as an attractive hedge against further euro weakness."
+  },
+  {
+   "id": "9798929",
+   "title": "US Sentiment: AI Rebound into the Weekend, Will it Hold? - FJElite",
+   "link": "https://www.financialjuice.com/News/9798929/US-Sentiment-AI-Rebound-into-the-Weekend-Will-it-Hold---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:26:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798898",
+   "title": "German economy minister: Must always keep the entire supply chain in mind; crude alone is not enough",
+   "link": "https://www.financialjuice.com/News/9798898/German-economy-minister-Must-always-keep-the-entire-supply-chain-in-mind-crude-alone-is-not-enough.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:10:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798897",
+   "title": "German Economy Minister: German refineries are most important asset for security of energy supply.",
+   "link": "https://www.financialjuice.com/News/9798897/German-Economy-Minister-German-refineries-are-most-important-asset-for-security-of-energy-supply.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:10:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798896",
+   "title": "German Economy Minister: Germany to fully implement G7 agreement on release of energy stocks.",
+   "link": "https://www.financialjuice.com/News/9798896/German-Economy-Minister-Germany-to-fully-implement-G7-agreement-on-release-of-energy-stocks.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:10:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798895",
+   "title": "German economy minister: Diesel and heating oil to be released first, followed by crude oil",
+   "link": "https://www.financialjuice.com/News/9798895/German-economy-minister-Diesel-and-heating-oil-to-be-released-first-followed-by-crude-oil.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:10:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798894",
+   "title": "German Economy Ministry: Germany to release up to 15 mln barrels of oil and petroleum products.",
+   "link": "https://www.financialjuice.com/News/9798894/German-Economy-Ministry-Germany-to-release-up-to-15-mln-barrels-of-oil-and-petroleum-products.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:10:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798869",
+   "title": "Secured overnight financing rate 3.87% October 8th vs 3.88% October 7th",
+   "link": "https://www.financialjuice.com/News/9798869/Secured-overnight-financing-rate-387-October-8th-vs-388-October-7th.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 12:00:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798817",
+   "title": "China Commerce Ministry: To continue facilitating rare earth and permanent magnet export licenses to the EU via 'green channel’",
+   "link": "https://www.financialjuice.com/News/9798817/China-Commerce-Ministry-To-continue-facilitating-rare-earth-and-permanent-magnet-export-licenses-to-the-EU-via-green-channel.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 11:14:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798816",
+   "title": "China's commerce ministry: China and the EU reach an understanding on hybrid vehicle trade in a WTO-compliant manner after intensive negotiations. Will continue discussions on price undertakings and review procedures in the EU's anti-subsidy investigation into Chinese electric vehicles",
+   "link": "https://www.financialjuice.com/News/9798816/Chinas-commerce-ministry-China-and-the-EU-reach-an-understanding-on-hybrid-vehicle-trade-in-a-WTO-compliant-manner-after-intensive-negotiations-Will-continue-discussions-on-price-undertakings-and-review-procedures-in-the-EUs-anti-subsidy-in.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 11:13:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798815",
+   "title": "China's commerce ministry: To continue exploring the possibility of lowering tariffs on some goods under WTO rules",
+   "link": "https://www.financialjuice.com/News/9798815/Chinas-commerce-ministry-To-continue-exploring-the-possibility-of-lowering-tariffs-on-some-goods-under-WTO-rules.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 11:12:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798814",
+   "title": "China's Commerce Ministry: Two sides agreed to hold the third regular meeting of the mechanism in March 2027",
+   "link": "https://www.financialjuice.com/News/9798814/Chinas-Commerce-Ministry-Two-sides-agreed-to-hold-the-third-regular-meeting-of-the-mechanism-in-March-2027.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 11:12:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798813",
+   "title": "China and the EU agree to properly manage trade disagreements",
+   "link": "https://www.financialjuice.com/News/9798813/China-and-the-EU-agree-to-properly-manage-trade-disagreements.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 11:11:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798812",
+   "title": "China's Commerce Ministry: Minister had pragmatic and productive discussions with EU trade chief",
+   "link": "https://www.financialjuice.com/News/9798812/Chinas-Commerce-Ministry-Minister-had-pragmatic-and-productive-discussions-with-EU-trade-chief.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 11:11:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798811",
+   "title": "The Australian government: Held senior officials' talks with China in Beijing",
+   "link": "https://www.financialjuice.com/News/9798811/The-Australian-government-Held-senior-officials-talks-with-China-in-Beijing.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 11:10:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798785",
+   "title": "Ukraine’s President Zelenskiy: Ukraine hit Omsk and Ukhta oil refineries in Russia",
+   "link": "https://www.financialjuice.com/News/9798785/Ukraines-President-Zelenskiy-Ukraine-hit-Omsk-and-Ukhta-oil-refineries-in-Russia.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 10:48:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798784",
+   "title": "Italy's Energy Minister: Will not attend a ministerial energy meeting scheduled in Riyadh for next week, and will participate via videoconference - Statement",
+   "link": "https://www.financialjuice.com/News/9798784/Italys-Energy-Minister-Will-not-attend-a-ministerial-energy-meeting-scheduled-in-Riyadh-for-next-week-and-will-participate-via-videoconference---Statement.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 10:46:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798765",
+   "title": "UK's PM Burnham: We'll legislate to stop non-competes frustrating hires",
+   "link": "https://www.financialjuice.com/News/9798765/UKs-PM-Burnham-Well-legislate-to-stop-non-competes-frustrating-hires.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 10:38:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798764",
+   "title": "UK's PM Burnham: Some firms go too far with restrictive non-competes",
+   "link": "https://www.financialjuice.com/News/9798764/UKs-PM-Burnham-Some-firms-go-too-far-with-restrictive-non-competes.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 10:38:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798748",
+   "title": "China to accelerate new energy and smart car development - Xinhua",
+   "link": "https://www.financialjuice.com/News/9798748/China-to-accelerate-new-energy-and-smart-car-development---Xinhua.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 10:06:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798747",
+   "title": "China: To build tech monitoring, risk warning, and emergency response systems to ensure AI is safe, reliable, and controllable",
+   "link": "https://www.financialjuice.com/News/9798747/China-To-build-tech-monitoring-risk-warning-and-emergency-response-systems-to-ensure-AI-is-safe-reliable-and-controllable.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 10:04:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798746",
+   "title": "Germany wants to keep ECB's Schnabel's markets portfolio at the ECB",
+   "link": "https://www.financialjuice.com/News/9798746/Germany-wants-to-keep-ECBs-Schnabels-markets-portfolio-at-the-ECB.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 09:40:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798745",
+   "title": "Russia's Rosatom: Expect the Bangladesh nuclear power plant to start supplying power to grid in November",
+   "link": "https://www.financialjuice.com/News/9798745/Russias-Rosatom-Expect-the-Bangladesh-nuclear-power-plant-to-start-supplying-power-to-grid-in-November.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 09:10:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798616",
+   "title": "Credit Ágricole: FX Weekly - FJElite",
+   "link": "https://www.financialjuice.com/News/9798616/Credit-%c3%81gricole-FX-Weekly---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 08:42:51 GMT",
+   "desc": "Global rates markets are increasingly being driven by fiscal concerns rather than central bank policy, with front-end yields anchored while long-end yields continue to rise. Government borrowing needs, European budget negotiations, US midterm elections, the UK Autumn Budget and Japanese tax debates are creating greater scope for divergence across markets. The outlook remains cautious on G4 duration, as ongoing fiscal pressures could sustain upward pressure on long-term yields. In Europe, the bearish view on rates curves persists as widening French OAT and Italian BTP spreads increasingly reflect sovereign credit concerns alongside changes in neutral-rate expectations. Further spread widening remains possible, while refinancing costs could gradually undermine debt sustainability among highly indebted governments. France’s RN counter-budget briefly eased OAT spreads, but uncertainty over implementation quickly reversed the move. Comparisons with Italy’s 2018 debt-market stress suggest further widening is possible, favouring steeper French OAT spreads against Bunds and tighter Italian-Spanish spreads. Meanwhile, rising energy prices and renewed debt-crisis concerns are reshaping inflation markets, with headline Eurozone inflation potentially approaching 4% and core inflation nearing 3% over the coming quarters. In the US, Treasury yields have risen to fresh highs, partly reflecting bond supply and spillovers from higher European long-term rates. However, recent Fed commentary has signalled little urgency to raise rates in October, helping anchor the front end. Attention is turning to the $22bn 30-year Treasury reopening and September CPI, which will shape expectations for near-term monetary policy. The cautious stance on duration remains, as long-end yields could continue rising in the short term, while an inflation reading in line with expectations would likely limit further upside in front-end rates."
+  },
+  {
+   "id": "9798615",
+   "title": "Goldman Sachs: Natural Gas - FJElite",
+   "link": "https://www.financialjuice.com/News/9798615/Goldman-Sachs-Natural-Gas---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 08:41:31 GMT",
+   "desc": "The move in US natural gas prices back above $3/mmBtu over the past two weeks has reflected a significant tightening in the balance during September that was primarily weather driven. Going forward, however, barring a colder-than-average winter, we estimate that rising Permian gas production will help keep US winter balances comfortably supplied, and we maintain our bearish $2.95/$2.75/mmBtu Win26-27/Sum27 NYMEX natural gas price forecasts, vs forwards at $3.35/$2.95/mmBtu. September balances realized 1.2 Bcf/d tighter than we expected primarily driven by temperatures 2 standard-deviations hotter than average, supporting load and leading to a record power burn for this time of the year at 45.1 Bcf/d, 2.3 Bcf/d above our previous expectation. Although this beat in power was partly offset by a softer than expected balancing term - suggesting a potential overestimation of the record-breaking power burns - the net tightening of the balance contributed to salt storage drawing sharply into September. This matters because salt caverns are the storage facilities with the highest deliverability rates in the country, which is particularly important during very cold days in the winter. The September tightness in salt facilities supported prompt NYMEX gas prices back above $3/mmBtu for the first time since July. It also led to a sharp 17% rally in the Oct26-Jan27 spread. which typically prices very negatively when the market sees a high risk of end-summer storage congestion risks, into its expiration."
+  },
+  {
+   "id": "9798614",
+   "title": "UK Treasury Minister Rigby: Financial services matter to Andy Burnham.",
+   "link": "https://www.financialjuice.com/News/9798614/UK-Treasury-Minister-Rigby-Financial-services-matter-to-Andy-Burnham.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 08:34:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798613",
+   "title": "UK Treasury Minister Rigby: Keenly aware of UK global competitiveness.",
+   "link": "https://www.financialjuice.com/News/9798613/UK-Treasury-Minister-Rigby-Keenly-aware-of-UK-global-competitiveness.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 08:34:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798590",
+   "title": "Europe Sentiment: Oil Lowers On No Attacks Before Midterms - FJElite",
+   "link": "https://www.financialjuice.com/News/9798590/Europe-Sentiment-Oil-Lowers-On-No-Attacks-Before-Midterms---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 08:29:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798579",
+   "title": "Saudi-led coalition: will respond firmly to Houthi strikes on civilians and civilian facilities",
+   "link": "https://www.financialjuice.com/News/9798579/Saudi-led-coalition-will-respond-firmly-to-Houthi-strikes-on-civilians-and-civilian-facilities.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 08:13:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798578",
+   "title": "Saudi-led coalition: three missile launchers used by Houthis destroyed, post on X",
+   "link": "https://www.financialjuice.com/News/9798578/Saudi-led-coalition-three-missile-launchers-used-by-Houthis-destroyed-post-on-X.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 08:12:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798577",
+   "title": "BoJ says Governor Ueda to travel to Thailand October 13-17 to attend IMF, G20 meetings.",
+   "link": "https://www.financialjuice.com/News/9798577/BoJ-says-Governor-Ueda-to-travel-to-Thailand-October-13-17-to-attend-IMF-G20-meetings.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 08:05:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9798558",
+   "title": "Italian Industrial Production MoM Actual -1.3% (Forecast 0%, Previous 0.7%)",
+   "link": "https://www.financialjuice.com/News/9798558/Italian-Industrial-Production-MoM-Actual--13-Forecast-0-Previous-07.aspx?xy=rss",
+   "pubDate": "Fri, 09 Oct 2026 08:01:13 GMT",
+   "desc": ""
+  },
   {
    "id": "9798537",
    "title": "Operations resume at Riyadh's King Khalid International Airport, air traffic returns to normal - Saudi Civil Aviation Authority",
