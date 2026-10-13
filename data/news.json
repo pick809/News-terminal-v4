@@ -1,7 +1,553 @@
 {
- "updated_at": "2026-10-13T18:21:29.457261+00:00",
- "count": 13308,
+ "updated_at": "2026-10-13T22:58:16.318054+00:00",
+ "count": 13386,
  "items": [
+  {
+   "id": "9803984",
+   "title": "Saudi-led coalition: missile intercepted and destroyed in Al-Kharj",
+   "link": "https://www.financialjuice.com/News/9803984/Saudi-led-coalition-missile-intercepted-and-destroyed-in-Al-Kharj.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 22:13:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803983",
+   "title": "OpenAI in early discussions to buy security startup Trail of Bits: The Information",
+   "link": "https://www.financialjuice.com/News/9803983/OpenAI-in-early-discussions-to-buy-security-startup-Trail-of-Bits-The-Information.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 22:08:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803982",
+   "title": "Google Play launches personalized app creation through AI studio for users 18+ in select markets",
+   "link": "https://www.financialjuice.com/News/9803982/Google-Play-launches-personalized-app-creation-through-AI-studio-for-users-18-in-select-markets.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 22:03:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803971",
+   "title": "State Department: Secretary of State Marco Rubio to visit Samarkand, Uzbekistan; Mumbai and Jamnagar, India from October 17-22",
+   "link": "https://www.financialjuice.com/News/9803971/State-Department-Secretary-of-State-Marco-Rubio-to-visit-Samarkand-Uzbekistan-Mumbai-and-Jamnagar-India-from-October-17-22.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 22:00:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803969",
+   "title": "Saudi civil defense: debris from intercepted Houthi missiles causes minor damage to 15 homes in Riyadh",
+   "link": "https://www.financialjuice.com/News/9803969/Saudi-civil-defense-debris-from-intercepted-Houthi-missiles-causes-minor-damage-to-15-homes-in-Riyadh.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 21:50:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803968",
+   "title": "Saudi civil defense: four injured in Riyadh after debris from two intercepted missiles falls",
+   "link": "https://www.financialjuice.com/News/9803968/Saudi-civil-defense-four-injured-in-Riyadh-after-debris-from-two-intercepted-missiles-falls.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 21:48:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803943",
+   "title": "New Zealand External Migration & Visitors Actual 8.0% (Forecast -, Previous 8.5%)",
+   "link": "https://www.financialjuice.com/News/9803943/New-Zealand-External-Migration--Visitors-Actual-80-Forecast---Previous-85.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 21:46:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803945",
+   "title": "New Zealand net migration surplus rises 1,530 in August",
+   "link": "https://www.financialjuice.com/News/9803945/New-Zealand-net-migration-surplus-rises-1530-in-August.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 21:45:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803944",
+   "title": "NZ short-term visitors rise 8% in August compared with year earlier",
+   "link": "https://www.financialjuice.com/News/9803944/NZ-short-term-visitors-rise-8-in-August-compared-with-year-earlier.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 21:45:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803942",
+   "title": "New Zealand Visitor Arrivals Actual 1530 (Forecast -, Previous 3,010)",
+   "link": "https://www.financialjuice.com/News/9803942/New-Zealand-Visitor-Arrivals-Actual-1530-Forecast---Previous-3010.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 21:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803938",
+   "title": "Attack on Saudi Aramco building causes limited fire, no casualties: state news agency citing energy ministry official",
+   "link": "https://www.financialjuice.com/News/9803938/Attack-on-Saudi-Aramco-building-causes-limited-fire-no-casualties-state-news-agency-citing-energy-ministry-official.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 21:34:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803937",
+   "title": "Aramco facility in Saudi eastern city of Dhahran targeted on Tuesday",
+   "link": "https://www.financialjuice.com/News/9803937/Aramco-facility-in-Saudi-eastern-city-of-Dhahran-targeted-on-Tuesday.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 21:33:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803910",
+   "title": "Foreign ministers of Iran and Oman discuss Yemen situation in phone call - Telegram post",
+   "link": "https://www.financialjuice.com/News/9803910/Foreign-ministers-of-Iran-and-Oman-discuss-Yemen-situation-in-phone-call---Telegram-post.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 21:01:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803887",
+   "title": "Fed's Collins: Fed is not rethinking the 2% inflation target",
+   "link": "https://www.financialjuice.com/News/9803887/Feds-Collins-Fed-is-not-rethinking-the-2-inflation-target.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:44:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803886",
+   "title": "Fed's Collins: Fed economic models are mindful of government debt levels.",
+   "link": "https://www.financialjuice.com/News/9803886/Feds-Collins-Fed-economic-models-are-mindful-of-government-debt-levels.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:44:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803885",
+   "title": "US Justice Department says a Saudi national was arrested for installing a surreptitious audio recording device at a San Francisco Super Intelligence Company",
+   "link": "https://www.financialjuice.com/News/9803885/US-Justice-Department-says-a-Saudi-national-was-arrested-for-installing-a-surreptitious-audio-recording-device-at-a-San-Francisco-Super-Intelligence-Company.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:42:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803884",
+   "title": "US CENTCOM: Yesterday, US forces assisted Gulf partners in shipping more than 19 million barrels of crude oil through the strait.",
+   "link": "https://www.financialjuice.com/News/9803884/US-CENTCOM-Yesterday-US-forces-assisted-Gulf-partners-in-shipping-more-than-19-million-barrels-of-crude-oil-through-the-strait.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:42:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803883",
+   "title": "Aramco's headquarters evacuated following missile attacks from Yemen - Iranian Media",
+   "link": "https://www.financialjuice.com/News/9803883/Aramcos-headquarters-evacuated-following-missile-attacks-from-Yemen---Iranian-Media.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:40:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803882",
+   "title": "Israel, the United States, and the Gulf states are coordinating and preparing for a variety of scenarios - Israel's N12 News",
+   "link": "https://www.financialjuice.com/News/9803882/Israel-the-United-States-and-the-Gulf-states-are-coordinating-and-preparing-for-a-variety-of-scenarios---Israels-N12-News.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:39:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803881",
+   "title": "There is no intelligence change that justifies an Israeli-American move in the coming weeks - Israel's N12 News.",
+   "link": "https://www.financialjuice.com/News/9803881/There-is-no-intelligence-change-that-justifies-an-Israeli-American-move-in-the-coming-weeks---Israels-N12-News.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:38:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803880",
+   "title": "According to the army, this is a slow and only partial restoration of the missile array at this time - Israel's N12 News",
+   "link": "https://www.financialjuice.com/News/9803880/According-to-the-army-this-is-a-slow-and-only-partial-restoration-of-the-missile-array-at-this-time---Israels-N12-News.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:38:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803878",
+   "title": "Iran has conducted a series of ballistic missile firing tests in recent days - Israel N12 News",
+   "link": "https://www.financialjuice.com/News/9803878/Iran-has-conducted-a-series-of-ballistic-missile-firing-tests-in-recent-days---Israel-N12-News.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:37:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803877",
+   "title": "Fed's Collins: Officials are well aware that higher rates can create challenges",
+   "link": "https://www.financialjuice.com/News/9803877/Feds-Collins-Officials-are-well-aware-that-higher-rates-can-create-challenges.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:34:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803876",
+   "title": "Aramco headquarters in Dhahran hit during Houthi attacks on Tuesday",
+   "link": "https://www.financialjuice.com/News/9803876/Aramco-headquarters-in-Dhahran-hit-during-Houthi-attacks-on-Tuesday.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:32:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803865",
+   "title": "Fed's Collins: Economic uncertainty is elevated",
+   "link": "https://www.financialjuice.com/News/9803865/Feds-Collins-Economic-uncertainty-is-elevated.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:25:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803864",
+   "title": "Ukraine’s President Zelenskiy: CHPP-4 was hit",
+   "link": "https://www.financialjuice.com/News/9803864/Ukraines-President-Zelenskiy-CHPP-4-was-hit.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:25:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803863",
+   "title": "Ukraine’s President Zelenskiy: Russian ballistic missile attack on Kyiv. The main target was energy infrastructure, CHPP-4.",
+   "link": "https://www.financialjuice.com/News/9803863/Ukraines-President-Zelenskiy-Russian-ballistic-missile-attack-on-Kyiv-The-main-target-was-energy-infrastructure-CHPP-4.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:24:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803862",
+   "title": "Fed's Collins: I am watching to see how broad inflation pressures are in the data.",
+   "link": "https://www.financialjuice.com/News/9803862/Feds-Collins-I-am-watching-to-see-how-broad-inflation-pressures-are-in-the-data.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:24:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803861",
+   "title": "Fed's Collins: Looking at the economy holistically when thinking about the future of rate policy",
+   "link": "https://www.financialjuice.com/News/9803861/Feds-Collins-Looking-at-the-economy-holistically-when-thinking-about-the-future-of-rate-policy.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:23:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803860",
+   "title": "Bank of America fined for anti-money laundering, sanctions violations involving Russia, Iran, other nations; non-tax-deductible charge to hit Q3 EPS by 17c. $BAC",
+   "link": "https://www.financialjuice.com/News/9803860/Bank-of-America-fined-for-anti-money-laundering-sanctions-violations-involving-Russia-Iran-other-nations-non-tax-deductible-charge-to-hit-Q3-EPS-by-17c-BAC.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:21:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803846",
+   "title": "US Treasury Department: Bank of America settles with OFAC for $11.66m $BAC",
+   "link": "https://www.financialjuice.com/News/9803846/US-Treasury-Department-Bank-of-America-settles-with-OFAC-for-1166m-BAC.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:12:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803845",
+   "title": "BoE Gov. Bailey: Forward guidance got us too far to unconditional messaging.",
+   "link": "https://www.financialjuice.com/News/9803845/BoE-Gov-Bailey-Forward-guidance-got-us-too-far-to-unconditional-messaging.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:10:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803844",
+   "title": "BoE Gov. Bailey: I support Warsh's views, forward guidance went too far",
+   "link": "https://www.financialjuice.com/News/9803844/BoE-Gov-Bailey-I-support-Warshs-views-forward-guidance-went-too-far.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:09:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803843",
+   "title": "BoE Gov. Bailey: UK does have a budget profile of a declining deficit",
+   "link": "https://www.financialjuice.com/News/9803843/BoE-Gov-Bailey-UK-does-have-a-budget-profile-of-a-declining-deficit.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:06:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803841",
+   "title": "BoE Gov. Bailey: There is far more leveraged finance now.",
+   "link": "https://www.financialjuice.com/News/9803841/BoE-Gov-Bailey-There-is-far-more-leveraged-finance-now.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:05:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803840",
+   "title": "BoE Gov. Bailey: The longer the energy hit goes on, the harder it gets",
+   "link": "https://www.financialjuice.com/News/9803840/BoE-Gov-Bailey-The-longer-the-energy-hit-goes-on-the-harder-it-gets.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:04:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803839",
+   "title": "BoE Gov. Bailey: So far, second-round effects subdued in UK.",
+   "link": "https://www.financialjuice.com/News/9803839/BoE-Gov-Bailey-So-far-second-round-effects-subdued-in-UK.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:04:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803838",
+   "title": "Bank of America fined $1.2b over money laundering failures - FT $BAC",
+   "link": "https://www.financialjuice.com/News/9803838/Bank-of-America-fined-12b-over-money-laundering-failures---FT-BAC.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:04:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803837",
+   "title": "BoE's Bailey: The longer the inflation hit goes on, the harder it gets",
+   "link": "https://www.financialjuice.com/News/9803837/BoEs-Bailey-The-longer-the-inflation-hit-goes-on-the-harder-it-gets.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:03:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803836",
+   "title": "RBNZ to start repurchase of April 2027 Government Bonds.",
+   "link": "https://www.financialjuice.com/News/9803836/RBNZ-to-start-repurchase-of-April-2027-Government-Bonds.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:02:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803832",
+   "title": "Fed's Collins: Data-center build out is pressuring inflation readings.",
+   "link": "https://www.financialjuice.com/News/9803832/Feds-Collins-Data-center-build-out-is-pressuring-inflation-readings.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:01:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803830",
+   "title": "Fed's Collins: A stable job market should support consumer spending.",
+   "link": "https://www.financialjuice.com/News/9803830/Feds-Collins-A-stable-job-market-should-support-consumer-spending.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:01:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803820",
+   "title": "Fed's Collins: I expect more growth and job market stability.",
+   "link": "https://www.financialjuice.com/News/9803820/Feds-Collins-I-expect-more-growth-and-job-market-stability.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:01:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803817",
+   "title": "Fed's Collins: The US economy has shown resilience in the face of shocks.",
+   "link": "https://www.financialjuice.com/News/9803817/Feds-Collins-The-US-economy-has-shown-resilience-in-the-face-of-shocks.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:01:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803816",
+   "title": "Fed's Collins: I supported the Fed raising rates at the September meeting.",
+   "link": "https://www.financialjuice.com/News/9803816/Feds-Collins-I-supported-the-Fed-raising-rates-at-the-September-meeting.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:00:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803815",
+   "title": "Fed's Collins: Job market is broadly balanced",
+   "link": "https://www.financialjuice.com/News/9803815/Feds-Collins-Job-market-is-broadly-balanced.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:00:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803814",
+   "title": "Fed's Collins: expect inflation to stay above 2% due to high energy prices",
+   "link": "https://www.financialjuice.com/News/9803814/Feds-Collins-expect-inflation-to-stay-above-2-due-to-high-energy-prices.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:00:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803813",
+   "title": "Fed's Collins: Future path of monetary policy in new year will depend on data.",
+   "link": "https://www.financialjuice.com/News/9803813/Feds-Collins-Future-path-of-monetary-policy-in-new-year-will-depend-on-data.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:00:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803812",
+   "title": "Fed's Collins: Elevated risk of high inflation is the Fed's main focus right now.",
+   "link": "https://www.financialjuice.com/News/9803812/Feds-Collins-Elevated-risk-of-high-inflation-is-the-Feds-main-focus-right-now.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 20:00:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803809",
+   "title": "An anonymous report of a bomb on a Delta plane that landed in Israel caused the passengers to disembark in panic - Israel's N12 News",
+   "link": "https://www.financialjuice.com/News/9803809/An-anonymous-report-of-a-bomb-on-a-Delta-plane-that-landed-in-Israel-caused-the-passengers-to-disembark-in-panic---Israels-N12-News.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:58:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803808",
+   "title": "US CPI Prep: Attention on Core Numbers for Evidence of Broader Inflation Pressures - FJElite",
+   "link": "https://www.financialjuice.com/News/9803808/US-CPI-Prep-Attention-on-Core-Numbers-for-Evidence-of-Broader-Inflation-Pressures---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:53:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803807",
+   "title": "US CPI Crib Sheet - FJElite",
+   "link": "https://www.financialjuice.com/News/9803807/US-CPI-Crib-Sheet---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:53:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803806",
+   "title": "Series of explosions in Kyiv, no advance warning or alert given - Witness",
+   "link": "https://www.financialjuice.com/News/9803806/Series-of-explosions-in-Kyiv-no-advance-warning-or-alert-given---Witness.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:52:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803805",
+   "title": "OpenAI: At this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data",
+   "link": "https://www.financialjuice.com/News/9803805/OpenAI-At-this-time-we-have-no-indications-of-this-individual-inappropriately-accessing-or-exfiltrating-model-weights-source-code-or-customer-data.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:50:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803804",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9803804/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:50:30 GMT",
+   "desc": "S&amp;P 500: +453 mln Nasdaq 100: -132 mln Dow 30: +115 mln Mag 7: -223 mln"
+  },
+  {
+   "id": "9803803",
+   "title": "OpenAI: A specific employee had planted a device a few days earlier",
+   "link": "https://www.financialjuice.com/News/9803803/OpenAI-A-specific-employee-had-planted-a-device-a-few-days-earlier.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:50:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803802",
+   "title": "OpenAI: Sophisticated recording device hidden in our offices",
+   "link": "https://www.financialjuice.com/News/9803802/OpenAI-Sophisticated-recording-device-hidden-in-our-offices.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:49:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803801",
+   "title": "Israel's Prime Minister Netanyahu and Trump talked about a possible new Iran action - Axios",
+   "link": "https://www.financialjuice.com/News/9803801/Israels-Prime-Minister-Netanyahu-and-Trump-talked-about-a-possible-new-Iran-action---Axios.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:47:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803795",
+   "title": "Israel's Prime Minister Netanyahu: There is almost no country in the Middle East or in the West that does not ask for help from Israel - Israel's Channel 14",
+   "link": "https://www.financialjuice.com/News/9803795/Israels-Prime-Minister-Netanyahu-There-is-almost-no-country-in-the-Middle-East-or-in-the-West-that-does-not-ask-for-help-from-Israel---Israels-Channel-14.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:44:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803793",
+   "title": "Nvidia: Macron and Huang covered AI safety and our recently launched open agent safety platform. $NVDA",
+   "link": "https://www.financialjuice.com/News/9803793/Nvidia-Macron-and-Huang-covered-AI-safety-and-our-recently-launched-open-agent-safety-platform-NVDA.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:39:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803792",
+   "title": "Nvidia's CEO Huang met with French President Macron $NVDA",
+   "link": "https://www.financialjuice.com/News/9803792/Nvidias-CEO-Huang-met-with-French-President-Macron-NVDA.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:38:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803767",
+   "title": "Wednesday FX Option Expiries",
+   "link": "https://www.financialjuice.com/News/9803767/Wednesday-FX-Option-Expiries.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:21:54 GMT",
+   "desc": "EUR/USD: 1.1500 (EU2.03b), 1.2000 (EU1.74b), 1.1290 (EU1.05b) USD/JPY: 155.00 ($1.61b), 157.00 ($1.29b), 159.00 ($953.6m) AUD/USD: 0.6885 (AUD549.2m), 0.7170 (AUD509.1m), 0.7085 (AUD496.4m) USD/CAD: 1.4250 ($1.83b), 1.3395 ($380m), 1.3730 ($365.9m) EUR/GBP: 0.8495 (EU499.2m) USD/MXN: 17.52 ($419.8m), 17.10 ($378.5m) USD/BRL: 4.9840 ($370m) USD/KRW: 1410.00 ($472.2m)"
+  },
+  {
+   "id": "9803756",
+   "title": "UKMTO: Received another report of a tanker struck in the Strait of Hormuz.",
+   "link": "https://www.financialjuice.com/News/9803756/UKMTO-Received-another-report-of-a-tanker-struck-in-the-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:08:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803755",
+   "title": "UKMTO: A verified source has reported that a container ship was struck by an unknown projectile",
+   "link": "https://www.financialjuice.com/News/9803755/UKMTO-A-verified-source-has-reported-that-a-container-ship-was-struck-by-an-unknown-projectile.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:04:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803754",
+   "title": "UKMTO: Received a report of an incident within the Strait of Hormuz.",
+   "link": "https://www.financialjuice.com/News/9803754/UKMTO-Received-a-report-of-an-incident-within-the-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 19:04:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803738",
+   "title": "Saudi Arabia: Danger has passed in Riyadh.",
+   "link": "https://www.financialjuice.com/News/9803738/Saudi-Arabia-Danger-has-passed-in-Riyadh.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:51:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803737",
+   "title": "Brent Crude futures settle at $105.69/bbl, down 96 cents, 0.9%.",
+   "link": "https://www.financialjuice.com/News/9803737/Brent-Crude-futures-settle-at-10569bbl-down-96-cents-09.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:49:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803729",
+   "title": "Saudi-led Coalition: Intercepted missile toward Dhahran.",
+   "link": "https://www.financialjuice.com/News/9803729/Saudi-led-Coalition-Intercepted-missile-toward-Dhahran.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:43:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803728",
+   "title": "Saudi Arabia issues warning of potential hostile aerial threat to Riyadh - Message.",
+   "link": "https://www.financialjuice.com/News/9803728/Saudi-Arabia-issues-warning-of-potential-hostile-aerial-threat-to-Riyadh---Message.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:41:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803727",
+   "title": "Saudi-led Coalition intercepted a Houthi missile, destroying the missile in the eastern province of Haradh.",
+   "link": "https://www.financialjuice.com/News/9803727/Saudi-led-Coalition-intercepted-a-Houthi-missile-destroying-the-missile-in-the-eastern-province-of-Haradh.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:41:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803726",
+   "title": "Loud booms heard in Dhahran, in the vicinity of the Saudi Aramco headquarters - Six sources.",
+   "link": "https://www.financialjuice.com/News/9803726/Loud-booms-heard-in-Dhahran-in-the-vicinity-of-the-Saudi-Aramco-headquarters---Six-sources.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:35:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803725",
+   "title": "An explosion was heard in the Sharqiya region of Saudi Arabia - ISNA.",
+   "link": "https://www.financialjuice.com/News/9803725/An-explosion-was-heard-in-the-Sharqiya-region-of-Saudi-Arabia---ISNA.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:34:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803723",
+   "title": "NYMEX Natural Gas November futures settle at $3.2830/MMBtu.",
+   "link": "https://www.financialjuice.com/News/9803723/NYMEX-Natural-Gas-November-futures-settle-at-32830MMBtu.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:31:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803710",
+   "title": "NYMEX Diesel November futures settle at $4.9344 a gallon.",
+   "link": "https://www.financialjuice.com/News/9803710/NYMEX-Diesel-November-futures-settle-at-49344-a-gallon.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:31:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803709",
+   "title": "NYMEX Gasoline November futures settle at $3.2501 a gallon.",
+   "link": "https://www.financialjuice.com/News/9803709/NYMEX-Gasoline-November-futures-settle-at-32501-a-gallon.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:31:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803708",
+   "title": "NYMEX WTI Crude November futures settle at $94.14 a barrel, up 40 cents, 0.43%.",
+   "link": "https://www.financialjuice.com/News/9803708/NYMEX-WTI-Crude-November-futures-settle-at-9414-a-barrel-up-40-cents-043.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:31:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803705",
+   "title": "ECB's Lane: The potential for AI to replace some workers may weaken their bargaining power, moderating wage growth.",
+   "link": "https://www.financialjuice.com/News/9803705/ECBs-Lane-The-potential-for-AI-to-replace-some-workers-may-weaken-their-bargaining-power-moderating-wage-growth.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:30:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9803701",
+   "title": "ECB's Lane: An increase in long-term interest rates constitutes a material tightening, relevant for the ECB in setting its policy stance.",
+   "link": "https://www.financialjuice.com/News/9803701/ECBs-Lane-An-increase-in-long-term-interest-rates-constitutes-a-material-tightening-relevant-for-the-ECB-in-setting-its-policy-stance.aspx?xy=rss",
+   "pubDate": "Tue, 13 Oct 2026 18:30:25 GMT",
+   "desc": ""
+  },
   {
    "id": "9803679",
    "title": "Danger has passed in Saudi's eastern province - Statement.",
