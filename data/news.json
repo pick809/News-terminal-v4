@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-10-14T01:36:05.775727+00:00",
- "count": 13404,
+ "updated_at": "2026-10-14T06:39:21.682107+00:00",
+ "count": 13504,
  "items": [
+  {
+   "id": "9804634",
+   "title": "BoE's Pill: To get to 100bps we'd need more concrete evidence of risk",
+   "link": "https://www.financialjuice.com/News/9804634/BoEs-Pill-To-get-to-100bps-wed-need-more-concrete-evidence-of-risk.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:26:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804633",
+   "title": "BoE's Pill: It's misguided to say we shouldn't be reacting to uncertainty",
+   "link": "https://www.financialjuice.com/News/9804633/BoEs-Pill-Its-misguided-to-say-we-shouldnt-be-reacting-to-uncertainty.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:24:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804632",
+   "title": "BoE's Pill: Early move would've shown BoE wasn't 'holding and hoping\"",
+   "link": "https://www.financialjuice.com/News/9804632/BoEs-Pill-Early-move-wouldve-shown-BoE-wasnt-holding-and-hoping.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:22:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804631",
+   "title": "The EU seeks to secure greater access to Vietnam's critical minerals as it worries about supply disruptions from China, competing countries - Documents",
+   "link": "https://www.financialjuice.com/News/9804631/The-EU-seeks-to-secure-greater-access-to-Vietnams-critical-minerals-as-it-worries-about-supply-disruptions-from-China-competing-countries---Documents.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:17:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804630",
+   "title": "BoE's Pill: Underlying UK inflation never fell enough pre-Iran shock.",
+   "link": "https://www.financialjuice.com/News/9804630/BoEs-Pill-Underlying-UK-inflation-never-fell-enough-pre-Iran-shock.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:16:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804616",
+   "title": "BoE's Pill: Even if AI boosts the supply side, it will take time to feed in",
+   "link": "https://www.financialjuice.com/News/9804616/BoEs-Pill-Even-if-AI-boosts-the-supply-side-it-will-take-time-to-feed-in.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:13:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804615",
+   "title": "BoE's Pill: Better forecasts still not showing runaway growth rates",
+   "link": "https://www.financialjuice.com/News/9804615/BoEs-Pill-Better-forecasts-still-not-showing-runaway-growth-rates.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:13:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804613",
+   "title": "BoE's Pill: UK output and labor market have proven more resilient",
+   "link": "https://www.financialjuice.com/News/9804613/BoEs-Pill-UK-output-and-labor-market-have-proven-more-resilient.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:12:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804611",
+   "title": "BoE's Pill: UK output and labor market have proven more resilient.",
+   "link": "https://www.financialjuice.com/News/9804611/BoEs-Pill-UK-output-and-labor-market-have-proven-more-resilient.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:08:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804610",
+   "title": "BoE's Pill: I am a bit more sceptical about market pricing of four rate hikes over the next year",
+   "link": "https://www.financialjuice.com/News/9804610/BoEs-Pill-I-am-a-bit-more-sceptical-about-market-pricing-of-four-rate-hikes-over-the-next-year.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:08:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804609",
+   "title": "Nvidia commits $250m to advance UK agentic safety research $NVDA",
+   "link": "https://www.financialjuice.com/News/9804609/Nvidia-commits-250m-to-advance-UK-agentic-safety-research-NVDA.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:02:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804596",
+   "title": "Swedish CPI MoM Actual 0.9% (Forecast 0.9%, Previous 0.9%)",
+   "link": "https://www.financialjuice.com/News/9804596/Swedish-CPI-MoM-Actual-09-Forecast-09-Previous-09.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:01:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804599",
+   "title": "Swedish CPI YoY Actual 1.1% (Forecast 1.1%, Previous 1.2%)",
+   "link": "https://www.financialjuice.com/News/9804599/Swedish-CPI-YoY-Actual-11-Forecast-11-Previous-12.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804598",
+   "title": "German Wholesale Price Index YoY Actual 8.7% (Forecast -, Previous 6.8%)",
+   "link": "https://www.financialjuice.com/News/9804598/German-Wholesale-Price-Index-YoY-Actual-87-Forecast---Previous-68.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804597",
+   "title": "German Wholesale Price Index MoM Actual 1.9% (Forecast -, Previous 0.9%)",
+   "link": "https://www.financialjuice.com/News/9804597/German-Wholesale-Price-Index-MoM-Actual-19-Forecast---Previous-09.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 06:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804595",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9804595/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:46:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804594",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9804594/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:46:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804580",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9804580/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:45:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804578",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9804578/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:45:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804575",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9804575/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:45:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804574",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9804574/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:44:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804573",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9804573/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:44:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804572",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9804572/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:44:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804571",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9804571/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:43:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804570",
+   "title": "Russia strikes oil facility in western Ukraine's Lutsk - City official",
+   "link": "https://www.financialjuice.com/News/9804570/Russia-strikes-oil-facility-in-western-Ukraines-Lutsk---City-official.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:43:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804569",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9804569/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:43:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804568",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9804568/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:42:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804567",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9804567/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:42:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804566",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9804566/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:41:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804565",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9804565/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:41:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804564",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9804564/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:41:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804563",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9804563/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:40:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804545",
+   "title": "RBC upgrades US healthcare sector to overweight from market weight, downgrades US technology sector to market weight from overweight",
+   "link": "https://www.financialjuice.com/News/9804545/RBC-upgrades-US-healthcare-sector-to-overweight-from-market-weight-downgrades-US-technology-sector-to-market-weight-from-overweight.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:28:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804536",
+   "title": "ASML: looking at ways to further extend capacity in 2028 and beyond",
+   "link": "https://www.financialjuice.com/News/9804536/ASML-looking-at-ways-to-further-extend-capacity-in-2028-and-beyond.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:15:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804543",
+   "title": "$ASML ASML Q3 2026 Earnings",
+   "link": "https://www.financialjuice.com/News/9804543/ASML-ASML-Q3-2026-Earnings.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 05:01:53 GMT",
+   "desc": "Net Sales €7.46B, est. €7.39B Gross Margin 51.6%, est. 51.8% Net Income €2.12B Net Bookings €5.4B Sees Q4 Net Sales €9.2B–€9.8B, est. €9.13B Sees Q4 Gross Margin About 57%, est. 56.4% Sees FY 2026 Net Sales €32.4B–€32.5B Sees FY 2027 Net Sales Growth, Driven by AI Demand Sees FY 2027 Gross Margin 56%, est. 54.9% Sees FY 2027 Net Sales €44B–€45B, Prior €43B–€45B Current 2027–2028 Supply Won&#39;t Fully Meet Demand Investigating 30% Capacity Increase for 2028 Customers Interested in Placing Orders for 2029–2030 Expects Non-EUV Business Growth of About 20% y/y Sees EUV Business Growth Over 45% This Year Sees China About 20% of Total Business This Year"
+  },
+  {
+   "id": "9804492",
+   "title": "Iran executes pro-opposition man accused of armed assaults during conflict: Mizan",
+   "link": "https://www.financialjuice.com/News/9804492/Iran-executes-pro-opposition-man-accused-of-armed-assaults-during-conflict-Mizan.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:56:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804481",
+   "title": "Bofa ends negotiations to underwrite China’s moonshot AI IPO",
+   "link": "https://www.financialjuice.com/News/9804481/Bofa-ends-negotiations-to-underwrite-Chinas-moonshot-AI-IPO.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:45:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804476",
+   "title": "South Korea President Lee names National Tax Service chief Lim Kwang-hyun as new chief of staff: presidential office",
+   "link": "https://www.financialjuice.com/News/9804476/South-Korea-President-Lee-names-National-Tax-Service-chief-Lim-Kwang-hyun-as-new-chief-of-staff-presidential-office.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:31:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804440",
+   "title": "Trump: oil, gas and mineral exploration set to start in Greenland",
+   "link": "https://www.financialjuice.com/News/9804440/Trump-oil-gas-and-mineral-exploration-set-to-start-in-Greenland.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:23:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804439",
+   "title": "Trump: Any future US attack must pass over Greenland, where our defense will regularly shoot down drones",
+   "link": "https://www.financialjuice.com/News/9804439/Trump-Any-future-US-attack-must-pass-over-Greenland-where-our-defense-will-regularly-shoot-down-drones.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:18:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804438",
+   "title": "Trump: extensive oil, gas, and mineral exploration ready to start in our new and beautiful Greenland",
+   "link": "https://www.financialjuice.com/News/9804438/Trump-extensive-oil-gas-and-mineral-exploration-ready-to-start-in-our-new-and-beautiful-Greenland.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:18:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804437",
+   "title": "Ukraine's Kyiv faces power outages after Russian strikes: mayor",
+   "link": "https://www.financialjuice.com/News/9804437/Ukraines-Kyiv-faces-power-outages-after-Russian-strikes-mayor.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:18:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804436",
+   "title": "All infrastructure facilities in Balakovo in Russia's Saratov region operate normally: governor",
+   "link": "https://www.financialjuice.com/News/9804436/All-infrastructure-facilities-in-Balakovo-in-Russias-Saratov-region-operate-normally-governor.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:16:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804429",
+   "title": "Asked about French budget, ECB's Moulin says ECB focuses on inflation, not fiscal matters in specific countries",
+   "link": "https://www.financialjuice.com/News/9804429/Asked-about-French-budget-ECBs-Moulin-says-ECB-focuses-on-inflation-not-fiscal-matters-in-specific-countries.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:14:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804428",
+   "title": "China association of automobile manufacturers: consensus aids in stabilizing industry expectations, maintaining stability and smooth operation of automotive sector and supply chains",
+   "link": "https://www.financialjuice.com/News/9804428/China-association-of-automobile-manufacturers-consensus-aids-in-stabilizing-industry-expectations-maintaining-stability-and-smooth-operation-of-automotive-sector-and-supply-chains.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:13:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804427",
+   "title": "China association of automobile manufacturers: committed to backing advancements in China-EU trade and investment talks",
+   "link": "https://www.financialjuice.com/News/9804427/China-association-of-automobile-manufacturers-committed-to-backing-advancements-in-China-EU-trade-and-investment-talks.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:12:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804426",
+   "title": "Taiwan economy ministry: CPC to buy 6 million tonnes of Alaska LNG annually under current plan, also joining project development",
+   "link": "https://www.financialjuice.com/News/9804426/Taiwan-economy-ministry-CPC-to-buy-6-million-tonnes-of-Alaska-LNG-annually-under-current-plan-also-joining-project-development.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:10:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804425",
+   "title": "Taiwan economy ministry: specific investment terms, equity stakes, and arrangements to be set in later negotiations and contracts",
+   "link": "https://www.financialjuice.com/News/9804425/Taiwan-economy-ministry-specific-investment-terms-equity-stakes-and-arrangements-to-be-set-in-later-negotiations-and-contracts.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:07:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804424",
+   "title": "Taiwan economy ministry: CPC to keep coordinating with US counterparts on procurement, investment, and related issues",
+   "link": "https://www.financialjuice.com/News/9804424/Taiwan-economy-ministry-CPC-to-keep-coordinating-with-US-counterparts-on-procurement-investment-and-related-issues.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:07:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804423",
+   "title": "Taiwan economy ministry: project could start delivering extra natural gas to Taiwan by 2032 if on schedule",
+   "link": "https://www.financialjuice.com/News/9804423/Taiwan-economy-ministry-project-could-start-delivering-extra-natural-gas-to-Taiwan-by-2032-if-on-schedule.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:06:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804422",
+   "title": "Taiwan economy ministry: Alaska LNG project holds geographic edge with direct Pacific shipping routes to Taiwan",
+   "link": "https://www.financialjuice.com/News/9804422/Taiwan-economy-ministry-Alaska-LNG-project-holds-geographic-edge-with-direct-Pacific-shipping-routes-to-Taiwan.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:06:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804421",
+   "title": "Taiwan economy ministry: after almost 18 months of intense talks and thorough assessment, CPC achieves major progress with U.S. developer",
+   "link": "https://www.financialjuice.com/News/9804421/Taiwan-economy-ministry-after-almost-18-months-of-intense-talks-and-thorough-assessment-CPC-achieves-major-progress-with-US-developer.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:05:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804420",
+   "title": "UK finance minister Healey to fund budget giveaways without extra borrowing: FT",
+   "link": "https://www.financialjuice.com/News/9804420/UK-finance-minister-Healey-to-fund-budget-giveaways-without-extra-borrowing-FT.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:03:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804419",
+   "title": "ECB's Moulin: Pension overhaul supports public finances",
+   "link": "https://www.financialjuice.com/News/9804419/ECBs-Moulin-Pension-overhaul-supports-public-finances.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:03:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804418",
+   "title": "ECB's Moulin: France must urgently demonstrate commitment to fiscal consolidation and approve 2027 budget, reduce deficit",
+   "link": "https://www.financialjuice.com/News/9804418/ECBs-Moulin-France-must-urgently-demonstrate-commitment-to-fiscal-consolidation-and-approve-2027-budget-reduce-deficit.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 04:01:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804387",
+   "title": "ECB's Moulin: the rise in yields may affect demand and prompt a more moderate response to inflation shock",
+   "link": "https://www.financialjuice.com/News/9804387/ECBs-Moulin-the-rise-in-yields-may-affect-demand-and-prompt-a-more-moderate-response-to-inflation-shock.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:54:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804386",
+   "title": "ECB's Moulin: inflation expectations among corporates and households in medium term remain well anchored",
+   "link": "https://www.financialjuice.com/News/9804386/ECBs-Moulin-inflation-expectations-among-corporates-and-households-in-medium-term-remain-well-anchored.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:51:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804385",
+   "title": "French central bank governor Moulin: inflation mainly driven by Middle East conflict, energy factors",
+   "link": "https://www.financialjuice.com/News/9804385/French-central-bank-governor-Moulin-inflation-mainly-driven-by-Middle-East-conflict-energy-factors.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:47:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804376",
+   "title": "US Justice Department orders California to isolate ballots from suspected noncitizen voters, threatens lawsuit - letter",
+   "link": "https://www.financialjuice.com/News/9804376/US-Justice-Department-orders-California-to-isolate-ballots-from-suspected-noncitizen-voters-threatens-lawsuit---letter.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:42:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804375",
+   "title": "China September oil product exports 7.16 million tonnes versus 6.01 million tonnes in August - customs",
+   "link": "https://www.financialjuice.com/News/9804375/China-September-oil-product-exports-716-million-tonnes-versus-601-million-tonnes-in-August---customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:41:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804374",
+   "title": "China jan-sep oil product exports 41.40 mln tonnes compared with 43.00 mln tonnes year earlier - customs",
+   "link": "https://www.financialjuice.com/News/9804374/China-jan-sep-oil-product-exports-4140-mln-tonnes-compared-with-4300-mln-tonnes-year-earlier---customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:41:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804373",
+   "title": "China finance ministry issues 3-month bills at 1.133% yield: traders",
+   "link": "https://www.financialjuice.com/News/9804373/China-finance-ministry-issues-3-month-bills-at-1133-yield-traders.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:41:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804372",
+   "title": "China finance ministry auctions one-year bonds at 1.16% yield: traders",
+   "link": "https://www.financialjuice.com/News/9804372/China-finance-ministry-auctions-one-year-bonds-at-116-yield-traders.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:41:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804371",
+   "title": "China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2166% yield: traders",
+   "link": "https://www.financialjuice.com/News/9804371/China-finance-ministry-auctions-50-year-ultra-long-special-treasury-bonds-at-22166-yield-traders.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:40:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804370",
+   "title": "ECB will likely raise interest rates again, Wunsch says",
+   "link": "https://www.financialjuice.com/News/9804370/ECB-will-likely-raise-interest-rates-again-Wunsch-says.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:34:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804361",
+   "title": "Russian air strike damages energy facilities in Ukraine's Kyiv, mayor says",
+   "link": "https://www.financialjuice.com/News/9804361/Russian-air-strike-damages-energy-facilities-in-Ukraines-Kyiv-mayor-says.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 03:11:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804351",
+   "title": "China commerce ministry: fertilizer import tariff quotas for 2027 set at 13.65 mln metric tons, unchanged from 2026",
+   "link": "https://www.financialjuice.com/News/9804351/China-commerce-ministry-fertilizer-import-tariff-quotas-for-2027-set-at-1365-mln-metric-tons-unchanged-from-2026.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:58:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804324",
+   "title": "China september rare earth shipments 4,269.8 tonnes vs 4,735.1 tonnes in august: customs",
+   "link": "https://www.financialjuice.com/News/9804324/China-september-rare-earth-shipments-42698-tonnes-vs-47351-tonnes-in-august-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804323",
+   "title": "China jan-sep unwrought aluminium and aluminium products exports 5.32m tonnes vs 4.52m tonnes year earlier: customs",
+   "link": "https://www.financialjuice.com/News/9804323/China-jan-sep-unwrought-aluminium-and-aluminium-products-exports-532m-tonnes-vs-452m-tonnes-year-earlier-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804322",
+   "title": "China Jan-Sep natural gas shipments 89.23 million tonnes vs 92.81 million tonnes yr earlier: customs",
+   "link": "https://www.financialjuice.com/News/9804322/China-Jan-Sep-natural-gas-shipments-8923-million-tonnes-vs-9281-million-tonnes-yr-earlier-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804321",
+   "title": "China September unwrought aluminium and aluminium product exports rise to 656,000 tonnes from 626,000 tonnes in August: customs",
+   "link": "https://www.financialjuice.com/News/9804321/China-September-unwrought-aluminium-and-aluminium-product-exports-rise-to-656000-tonnes-from-626000-tonnes-in-August-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804320",
+   "title": "China September copper concentrate imports 2.48 million tonnes, versus 2.51 million tonnes in August: customs",
+   "link": "https://www.financialjuice.com/News/9804320/China-September-copper-concentrate-imports-248-million-tonnes-versus-251-million-tonnes-in-August-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804319",
+   "title": "China Jan-Sep copper concentrates imports at 21.97 million tonnes vs 22.64 million tonnes a year earlier: customs",
+   "link": "https://www.financialjuice.com/News/9804319/China-Jan-Sep-copper-concentrates-imports-at-2197-million-tonnes-vs-2264-million-tonnes-a-year-earlier-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804318",
+   "title": "China jan-sep rare earth shipments 43,711.2 tonnes vs 48,355.6 tonnes year earlier: Customs",
+   "link": "https://www.financialjuice.com/News/9804318/China-jan-sep-rare-earth-shipments-437112-tonnes-vs-483556-tonnes-year-earlier-Customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804317",
+   "title": "China September natural gas imports 10.86 million tonnes vs 10.33 million tonnes in August: customs",
+   "link": "https://www.financialjuice.com/News/9804317/China-September-natural-gas-imports-1086-million-tonnes-vs-1033-million-tonnes-in-August-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804316",
+   "title": "China September oil product imports 1.85 million tonnes vs 2.25 million tonnes in August: customs",
+   "link": "https://www.financialjuice.com/News/9804316/China-September-oil-product-imports-185-million-tonnes-vs-225-million-tonnes-in-August-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804315",
+   "title": "China jan-sep unwrought copper and copper products imports total 3.758 million tonnes, down from 4.018 million tonnes a year earlier - customs",
+   "link": "https://www.financialjuice.com/News/9804315/China-jan-sep-unwrought-copper-and-copper-products-imports-total-3758-million-tonnes-down-from-4018-million-tonnes-a-year-earlier---customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804314",
+   "title": "China september unwrought copper and copper products imports 461,000 tonnes, vs 382,000 tonnes in august: customs",
+   "link": "https://www.financialjuice.com/News/9804314/China-september-unwrought-copper-and-copper-products-imports-461000-tonnes-vs-382000-tonnes-in-august-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804313",
+   "title": "China Jan-Sep oil product imports 24 million tonnes vs 30.68 million tonnes year earlier: customs",
+   "link": "https://www.financialjuice.com/News/9804313/China-Jan-Sep-oil-product-imports-24-million-tonnes-vs-3068-million-tonnes-year-earlier-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804312",
+   "title": "China jan-sep crude oil shipments 357.97 million tonnes vs 422.61 million tonnes year earlier - customs",
+   "link": "https://www.financialjuice.com/News/9804312/China-jan-sep-crude-oil-shipments-35797-million-tonnes-vs-42261-million-tonnes-year-earlier---customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804311",
+   "title": "China September crude oil imports 37.10 million tonnes vs 37.93 million tonnes in August: customs",
+   "link": "https://www.financialjuice.com/News/9804311/China-September-crude-oil-imports-3710-million-tonnes-vs-3793-million-tonnes-in-August-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:39:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804310",
+   "title": "China customs vice minister: country’s integrated supply chains and technological innovation capabilities bolster global computing and power demand growth",
+   "link": "https://www.financialjuice.com/News/9804310/China-customs-vice-minister-countrys-integrated-supply-chains-and-technological-innovation-capabilities-bolster-global-computing-and-power-demand-growth.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:37:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804309",
+   "title": "China September trade surplus with United States $34.01 billion, customs data show",
+   "link": "https://www.financialjuice.com/News/9804309/China-September-trade-surplus-with-United-States-3401-billion-customs-data-show.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:32:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804308",
+   "title": "China customs vice minister: stable economic operations, expanding advanced manufacturing and strong demand for key components drive growth",
+   "link": "https://www.financialjuice.com/News/9804308/China-customs-vice-minister-stable-economic-operations-expanding-advanced-manufacturing-and-strong-demand-for-key-components-drive-growth.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:31:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804307",
+   "title": "China’s September trade surplus at 905.97 billion yuan",
+   "link": "https://www.financialjuice.com/News/9804307/Chinas-September-trade-surplus-at-90597-billion-yuan.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:31:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804296",
+   "title": "China sept trade surplus $133.53 bln beats poll estimate of $118.1 bln",
+   "link": "https://www.financialjuice.com/News/9804296/China-sept-trade-surplus-13353-bln-beats-poll-estimate-of-1181-bln.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:31:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804293",
+   "title": "China Sept dollar-denominated exports jump 36.3% y/y, beats poll of 25.5%",
+   "link": "https://www.financialjuice.com/News/9804293/China-Sept-dollar-denominated-exports-jump-363-yy-beats-poll-of-255.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:30:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804289",
+   "title": "China customs vice minister: China’s imports have climbed more than 20% monthly since March",
+   "link": "https://www.financialjuice.com/News/9804289/China-customs-vice-minister-Chinas-imports-have-climbed-more-than-20-monthly-since-March.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:29:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804288",
+   "title": "ECB’s president Lagarde: will not contest French presidency",
+   "link": "https://www.financialjuice.com/News/9804288/ECBs-president-Lagarde-will-not-contest-French-presidency.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:29:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804287",
+   "title": "ECB President Lagarde: Growth isn’t strong, but 1.1% expansion in 2026 isn’t bad",
+   "link": "https://www.financialjuice.com/News/9804287/ECB-President-Lagarde-Growth-isnt-strong-but-11-expansion-in-2026-isnt-bad.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:25:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804286",
+   "title": "China customs vice minister: current exports outlook for Q4 remains unchanged",
+   "link": "https://www.financialjuice.com/News/9804286/China-customs-vice-minister-current-exports-outlook-for-Q4-remains-unchanged.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:24:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804285",
+   "title": "ECB’s President Lagarde: primary and initial solution to French debt resides in French fiscal policy",
+   "link": "https://www.financialjuice.com/News/9804285/ECBs-President-Lagarde-primary-and-initial-solution-to-French-debt-resides-in-French-fiscal-policy.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:23:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804284",
+   "title": "ECB President Lagarde: in Europe there is anticipation of wage hikes through collective bargaining, we are monitoring those signals",
+   "link": "https://www.financialjuice.com/News/9804284/ECB-President-Lagarde-in-Europe-there-is-anticipation-of-wage-hikes-through-collective-bargaining-we-are-monitoring-those-signals.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:20:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804283",
+   "title": "ECB President Lagarde: we can’t wait until signs are obvious but can anticipate, look for clues",
+   "link": "https://www.financialjuice.com/News/9804283/ECB-President-Lagarde-we-cant-wait-until-signs-are-obvious-but-can-anticipate-look-for-clues.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:19:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804282",
+   "title": "China Sept yuan-denominated exports rise 29.6% y/y",
+   "link": "https://www.financialjuice.com/News/9804282/China-Sept-yuan-denominated-exports-rise-296-yy.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:19:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804281",
+   "title": "China jan-sept yuan-denominated imports rise 22.3% y/y: customs",
+   "link": "https://www.financialjuice.com/News/9804281/China-jan-sept-yuan-denominated-imports-rise-223-yy-customs.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:19:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804280",
+   "title": "China customs vice minister: China's foreign trade maintains strong growth momentum",
+   "link": "https://www.financialjuice.com/News/9804280/China-customs-vice-minister-Chinas-foreign-trade-maintains-strong-growth-momentum.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:19:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804279",
+   "title": "ECB President Lagarde: no second-round effects visible yet",
+   "link": "https://www.financialjuice.com/News/9804279/ECB-President-Lagarde-no-second-round-effects-visible-yet.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:19:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804278",
+   "title": "China customs vice minister: global uncertainties persist for full-year trade, including geopolitical conflicts",
+   "link": "https://www.financialjuice.com/News/9804278/China-customs-vice-minister-global-uncertainties-persist-for-full-year-trade-including-geopolitical-conflicts.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:19:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9804277",
+   "title": "China customs vice minister: China's import and export steady expansion rooted in Q4",
+   "link": "https://www.financialjuice.com/News/9804277/China-customs-vice-minister-Chinas-import-and-export-steady-expansion-rooted-in-Q4.aspx?xy=rss",
+   "pubDate": "Wed, 14 Oct 2026 02:19:21 GMT",
+   "desc": ""
+  },
   {
    "id": "9804132",
    "title": "Chinese CPI MoM Actual 0.2% (Forecast -, Previous 0.4%)",
