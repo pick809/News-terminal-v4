@@ -1,7 +1,588 @@
 {
- "updated_at": "2026-10-19T06:17:27.838464+00:00",
- "count": 14464,
+ "updated_at": "2026-10-19T13:29:22.861370+00:00",
+ "count": 14547,
  "items": [
+  {
+   "id": "9811415",
+   "title": "Iran's Foreign Minister Aragchi: Regional issues should be resolved through diplomacy - State TV",
+   "link": "https://www.financialjuice.com/News/9811415/Irans-Foreign-Minister-Aragchi-Regional-issues-should-be-resolved-through-diplomacy---State-TV.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:28:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811414",
+   "title": "Egypt's parliament postpones vote on support to Saudi Arabia to October 26th - Lawmakers",
+   "link": "https://www.financialjuice.com/News/9811414/Egypts-parliament-postpones-vote-on-support-to-Saudi-Arabia-to-October-26th---Lawmakers.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:25:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811405",
+   "title": "A commercial private jet from the UAE arrived in Tehran at the same time as Lavrov arrived - Iran's Sepah News",
+   "link": "https://www.financialjuice.com/News/9811405/A-commercial-private-jet-from-the-UAE-arrived-in-Tehran-at-the-same-time-as-Lavrov-arrived---Irans-Sepah-News.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:15:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811404",
+   "title": "Trump administration removing Chinese AI DeepSeek from civilian government agency IT systems, barring purchase of DeepSeek-related products by government agencies - Notice",
+   "link": "https://www.financialjuice.com/News/9811404/Trump-administration-removing-Chinese-AI-DeepSeek-from-civilian-government-agency-IT-systems-barring-purchase-of-DeepSeek-related-products-by-government-agencies---Notice.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:14:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811403",
+   "title": "Pentagon's Michael: We are seeking AI framework on incident response.",
+   "link": "https://www.financialjuice.com/News/9811403/Pentagons-Michael-We-are-seeking-AI-framework-on-incident-response.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:13:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811402",
+   "title": "Chinese Premier: All parties concerned should opt for peace, resume dialogue and negotiations at an early date - Xinhua",
+   "link": "https://www.financialjuice.com/News/9811402/Chinese-Premier-All-parties-concerned-should-opt-for-peace-resume-dialogue-and-negotiations-at-an-early-date---Xinhua.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:13:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811401",
+   "title": "Chinese Premier: We are ready to advance exchanges, cooperation with Iran - Xinhua.",
+   "link": "https://www.financialjuice.com/News/9811401/Chinese-Premier-We-are-ready-to-advance-exchanges-cooperation-with-Iran---Xinhua.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:11:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811400",
+   "title": "Pentagon's Michael: Current laws are more than sufficient for AI regulation",
+   "link": "https://www.financialjuice.com/News/9811400/Pentagons-Michael-Current-laws-are-more-than-sufficient-for-AI-regulation.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:09:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811399",
+   "title": "Microsoft's Nadella: New capabilities to assess agent risk, contain threats.",
+   "link": "https://www.financialjuice.com/News/9811399/Microsofts-Nadella-New-capabilities-to-assess-agent-risk-contain-threats.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:07:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811398",
+   "title": "Microsoft's Nadella: Expanding project perception with new capabilities.",
+   "link": "https://www.financialjuice.com/News/9811398/Microsofts-Nadella-Expanding-project-perception-with-new-capabilities.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:07:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811397",
+   "title": "Microsoft launches dynamic permissions for agentic AI systems.",
+   "link": "https://www.financialjuice.com/News/9811397/Microsoft-launches-dynamic-permissions-for-agentic-AI-systems.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:05:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811395",
+   "title": "Amazon: TorchNeuron to be open-sourced at PyTorch conference on October 20",
+   "link": "https://www.financialjuice.com/News/9811395/Amazon-TorchNeuron-to-be-open-sourced-at-PyTorch-conference-on-October-20.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:04:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811394",
+   "title": "Amazon: Amazon opens its AWS Trainium AI chips to all PyTorch developers.",
+   "link": "https://www.financialjuice.com/News/9811394/Amazon-Amazon-opens-its-AWS-Trainium-AI-chips-to-all-PyTorch-developers.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:04:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811393",
+   "title": "Pentagon's Emil Michael vows export controls if AI labs don't cooperate with government - The Information.",
+   "link": "https://www.financialjuice.com/News/9811393/Pentagons-Emil-Michael-vows-export-controls-if-AI-labs-dont-cooperate-with-government---The-Information.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:03:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811376",
+   "title": "Goldman Sachs on AI - FJElite",
+   "link": "https://www.financialjuice.com/News/9811376/Goldman-Sachs-on-AI---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 13:00:16 GMT",
+   "desc": "Highlight chart of the weekend shows the pair trade of “AI winners” vs “AI at risk” - is now flat on the year, after being up almost 100% from Jan26 through June month-end"
+  },
+  {
+   "id": "9811375",
+   "title": "Effective Fed Funds Rate 3.88% October 16 vs 3.88% October 15.",
+   "link": "https://www.financialjuice.com/News/9811375/Effective-Fed-Funds-Rate-388-October-16-vs-388-October-15.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:59:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811374",
+   "title": "Deutsche Bank's View on EUR - FJElite",
+   "link": "https://www.financialjuice.com/News/9811374/Deutsche-Banks-View-on-EUR---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:56:18 GMT",
+   "desc": "Slow start to the week with the market digesting the headlines over the weekend of the serious protests in France, increasing the focus on the near-term OAT/Bund spread again as well as the French Election in April 2027 Today, we have rolled over the first round of the elections with 6m rolling from 6.40 to 6.60 with the weight for both rounds at nearly 30 additive vols priced Given the renewed unrests and its pressure for fiscal expansion, I could see this weight squeeze even higher as the market is already worried about the French deficit and no party is currently offering plausible solutions So far, the EUR hasn’t really reacted much, but makers have already started to raise their RR slightly in the frontend with 1w RR being paid at 0.45 As highlighted previously though, the spot vol sensitivity is much lower as the market had time to digest the large downside flows from a wave of unwinds last week so the question is whether vols would really squeeze much higher if spot was to trade lower Even as the event weight itself might sounds high, base vols are still very low compared to history and RR and flies have repriced a lot recently, so I think adding some EUR weakness trades into the portfolio makes sense from these levels"
+  },
+  {
+   "id": "9811373",
+   "title": "JPMorgan on USD - FJElite",
+   "link": "https://www.financialjuice.com/News/9811373/JPMorgan-on-USD---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:51:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811357",
+   "title": "US Sentiment: Potential breakthrough in Iran-US Tensions? - FJElite",
+   "link": "https://www.financialjuice.com/News/9811357/US-Sentiment-Potential-breakthrough-in-Iran-US-Tensions---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:45:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811349",
+   "title": "WH Sr. Adviser Hassett: People are 'euphoric' about how great economy is.",
+   "link": "https://www.financialjuice.com/News/9811349/WH-Sr-Adviser-Hassett-People-are-euphoric-about-how-great-economy-is.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:42:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811348",
+   "title": "WH Sr. Adviser Hassett: Discretionary travel is a sign people are feeling good",
+   "link": "https://www.financialjuice.com/News/9811348/WH-Sr-Adviser-Hassett-Discretionary-travel-is-a-sign-people-are-feeling-good.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:39:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811347",
+   "title": "WH Sr. Adviser Hassett: Inflation looks like it's back needing some work.",
+   "link": "https://www.financialjuice.com/News/9811347/WH-Sr-Adviser-Hassett-Inflation-looks-like-its-back-needing-some-work.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:38:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811346",
+   "title": "Bank of Canada October rate hike chances dip to 68% from 74% before inflation data - Swap Market Data.",
+   "link": "https://www.financialjuice.com/News/9811346/Bank-of-Canada-October-rate-hike-chances-dip-to-68-from-74-before-inflation-data---Swap-Market-Data.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:35:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811345",
+   "title": "NYSE extends trading hours for NYSE American options.",
+   "link": "https://www.financialjuice.com/News/9811345/NYSE-extends-trading-hours-for-NYSE-American-options.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:32:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811320",
+   "title": "BoC Core CPI MoM Actual 0.0% (Forecast -, Previous 0.1%)",
+   "link": "https://www.financialjuice.com/News/9811320/BoC-Core-CPI-MoM-Actual-00-Forecast---Previous-01.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:31:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811319",
+   "title": "Canadian CPI Common Actual 2.4% (Forecast -, Previous 2.6%)",
+   "link": "https://www.financialjuice.com/News/9811319/Canadian-CPI-Common-Actual-24-Forecast---Previous-26.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:31:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811318",
+   "title": "Canadian Core CPI MoM Actual 0.1% (Forecast -, Previous 0.2%)",
+   "link": "https://www.financialjuice.com/News/9811318/Canadian-Core-CPI-MoM-Actual-01-Forecast---Previous-02.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:31:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811317",
+   "title": "BoC Core CPI YoY Actual 2.2% (Forecast -, Previous 2.4%)",
+   "link": "https://www.financialjuice.com/News/9811317/BoC-Core-CPI-YoY-Actual-22-Forecast---Previous-24.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:31:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811316",
+   "title": "Canadian CPI Trim Actual 1.8% (Forecast 1.9%, Previous 1.9%)",
+   "link": "https://www.financialjuice.com/News/9811316/Canadian-CPI-Trim-Actual-18-Forecast-19-Previous-19.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811315",
+   "title": "Canadian CPI MoM Actual 0.1% (Forecast 0.2%, Previous -0.1%)",
+   "link": "https://www.financialjuice.com/News/9811315/Canadian-CPI-MoM-Actual-01-Forecast-02-Previous--01.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811314",
+   "title": "Canadian CPI YoY Actual 3.1% (Forecast 3.2%, Previous 3.0%)",
+   "link": "https://www.financialjuice.com/News/9811314/Canadian-CPI-YoY-Actual-31-Forecast-32-Previous-30.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:30:01 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"kXEQX1EN\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9811313",
+   "title": "Canadian CPI Median Actual 1.9% (Forecast 2%, Previous 2.0%)",
+   "link": "https://www.financialjuice.com/News/9811313/Canadian-CPI-Median-Actual-19-Forecast-2-Previous-20.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811312",
+   "title": "Qatar's energy minister meets Iran's acting oil minister in Doha, discusses energy cooperation - Statement",
+   "link": "https://www.financialjuice.com/News/9811312/Qatars-energy-minister-meets-Irans-acting-oil-minister-in-Doha-discusses-energy-cooperation---Statement.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:29:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811311",
+   "title": "Saudi civil defense: Danger has passed in Najran",
+   "link": "https://www.financialjuice.com/News/9811311/Saudi-civil-defense-Danger-has-passed-in-Najran.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:19:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811310",
+   "title": "Russian Foreign Minister Lavrov informs Iran's Araghchi about the results of negotiations with Arab countries - IRNA, citing Russian Media",
+   "link": "https://www.financialjuice.com/News/9811310/Russian-Foreign-Minister-Lavrov-informs-Irans-Araghchi-about-the-results-of-negotiations-with-Arab-countries---IRNA-citing-Russian-Media-.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:18:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811309",
+   "title": "Saudi Civil Defense issues alert over potential danger in Najran.",
+   "link": "https://www.financialjuice.com/News/9811309/Saudi-Civil-Defense-issues-alert-over-potential-danger-in-Najran.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:17:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811300",
+   "title": "Iran's Foreign Minister meets Russia's Lavrov in Tehran - Tasnim.",
+   "link": "https://www.financialjuice.com/News/9811300/Irans-Foreign-Minister-meets-Russias-Lavrov-in-Tehran---Tasnim.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:13:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811299",
+   "title": "US Secretary of State Rubio and Uzbekistan FM agree to deepen work on critical minerals",
+   "link": "https://www.financialjuice.com/News/9811299/US-Secretary-of-State-Rubio-and-Uzbekistan-FM-agree-to-deepen-work-on-critical-minerals.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:02:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811298",
+   "title": "Siemens, NVIDIA to advance AI-driven, autonomous factories.",
+   "link": "https://www.financialjuice.com/News/9811298/Siemens-NVIDIA-to-advance-AI-driven-autonomous-factories.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:01:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811283",
+   "title": "Strategy buys 267 bitcoin for aggregate purchase price $22.1m.",
+   "link": "https://www.financialjuice.com/News/9811283/Strategy-buys-267-bitcoin-for-aggregate-purchase-price-221m.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 12:01:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811272",
+   "title": "Secured Overnight Financing Rate 3.88% October 16 vs 3.89% October 15",
+   "link": "https://www.financialjuice.com/News/9811272/Secured-Overnight-Financing-Rate-388-October-16-vs-389-October-15.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 11:59:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811271",
+   "title": "Microsoft: Still committed to partnership with Nscale - NYT $MSFT",
+   "link": "https://www.financialjuice.com/News/9811271/Microsoft-Still-committed-to-partnership-with-Nscale---NYT-MSFT.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 11:54:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811256",
+   "title": "China's He holds a video call with Russia official - Xinhua",
+   "link": "https://www.financialjuice.com/News/9811256/Chinas-He-holds-a-video-call-with-Russia-official---Xinhua.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 11:45:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811203",
+   "title": "French PM: If declaring a state of emergency is deemed necessary, we would do so",
+   "link": "https://www.financialjuice.com/News/9811203/French-PM-If-declaring-a-state-of-emergency-is-deemed-necessary-we-would-do-so.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 10:50:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811204",
+   "title": "A breakthrough is expected to be announced this week, aimed at de-escalating tensions between Washington and Tehran - Al Arabiya",
+   "link": "https://www.financialjuice.com/News/9811204/A-breakthrough-is-expected-to-be-announced-this-week-aimed-at-de-escalating-tensions-between-Washington-and-Tehran---Al-Arabiya.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 10:38:43 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"34Voju1q\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9811205",
+   "title": "Mediation efforts are ongoing to narrow the points of disagreement between the two parties and encourage them to make mutual concessions to prevent a renewed conflict - Al Arabiya",
+   "link": "https://www.financialjuice.com/News/9811205/Mediation-efforts-are-ongoing-to-narrow-the-points-of-disagreement-between-the-two-parties-and-encourage-them-to-make-mutual-concessions-to-prevent-a-renewed-conflict---Al-Arabiya.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 10:38:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811195",
+   "title": "French PM: Furlough measures open from Tuesday onwards for businesses impacted by the protests.",
+   "link": "https://www.financialjuice.com/News/9811195/French-PM-Furlough-measures-open-from-Tuesday-onwards-for-businesses-impacted-by-the-protests.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 10:36:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811149",
+   "title": "Kremlin on proposed Putin, Trump, Xi summit - No substantive agreements and agenda yet",
+   "link": "https://www.financialjuice.com/News/9811149/Kremlin-on-proposed-Putin-Trump-Xi-summit---No-substantive-agreements-and-agenda-yet.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 10:00:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811147",
+   "title": "China to allow more brokerages in onshore fx market - Xinhua",
+   "link": "https://www.financialjuice.com/News/9811147/China-to-allow-more-brokerages-in-onshore-fx-market---Xinhua.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 09:51:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811079",
+   "title": "ING: The USD - FJElite",
+   "link": "https://www.financialjuice.com/News/9811079/ING-The-USD---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 09:00:49 GMT",
+   "desc": "Al-related jitters entered the FX picture last week, although currencies are more accurately borrowing the reaction from the rates channel. The USD two-year OIS/SOFR has dropped 25bp from the 14 October post-US CPI print. These are mammoth moves considering they have been driven almost entirely by AI concerns, with effectively no macro input. Markets appear to have a clear reaction function in mind: stock market turmoil is enough to drastically reduce Federal Reserve tightening plans, even with inflation running hot. The reasoning is probably linked to the market wealth effect that many believe has underpinned US economic resilience. This is enough to suggest the dollar will not be the safe-haven of choice and may actually lag many other G10 currencies if stock market instability originates in&nbsp; tech/AI. Still, contagion to broader US and world equity indices has so far been contained, while the Nasdaq drop has only erased the last 30 days of gains. Al-related sentiment will remain an input for FX this week, but could easily fade if tech stocks find some stability. From a macro perspective, despite the repricing lower in US rates, we do not feel this marks the start of a major USD downtrend. A December Fed hike remains a likely outcome; policymakers do not appear to be in a position to send a dovish message at the October meeting, and still-elevated energy prices argue against a material recovery in global bond markets. A return to 101.0 in DXY remains possible over the coming weeks, but we do not see much more downside beyond that for now. The US calendar is rather light this week, while the FOMC is in its pre-meeting communication blackout. For now, we are not observing any obvious FX impact from souring US-Ukraine (and Europe) relationships. Markets are probably quite cautious about pricing in an imminent end to the Russia-Ukraine conflict or any longer-term implications for Europe. Things could change in the case of meaningful developments this week."
+  },
+  {
+   "id": "9811074",
+   "title": "PBOC Governor: China weighs overnight reverse repo rate as policy rate.",
+   "link": "https://www.financialjuice.com/News/9811074/PBOC-Governor-China-weighs-overnight-reverse-repo-rate-as-policy-rate.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:54:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811073",
+   "title": "PBOC Governor: To further improve precision of interest rate regulation, the People's Bank of China to study switching main open market operation tenor to overnight at appropriate time - State Media",
+   "link": "https://www.financialjuice.com/News/9811073/PBOC-Governor-To-further-improve-precision-of-interest-rate-regulation-the-Peoples-Bank-of-China-to-study-switching-main-open-market-operation-tenor-to-overnight-at-appropriate-time---State-Media.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:49:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811072",
+   "title": "Trafigura Chief Economist Rahim: MidEast oil products flows down 4m b/d v. pre-war level.",
+   "link": "https://www.financialjuice.com/News/9811072/Trafigura-Chief-Economist-Rahim-MidEast-oil-products-flows-down-4m-bd-v-pre-war-level.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:48:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811071",
+   "title": "Trafigura Chief Economist Rahim: MidEast crude flows down 5m-7m b/d v. pre-war level.",
+   "link": "https://www.financialjuice.com/News/9811071/Trafigura-Chief-Economist-Rahim-MidEast-crude-flows-down-5m-7m-bd-v-pre-war-level.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:47:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811064",
+   "title": "ING: The EUR - FJElite",
+   "link": "https://www.financialjuice.com/News/9811064/ING-The-EUR---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:42:57 GMT",
+   "desc": "EUR/USD briefly dropped back below 1.120 overnight before inching higher again this morning. The move in short-term rate differentials has pushed our short-term fair value estimate for EUR/USD higher to around 1.137-1.139. The current undervaluation is therefore around 1.3-1.5%, broadly consistent with French fiscal risk remaining very much present, as reflected in the lOyr OAT-Bund spread hovering around 135-140bp. Markets have appeared tentatively more relaxed about the budget situation. Still, continued widespread protests in France over the weekend should weigh on domestic stocks and could spill over into the bond market. We doubt that is enough to drive further sustained widening per se, but it may limit EUR/USD&#39;s ability to return to Friday&#39;s levels. On the macro side, the highlight of the week is Friday&#39;s PMI release. Expectations are for a modest softening in the eurozone composite figure, while remaining well inside expansionary territory. Tomorrow, Germany&#39;s ZEW index will be in focus. The balance of risks for EUR/USD is fairly even at this stage. Downside risk continues to stem from France, although it has abated somewhat as of late, while the upside comes from further AI concerns hitting Fed rate expectations. Our month-ahead target remains 1.130."
+  },
+  {
+   "id": "9811063",
+   "title": "PBOC Governor: China to facilitate overseas financial institutions to conduct RMB trading in the domestic foreign exchange market - CCTV",
+   "link": "https://www.financialjuice.com/News/9811063/PBOC-Governor-China-to-facilitate-overseas-financial-institutions-to-conduct-RMB-trading-in-the-domestic-foreign-exchange-market---CCTV.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:34:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811062",
+   "title": "PBOC Governor: Announces other policy measures like expanding the scope of institutions eligible for standing lending facilities, promoting bond market connectivity - CCTV.",
+   "link": "https://www.financialjuice.com/News/9811062/PBOC-Governor-Announces-other-policy-measures-like-expanding-the-scope-of-institutions-eligible-for-standing-lending-facilities-promoting-bond-market-connectivity---CCTV.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:34:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811059",
+   "title": "South Korea's Lee: Need to continue improving corporate governance.",
+   "link": "https://www.financialjuice.com/News/9811059/South-Koreas-Lee-Need-to-continue-improving-corporate-governance.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:31:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811045",
+   "title": "South Korea's Lee: Difficult for government to intervene in stock market.",
+   "link": "https://www.financialjuice.com/News/9811045/South-Koreas-Lee-Difficult-for-government-to-intervene-in-stock-market.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:30:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811044",
+   "title": "South Korea's Lee: Stock correction is inevitable after sharp rally.",
+   "link": "https://www.financialjuice.com/News/9811044/South-Koreas-Lee-Stock-correction-is-inevitable-after-sharp-rally.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:30:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811036",
+   "title": "PBOC Governor: We will launch a liquidity support tool for large-scale redemptions by non-bank institutions.",
+   "link": "https://www.financialjuice.com/News/9811036/PBOC-Governor-We-will-launch-a-liquidity-support-tool-for-large-scale-redemptions-by-non-bank-institutions.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:28:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811035",
+   "title": "Europe Sentiment: Stoxx Drop and Euro Weakens As Turmoil Takes France - FJElite",
+   "link": "https://www.financialjuice.com/News/9811035/Europe-Sentiment-Stoxx-Drop-and-Euro-Weakens-As-Turmoil-Takes-France---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:25:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9811017",
+   "title": "UBS expects ECB to hike rates by 25 bps in march 2027, following a December hike vs prior forecast for hiking cycle to end in December.",
+   "link": "https://www.financialjuice.com/News/9811017/UBS-expects-ECB-to-hike-rates-by-25-bps-in-march-2027-following-a-December-hike-vs-prior-forecast-for-hiking-cycle-to-end-in-December.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 08:09:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810957",
+   "title": "China's Mao: No info to share on any Putin, Xi, Trump meeting",
+   "link": "https://www.financialjuice.com/News/9810957/Chinas-Mao-No-info-to-share-on-any-Putin-Xi-Trump-meeting.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 07:10:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810956",
+   "title": "Goldman raises its forecast for China's 2026 GDP growth to 4.6%",
+   "link": "https://www.financialjuice.com/News/9810956/Goldman-raises-its-forecast-for-Chinas-2026-GDP-growth-to-46.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 07:09:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810955",
+   "title": "China commerce ministry: Announcement on dual-use items will officially take effect on November 18th",
+   "link": "https://www.financialjuice.com/News/9810955/China-commerce-ministry-Announcement-on-dual-use-items-will-officially-take-effect-on-November-18th.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 07:03:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810954",
+   "title": "China Commerce Ministry announces further optimizing export control concerns and identification work for dual-use items",
+   "link": "https://www.financialjuice.com/News/9810954/China-Commerce-Ministry-announces-further-optimizing-export-control-concerns-and-identification-work-for-dual-use-items.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 07:03:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810953",
+   "title": "Qatar's Minister of State for Defence Affairs: Will soon announce defense hub in Qatar",
+   "link": "https://www.financialjuice.com/News/9810953/Qatars-Minister-of-State-for-Defence-Affairs-Will-soon-announce-defense-hub-in-Qatar.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 07:02:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810950",
+   "title": "Currency Strength Chart: Strongest: AUD, CAD, NZD, GBP, JPY, CHF, USD, EUR - Weakest",
+   "link": "https://www.financialjuice.com/News/9810950/Currency-Strength-Chart-Strongest-AUD-CAD-NZD-GBP-JPY-CHF-USD-EUR---Weakest.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 07:01:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810935",
+   "title": "Barclays raises forecast for 2026 Chinese GDP growth to 4.6%",
+   "link": "https://www.financialjuice.com/News/9810935/Barclays-raises-forecast-for-2026-Chinese-GDP-growth-to-46.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:54:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810920",
+   "title": "GMO Internet to spend ¥26.1B on up to 116 NVIDIA B300 servers $NVDA",
+   "link": "https://www.financialjuice.com/News/9810920/GMO-Internet-to-spend-261B-on-up-to-116-NVIDIA-B300-servers-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:33:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810900",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9810900/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:21:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810899",
+   "title": "Nomura expects China's Q4 GDP growth at 4.8%, sees 4.7% for 2026",
+   "link": "https://www.financialjuice.com/News/9810899/Nomura-expects-Chinas-Q4-GDP-growth-at-48-sees-47-for-2026.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:21:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810898",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9810898/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:20:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810897",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9810897/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:20:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810896",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9810896/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:20:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810895",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9810895/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:19:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810894",
+   "title": "Nomura upgrades forecasts for China's GDP growth in Q4 and 2026",
+   "link": "https://www.financialjuice.com/News/9810894/Nomura-upgrades-forecasts-for-Chinas-GDP-growth-in-Q4-and-2026.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:19:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810893",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9810893/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:19:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810892",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9810892/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:18:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810891",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9810891/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:18:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810890",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9810890/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:17:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810889",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9810889/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:17:29 GMT",
+   "desc": ""
+  },
   {
    "id": "9810888",
    "title": "US Index Futures Implied Volatility",
