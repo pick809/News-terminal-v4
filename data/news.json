@@ -1,7 +1,413 @@
 {
- "updated_at": "2026-10-19T01:18:07.885160+00:00",
- "count": 14406,
+ "updated_at": "2026-10-19T06:17:27.838464+00:00",
+ "count": 14464,
  "items": [
+  {
+   "id": "9810888",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9810888/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:17:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810887",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9810887/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:16:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810883",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9810883/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:15:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810882",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9810882/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:15:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810878",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9810878/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:15:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810877",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9810877/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 06:14:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810820",
+   "title": "French President Macron declines to accept interior minister Nunez resignation: BFM TV, citing Elysee",
+   "link": "https://www.financialjuice.com/News/9810820/French-President-Macron-declines-to-accept-interior-minister-Nunez-resignation-BFM-TV-citing-Elysee.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 05:08:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810807",
+   "title": "US Secretary of State Rubio: intel sharing with Ukraine continues without pause",
+   "link": "https://www.financialjuice.com/News/9810807/US-Secretary-of-State-Rubio-intel-sharing-with-Ukraine-continues-without-pause.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 04:48:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810806",
+   "title": "US Secretary of State Rubio: Zelenskiy and Russians should concentrate on ending war",
+   "link": "https://www.financialjuice.com/News/9810806/US-Secretary-of-State-Rubio-Zelenskiy-and-Russians-should-concentrate-on-ending-war.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 04:48:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810791",
+   "title": "US Secretary of State Rubio: we will keep seeking chances to end conflict",
+   "link": "https://www.financialjuice.com/News/9810791/US-Secretary-of-State-Rubio-we-will-keep-seeking-chances-to-end-conflict.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 04:37:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810734",
+   "title": "Taiwan central bank: will adjust as needed to maintain dynamic stability of Taiwan dollar exchange rate amid currency market supply and demand changes",
+   "link": "https://www.financialjuice.com/News/9810734/Taiwan-central-bank-will-adjust-as-needed-to-maintain-dynamic-stability-of-Taiwan-dollar-exchange-rate-amid-currency-market-supply-and-demand-changes.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 03:09:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810733",
+   "title": "Taiwan central bank: will keep a close watch on global financial conditions and overseas capital movements",
+   "link": "https://www.financialjuice.com/News/9810733/Taiwan-central-bank-will-keep-a-close-watch-on-global-financial-conditions-and-overseas-capital-movements.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 03:09:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810732",
+   "title": "Taiwan central bank: Taiwan dollar has long stayed relatively steady against the US dollar versus other major currencies",
+   "link": "https://www.financialjuice.com/News/9810732/Taiwan-central-bank-Taiwan-dollar-has-long-stayed-relatively-steady-against-the-US-dollar-versus-other-major-currencies.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 03:09:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810731",
+   "title": "China Sept retail sales increase 1.1% y/y, surpassing poll of 0.6%",
+   "link": "https://www.financialjuice.com/News/9810731/China-Sept-retail-sales-increase-11-yy-surpassing-poll-of-06.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 03:08:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810730",
+   "title": "Taiwan Central Bank: Taiwan dollar’s recent decline mainly reflects turmoil in global stock markets, with foreign investors net selling Taiwan stocks and repatriating funds, including dividends",
+   "link": "https://www.financialjuice.com/News/9810730/Taiwan-Central-Bank-Taiwan-dollars-recent-decline-mainly-reflects-turmoil-in-global-stock-markets-with-foreign-investors-net-selling-Taiwan-stocks-and-repatriating-funds-including-dividends.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 03:08:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810719",
+   "title": "China stats bureau spokesperson: certain industries and companies still encounter challenges in production and operations",
+   "link": "https://www.financialjuice.com/News/9810719/China-stats-bureau-spokesperson-certain-industries-and-companies-still-encounter-challenges-in-production-and-operations.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:49:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810718",
+   "title": "China January-September fixed-asset investment declines 7.2% year-over-year (Poll)",
+   "link": "https://www.financialjuice.com/News/9810718/China-January-September-fixed-asset-investment-declines-72-year-over-year-Poll.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:49:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810712",
+   "title": "China stats bureau spokesperson: modest price rebound is a key positive shift in economy this year",
+   "link": "https://www.financialjuice.com/News/9810712/China-stats-bureau-spokesperson-modest-price-rebound-is-a-key-positive-shift-in-economy-this-year.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:46:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810705",
+   "title": "China stats bureau spokesperson: services consumption increasingly key driver of consumption growth",
+   "link": "https://www.financialjuice.com/News/9810705/China-stats-bureau-spokesperson-services-consumption-increasingly-key-driver-of-consumption-growth.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:41:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810704",
+   "title": "China stats bureau deputy head: consumption accounted for 46.7% of Jan-Sept GDP growth",
+   "link": "https://www.financialjuice.com/News/9810704/China-stats-bureau-deputy-head-consumption-accounted-for-467-of-Jan-Sept-GDP-growth.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:33:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810693",
+   "title": "China stats bureau deputy head: stable Jan-Sept economic activity forms solid base for achieving full-year goal",
+   "link": "https://www.financialjuice.com/News/9810693/China-stats-bureau-deputy-head-stable-Jan-Sept-economic-activity-forms-solid-base-for-achieving-full-year-goal.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:28:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810692",
+   "title": "China stats bureau deputy head: new growth drivers like high-end manufacturing, digital economy account for over 40% of Jan-Sept economic growth",
+   "link": "https://www.financialjuice.com/News/9810692/China-stats-bureau-deputy-head-new-growth-drivers-like-high-end-manufacturing-digital-economy-account-for-over-40-of-Jan-Sept-economic-growth.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:22:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810691",
+   "title": "China stats bureau deputy head: Jan-Sept GDP growth 'hard earned'",
+   "link": "https://www.financialjuice.com/News/9810691/China-stats-bureau-deputy-head-Jan-Sept-GDP-growth-hard-earned.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:18:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810690",
+   "title": "China stats bureau deputy head: Jan-Sept GDP growth aligns with full-year growth target",
+   "link": "https://www.financialjuice.com/News/9810690/China-stats-bureau-deputy-head-Jan-Sept-GDP-growth-aligns-with-full-year-growth-target.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:17:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810602",
+   "title": "Chinese Industrial Output YoY Actual 5.5% (Forecast 5.5%, Previous 5.2%)",
+   "link": "https://www.financialjuice.com/News/9810602/Chinese-Industrial-Output-YoY-Actual-55-Forecast-55-Previous-52.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:01:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810601",
+   "title": "Chinese GDP QoQ SA Actual 1.2% (Forecast 0.9%, Previous 0.9%)",
+   "link": "https://www.financialjuice.com/News/9810601/Chinese-GDP-QoQ-SA-Actual-12-Forecast-09-Previous-09.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:01:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810600",
+   "title": "Chinese Retail Sales YoY Actual 1.1% (Forecast 0.5%, Previous 0.4%)",
+   "link": "https://www.financialjuice.com/News/9810600/Chinese-Retail-Sales-YoY-Actual-11-Forecast-05-Previous-04.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:01:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810599",
+   "title": "Chinese GDP YoY Actual 4.5% (Forecast 4.4%, Previous 4.3%)",
+   "link": "https://www.financialjuice.com/News/9810599/Chinese-GDP-YoY-Actual-45-Forecast-44-Previous-43.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:01:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810603",
+   "title": "Chinese Urban Investment YTD YoY Actual -7.2% (Forecast -7.3%, Previous -7.2%)",
+   "link": "https://www.financialjuice.com/News/9810603/Chinese-Urban-Investment-YTD-YoY-Actual--72-Forecast--73-Previous--72.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:01:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810598",
+   "title": "Chinese Unemployment Rate Actual 5.200% (Forecast 5.3%, Previous 5.300%)",
+   "link": "https://www.financialjuice.com/News/9810598/Chinese-Unemployment-Rate-Actual-5200-Forecast-53-Previous-5300.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:01:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810625",
+   "title": "China September industrial output rises 5.5% y/y, matching poll estimate",
+   "link": "https://www.financialjuice.com/News/9810625/China-September-industrial-output-rises-55-yy-matching-poll-estimate.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810624",
+   "title": "China jan-sept fixed-asset investment down 7.2% y/y vs poll -7.3%",
+   "link": "https://www.financialjuice.com/News/9810624/China-jan-sept-fixed-asset-investment-down-72-yy-vs-poll--73.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810615",
+   "title": "China property investment down 20.6% year-on-year in January-September",
+   "link": "https://www.financialjuice.com/News/9810615/China-property-investment-down-206-year-on-year-in-January-September.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810614",
+   "title": "China stats bureau: economy posts more positive shifts in Jan-Sept, faces weak demand and complex global backdrop",
+   "link": "https://www.financialjuice.com/News/9810614/China-stats-bureau-economy-posts-more-positive-shifts-in-Jan-Sept-faces-weak-demand-and-complex-global-backdrop.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810613",
+   "title": "China Q3 2026 GDP rises 1.2% q/q unadjusted (Poll: +1.1%)",
+   "link": "https://www.financialjuice.com/News/9810613/China-Q3-2026-GDP-rises-12-qq-unadjusted-Poll-11.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810612",
+   "title": "China's infrastructure investment declines 4.2% year on year in Jan-Sept",
+   "link": "https://www.financialjuice.com/News/9810612/Chinas-infrastructure-investment-declines-42-year-on-year-in-Jan-Sept.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810611",
+   "title": "China property sales by floor area down 13.2% y/y in Jan-Sept",
+   "link": "https://www.financialjuice.com/News/9810611/China-property-sales-by-floor-area-down-132-yy-in-Jan-Sept.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810610",
+   "title": "China Jan-Sept funds raised by Chinese real estate developers down 21.6% y/y",
+   "link": "https://www.financialjuice.com/News/9810610/China-Jan-Sept-funds-raised-by-Chinese-real-estate-developers-down-216-yy.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810609",
+   "title": "China Sept retail sales rise 1.1% y/y, outpacing poll of 0.6%",
+   "link": "https://www.financialjuice.com/News/9810609/China-Sept-retail-sales-rise-11-yy-outpacing-poll-of-06.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810608",
+   "title": "China Q3 2026 GDP rises 4.5% y/y, poll estimated 4.4%",
+   "link": "https://www.financialjuice.com/News/9810608/China-Q3-2026-GDP-rises-45-yy-poll-estimated-44.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810607",
+   "title": "China's new construction starts down 24.9% y/y in January-September",
+   "link": "https://www.financialjuice.com/News/9810607/Chinas-new-construction-starts-down-249-yy-in-January-September.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810606",
+   "title": "China Jan-Sept private sector fixed-asset investment falls 10.4% y/y",
+   "link": "https://www.financialjuice.com/News/9810606/China-Jan-Sept-private-sector-fixed-asset-investment-falls-104-yy.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810605",
+   "title": "China Sept nationwide survey-based unemployment rate at 5.2%",
+   "link": "https://www.financialjuice.com/News/9810605/China-Sept-nationwide-survey-based-unemployment-rate-at-52.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810604",
+   "title": "China sept survey-based unemployment rate in 31 major cities at 5.2%",
+   "link": "https://www.financialjuice.com/News/9810604/China-sept-survey-based-unemployment-rate-in-31-major-cities-at-52.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 02:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810597",
+   "title": "Taiwan stocks fall over 2%",
+   "link": "https://www.financialjuice.com/News/9810597/Taiwan-stocks-fall-over-2.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:59:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810596",
+   "title": "Saudi civil defense: danger has passed in Jazan - post on X",
+   "link": "https://www.financialjuice.com/News/9810596/Saudi-civil-defense-danger-has-passed-in-Jazan---post-on-X.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:51:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810589",
+   "title": "Saudi civil defense issues warning over potential risk in Jazan - post on X",
+   "link": "https://www.financialjuice.com/News/9810589/Saudi-civil-defense-issues-warning-over-potential-risk-in-Jazan---post-on-X.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:42:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810588",
+   "title": "China Sept Shenzhen new home prices up 0.3% m/m (Aug 0.2%): stats bureau",
+   "link": "https://www.financialjuice.com/News/9810588/China-Sept-Shenzhen-new-home-prices-up-03-mm-Aug-02-stats-bureau.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:40:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810587",
+   "title": "S. Korea central bank: sells 91-day monetary stabilisation bonds with 3.190% yield",
+   "link": "https://www.financialjuice.com/News/9810587/S-Korea-central-bank-sells-91-day-monetary-stabilisation-bonds-with-3190-yield.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:40:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810568",
+   "title": "Chinese New House Prices YoY Actual -2.8% (Forecast -, Previous -3.0%)",
+   "link": "https://www.financialjuice.com/News/9810568/Chinese-New-House-Prices-YoY-Actual--28-Forecast---Previous--30.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:31:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810575",
+   "title": "China Sept Shenzhen new home prices fall 1.0% y/y (Aug -2.3%): stats bureau",
+   "link": "https://www.financialjuice.com/News/9810575/China-Sept-Shenzhen-new-home-prices-fall-10-yy-Aug--23-stats-bureau.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:30:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810574",
+   "title": "China Sept Guangzhou new home prices rise 0.2% m/m (Aug 0.1%): stats bureau",
+   "link": "https://www.financialjuice.com/News/9810574/China-Sept-Guangzhou-new-home-prices-rise-02-mm-Aug-01-stats-bureau.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:30:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810573",
+   "title": "China Sept Guangzhou new home prices fall 1.1% y/y (Aug -1.9%) : stats bureau",
+   "link": "https://www.financialjuice.com/News/9810573/China-Sept-Guangzhou-new-home-prices-fall-11-yy-Aug--19--stats-bureau.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:30:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810572",
+   "title": "All China new home prices in September decline 2.8% y/y (Aug -3.0%) - source calculation",
+   "link": "https://www.financialjuice.com/News/9810572/All-China-new-home-prices-in-September-decline-28-yy-Aug--30---source-calculation.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:30:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810571",
+   "title": "China September Shanghai new home prices rise 2.8% y/y (aug 3.0%) : stats bureau",
+   "link": "https://www.financialjuice.com/News/9810571/China-September-Shanghai-new-home-prices-rise-28-yy-aug-30--stats-bureau.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:30:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810570",
+   "title": "China Sept Shanghai new home prices rise 0.2% m/m (Aug 0.4%) : stats bureau",
+   "link": "https://www.financialjuice.com/News/9810570/China-Sept-Shanghai-new-home-prices-rise-02-mm-Aug-04--stats-bureau.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:30:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810569",
+   "title": "China September Beijing new home prices fall 0.2% m/m (August -0.2%): stats bureau",
+   "link": "https://www.financialjuice.com/News/9810569/China-September-Beijing-new-home-prices-fall-02-mm-August--02-stats-bureau.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:30:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9810564",
+   "title": "China c.bank injects 80 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+   "link": "https://www.financialjuice.com/News/9810564/China-cbank-injects-80-billion-yuan-via-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx?xy=rss",
+   "pubDate": "Mon, 19 Oct 2026 01:20:22 GMT",
+   "desc": ""
+  },
   {
    "id": "9810563",
    "title": "China sets yuan mid-point at strongest level since Feb. 2, 2023",
