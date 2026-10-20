@@ -1,7 +1,350 @@
 {
- "updated_at": "2026-10-20T01:34:08.836927+00:00",
- "count": 14693,
+ "updated_at": "2026-10-20T06:31:34.100015+00:00",
+ "count": 14742,
  "items": [
+  {
+   "id": "9812567",
+   "title": "Japan's PM Takaichi: Not intending to exert pressure to lower prices",
+   "link": "https://www.financialjuice.com/News/9812567/Japans-PM-Takaichi-Not-intending-to-exert-pressure-to-lower-prices.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:10:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812566",
+   "title": "Hong Kong-China finance minister, at APEC meeting: World economy faces challenges, APEC plays a more important role",
+   "link": "https://www.financialjuice.com/News/9812566/Hong-Kong-China-finance-minister-at-APEC-meeting-World-economy-faces-challenges-APEC-plays-a-more-important-role.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:03:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812564",
+   "title": "Swiss Trade Balance Actual 1,309M (Forecast -, Previous 3,786M)",
+   "link": "https://www.financialjuice.com/News/9812564/Swiss-Trade-Balance-Actual-1309M-Forecast---Previous-3786M.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:02:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812549",
+   "title": "German PPI YoY Actual 6.7% (Forecast 6.3%, Previous 4.6%)",
+   "link": "https://www.financialjuice.com/News/9812549/German-PPI-YoY-Actual-67-Forecast-63-Previous-46.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:00:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812548",
+   "title": "German PPI MoM Actual 1.9% (Forecast 1.6%, Previous 1.1%)",
+   "link": "https://www.financialjuice.com/News/9812548/German-PPI-MoM-Actual-19-Forecast-16-Previous-11.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:00:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812547",
+   "title": "UK Average Weekly Earnings YoY Actual 3.7% (Forecast 3.8%, Previous 3.9%)",
+   "link": "https://www.financialjuice.com/News/9812547/UK-Average-Weekly-Earnings-YoY-Actual-37-Forecast-38-Previous-39.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812546",
+   "title": "UK Employment Change 3M/3M Actual 102k (Forecast 5k, Previous 67k)",
+   "link": "https://www.financialjuice.com/News/9812546/UK-Employment-Change-3M3M-Actual-102k-Forecast-5k-Previous-67k.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812545",
+   "title": "UK Unemployment Rate Actual 4.7% (Forecast 4.9%, Previous 4.9%)",
+   "link": "https://www.financialjuice.com/News/9812545/UK-Unemployment-Rate-Actual-47-Forecast-49-Previous-49.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812544",
+   "title": "UK Average Earnings (Ex-Bonus) Actual 3.7% (Forecast 3.6%, Previous 3.5%)",
+   "link": "https://www.financialjuice.com/News/9812544/UK-Average-Earnings-Ex-Bonus-Actual-37-Forecast-36-Previous-35.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812543",
+   "title": "UK Employment Change SA Actual 13k (Forecast -8k, Previous -26k)",
+   "link": "https://www.financialjuice.com/News/9812543/UK-Employment-Change-SA-Actual-13k-Forecast--8k-Previous--26k.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812542",
+   "title": "UK Unemployment Change Actual 30.3k (Forecast -, Previous 27.8k)",
+   "link": "https://www.financialjuice.com/News/9812542/UK-Unemployment-Change-Actual-303k-Forecast---Previous-278k.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 06:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812541",
+   "title": "Japan's PM Takaichi: It is not true that decided benefits income limit at 3M yen.",
+   "link": "https://www.financialjuice.com/News/9812541/Japans-PM-Takaichi-It-is-not-true-that-decided-benefits-income-limit-at-3M-yen.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:56:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812540",
+   "title": "Japan's PM Takaichi: I don't expect to seek mandate after 2yr tax cut",
+   "link": "https://www.financialjuice.com/News/9812540/Japans-PM-Takaichi-I-dont-expect-to-seek-mandate-after-2yr-tax-cut.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:56:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812538",
+   "title": "BoJ seen keeping interest rates steady in October, signal scope for hike as soon as December - Sources",
+   "link": "https://www.financialjuice.com/News/9812538/BoJ-seen-keeping-interest-rates-steady-in-October-signal-scope-for-hike-as-soon-as-December---Sources.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:51:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812537",
+   "title": "BoJ may slightly revise up fiscal 2027 inflation forecast in quarterly report due at the October 29-30th meeting - Sources",
+   "link": "https://www.financialjuice.com/News/9812537/BoJ-may-slightly-revise-up-fiscal-2027-inflation-forecast-in-quarterly-report-due-at-the-October-29-30th-meeting---Sources.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:51:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812536",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9812536/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:36:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812535",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9812535/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:35:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812534",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9812534/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:35:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812533",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9812533/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:35:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812532",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9812532/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:34:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812531",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9812531/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:34:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812530",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9812530/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:34:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812529",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9812529/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:33:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812528",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9812528/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:33:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812527",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9812527/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:33:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812526",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9812526/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:32:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812525",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9812525/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:32:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812524",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9812524/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:31:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812523",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9812523/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:31:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812518",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9812518/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:31:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812514",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9812514/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:30:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812487",
+   "title": "PBOC shift to overnight rate is not equivalent to rate cut - Report",
+   "link": "https://www.financialjuice.com/News/9812487/PBOC-shift-to-overnight-rate-is-not-equivalent-to-rate-cut---Report.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 05:15:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812474",
+   "title": "Drone strike in contested Sudan-South Sudan region kills dozens: minister",
+   "link": "https://www.financialjuice.com/News/9812474/Drone-strike-in-contested-Sudan-South-Sudan-region-kills-dozens-minister.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 04:59:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812473",
+   "title": "China's Southern Theatre Command Navy: U.S. Side Must Immediately Stop Such Actions",
+   "link": "https://www.financialjuice.com/News/9812473/Chinas-Southern-Theatre-Command-Navy-US-Side-Must-Immediately-Stop-Such-Actions.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 04:58:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812472",
+   "title": "Russia strikes logistics hub in Ukraine's Khmelnitskyi region: Ifax cites defense ministry",
+   "link": "https://www.financialjuice.com/News/9812472/Russia-strikes-logistics-hub-in-Ukraines-Khmelnitskyi-region-Ifax-cites-defense-ministry.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 04:58:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812471",
+   "title": "China's southern theatre command navy: dispatched forces to track and monitor U.S. ship following laws and regulations",
+   "link": "https://www.financialjuice.com/News/9812471/Chinas-southern-theatre-command-navy-dispatched-forces-to-track-and-monitor-US-ship-following-laws-and-regulations.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 04:58:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812470",
+   "title": "China’s southern theatre command navy: US move violates China’s sovereign rights, endangers maritime security, harms regional peace and stability",
+   "link": "https://www.financialjuice.com/News/9812470/Chinas-southern-theatre-command-navy-US-move-violates-Chinas-sovereign-rights-endangers-maritime-security-harms-regional-peace-and-stability.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 04:58:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812469",
+   "title": "China's southern theatre command navy: US littoral combat ship entered waters near Sabina Shoal in Spratly Islands without Beijing's consent",
+   "link": "https://www.financialjuice.com/News/9812469/Chinas-southern-theatre-command-navy-US-littoral-combat-ship-entered-waters-near-Sabina-Shoal-in-Spratly-Islands-without-Beijings-consent.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 04:57:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812468",
+   "title": "Russia strikes Ukraine cargo ship heading to Odesa port: IFax cites defense ministry",
+   "link": "https://www.financialjuice.com/News/9812468/Russia-strikes-Ukraine-cargo-ship-heading-to-Odesa-port-IFax-cites-defense-ministry.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 04:56:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812467",
+   "title": "Russia strikes three cargo ships in Ukraine's Reni port: Interfax cites defence ministry",
+   "link": "https://www.financialjuice.com/News/9812467/Russia-strikes-three-cargo-ships-in-Ukraines-Reni-port-Interfax-cites-defence-ministry.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 04:55:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812466",
+   "title": "Russia strikes transport and logistics hub in Ukraine's Volyn region: Interfax quotes Russian defence ministry",
+   "link": "https://www.financialjuice.com/News/9812466/Russia-strikes-transport-and-logistics-hub-in-Ukraines-Volyn-region-Interfax-quotes-Russian-defence-ministry.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 04:55:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812451",
+   "title": "Russian air strike kills three, injures six in Ukraine’s Kyiv region: emergency service",
+   "link": "https://www.financialjuice.com/News/9812451/Russian-air-strike-kills-three-injures-six-in-Ukraines-Kyiv-region-emergency-service.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 04:20:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812408",
+   "title": "China finance ministry offers 2-month bills at 1.0316% yield: traders",
+   "link": "https://www.financialjuice.com/News/9812408/China-finance-ministry-offers-2-month-bills-at-10316-yield-traders.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 03:41:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812407",
+   "title": "China finance ministry auctions 10-year bonds at 1.6057% yield: traders",
+   "link": "https://www.financialjuice.com/News/9812407/China-finance-ministry-auctions-10-year-bonds-at-16057-yield-traders.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 03:41:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812371",
+   "title": "China finance ministry auctions 3-month deposits at 1.50% yield: statement",
+   "link": "https://www.financialjuice.com/News/9812371/China-finance-ministry-auctions-3-month-deposits-at-150-yield-statement.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 02:31:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812342",
+   "title": "China central bank to conduct up to 1 trillion yuan daily through overnight reverse repos from Oct. 21 to Nov. 2",
+   "link": "https://www.financialjuice.com/News/9812342/China-central-bank-to-conduct-up-to-1-trillion-yuan-daily-through-overnight-reverse-repos-from-Oct-21-to-Nov-2.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 02:08:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812255",
+   "title": "China's Neolix closes nearly $400 million series E funding, pushing total investment above $1.4 billion",
+   "link": "https://www.financialjuice.com/News/9812255/Chinas-Neolix-closes-nearly-400-million-series-E-funding-pushing-total-investment-above-14-billion.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 02:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812254",
+   "title": "China’s Neolix: raises proceeds to support global growth, expand commercial operations",
+   "link": "https://www.financialjuice.com/News/9812254/Chinas-Neolix-raises-proceeds-to-support-global-growth-expand-commercial-operations.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 02:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9812246",
+   "title": "South Korea defence ministry: warning broadcasts and gunfire near MDL are valid defensive actions",
+   "link": "https://www.financialjuice.com/News/9812246/South-Korea-defence-ministry-warning-broadcasts-and-gunfire-near-MDL-are-valid-defensive-actions.aspx?xy=rss",
+   "pubDate": "Tue, 20 Oct 2026 01:37:39 GMT",
+   "desc": ""
+  },
   {
    "id": "9812227",
    "title": "China c.bank conducts no 7-day reverse repos: statement",
