@@ -1,7 +1,476 @@
 {
- "updated_at": "2026-10-21T01:37:04.603865+00:00",
- "count": 15031,
+ "updated_at": "2026-10-21T06:31:38.294477+00:00",
+ "count": 15098,
  "items": [
+  {
+   "id": "9814496",
+   "title": "Iraq closes the Sheeb border crossing with Iran to passengers, vehicles, and commercial trucks until further notice - Two sources at the crossing",
+   "link": "https://www.financialjuice.com/News/9814496/Iraq-closes-the-Sheeb-border-crossing-with-Iran-to-passengers-vehicles-and-commercial-trucks-until-further-notice---Two-sources-at-the-crossing.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:30:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814493",
+   "title": "BlackRock CEO: Slowing down AI buildout could hurt the economy",
+   "link": "https://www.financialjuice.com/News/9814493/BlackRock-CEO-Slowing-down-AI-buildout-could-hurt-the-economy.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:18:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814490",
+   "title": "BlackRock CEO: Not building data centers fast is inflationary",
+   "link": "https://www.financialjuice.com/News/9814490/BlackRock-CEO-Not-building-data-centers-fast-is-inflationary.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:16:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814467",
+   "title": "Morgan Stanley cuts GE Aerospace target price to $375 from $400 $GE",
+   "link": "https://www.financialjuice.com/News/9814467/Morgan-Stanley-cuts-GE-Aerospace-target-price-to-375-from-400-GE.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:10:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814444",
+   "title": "UK Core CPI MoM Actual 0.2% (Forecast -, Previous 0.3%)",
+   "link": "https://www.financialjuice.com/News/9814444/UK-Core-CPI-MoM-Actual-02-Forecast---Previous-03.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:01:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814441",
+   "title": "UK PSNB ex Banks Actual 24.520B (Forecast -, Previous 18.268B)",
+   "link": "https://www.financialjuice.com/News/9814441/UK-PSNB-ex-Banks-Actual-24520B-Forecast---Previous-18268B.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:01:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814443",
+   "title": "UK CPI YoY Actual 3.5% (Forecast 3.4%, Previous 3.1%)",
+   "link": "https://www.financialjuice.com/News/9814443/UK-CPI-YoY-Actual-35-Forecast-34-Previous-31.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:00:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814442",
+   "title": "UK CPI MoM Actual 0.4% (Forecast 0.3%, Previous 0.5%)",
+   "link": "https://www.financialjuice.com/News/9814442/UK-CPI-MoM-Actual-04-Forecast-03-Previous-05.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:00:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814440",
+   "title": "UK Core CPI YoY Actual 2.8% (Forecast 2.8%, Previous 2.6%)",
+   "link": "https://www.financialjuice.com/News/9814440/UK-Core-CPI-YoY-Actual-28-Forecast-28-Previous-26.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:00:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814439",
+   "title": "UK RPI MoM Actual 0.1% (Forecast 0.1%, Previous 0.6%)",
+   "link": "https://www.financialjuice.com/News/9814439/UK-RPI-MoM-Actual-01-Forecast-01-Previous-06.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:00:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814438",
+   "title": "UK Services CPI YoY Actual 3.7% (Forecast 3.6%, Previous 3.4%)",
+   "link": "https://www.financialjuice.com/News/9814438/UK-Services-CPI-YoY-Actual-37-Forecast-36-Previous-34.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:00:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814437",
+   "title": "UK PPI Input Prices YoY Actual 8.3% (Forecast 7.6%, Previous 6.1%)",
+   "link": "https://www.financialjuice.com/News/9814437/UK-PPI-Input-Prices-YoY-Actual-83-Forecast-76-Previous-61.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:00:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814436",
+   "title": "UK PPI Input Prices MoM Actual 1.5% (Forecast 1.4%, Previous 0.3%)",
+   "link": "https://www.financialjuice.com/News/9814436/UK-PPI-Input-Prices-MoM-Actual-15-Forecast-14-Previous-03.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:00:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814435",
+   "title": "UK PPI Output Prices MoM Actual 0.8% (Forecast 0.6%, Previous 0.7%)",
+   "link": "https://www.financialjuice.com/News/9814435/UK-PPI-Output-Prices-MoM-Actual-08-Forecast-06-Previous-07.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:00:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814434",
+   "title": "UK PPI Output Prices YoY Actual 4.6% (Forecast 4.4%, Previous 3.7%)",
+   "link": "https://www.financialjuice.com/News/9814434/UK-PPI-Output-Prices-YoY-Actual-46-Forecast-44-Previous-37.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 06:00:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814433",
+   "title": "France Fin. Min. Lescure, citing constitutional levers: We have the instruments to pass a budget",
+   "link": "https://www.financialjuice.com/News/9814433/France-Fin-Min-Lescure-citing-constitutional-levers-We-have-the-instruments-to-pass-a-budget.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:58:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814424",
+   "title": "Trump: I have been watching data centers very closely and have come to a very strong conclusion. New and large, in some cases gigantic, data centers are mandated by me to generate their own electricity and give or sell any excess back to the local community, or grid.",
+   "link": "https://www.financialjuice.com/News/9814424/Trump-I-have-been-watching-data-centers-very-closely-and-have-come-to-a-very-strong-conclusion-New-and-large-in-some-cases-gigantic-data-centers-are-mandated-by-me-to-generate-their-own-electricity-and-give-or-sell-any-excess-back-to-the-lo.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:38:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814423",
+   "title": "Samsung, SK Hynix upgrade China plants for advanced chips.",
+   "link": "https://www.financialjuice.com/News/9814423/Samsung-SK-Hynix-upgrade-China-plants-for-advanced-chips.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:38:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814422",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9814422/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:36:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814421",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9814421/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:35:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814420",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9814420/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:35:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814419",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9814419/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:35:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814418",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9814418/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:35:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814417",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9814417/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:34:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814416",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9814416/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:34:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814415",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9814415/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:34:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814414",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9814414/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:33:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814413",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9814413/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:33:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814412",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9814412/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:32:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814411",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9814411/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:32:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814410",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9814410/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:31:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814409",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9814409/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:31:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814407",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9814407/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:31:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814396",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9814396/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:30:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814395",
+   "title": "US Envoy Witkoff arrives in St. Petersburg - TASS",
+   "link": "https://www.financialjuice.com/News/9814395/US-Envoy-Witkoff-arrives-in-St-Petersburg---TASS.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 05:29:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814357",
+   "title": "Japan government considering electricity, gas subsidies in winter to ease impact on households from rising heating costs: Kyodo",
+   "link": "https://www.financialjuice.com/News/9814357/Japan-government-considering-electricity-gas-subsidies-in-winter-to-ease-impact-on-households-from-rising-heating-costs-Kyodo.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:35:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814347",
+   "title": "US envoy Witkoff to arrive in St. Petersburg for discussions with President Putin: Russian special envoy Dmitriev to greet him, sources say",
+   "link": "https://www.financialjuice.com/News/9814347/US-envoy-Witkoff-to-arrive-in-St-Petersburg-for-discussions-with-President-Putin-Russian-special-envoy-Dmitriev-to-greet-him-sources-say.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:30:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814345",
+   "title": "BoJ’s Himino: stable prices via suitable monetary policy would boost Japan’s sustainable growth",
+   "link": "https://www.financialjuice.com/News/9814345/BoJs-Himino-stable-prices-via-suitable-monetary-policy-would-boost-Japans-sustainable-growth.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:29:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814344",
+   "title": "BOJ's Himino: upside price risks elevated",
+   "link": "https://www.financialjuice.com/News/9814344/BOJs-Himino-upside-price-risks-elevated.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:28:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814343",
+   "title": "BOJ's Himino: postponing policy changes could trigger inflation risks, damage economy",
+   "link": "https://www.financialjuice.com/News/9814343/BOJs-Himino-postponing-policy-changes-could-trigger-inflation-risks-damage-economy.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:28:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814342",
+   "title": "BoJ's Himino: real interest rates stay low, bank lending expands rapidly",
+   "link": "https://www.financialjuice.com/News/9814342/BoJs-Himino-real-interest-rates-stay-low-bank-lending-expands-rapidly.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:27:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814341",
+   "title": "BOJ's Himino: financial conditions still accommodative",
+   "link": "https://www.financialjuice.com/News/9814341/BOJs-Himino-financial-conditions-still-accommodative.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:27:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814340",
+   "title": "BOJ's Himino: medium- and long-term inflation expectations continue rising",
+   "link": "https://www.financialjuice.com/News/9814340/BOJs-Himino-medium--and-long-term-inflation-expectations-continue-rising.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:27:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814339",
+   "title": "BOJ's Himino: underlying inflation likely to align with Bank of Japan target",
+   "link": "https://www.financialjuice.com/News/9814339/BOJs-Himino-underlying-inflation-likely-to-align-with-Bank-of-Japan-target.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:27:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814338",
+   "title": "BOJ's Himino: Underlying inflation almost at 2% target",
+   "link": "https://www.financialjuice.com/News/9814338/BOJs-Himino-Underlying-inflation-almost-at-2-target.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:26:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814337",
+   "title": "BOJ Deputy Governor Himino: strong AL demand driving up capex, exports",
+   "link": "https://www.financialjuice.com/News/9814337/BOJ-Deputy-Governor-Himino-strong-AL-demand-driving-up-capex-exports.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:26:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814336",
+   "title": "US Secretary of State Rubio: my understanding is that Zelenskiy meeting was constructive",
+   "link": "https://www.financialjuice.com/News/9814336/US-Secretary-of-State-Rubio-my-understanding-is-that-Zelenskiy-meeting-was-constructive.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:19:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814335",
+   "title": "US Secretary of State Rubio: Witkoff heading to St Petersburg",
+   "link": "https://www.financialjuice.com/News/9814335/US-Secretary-of-State-Rubio-Witkoff-heading-to-St-Petersburg.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:18:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814331",
+   "title": "US Secretary of State Rubio: declines to comment on Indian domestic political matters",
+   "link": "https://www.financialjuice.com/News/9814331/US-Secretary-of-State-Rubio-declines-to-comment-on-Indian-domestic-political-matters.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:16:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814330",
+   "title": "China finance minister: APEC finance ministers’ meeting endorses joint statement on boosting cooperation in digital finance infrastructure",
+   "link": "https://www.financialjuice.com/News/9814330/China-finance-minister-APEC-finance-ministers-meeting-endorses-joint-statement-on-boosting-cooperation-in-digital-finance-infrastructure.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:15:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814329",
+   "title": "China finance minister: members back fiscal policies to encourage household spending, strengthen domestic demand, and enhance productivity",
+   "link": "https://www.financialjuice.com/News/9814329/China-finance-minister-members-back-fiscal-policies-to-encourage-household-spending-strengthen-domestic-demand-and-enhance-productivity.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:15:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814328",
+   "title": "China finance minister: members back private sector financing, boost innovation funding, urge regional development banks to act as catalysts",
+   "link": "https://www.financialjuice.com/News/9814328/China-finance-minister-members-back-private-sector-financing-boost-innovation-funding-urge-regional-development-banks-to-act-as-catalysts.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:15:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814327",
+   "title": "China finance minister: consensus reached on boosting practical financial cooperation, enhancing regional integration and advancing Asia-Pacific community",
+   "link": "https://www.financialjuice.com/News/9814327/China-finance-minister-consensus-reached-on-boosting-practical-financial-cooperation-enhancing-regional-integration-and-advancing-Asia-Pacific-community.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:15:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814326",
+   "title": "China finance minister: Meeting agrees on enhancing communication, coordination of macroeconomic policies",
+   "link": "https://www.financialjuice.com/News/9814326/China-finance-minister-Meeting-agrees-on-enhancing-communication-coordination-of-macroeconomic-policies.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:15:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814325",
+   "title": "China finance minister: China prioritizes mutually beneficial ties among Asia-Pacific economies",
+   "link": "https://www.financialjuice.com/News/9814325/China-finance-minister-China-prioritizes-mutually-beneficial-ties-among-Asia-Pacific-economies.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:15:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814324",
+   "title": "Hong Kong China finance minister: APEC demonstrates stronger responsibility in fostering open cooperation and enhancing macro policy coordination among members",
+   "link": "https://www.financialjuice.com/News/9814324/Hong-Kong-China-finance-minister-APEC-demonstrates-stronger-responsibility-in-fostering-open-cooperation-and-enhancing-macro-policy-coordination-among-members.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:15:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814317",
+   "title": "US Secretary of State Rubio: I won’t comment on what was known about Starlink's role in Ukraine",
+   "link": "https://www.financialjuice.com/News/9814317/US-Secretary-of-State-Rubio-I-wont-comment-on-what-was-known-about-Starlinks-role-in-Ukraine.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:13:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814316",
+   "title": "US Secretary of State Rubio: foreknowledge of Starlink cut wouldn’t be relevant",
+   "link": "https://www.financialjuice.com/News/9814316/US-Secretary-of-State-Rubio-foreknowledge-of-Starlink-cut-wouldnt-be-relevant.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:13:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814315",
+   "title": "I'm not going to comment on what was known or unknown about Starlink's role in Ukraine",
+   "link": "https://www.financialjuice.com/News/9814315/Im-not-going-to-comment-on-what-was-known-or-unknown-about-Starlinks-role-in-Ukraine.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:11:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814314",
+   "title": "US Secretary of State Marco Rubio:",
+   "link": "https://www.financialjuice.com/News/9814314/US-Secretary-of-State-Marco-Rubio.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 04:11:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814279",
+   "title": "Saudi-led coalition: drones intercepted and destroyed in Medina and eastern areas, spokesperson says",
+   "link": "https://www.financialjuice.com/News/9814279/Saudi-led-coalition-drones-intercepted-and-destroyed-in-Medina-and-eastern-areas-spokesperson-says.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 03:55:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814278",
+   "title": "Saudi-led coalition: four drones targeting Saudi Arabia intercepted and destroyed, coalition spokesperson",
+   "link": "https://www.financialjuice.com/News/9814278/Saudi-led-coalition-four-drones-targeting-Saudi-Arabia-intercepted-and-destroyed-coalition-spokesperson.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 03:53:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814271",
+   "title": "China finance ministry auctions 3-month bills at 1.1222% yield: traders",
+   "link": "https://www.financialjuice.com/News/9814271/China-finance-ministry-auctions-3-month-bills-at-11222-yield-traders.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 03:37:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814270",
+   "title": "China finance ministry issues 7-year bonds with 1.4241% yield: traders",
+   "link": "https://www.financialjuice.com/News/9814270/China-finance-ministry-issues-7-year-bonds-with-14241-yield-traders.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 03:37:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814261",
+   "title": "South Korean President Lee: Government preparing to reduce mandatory domestic fuel supply, allow refiners to increase exports",
+   "link": "https://www.financialjuice.com/News/9814261/South-Korean-President-Lee-Government-preparing-to-reduce-mandatory-domestic-fuel-supply-allow-refiners-to-increase-exports.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 03:18:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814259",
+   "title": "China Jan-Sep total power use rises 3.9% to 8.07 trillion kWh: energy bureau",
+   "link": "https://www.financialjuice.com/News/9814259/China-Jan-Sep-total-power-use-rises-39-to-807-trillion-kWh-energy-bureau.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 03:07:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9814228",
+   "title": "Russian drones kill two in Ukraine's Kharkiv region overnight: authorities",
+   "link": "https://www.financialjuice.com/News/9814228/Russian-drones-kill-two-in-Ukraines-Kharkiv-region-overnight-authorities.aspx?xy=rss",
+   "pubDate": "Wed, 21 Oct 2026 02:25:16 GMT",
+   "desc": ""
+  },
   {
    "id": "9814123",
    "title": "China sept survey-based unemployment rate for 30-59 year-olds at 3.9% vs 3.9% in prior month: stats bureau",
