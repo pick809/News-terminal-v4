@@ -1,7 +1,483 @@
 {
- "updated_at": "2026-10-22T12:31:04.748078+00:00",
- "count": 15498,
+ "updated_at": "2026-10-22T17:34:10.721605+00:00",
+ "count": 15566,
  "items": [
+  {
+   "id": "9817365",
+   "title": "Ukraine’s President Zelenskiy: Starlink speed for Ukraine has not been restored: \"We are tackling the issue\".",
+   "link": "https://www.financialjuice.com/News/9817365/Ukraines-President-Zelenskiy-Starlink-speed-for-Ukraine-has-not-been-restored-We-are-tackling-the-issue.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 17:31:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817361",
+   "title": "Finland's PM: There could be no gas deals with Russia as long as the war continues",
+   "link": "https://www.financialjuice.com/News/9817361/Finlands-PM-There-could-be-no-gas-deals-with-Russia-as-long-as-the-war-continues.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 17:31:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817360",
+   "title": "Ukraine’s President Zelenskiy: Ukraine is ready for peace talks at G20, so far, no such invitation",
+   "link": "https://www.financialjuice.com/News/9817360/Ukraines-President-Zelenskiy-Ukraine-is-ready-for-peace-talks-at-G20-so-far-no-such-invitation.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 17:30:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817355",
+   "title": "US State Department: Rubio reaffirmed the United States' commitment to Qatar's security and freedom of navigation through the Strait of Hormuz.",
+   "link": "https://www.financialjuice.com/News/9817355/US-State-Department-Rubio-reaffirmed-the-United-States-commitment-to-Qatars-security-and-freedom-of-navigation-through-the-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 17:17:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817336",
+   "title": "US 5-Year TIPS Auction",
+   "link": "https://www.financialjuice.com/News/9817336/US-5-Year-TIPS-Auction.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 17:03:57 GMT",
+   "desc": "High Yield 2.367% [Tail 0.7 bps] Bid-to-cover 2.41 Sells $26 bln Awards 68.33% of bids at high Primary Dealers take 5.5% Direct 32.4% Indirect 62.0%"
+  },
+  {
+   "id": "9817335",
+   "title": "Traders no longer fully price in a Fed hike before year-end",
+   "link": "https://www.financialjuice.com/News/9817335/Traders-no-longer-fully-price-in-a-Fed-hike-before-year-end.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 17:02:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817329",
+   "title": "WI 5y TIPS yield about 2.36% before $26 billion auction",
+   "link": "https://www.financialjuice.com/News/9817329/WI-5y-TIPS-yield-about-236-before-26-billion-auction.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 17:00:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817302",
+   "title": "Fed bids for 5-year tips total $0.0 mln",
+   "link": "https://www.financialjuice.com/News/9817302/Fed-bids-for-5-year-tips-total-00-mln.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:46:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817277",
+   "title": "ECB’s Pereira: Europe must deepen single market",
+   "link": "https://www.financialjuice.com/News/9817277/ECBs-Pereira-Europe-must-deepen-single-market.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:20:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817271",
+   "title": "US and Denmark sign an MOU on maritime cooperation",
+   "link": "https://www.financialjuice.com/News/9817271/US-and-Denmark-sign-an-MOU-on-maritime-cooperation.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:16:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817264",
+   "title": "State of Rhode Island sues META over alleged tolerance for scam advertising $META",
+   "link": "https://www.financialjuice.com/News/9817264/State-of-Rhode-Island-sues-META-over-alleged-tolerance-for-scam-advertising-META.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:14:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817263",
+   "title": "Russia's Government: Gasoline and Diesel output increased, fuel reserves being built up - IFX",
+   "link": "https://www.financialjuice.com/News/9817263/Russias-Government-Gasoline-and-Diesel-output-increased-fuel-reserves-being-built-up---IFX.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:13:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817262",
+   "title": "Qatar said it is looking for more LNG deals outside the Middle East",
+   "link": "https://www.financialjuice.com/News/9817262/Qatar-said-it-is-looking-for-more-LNG-deals-outside-the-Middle-East.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:09:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817261",
+   "title": "OpenAI: Uber rolls out ChatGPT work to 30,000+ employees $UBER",
+   "link": "https://www.financialjuice.com/News/9817261/OpenAI-Uber-rolls-out-ChatGPT-work-to-30000-employees-UBER.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:09:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817260",
+   "title": "OpenAI: Uber brings ChatGPT work to all employees with OpenAI $UBER",
+   "link": "https://www.financialjuice.com/News/9817260/OpenAI-Uber-brings-ChatGPT-work-to-all-employees-with-OpenAI-UBER.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:08:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817258",
+   "title": "Musk invested $1b in Ellison’s Skydance - SEMAFOR",
+   "link": "https://www.financialjuice.com/News/9817258/Musk-invested-1b-in-Ellisons-Skydance---SEMAFOR.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:06:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817251",
+   "title": "French 10-year bonds yield 50bps over Italian peers for the first time",
+   "link": "https://www.financialjuice.com/News/9817251/French-10-year-bonds-yield-50bps-over-Italian-peers-for-the-first-time.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:02:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817235",
+   "title": "US 30-year fixed mortgage rate falls to 7.32% in Oct 22 week vs 7.40% prior week - Freddie Mac",
+   "link": "https://www.financialjuice.com/News/9817235/US-30-year-fixed-mortgage-rate-falls-to-732-in-Oct-22-week-vs-740-prior-week---Freddie-Mac.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 16:00:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817227",
+   "title": "Qatar PM and US Secretary of State Rubio discuss diplomatic efforts to reduce tensions",
+   "link": "https://www.financialjuice.com/News/9817227/Qatar-PM-and-US-Secretary-of-State-Rubio-discuss-diplomatic-efforts-to-reduce-tensions.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:54:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817226",
+   "title": "Saudi Arabia: Danger has passed in Najran",
+   "link": "https://www.financialjuice.com/News/9817226/Saudi-Arabia-Danger-has-passed-in-Najran.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:49:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817225",
+   "title": "Saudi Arabia issues warning for potential danger in Najran",
+   "link": "https://www.financialjuice.com/News/9817225/Saudi-Arabia-issues-warning-for-potential-danger-in-Najran.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:47:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817192",
+   "title": "Trump on Iran: Making up fake hits, mines, and everything else to drive up the price of oil - Truth Social",
+   "link": "https://www.financialjuice.com/News/9817192/Trump-on-Iran-Making-up-fake-hits-mines-and-everything-else-to-drive-up-the-price-of-oil---Truth-Social.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:42:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817189",
+   "title": "US 4-Week Bill Auction",
+   "link": "https://www.financialjuice.com/News/9817189/US-4-Week-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:33:35 GMT",
+   "desc": "High Yield 3.945% Bid-to-cover 2.82 Sells $110 bln Awards 32.92% of bids at high"
+  },
+  {
+   "id": "9817188",
+   "title": "US 4-Week Bill High Yield Actual 3.945% (Forecast -, Previous 4.000%)",
+   "link": "https://www.financialjuice.com/News/9817188/US-4-Week-Bill-High-Yield-Actual-3945-Forecast---Previous-4000.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:31:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817187",
+   "title": "US 4-Week Bill Bid-to-Cover Actual 2.82 (Forecast -, Previous 2.560)",
+   "link": "https://www.financialjuice.com/News/9817187/US-4-Week-Bill-Bid-to-Cover-Actual-282-Forecast---Previous-2560.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:31:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817183",
+   "title": "DeepSeek, Minimax get license for overseas use - Chinese media",
+   "link": "https://www.financialjuice.com/News/9817183/DeepSeek-Minimax-get-license-for-overseas-use---Chinese-media.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:25:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817159",
+   "title": "US Treasury: 2-year auction on Oct 26 could lead to unscheduled reopening of 5-year notes if high yield at auction is between 4.875%-4.999%",
+   "link": "https://www.financialjuice.com/News/9817159/US-Treasury-2-year-auction-on-Oct-26-could-lead-to-unscheduled-reopening-of-5-year-notes-if-high-yield-at-auction-is-between-4875-4999.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:17:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817158",
+   "title": "Fed bids for 4-week bills total $7.9 bln.",
+   "link": "https://www.financialjuice.com/News/9817158/Fed-bids-for-4-week-bills-total-79-bln.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:16:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817150",
+   "title": "HSBC cuts target price for Netflix to $69 from $76 $NFLX",
+   "link": "https://www.financialjuice.com/News/9817150/HSBC-cuts-target-price-for-Netflix-to-69-from-76-NFLX.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:15:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817149",
+   "title": "Trump ordered to sit for deposition in BBC defamation suit - AP",
+   "link": "https://www.financialjuice.com/News/9817149/Trump-ordered-to-sit-for-deposition-in-BBC-defamation-suit---AP.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:13:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817148",
+   "title": "Kansas City Fed Manufacturing Actual 16 (Forecast , Previous 20)",
+   "link": "https://www.financialjuice.com/News/9817148/Kansas-City-Fed-Manufacturing-Actual-16-Forecast--Previous-20.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:06:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817147",
+   "title": "US Treasury Auction Schedule",
+   "link": "https://www.financialjuice.com/News/9817147/US-Treasury-Auction-Schedule-.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:02:46 GMT",
+   "desc": "US to sell $54B 52-week bills on October 27th, to settle on October 29th US to sell $69B 2-year notes on October 26th, to settle on November 2nd US to sell $70B 5-year notes on October 27th, to settle on November 2nd US to sell $95B 3-Month bills on October 26th, to settle on October 29th US to sell $82B 6-Month bills on October 26th, to settle on October 29th"
+  },
+  {
+   "id": "9817129",
+   "title": "Kansas City Fed Composite Index Actual 11 (Forecast 12, Previous 14)",
+   "link": "https://www.financialjuice.com/News/9817129/Kansas-City-Fed-Composite-Index-Actual-11-Forecast-12-Previous-14.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 15:00:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817125",
+   "title": "Canada bans its diplomats from being seen with US candidates",
+   "link": "https://www.financialjuice.com/News/9817125/Canada-bans-its-diplomats-from-being-seen-with-US-candidates.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:52:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817123",
+   "title": "French 5-year CDS rise above 100 bps, first time since October 2012 - Sources",
+   "link": "https://www.financialjuice.com/News/9817123/French-5-year-CDS-rise-above-100-bps-first-time-since-October-2012---Sources.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:48:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817104",
+   "title": "SpaceX: SpaceXSI names Bain, NVIDIA, Snowflake launch partners $NVDA",
+   "link": "https://www.financialjuice.com/News/9817104/SpaceX-SpaceXSI-names-Bain-NVIDIA-Snowflake-launch-partners-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:43:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817103",
+   "title": "SpaceXSI launches SpaceX Super Intelligence Partner Network for companies building with Grok; over 130 companies join early-access phase $SPCX",
+   "link": "https://www.financialjuice.com/News/9817103/SpaceXSI-launches-SpaceX-Super-Intelligence-Partner-Network-for-companies-building-with-Grok-over-130-companies-join-early-access-phase-SPCX.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:43:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817102",
+   "title": "Turkey and Canada target boosting trade volume to $10b from $3b",
+   "link": "https://www.financialjuice.com/News/9817102/Turkey-and-Canada-target-boosting-trade-volume-to-10b-from-3b.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:35:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817084",
+   "title": "EIA Natural Gas Change BCF Actual 77B (Forecast 78B, Previous 67B)",
+   "link": "https://www.financialjuice.com/News/9817084/EIA-Natural-Gas-Change-BCF-Actual-77B-Forecast-78B-Previous-67B.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817083",
+   "title": "Ankara-Canada PM Carney: Launching Canada-Turkey strategic partnership backed by a three-year action plan, the partnership rests on four pillars: trade and investment, defense and security, energy, ties between people - prepared remarks",
+   "link": "https://www.financialjuice.com/News/9817083/Ankara-Canada-PM-Carney-Launching-Canada-Turkey-strategic-partnership-backed-by-a-three-year-action-plan-the-partnership-rests-on-four-pillars-trade-and-investment-defense-and-security-energy-ties-between-people---prepared-remarks.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:27:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817082",
+   "title": "Crypto Fear & Greed Index: 68/100 - Greed",
+   "link": "https://www.financialjuice.com/News/9817082/Crypto-Fear--Greed-Index-68100---Greed.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:20:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817081",
+   "title": "Valero seeing sustained higher flows through Strait of Hormuz",
+   "link": "https://www.financialjuice.com/News/9817081/Valero-seeing-sustained-higher-flows-through-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:19:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817079",
+   "title": "Fear & Greed Index: 26/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9817079/Fear--Greed-Index-26100---Fear.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:19:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817078",
+   "title": "Valero Energy to run refineries between 80% and 83% of capacity in Q4 and expects sales volumes of 325 million gallons in the renewable diesel segment in 04 - Conference Call",
+   "link": "https://www.financialjuice.com/News/9817078/Valero-Energy-to-run-refineries-between-80-and-83-of-capacity-in-Q4-and-expects-sales-volumes-of-325-million-gallons-in-the-renewable-diesel-segment-in-04---Conference-Call.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:18:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817074",
+   "title": "China seeks R&D and supply chain cooperation with Airbus",
+   "link": "https://www.financialjuice.com/News/9817074/China-seeks-RD-and-supply-chain-cooperation-with-Airbus.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:15:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817070",
+   "title": "China seeks more cooperation between Airbus and Chinese SOEs",
+   "link": "https://www.financialjuice.com/News/9817070/China-seeks-more-cooperation-between-Airbus-and-Chinese-SOEs.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:15:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817068",
+   "title": "US Steel: Investment to increase annual production capacity to about 3.5 million tons from about 2.2 million",
+   "link": "https://www.financialjuice.com/News/9817068/US-Steel-Investment-to-increase-annual-production-capacity-to-about-35-million-tons-from-about-22-million.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:06:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817045",
+   "title": "US Leading Index Change MoM Actual 0% (Forecast -0.1%, Previous -0.1%)",
+   "link": "https://www.financialjuice.com/News/9817045/US-Leading-Index-Change-MoM-Actual-0-Forecast--01-Previous--01.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:00:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817044",
+   "title": "Eurozone Consumer Confidence Flash Actual -17.9 (Forecast -17, Previous -16.5)",
+   "link": "https://www.financialjuice.com/News/9817044/Eurozone-Consumer-Confidence-Flash-Actual--179-Forecast--17-Previous--165.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 14:00:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9817042",
+   "title": "Nippon Steel to spend $3bn on US steel plant to update 90-year- old hardware - Nikkei",
+   "link": "https://www.financialjuice.com/News/9817042/Nippon-Steel-to-spend-3bn-on-US-steel-plant-to-update-90-year--old-hardware---Nikkei.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:52:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816999",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9816999/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:30:36 GMT",
+   "desc": "S&amp;P 500: +14 mln Nasdaq 100: -6 mln Dow 30: -19 mln Mag 7: +5 mln"
+  },
+  {
+   "id": "9816983",
+   "title": "Commonwealth fusion to get up to $85M in chips awards",
+   "link": "https://www.financialjuice.com/News/9816983/Commonwealth-fusion-to-get-up-to-85M-in-chips-awards.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:03:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816982",
+   "title": "Commerce Department to award up to $389m in chips R&D funds.",
+   "link": "https://www.financialjuice.com/News/9816982/Commerce-Department-to-award-up-to-389m-in-chips-RD-funds.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:02:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816981",
+   "title": "German tax panel projects total tax revenue 2026-30 to be €43.4 bln above May forecast.",
+   "link": "https://www.financialjuice.com/News/9816981/German-tax-panel-projects-total-tax-revenue-2026-30-to-be-434-bln-above-May-forecast.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:01:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816980",
+   "title": "German tax panel projects state tax revenue this year to be 0.1 bln EUR above May's forecast",
+   "link": "https://www.financialjuice.com/News/9816980/German-tax-panel-projects-state-tax-revenue-this-year-to-be-01-bln-EUR-above-Mays-forecast.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:01:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816979",
+   "title": "German tax panel projects federal tax revenue this year to be €3.0 bln below may forecast",
+   "link": "https://www.financialjuice.com/News/9816979/German-tax-panel-projects-federal-tax-revenue-this-year-to-be-30-bln-below-may-forecast.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:01:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816977",
+   "title": "German finance minister: We will need to continue consolidating the budget to create room for policies in the future",
+   "link": "https://www.financialjuice.com/News/9816977/German-finance-minister-We-will-need-to-continue-consolidating-the-budget-to-create-room-for-policies-in-the-future.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:01:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816967",
+   "title": "German tax panel projects municipal tax revenue this year to be €0.8 bln above may forecast.",
+   "link": "https://www.financialjuice.com/News/9816967/German-tax-panel-projects-municipal-tax-revenue-this-year-to-be-08-bln-above-may-forecast.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:01:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816964",
+   "title": "German tax panel projects federal tax revenue next year to be 4.1 billion euros above May's forecast",
+   "link": "https://www.financialjuice.com/News/9816964/German-tax-panel-projects-federal-tax-revenue-next-year-to-be-41-billion-euros-above-Mays-forecast.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:00:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816963",
+   "title": "German tax 2026 projected to reach €379.1 billion - Ministry",
+   "link": "https://www.financialjuice.com/News/9816963/German-tax-2026-projected-to-reach-3791-billion---Ministry.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:00:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816962",
+   "title": "German Fin. Min. Klingbeil: More budget cuts needed to create new fiscal room.",
+   "link": "https://www.financialjuice.com/News/9816962/German-Fin-Min-Klingbeil-More-budget-cuts-needed-to-create-new-fiscal-room.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:00:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816961",
+   "title": "Germany expects marginally higher tax revenue through 2030",
+   "link": "https://www.financialjuice.com/News/9816961/Germany-expects-marginally-higher-tax-revenue-through-2030.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:00:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816958",
+   "title": "Effective Fed Funds Rate 3.88% October 21 vs 3.88% October 20.",
+   "link": "https://www.financialjuice.com/News/9816958/Effective-Fed-Funds-Rate-388-October-21-vs-388-October-20.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 13:00:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816957",
+   "title": "Meta credit risk gauge reaches fresh high on ai spending plans.",
+   "link": "https://www.financialjuice.com/News/9816957/Meta-credit-risk-gauge-reaches-fresh-high-on-ai-spending-plans.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 12:51:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816931",
+   "title": "Canadian Business Barometer Actual 50.00 (Forecast -, Previous 47.90)",
+   "link": "https://www.financialjuice.com/News/9816931/Canadian-Business-Barometer-Actual-5000-Forecast---Previous-4790.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 12:41:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816930",
+   "title": "Canadian RMPI MoM Actual 4.8% (Forecast 2.9%, Previous 3.1%)",
+   "link": "https://www.financialjuice.com/News/9816930/Canadian-RMPI-MoM-Actual-48-Forecast-29-Previous-31.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 12:34:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816929",
+   "title": "Canadian PPI YoY Actual 14.5% (Forecast -, Previous 13.5%)",
+   "link": "https://www.financialjuice.com/News/9816929/Canadian-PPI-YoY-Actual-145-Forecast---Previous-135.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 12:34:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9816928",
+   "title": "Canadian PPI MoM Actual 2.0% (Forecast 0.9%, Previous 1.3%)",
+   "link": "https://www.financialjuice.com/News/9816928/Canadian-PPI-MoM-Actual-20-Forecast-09-Previous-13.aspx?xy=rss",
+   "pubDate": "Thu, 22 Oct 2026 12:34:25 GMT",
+   "desc": ""
+  },
   {
    "id": "9816906",
    "title": "US Initial Jobless Claims Actual 194k (Forecast 200k, Previous 199k, Revised 200k)",
