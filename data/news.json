@@ -1,7 +1,406 @@
 {
- "updated_at": "2026-10-23T12:10:25.745617+00:00",
- "count": 15729,
+ "updated_at": "2026-10-23T17:10:24.241094+00:00",
+ "count": 15786,
  "items": [
+  {
+   "id": "9819202",
+   "title": "US Baker Hughes Total Rig Count Actual 603 (Forecast -, Previous 603)",
+   "link": "https://www.financialjuice.com/News/9819202/US-Baker-Hughes-Total-Rig-Count-Actual-603-Forecast---Previous-603.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 17:00:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819201",
+   "title": "US Baker Hughes Oil Rig Count Actual 460 (Forecast -, Previous 459)",
+   "link": "https://www.financialjuice.com/News/9819201/US-Baker-Hughes-Oil-Rig-Count-Actual-460-Forecast---Previous-459.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 17:00:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819199",
+   "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes - Officials.",
+   "link": "https://www.financialjuice.com/News/9819199/Iran-has-detailed-plans-to-hit-Gulf-undersea-cables-if-war-resumes---Officials.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 16:53:15 GMT",
+   "desc": "According to two senior Iranian security officials, Tehran has prepared detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again. Their remarks came after Iranian officials warned that if diplomacy with Washington fails, the region&#39;s undersea cables could become targets in any renewed conflict. The two Iranian security officials, who spoke on condition of anonymity, provided few details and did not specify how or where Tehran would carry out such attacks. However, one of them stated that Iran would seek to prevent repairs after any attacks in order to prolong disruptions to communications, including internet connections."
+  },
+  {
+   "id": "9819170",
+   "title": "Germany's Oil Stockpiling Agency EBV issued a tender to sell diesel, heating oil, and crude oil from reserves on Friday - Document.",
+   "link": "https://www.financialjuice.com/News/9819170/Germanys-Oil-Stockpiling-Agency-EBV-issued-a-tender-to-sell-diesel-heating-oil-and-crude-oil-from-reserves-on-Friday---Document.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 16:22:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819148",
+   "title": "Poll: Bank of Canada to hike overnight rate twice by end-March, said 16 of 29 economists (vs 17 of 34 forecasting hold until mid-2027 in August poll).",
+   "link": "https://www.financialjuice.com/News/9819148/Poll-Bank-of-Canada-to-hike-overnight-rate-twice-by-end-March-said-16-of-29-economists-vs-17-of-34-forecasting-hold-until-mid-2027-in-August-poll.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 16:06:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819147",
+   "title": "Poll: The Bank of Canada to raise overnight rate to 2.50% on October 28th, said 19 of 34 economists.",
+   "link": "https://www.financialjuice.com/News/9819147/Poll-The-Bank-of-Canada-to-raise-overnight-rate-to-250-on-October-28th-said-19-of-34-economists.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 16:06:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819144",
+   "title": "Russian Defense Minister: ceasefire to begin from 0400 local time - IFX.",
+   "link": "https://www.financialjuice.com/News/9819144/Russian-Defense-Minister-ceasefire-to-begin-from-0400-local-time---IFX.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 16:01:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819121",
+   "title": "Japan weighs rebranding energy, AI as defense spending under Trump pressure - Nikkei",
+   "link": "https://www.financialjuice.com/News/9819121/Japan-weighs-rebranding-energy-AI-as-defense-spending-under-Trump-pressure---Nikkei.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:37:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819087",
+   "title": "Trump ends remarks to reporters",
+   "link": "https://www.financialjuice.com/News/9819087/Trump-ends-remarks-to-reporters.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:13:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819086",
+   "title": "Trump: Need to protect geniuses like Musk",
+   "link": "https://www.financialjuice.com/News/9819086/Trump-Need-to-protect-geniuses-like-Musk.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:11:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819085",
+   "title": "Kremlin: Operation to evacuate Oleshky will take a few days at least",
+   "link": "https://www.financialjuice.com/News/9819085/Kremlin-Operation-to-evacuate-Oleshky-will-take-a-few-days-at-least.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:11:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819084",
+   "title": "Kremlin: Russian and Ukrainian militaries are working out ceasefire dates",
+   "link": "https://www.financialjuice.com/News/9819084/Kremlin-Russian-and-Ukrainian-militaries-are-working-out-ceasefire-dates.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:10:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819083",
+   "title": "Kremlin hails Melania Trump's input on Oleshky humanitarian agreement; says she coordinated the deal, discussed by Putin and Trump in a recent phone call",
+   "link": "https://www.financialjuice.com/News/9819083/Kremlin-hails-Melania-Trumps-input-on-Oleshky-humanitarian-agreement-says-she-coordinated-the-deal-discussed-by-Putin-and-Trump-in-a-recent-phone-call.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:10:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819082",
+   "title": "UKMTO: Tanker hit by unknown projectile in Hormuz near Oman",
+   "link": "https://www.financialjuice.com/News/9819082/UKMTO-Tanker-hit-by-unknown-projectile-in-Hormuz-near-Oman.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:06:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819081",
+   "title": "UKMTO gets a time-late report of incident 7nm from Limah, Oman",
+   "link": "https://www.financialjuice.com/News/9819081/UKMTO-gets-a-time-late-report-of-incident-7nm-from-Limah-Oman.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:05:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819079",
+   "title": "Trump: Canada is working hard to make a deal with us",
+   "link": "https://www.financialjuice.com/News/9819079/Trump-Canada-is-working-hard-to-make-a-deal-with-us.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:01:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819076",
+   "title": "Trump: Discussed North Sea oil with UK's PM Burnham:",
+   "link": "https://www.financialjuice.com/News/9819076/Trump-Discussed-North-Sea-oil-with-UKs-PM-Burnham.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:01:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819064",
+   "title": "Trump: Spoke with British PM today",
+   "link": "https://www.financialjuice.com/News/9819064/Trump-Spoke-with-British-PM-today.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 15:00:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819054",
+   "title": "Trump on Hormuz: We're taking out all the oil we want",
+   "link": "https://www.financialjuice.com/News/9819054/Trump-on-Hormuz-Were-taking-out-all-the-oil-we-want.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:58:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819053",
+   "title": "Trump on Iran: Do we want to finish it or let it wither is the question",
+   "link": "https://www.financialjuice.com/News/9819053/Trump-on-Iran-Do-we-want-to-finish-it-or-let-it-wither-is-the-question.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:57:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819052",
+   "title": "Trump: We could end the Iran war very quickly",
+   "link": "https://www.financialjuice.com/News/9819052/Trump-We-could-end-the-Iran-war-very-quickly.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:56:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819051",
+   "title": "Trump on Melania-brokered ceasefire: Both sides wanted to do it",
+   "link": "https://www.financialjuice.com/News/9819051/Trump-on-Melania-brokered-ceasefire-Both-sides-wanted-to-do-it.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:52:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819050",
+   "title": "Turkish Foreign Minister, speaking after meeting regional and European counterparts: Nobody approves another attack on iran, diplomacy is the only way",
+   "link": "https://www.financialjuice.com/News/9819050/Turkish-Foreign-Minister-speaking-after-meeting-regional-and-European-counterparts-Nobody-approves-another-attack-on-iran-diplomacy-is-the-only-way.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:51:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819049",
+   "title": "Trump and UK's PM Burnham to speak today as Ukraine, Iran tensions mount",
+   "link": "https://www.financialjuice.com/News/9819049/Trump-and-UKs-PM-Burnham-to-speak-today-as-Ukraine-Iran-tensions-mount.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:50:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819048",
+   "title": "EU's Trade Chief Sefcovic: ministers suggested next sectors for China talks",
+   "link": "https://www.financialjuice.com/News/9819048/EUs-Trade-Chief-Sefcovic-ministers-suggested-next-sectors-for-China-talks.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:49:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819047",
+   "title": "Ukrainian Official: A ceasefire in Russian-occupied Oleshky to be established soon.",
+   "link": "https://www.financialjuice.com/News/9819047/Ukrainian-Official-A-ceasefire-in-Russian-occupied-Oleshky-to-be-established-soon.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:48:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819040",
+   "title": "Germany's Foreign Minister: Need to support Saudi Arabia and the Yemeni government to defend themselves:",
+   "link": "https://www.financialjuice.com/News/9819040/Germanys-Foreign-Minister-Need-to-support-Saudi-Arabia-and-the-Yemeni-government-to-defend-themselves.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:46:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819034",
+   "title": "EU's Trade Chief Sefcovic: The trade deficit with China could break the 2022 record",
+   "link": "https://www.financialjuice.com/News/9819034/EUs-Trade-Chief-Sefcovic-The-trade-deficit-with-China-could-break-the-2022-record.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:42:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819014",
+   "title": "Crypto Fear & Greed Index: 50/100 - Neutral",
+   "link": "https://www.financialjuice.com/News/9819014/Crypto-Fear--Greed-Index-50100---Neutral.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:18:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819013",
+   "title": "Fear & Greed Index: 20/100 - Extreme Fear - CNN",
+   "link": "https://www.financialjuice.com/News/9819013/Fear--Greed-Index-20100---Extreme-Fear---CNN-.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:18:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818990",
+   "title": "Ukraine’s President Zelenskiy: The goal is to meet in the first half of November as soon as possible",
+   "link": "https://www.financialjuice.com/News/9818990/Ukraines-President-Zelenskiy-The-goal-is-to-meet-in-the-first-half-of-November-as-soon-as-possible.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:15:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818989",
+   "title": "Ukraine’s President Zelenskiy: Agreement for trilateral meeting at the team level",
+   "link": "https://www.financialjuice.com/News/9818989/Ukraines-President-Zelenskiy-Agreement-for-trilateral-meeting-at-the-team-level.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:14:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818988",
+   "title": "Ukraine’s President Zelenskiy: Just spoke with Witkoff and Kushner",
+   "link": "https://www.financialjuice.com/News/9818988/Ukraines-President-Zelenskiy-Just-spoke-with-Witkoff-and-Kushner.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:13:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818954",
+   "title": "University Michigan 5 Yr Inflation Final Actual 3.5% (Forecast 3.5%, Previous 3.5%)",
+   "link": "https://www.financialjuice.com/News/9818954/University-Michigan-5-Yr-Inflation-Final-Actual-35-Forecast-35-Previous-35.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818953",
+   "title": "University Michigan 1 Yr Inflation Final Actual 4.7% (Forecast 4.7%, Previous 4.7%)",
+   "link": "https://www.financialjuice.com/News/9818953/University-Michigan-1-Yr-Inflation-Final-Actual-47-Forecast-47-Previous-47.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818952",
+   "title": "University Michigan Sentiment Final Actual 48 (Forecast 46.3, Previous 46.3)",
+   "link": "https://www.financialjuice.com/News/9818952/University-Michigan-Sentiment-Final-Actual-48-Forecast-463-Previous-463.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818951",
+   "title": "University Michigan Conditions Final Actual 46.7 (Forecast 44.9, Previous 44.7)",
+   "link": "https://www.financialjuice.com/News/9818951/University-Michigan-Conditions-Final-Actual-467-Forecast-449-Previous-447.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818950",
+   "title": "University Michigan Expectations Final Actual 48.8 (Forecast 47.1, Previous 47.3)",
+   "link": "https://www.financialjuice.com/News/9818950/University-Michigan-Expectations-Final-Actual-488-Forecast-471-Previous-473.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 14:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818948",
+   "title": "US Department of Energy announces authorization of emergency exchange of up to 400,000 barrels of crude oil from spr to address crude oil supply disruption affecting phillips 66 lake charles refinery in louisiana",
+   "link": "https://www.financialjuice.com/News/9818948/US-Department-of-Energy-announces-authorization-of-emergency-exchange-of-up-to-400000-barrels-of-crude-oil-from-spr-to-address-crude-oil-supply-disruption-affecting-phillips-66-lake-charles-refinery-in-louisiana.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:56:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818947",
+   "title": "US authorizes SPR exchange to support fuel supply stability",
+   "link": "https://www.financialjuice.com/News/9818947/US-authorizes-SPR-exchange-to-support-fuel-supply-stability.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:55:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818946",
+   "title": "French Foreign Minister Barrot: New escalation between Iran and the United States would only have losers and would raise oil prices.",
+   "link": "https://www.financialjuice.com/News/9818946/French-Foreign-Minister-Barrot-New-escalation-between-Iran-and-the-United-States-would-only-have-losers-and-would-raise-oil-prices.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:47:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818933",
+   "title": "US S&P Composite PMI Flash  Actual 57.6 (Forecast 57.6, Previous 58.4)",
+   "link": "https://www.financialjuice.com/News/9818933/US-SP-Composite-PMI-Flash--Actual-576-Forecast-576-Previous-584.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:45:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818932",
+   "title": "US S&P Manufacturing PMI Flash Actual 56 (Forecast 55.5, Previous 55.9)",
+   "link": "https://www.financialjuice.com/News/9818932/US-SP-Manufacturing-PMI-Flash-Actual-56-Forecast-555-Previous-559.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:45:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818931",
+   "title": "US S&P Services PMI Flash Actual 57.9 (Forecast 58, Previous 58.8)",
+   "link": "https://www.financialjuice.com/News/9818931/US-SP-Services-PMI-Flash-Actual-579-Forecast-58-Previous-588.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818930",
+   "title": "Trump Administration's $8 billion in diesel aid for farmers will not arrive before the November 3rd election - Administration Official",
+   "link": "https://www.financialjuice.com/News/9818930/Trump-Administrations-8-billion-in-diesel-aid-for-farmers-will-not-arrive-before-the-November-3rd-election---Administration-Official.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:40:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818916",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9818916/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:30:35 GMT",
+   "desc": "S&amp;P 500: -40 mln Nasdaq 100: +10 mln Dow 30: -9 mln Mag 7: -8 mln"
+  },
+  {
+   "id": "9818913",
+   "title": "Meta: the extension will allow it to explain to partners. Stakeholders about changes\nMeta Platforms, will extend the implementation date of updated commercial terms to November 20th from October 30th. $META",
+   "link": "https://www.financialjuice.com/News/9818913/Meta-the-extension-will-allow-it-to-explain-to-partners-Stakeholders-about-changesMeta-Platforms-will-extend-the-implementation-date-of-updated-commercial-terms-to-November-20th-from-October-30th-META.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:26:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818912",
+   "title": "China's Foreign Minister Wang Yi: China and the US have the responsibility of managing AI.",
+   "link": "https://www.financialjuice.com/News/9818912/Chinas-Foreign-Minister-Wang-Yi-China-and-the-US-have-the-responsibility-of-managing-AI-.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:25:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818911",
+   "title": "Anthropic: Newer models are less likely to begin an attack",
+   "link": "https://www.financialjuice.com/News/9818911/Anthropic-Newer-models-are-less-likely-to-begin-an-attack.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:24:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818910",
+   "title": "White House on the localised ceasefire between Ukraine and Russia: Ceasefire will begin on October 29th",
+   "link": "https://www.financialjuice.com/News/9818910/White-House-on-the-localised-ceasefire-between-Ukraine-and-Russia-Ceasefire-will-begin-on-October-29th.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:19:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818909",
+   "title": "Melania Trump secures Russia-Ukraine ceasefire localized to Oleshky",
+   "link": "https://www.financialjuice.com/News/9818909/Melania-Trump-secures-Russia-Ukraine-ceasefire-localized-to-Oleshky.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 13:18:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818857",
+   "title": "Effective fed funds rate 3.88% October 22nd vs 3.88% October 21st",
+   "link": "https://www.financialjuice.com/News/9818857/Effective-fed-funds-rate-388-October-22nd-vs-388-October-21st.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 12:59:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818855",
+   "title": "US proposes further suspension of section 301 investigation into China's targeting of maritime, logistics, and shipbuilding sectors for dominance through January 9th, 2027 - Office of USTR",
+   "link": "https://www.financialjuice.com/News/9818855/US-proposes-further-suspension-of-section-301-investigation-into-Chinas-targeting-of-maritime-logistics-and-shipbuilding-sectors-for-dominance-through-January-9th-2027---Office-of-USTR.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 12:58:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818846",
+   "title": "American Express to cut 5% of jobs, about 3,500 employees $AXP",
+   "link": "https://www.financialjuice.com/News/9818846/American-Express-to-cut-5-of-jobs-about-3500-employees-AXP.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 12:37:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818814",
+   "title": "Canadian Core Retail Sales MoM Actual 1.2% (Forecast 1.1%, Previous -0.7%, Revision -0.8%)",
+   "link": "https://www.financialjuice.com/News/9818814/Canadian-Core-Retail-Sales-MoM-Actual-12-Forecast-11-Previous--07-Revision--08.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818813",
+   "title": "Canadian Retail Sales MoM Actual 1.2% (Forecast 1.3%, Previous -0.7%, Revision -0.8%)",
+   "link": "https://www.financialjuice.com/News/9818813/Canadian-Retail-Sales-MoM-Actual-12-Forecast-13-Previous--07-Revision--08.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 12:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9818812",
+   "title": "Passengers are being evacuated from Sheremetyevo Airport near Moscow - RIA",
+   "link": "https://www.financialjuice.com/News/9818812/Passengers-are-being-evacuated-from-Sheremetyevo-Airport-near-Moscow---RIA.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 12:28:35 GMT",
+   "desc": "Evacuation is due to a drone threat."
+  },
   {
    "id": "9818796",
    "title": "Secured Overnight Financing rate 3.90% October 22nd vs 3.88% October 21st.",
