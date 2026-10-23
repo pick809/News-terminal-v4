@@ -1,7 +1,56 @@
 {
- "updated_at": "2026-10-23T20:28:10.280422+00:00",
- "count": 15830,
+ "updated_at": "2026-10-23T23:18:46.118952+00:00",
+ "count": 15837,
  "items": [
+  {
+   "id": "9819555",
+   "title": "OpenAI: red-teaming exercise uncovers vulnerability enabling unauthenticated remote code execution in Brotli compression library",
+   "link": "https://www.financialjuice.com/News/9819555/OpenAI-red-teaming-exercise-uncovers-vulnerability-enabling-unauthenticated-remote-code-execution-in-Brotli-compression-library.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 22:59:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819518",
+   "title": "US Secretary of Defense Hegseth: Defense department designates Confucius Institutes as national security threat",
+   "link": "https://www.financialjuice.com/News/9819518/US-Secretary-of-Defense-Hegseth-Defense-department-designates-Confucius-Institutes-as-national-security-threat.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 21:37:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819477",
+   "title": "France Fin. Min. Lescure: The Moody's call recognizes the solidity of the French economy.",
+   "link": "https://www.financialjuice.com/News/9819477/France-Fin-Min-Lescure-The-Moodys-call-recognizes-the-solidity-of-the-French-economy.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 20:54:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819476",
+   "title": "Moody's: The recent sharp rise in French government bond yields adds to the risks of a further weakening of debt affordability.",
+   "link": "https://www.financialjuice.com/News/9819476/Moodys-The-recent-sharp-rise-in-French-government-bond-yields-adds-to-the-risks-of-a-further-weakening-of-debt-affordability.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 20:50:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819475",
+   "title": "Moody's projects a 5.2% of GDP deficit in 2027 for France.",
+   "link": "https://www.financialjuice.com/News/9819475/Moodys-projects-a-52-of-GDP-deficit-in-2027-for-France.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 20:48:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819474",
+   "title": "Moody's: France's rating remains at Aa3, assuming that a deficit-reducing budget for 2027 will be adopted.",
+   "link": "https://www.financialjuice.com/News/9819474/Moodys-Frances-rating-remains-at-Aa3-assuming-that-a-deficit-reducing-budget-for-2027-will-be-adopted.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 20:48:05 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"j3UotxB7\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9819473",
+   "title": "Moody's since previous periodic review of France rating, slower growth and higher deficit have pushed debt burden somewhat higer",
+   "link": "https://www.financialjuice.com/News/9819473/Moodys-since-previous-periodic-review-of-France-rating-slower-growth-and-higher-deficit-have-pushed-debt-burden-somewhat-higer.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 20:47:21 GMT",
+   "desc": ""
+  },
   {
    "id": "9819443",
    "title": "US bank deposits rose to $19.810 tln from $19.772 tln in the prior week.",
