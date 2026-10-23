@@ -1,7 +1,315 @@
 {
- "updated_at": "2026-10-23T17:10:24.241094+00:00",
- "count": 15786,
+ "updated_at": "2026-10-23T20:28:10.280422+00:00",
+ "count": 15830,
  "items": [
+  {
+   "id": "9819443",
+   "title": "US bank deposits rose to $19.810 tln from $19.772 tln in the prior week.",
+   "link": "https://www.financialjuice.com/News/9819443/US-bank-deposits-rose-to-19810-tln-from-19772-tln-in-the-prior-week.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 20:15:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819440",
+   "title": "Venezuela oil output at 1.2m barrels/day - Oil Minister.",
+   "link": "https://www.financialjuice.com/News/9819440/Venezuela-oil-output-at-12m-barrelsday---Oil-Minister.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 20:08:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819417",
+   "title": "USD CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819417/USD-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:52:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819416",
+   "title": "EUR CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819416/EUR-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:52:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819415",
+   "title": "AUD CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819415/AUD-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:52:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819414",
+   "title": "JPY CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819414/JPY-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819413",
+   "title": "GBP CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819413/GBP-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819412",
+   "title": "CHF CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819412/CHF-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819411",
+   "title": "NZD CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819411/NZD-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819410",
+   "title": "CAD CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819410/CAD-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819409",
+   "title": "ZN CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819409/ZN-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819408",
+   "title": "ZT CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819408/ZT-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819407",
+   "title": "VIX CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819407/VIX-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819406",
+   "title": "NQ CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819406/NQ-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819405",
+   "title": "ES CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819405/ES-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819404",
+   "title": "WTI CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819404/WTI-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819403",
+   "title": "Copper CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819403/Copper-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819402",
+   "title": "Gold CFTC Positions Week of October 20th - FJElite",
+   "link": "https://www.financialjuice.com/News/9819402/Gold-CFTC-Positions-Week-of-October-20th---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:51:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819401",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9819401/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:50:30 GMT",
+   "desc": "S&amp;P 500: -1256 mln Nasdaq 100: -796 mln Dow 30: +121 mln Mag 7: -16 mln"
+  },
+  {
+   "id": "9819385",
+   "title": "Trump: We're close to ending, I hope, the Russia-Ukraine war.",
+   "link": "https://www.financialjuice.com/News/9819385/Trump-Were-close-to-ending-I-hope-the-Russia-Ukraine-war.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:40:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819384",
+   "title": "Trump further modifies Canadian products subject to tariffs under Section 338 to take effect on October 30th - White House.",
+   "link": "https://www.financialjuice.com/News/9819384/Trump-further-modifies-Canadian-products-subject-to-tariffs-under-Section-338-to-take-effect-on-October-30th---White-House.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:38:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819383",
+   "title": "Trump: I doubt Iran will say \"let's get down to business\".",
+   "link": "https://www.financialjuice.com/News/9819383/Trump-I-doubt-Iran-will-say-lets-get-down-to-business.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:37:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819382",
+   "title": "Trump on Iran: We may do another operation against Iran.",
+   "link": "https://www.financialjuice.com/News/9819382/Trump-on-Iran-We-may-do-another-operation-against-Iran.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:36:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819381",
+   "title": "Speculative traders turn most bearish on the Euro since 2020 - CFTC.",
+   "link": "https://www.financialjuice.com/News/9819381/Speculative-traders-turn-most-bearish-on-the-Euro-since-2020---CFTC.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:36:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819380",
+   "title": "Trump on Cuba: We will send US Secretary of State Rubio in to finish up the deal.",
+   "link": "https://www.financialjuice.com/News/9819380/Trump-on-Cuba-We-will-send-US-Secretary-of-State-Rubio-in-to-finish-up-the-deal.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:36:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819379",
+   "title": "Trump Holds a Rally in Ft. Myers, FL - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9819379/Trump-Holds-a-Rally-in-Ft-Myers-FL---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:35:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819378",
+   "title": "Trump: We'll take care of Cuba on our way back from Iran.",
+   "link": "https://www.financialjuice.com/News/9819378/Trump-Well-take-care-of-Cuba-on-our-way-back-from-Iran.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:34:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819377",
+   "title": "Iran's Revolutionary Guards: Two tankers struck naval mines while trying to use an unauthorised route south of the Strait of Hormuz - State Media.",
+   "link": "https://www.financialjuice.com/News/9819377/Irans-Revolutionary-Guards-Two-tankers-struck-naval-mines-while-trying-to-use-an-unauthorised-route-south-of-the-Strait-of-Hormuz---State-Media.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819364",
+   "title": "CFTC Positions in the Week of October 20th 2026",
+   "link": "https://www.financialjuice.com/News/9819364/CFTC-Positions-in-the-Week-of-October-20th-2026.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:31:09 GMT",
+   "desc": "Equity fund speculators trim S&amp;P 500 CME net short position by 42,221 contracts to 348,674 Equity fund managers cut S&amp;P 500 CME net long position by 18,079 contracts to 894,464 Speculators trim CBOT US 5-year Treasury futures net short position by 6,095 contracts to 1,074,109 Speculators trim CBOT US 10-year Treasury futures net short position by 23,809 contracts to 964,293 Speculators trim CBOT US 2-year Treasury futures net short position by 54,796 contracts to 856,783 Speculators increase CBOT US UltraBond Treasury futures net short position by 53,564 contracts to 375,161 Speculators trim CBOT US Treasury bonds futures net short position by 58,019 contracts to 68,419 Bitcoin net long position is 2,418 contracts Swiss franc posts net short position of -18,150 contracts British pound net short position is -80,420 contracts Euro net short position is -134,524 contracts Japanese yen net long position is 69,878 contracts"
+  },
+  {
+   "id": "9819362",
+   "title": "Monday FX Options Expiries",
+   "link": "https://www.financialjuice.com/News/9819362/Monday-FX-Options-Expiries-.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:24:18 GMT",
+   "desc": "EUR/USD: 1.1100 (EU1.35b), 1.1250 (EU1.13b), 1.1200 (EU1.01b) USD/JPY: 158.00 ($2.32b), 152.00 ($1.33b), 158.50 ($1.3b) AUD/USD: 0.6950 (AUD794.7m), 0.6800 (AUD570.3m), 0.6980 (AUD503.7m) USD/CAD: 1.4250 ($690.1m), 1.3950 ($460.2m), 1.3960 ($434.1m) USD/MXN: 18.20 ($823.2m), 17.60 ($614m), 18.70 ($493.8m) USD/BRL: 5.4500 ($371.9m) GBP/USD: 1.3300 (GBP354.1m) USD/CNY: 6.7070 ($493.5m), 6.7300 ($393.8m)"
+  },
+  {
+   "id": "9819347",
+   "title": "OpenAI strengthened containment for frontier-model training",
+   "link": "https://www.financialjuice.com/News/9819347/OpenAI-strengthened-containment-for-frontier-model-training.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:14:48 GMT",
+   "desc": "OpenAI to do frontier model training with no internet access OpenAI: improved methods for detecting misaligned behavior Added new controls throughout infrastructure Substantially hardened security of research environments"
+  },
+  {
+   "id": "9819344",
+   "title": "Iran: Southern ports blockade cut imports 25% - ISNA",
+   "link": "https://www.financialjuice.com/News/9819344/Iran-Southern-ports-blockade-cut-imports-25---ISNA.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 19:03:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819331",
+   "title": "Iraqi PM: Iraq aims to gradually raise oil production to 10 mln bpd by 2032.",
+   "link": "https://www.financialjuice.com/News/9819331/Iraqi-PM-Iraq-aims-to-gradually-raise-oil-production-to-10-mln-bpd-by-2032.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 18:59:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819330",
+   "title": "Brent Crude futures settle at $116.72/bbl, up $3.55, 3.14%.",
+   "link": "https://www.financialjuice.com/News/9819330/Brent-Crude-futures-settle-at-11672bbl-up-355-314.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 18:47:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819315",
+   "title": "NYMEX Diesel November futures settle at $4.9842 a gallon.",
+   "link": "https://www.financialjuice.com/News/9819315/NYMEX-Diesel-November-futures-settle-at-49842-a-gallon.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 18:31:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819305",
+   "title": "NYMEX Gasoline November futures settle at $3.2116 a gallon.",
+   "link": "https://www.financialjuice.com/News/9819305/NYMEX-Gasoline-November-futures-settle-at-32116-a-gallon.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 18:31:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819304",
+   "title": "NYMEX WTI Crude December futures settle at $103.27 a barrel, up $3.80, 3.82%.",
+   "link": "https://www.financialjuice.com/News/9819304/NYMEX-WTI-Crude-December-futures-settle-at-10327-a-barrel-up-380-382.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 18:31:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819277",
+   "title": "The Iranian and Russian presidents are going to hold talks in Moscow next week - ISNA.",
+   "link": "https://www.financialjuice.com/News/9819277/The-Iranian-and-Russian-presidents-are-going-to-hold-talks-in-Moscow-next-week---ISNA.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 18:02:13 GMT",
+   "desc": "console.log('x');"
+  },
+  {
+   "id": "9819269",
+   "title": "GOP House Rep. introduces a bill to block Russia oil imports.",
+   "link": "https://www.financialjuice.com/News/9819269/GOP-House-Rep-introduces-a-bill-to-block-Russia-oil-imports.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 17:57:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819268",
+   "title": "The US could balance Canada's tariff reductions by raising other levies - WSJ.",
+   "link": "https://www.financialjuice.com/News/9819268/The-US-could-balance-Canadas-tariff-reductions-by-raising-other-levies---WSJ.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 17:52:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819266",
+   "title": "Trump is expected to remove some tariffs on Canada - WSJ.",
+   "link": "https://www.financialjuice.com/News/9819266/Trump-is-expected-to-remove-some-tariffs-on-Canada---WSJ.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 17:48:52 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"IBZX6z7Q\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9819236",
+   "title": "Moonshot AI announces Kimi K3.1 Pro and K3.1 Pro Highspeed",
+   "link": "https://www.financialjuice.com/News/9819236/Moonshot-AI-announces-Kimi-K31-Pro-and-K31-Pro-Highspeed.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 17:16:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819218",
+   "title": "Meta's Chief AI Officer Wang: No ads inside Muse, don't have any plans to do so; Meta plans to offer paid enterprise services, will take commissions from sellers on purchases made using agents - Nikkei $META",
+   "link": "https://www.financialjuice.com/News/9819218/Metas-Chief-AI-Officer-Wang-No-ads-inside-Muse-dont-have-any-plans-to-do-so-Meta-plans-to-offer-paid-enterprise-services-will-take-commissions-from-sellers-on-purchases-made-using-agents---Nikkei-META.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 17:13:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819217",
+   "title": "Meta Chief AI Officer Wang: Meta's Muse AI to counter China models with subscribers. Not ads - Nikkei $META",
+   "link": "https://www.financialjuice.com/News/9819217/Meta-Chief-AI-Officer-Wang-Metas-Muse-AI-to-counter-China-models-with-subscribers-Not-ads---Nikkei-META.aspx?xy=rss",
+   "pubDate": "Fri, 23 Oct 2026 17:11:57 GMT",
+   "desc": ""
+  },
   {
    "id": "9819202",
    "title": "US Baker Hughes Total Rig Count Actual 603 (Forecast -, Previous 603)",
