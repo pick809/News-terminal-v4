@@ -1,7 +1,56 @@
 {
- "updated_at": "2026-10-23T23:18:46.118952+00:00",
- "count": 15837,
+ "updated_at": "2026-10-24T01:40:50.302883+00:00",
+ "count": 15844,
  "items": [
+  {
+   "id": "9819619",
+   "title": "Saudi-led coalition: intercepted and destroyed ballistic missile launched by Yemen's Houthis toward Riyadh",
+   "link": "https://www.financialjuice.com/News/9819619/Saudi-led-coalition-intercepted-and-destroyed-ballistic-missile-launched-by-Yemens-Houthis-toward-Riyadh.aspx?xy=rss",
+   "pubDate": "Sat, 24 Oct 2026 01:35:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819610",
+   "title": "Saudi civil defense: danger has passed in Najran",
+   "link": "https://www.financialjuice.com/News/9819610/Saudi-civil-defense-danger-has-passed-in-Najran.aspx?xy=rss",
+   "pubDate": "Sat, 24 Oct 2026 01:08:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819609",
+   "title": "Saudi civil defense: danger has passed in Wadi Al-Dawasir governorate",
+   "link": "https://www.financialjuice.com/News/9819609/Saudi-civil-defense-danger-has-passed-in-Wadi-Al-Dawasir-governorate.aspx?xy=rss",
+   "pubDate": "Sat, 24 Oct 2026 01:08:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819608",
+   "title": "Saudi civil defense: danger has passed in Riyadh",
+   "link": "https://www.financialjuice.com/News/9819608/Saudi-civil-defense-danger-has-passed-in-Riyadh.aspx?xy=rss",
+   "pubDate": "Sat, 24 Oct 2026 01:07:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819602",
+   "title": "Saudi civil defense issues warning on possible threat in Wadi Al-Dawasir governorate",
+   "link": "https://www.financialjuice.com/News/9819602/Saudi-civil-defense-issues-warning-on-possible-threat-in-Wadi-Al-Dawasir-governorate.aspx?xy=rss",
+   "pubDate": "Sat, 24 Oct 2026 01:00:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819601",
+   "title": "Saudi civil defense issues warning of potential threat in Riyadh and Najran: state TV",
+   "link": "https://www.financialjuice.com/News/9819601/Saudi-civil-defense-issues-warning-of-potential-threat-in-Riyadh-and-Najran-state-TV.aspx?xy=rss",
+   "pubDate": "Sat, 24 Oct 2026 00:57:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9819594",
+   "title": "Saudi-led coalition: intercepted and destroyed drone over eastern region",
+   "link": "https://www.financialjuice.com/News/9819594/Saudi-led-coalition-intercepted-and-destroyed-drone-over-eastern-region.aspx?xy=rss",
+   "pubDate": "Sat, 24 Oct 2026 00:23:46 GMT",
+   "desc": ""
+  },
   {
    "id": "9819555",
    "title": "OpenAI: red-teaming exercise uncovers vulnerability enabling unauthenticated remote code execution in Brotli compression library",
