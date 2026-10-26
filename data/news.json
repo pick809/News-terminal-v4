@@ -1,7 +1,427 @@
 {
- "updated_at": "2026-10-26T14:08:28.271598+00:00",
- "count": 16029,
+ "updated_at": "2026-10-26T19:53:19.757726+00:00",
+ "count": 16089,
  "items": [
+  {
+   "id": "9821813",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9821813/MOC-Imbalance.aspx",
+   "pubDate": "Mon, 26 Oct 2026 19:50:33 GMT",
+   "desc": "S&amp;P 500: -1719 mln Nasdaq 100: -1493 mln Dow 30: -357 mln Mag 7: -399 mln"
+  },
+  {
+   "id": "9821810",
+   "title": "The UK is holding talks with the EU about returning to free movement - Times",
+   "link": "https://www.financialjuice.com/News/9821810/The-UK-is-holding-talks-with-the-EU-about-returning-to-free-movement---Times.aspx",
+   "pubDate": "Mon, 26 Oct 2026 19:46:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821794",
+   "title": "Iran is open to a shorter US proposal timeline if conditions are met - State TV",
+   "link": "https://www.financialjuice.com/News/9821794/Iran-is-open-to-a-shorter-US-proposal-timeline-if-conditions-are-met---State-TV.aspx",
+   "pubDate": "Mon, 26 Oct 2026 19:36:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821777",
+   "title": "The US and Canada are working on a deal to ease US tariffs on Canadian steel and auto imports - Sources.",
+   "link": "https://www.financialjuice.com/News/9821777/The-US-and-Canada-are-working-on-a-deal-to-ease-US-tariffs-on-Canadian-steel-and-auto-imports---Sources.aspx",
+   "pubDate": "Mon, 26 Oct 2026 19:27:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821776",
+   "title": "Tuesday FX Option Expiries",
+   "link": "https://www.financialjuice.com/News/9821776/Tuesday-FX-Option-Expiries.aspx",
+   "pubDate": "Mon, 26 Oct 2026 19:22:04 GMT",
+   "desc": "EUR/USD: 1.1250 (EU951.9m), 1.1175 (EU924.4m), 1.1415 (EU728.8m) USD/JPY: 157.85 ($1.66b), 158.00 ($1.27b), 157.00 ($885m) AUD/USD: 0.6975 (AUD1.83b), 0.7030 (AUD1.32b), 0.7015 (AUD721.7m) USD/CAD: 1.3650 ($420m), 1.3830 ($339.7m) GBP/USD: 1.3260 (GBP512.1m), 1.3200 (GBP493.8m), 1.3300 (GBP456.4m) USD/MXN: 17.61 ($323.7m) NZD/USD: 0.5750 (NZD333.5m) USD/KRW: 1370.00 ($516.2m)"
+  },
+  {
+   "id": "9821772",
+   "title": "US high-grade bond sales set to hit a record at $1.76 trillion",
+   "link": "https://www.financialjuice.com/News/9821772/US-high-grade-bond-sales-set-to-hit-a-record-at-176-trillion.aspx",
+   "pubDate": "Mon, 26 Oct 2026 19:06:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821759",
+   "title": "Poll: RBNZ cash rate to end year at 3.00%, 13 of 23 economists say, but 9 see rise to 3.25% in December.",
+   "link": "https://www.financialjuice.com/News/9821759/Poll-RBNZ-cash-rate-to-end-year-at-300-13-of-23-economists-say-but-9-see-rise-to-325-in-December.aspx",
+   "pubDate": "Mon, 26 Oct 2026 19:00:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821758",
+   "title": "Poll: RBNZ to hike cash rate by 25 basis points to 3.00% on October 28th, according to 22 of 27 economists.",
+   "link": "https://www.financialjuice.com/News/9821758/Poll-RBNZ-to-hike-cash-rate-by-25-basis-points-to-300-on-October-28th-according-to-22-of-27-economists.aspx",
+   "pubDate": "Mon, 26 Oct 2026 19:00:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821744",
+   "title": "Brent Crude futures settle at $115.81/bbl, down 91 cents, 0.78%.",
+   "link": "https://www.financialjuice.com/News/9821744/Brent-Crude-futures-settle-at-11581bbl-down-91-cents-078.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:44:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821743",
+   "title": "Iran warns Israel that it will respond in kind to any threat - Fars.",
+   "link": "https://www.financialjuice.com/News/9821743/Iran-warns-Israel-that-it-will-respond-in-kind-to-any-threat---Fars.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:43:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821742",
+   "title": "Apple: Siri AI is currently unavailable in the EU. We're working with the EU on a path forward - Website. $AAPL",
+   "link": "https://www.financialjuice.com/News/9821742/Apple-Siri-AI-is-currently-unavailable-in-the-EU-Were-working-with-the-EU-on-a-path-forward---Website-AAPL.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:39:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821741",
+   "title": "Apple: Siri AI is expanding to more people around the world, with availability in French, Japanese, Korean, Portuguese, and Spanish languages. $AAPL",
+   "link": "https://www.financialjuice.com/News/9821741/Apple-Siri-AI-is-expanding-to-more-people-around-the-world-with-availability-in-French-Japanese-Korean-Portuguese-and-Spanish-languages-AAPL.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:39:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821733",
+   "title": "NYMEX Natural Gas November futures settle at $2.6020/MMBtu.",
+   "link": "https://www.financialjuice.com/News/9821733/NYMEX-Natural-Gas-November-futures-settle-at-26020MMBtu.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821732",
+   "title": "NYMEX Diesel November futures settle at $4.9120 a gallon.",
+   "link": "https://www.financialjuice.com/News/9821732/NYMEX-Diesel-November-futures-settle-at-49120-a-gallon.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:31:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821731",
+   "title": "NYMEX Gasoline November futures settle at $3.2185 a gallon.",
+   "link": "https://www.financialjuice.com/News/9821731/NYMEX-Gasoline-November-futures-settle-at-32185-a-gallon.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:31:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821730",
+   "title": "NYMEX WTI Crude December futures settle at $101.76 a barrel, down $1.51, 1.46%.",
+   "link": "https://www.financialjuice.com/News/9821730/NYMEX-WTI-Crude-December-futures-settle-at-10176-a-barrel-down-151-146.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:31:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821719",
+   "title": "Fitch Ratings: Broader u.s. price pressures raise inflation persistence risk.",
+   "link": "https://www.financialjuice.com/News/9821719/Fitch-Ratings-Broader-us-price-pressures-raise-inflation-persistence-risk.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:29:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821718",
+   "title": "OpenAI: GPT-6.1 Terra standard API pricing is $1/M input tokens.",
+   "link": "https://www.financialjuice.com/News/9821718/OpenAI-GPT-61-Terra-standard-API-pricing-is-1M-input-tokens.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:28:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821698",
+   "title": "OpenAI: GPT-6.1 Terra is rolling out now.",
+   "link": "https://www.financialjuice.com/News/9821698/OpenAI-GPT-61-Terra-is-rolling-out-now.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:07:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821697",
+   "title": "Anthropic execs demanded by FTC to testify in probe - Axios",
+   "link": "https://www.financialjuice.com/News/9821697/Anthropic-execs-demanded-by-FTC-to-testify-in-probe---Axios.aspx",
+   "pubDate": "Mon, 26 Oct 2026 18:03:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821662",
+   "title": "Musk: Starlink mobile network build-out will take 2-3 years $SPCX",
+   "link": "https://www.financialjuice.com/News/9821662/Musk-Starlink-mobile-network-build-out-will-take-2-3-years-SPCX.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:44:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821661",
+   "title": "IBM and Nvidia link agent identity to runtime access controls. $IBM $NVDA",
+   "link": "https://www.financialjuice.com/News/9821661/IBM-and-Nvidia-link-agent-identity-to-runtime-access-controls-IBM-NVDA.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:34:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821660",
+   "title": "UKMTO receives multiple reports of vessel on fire near Iraq",
+   "link": "https://www.financialjuice.com/News/9821660/UKMTO-receives-multiple-reports-of-vessel-on-fire-near-Iraq.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:32:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821637",
+   "title": "OpenAI releases ChatGPT Work activity data across 100 countries",
+   "link": "https://www.financialjuice.com/News/9821637/OpenAI-releases-ChatGPT-Work-activity-data-across-100-countries.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:29:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821620",
+   "title": "Romanian Intelligence Agency: Russia-coordinated sabotage network was targeting defence and industrial targets in Romania and beyond",
+   "link": "https://www.financialjuice.com/News/9821620/Romanian-Intelligence-Agency-Russia-coordinated-sabotage-network-was-targeting-defence-and-industrial-targets-in-Romania-and-beyond.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:09:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821619",
+   "title": "Apple: Aware of issue on small number of iPhone duos. Issue affects inner display of iPhone Duo. Users should contact AppleCare for replacement $AAPL",
+   "link": "https://www.financialjuice.com/News/9821619/Apple-Aware-of-issue-on-small-number-of-iPhone-duos-Issue-affects-inner-display-of-iPhone-Duo-Users-should-contact-AppleCare-for-replacement-AAPL.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:08:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821617",
+   "title": "UK national living wage, which applies to those aged 21 and over, is expected to rise from £12.71 to around £13.20, an increase of 3.9% - Times Report.",
+   "link": "https://www.financialjuice.com/News/9821617/UK-national-living-wage-which-applies-to-those-aged-21-and-over-is-expected-to-rise-from-1271-to-around-1320-an-increase-of-39---Times-Report.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:05:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821616",
+   "title": "UK Finance Minister Healey will announce plans to increase the minimum wage by nearly 4% but slow the rise for young people - Times",
+   "link": "https://www.financialjuice.com/News/9821616/UK-Finance-Minister-Healey-will-announce-plans-to-increase-the-minimum-wage-by-nearly-4-but-slow-the-rise-for-young-people---Times.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:04:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821614",
+   "title": "US 2-Year Note Bid-to-Cover Actual 2.590 (Forecast -, Previous 2.630)",
+   "link": "https://www.financialjuice.com/News/9821614/US-2-Year-Note-Bid-to-Cover-Actual-2590-Forecast---Previous-2630.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:03:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821615",
+   "title": "US 2 Yr Note Auction",
+   "link": "https://www.financialjuice.com/News/9821615/US-2-Yr-Note-Auction.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:03:21 GMT",
+   "desc": "High Yield 4.708% [Tail 0.3 bps] Bid-to-Cover 2.59 Sells $69 bln Awards 80.83% of bids at high Primary dealers take 13% Direct 41.32% Indirect 45.68%"
+  },
+  {
+   "id": "9821613",
+   "title": "US 2-Year Note High Yield Actual 4.708% (Forecast -, Previous 4.787%)",
+   "link": "https://www.financialjuice.com/News/9821613/US-2-Year-Note-High-Yield-Actual-4708-Forecast---Previous-4787.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:01:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821593",
+   "title": "Treasury WI 2 Yr yield 4.705% before $69 billion auction",
+   "link": "https://www.financialjuice.com/News/9821593/Treasury-WI-2-Yr-yield-4705-before-69-billion-auction.aspx",
+   "pubDate": "Mon, 26 Oct 2026 17:00:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821590",
+   "title": "Japan's Sakana AI to build domestic models from scratch - Nikkei",
+   "link": "https://www.financialjuice.com/News/9821590/Japans-Sakana-AI-to-build-domestic-models-from-scratch---Nikkei.aspx",
+   "pubDate": "Mon, 26 Oct 2026 16:54:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821589",
+   "title": "Apple iPhone Duo draws early complaints of the screen cracking. $AAPL",
+   "link": "https://www.financialjuice.com/News/9821589/Apple-iPhone-Duo-draws-early-complaints-of-the-screen-cracking-AAPL.aspx",
+   "pubDate": "Mon, 26 Oct 2026 16:48:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821578",
+   "title": "Fed bids for 2-year notes total $7.7 bln.",
+   "link": "https://www.financialjuice.com/News/9821578/Fed-bids-for-2-year-notes-total-77-bln.aspx",
+   "pubDate": "Mon, 26 Oct 2026 16:45:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821559",
+   "title": "German president arrives in China's Anhui - CCTV",
+   "link": "https://www.financialjuice.com/News/9821559/German-president-arrives-in-Chinas-Anhui---CCTV.aspx",
+   "pubDate": "Mon, 26 Oct 2026 16:24:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821516",
+   "title": "Iran, Turkey, Pakistan, Saudi agree to continue talks - IRIB",
+   "link": "https://www.financialjuice.com/News/9821516/Iran-Turkey-Pakistan-Saudi-agree-to-continue-talks---IRIB.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:47:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821483",
+   "title": "US 3-Month Awarded High Actual 82.290% (Forecast -, Previous 29.440%)",
+   "link": "https://www.financialjuice.com/News/9821483/US-3-Month-Awarded-High-Actual-82290-Forecast---Previous-29440.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:33:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821482",
+   "title": "US 6-Month Awarded High Actual 61.740% (Forecast -, Previous 86.090%)",
+   "link": "https://www.financialjuice.com/News/9821482/US-6-Month-Awarded-High-Actual-61740-Forecast---Previous-86090.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:33:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821498",
+   "title": "US 6-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9821498/US-6-Month-Bill-Auction-.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:33:18 GMT",
+   "desc": "High Yield 4.210% Bid-to-cover 2.63 Sells $82 bln Awards 61.74% of bids at high"
+  },
+  {
+   "id": "9821484",
+   "title": "US 3-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9821484/US-3-Month-Bill-Auction.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:32:44 GMT",
+   "desc": "High Yield 4.050% Bid-to-cover 3.07 Sells $95 bln Awards 82.29% of bids at high"
+  },
+  {
+   "id": "9821481",
+   "title": "US 3-Month Bill Bid-to-Cover Actual 3.07 (Forecast -, Previous 2.770)",
+   "link": "https://www.financialjuice.com/News/9821481/US-3-Month-Bill-Bid-to-Cover-Actual-307-Forecast---Previous-2770.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:31:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821480",
+   "title": "US 3-Month Bill High Yield Actual 4.05% (Forecast -, Previous 4.095%)",
+   "link": "https://www.financialjuice.com/News/9821480/US-3-Month-Bill-High-Yield-Actual-405-Forecast---Previous-4095.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:31:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821479",
+   "title": "US 6-Month Bill Bid-to-Cover Actual 2.63 (Forecast -, Previous 2.840)",
+   "link": "https://www.financialjuice.com/News/9821479/US-6-Month-Bill-Bid-to-Cover-Actual-263-Forecast---Previous-2840.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:31:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821478",
+   "title": "US 6-Month Bill High Yield Actual 4.21% (Forecast -, Previous 4.220%)",
+   "link": "https://www.financialjuice.com/News/9821478/US-6-Month-Bill-High-Yield-Actual-421-Forecast---Previous-4220.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:31:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821476",
+   "title": "Microsoft to offer buyouts to 60,000 workers in latest cost cut. $MSFT",
+   "link": "https://www.financialjuice.com/News/9821476/Microsoft-to-offer-buyouts-to-60000-workers-in-latest-cost-cut-MSFT.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:30:34 GMT",
+   "desc": "Microsoft will offer buyouts to about 60,000 workers as part of efforts to cut costs and reshape its workforce for the AI era. Employees on select teams in the US, Canada, India and the UK at vice president level and below will be eligible, according to a Microsoft spokesperson. Certain groups, including some employees focused on data centers, sales and marketing, will not be eligible."
+  },
+  {
+   "id": "9821467",
+   "title": "Fed bids for 3-month bills total $8.5 bln",
+   "link": "https://www.financialjuice.com/News/9821467/Fed-bids-for-3-month-bills-total-85-bln.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:15:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821466",
+   "title": "Fed bids for 6-month bills total $7.3 bln",
+   "link": "https://www.financialjuice.com/News/9821466/Fed-bids-for-6-month-bills-total-73-bln.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:15:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821457",
+   "title": "Trump’s Gasoline prices surpass biden average ahead of the midterms",
+   "link": "https://www.financialjuice.com/News/9821457/Trumps-Gasoline-prices-surpass-biden-average-ahead-of-the-midterms.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:15:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821456",
+   "title": "Stocks of crude oil in the US Strategic Petroleum Reserve fell to 282.6 million barrels last week, the lowest level since 1982",
+   "link": "https://www.financialjuice.com/News/9821456/Stocks-of-crude-oil-in-the-US-Strategic-Petroleum-Reserve-fell-to-2826-million-barrels-last-week-the-lowest-level-since-1982.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:13:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821455",
+   "title": "US Treasury to buy back up to $6 bln in longer-dated debt Tuesday.",
+   "link": "https://www.financialjuice.com/News/9821455/US-Treasury-to-buy-back-up-to-6-bln-in-longer-dated-debt-Tuesday.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:02:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821439",
+   "title": "Kremlin: Putin to hold meetings with Iran's Pezeshkian, Emir of Qatar on Tuesday in Moscow",
+   "link": "https://www.financialjuice.com/News/9821439/Kremlin-Putin-to-hold-meetings-with-Irans-Pezeshkian-Emir-of-Qatar-on-Tuesday-in-Moscow.aspx",
+   "pubDate": "Mon, 26 Oct 2026 15:00:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821432",
+   "title": "Past FOMC Market Reactions & Sentiment - FJElite",
+   "link": "https://www.financialjuice.com/News/9821432/Past-FOMC-Market-Reactions--Sentiment---FJElite.aspx",
+   "pubDate": "Mon, 26 Oct 2026 14:55:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821424",
+   "title": "Lawmakers query Musk on shutdown of Starlink. $SPCX",
+   "link": "https://www.financialjuice.com/News/9821424/Lawmakers-query-Musk-on-shutdown-of-Starlink-SPCX.aspx",
+   "pubDate": "Mon, 26 Oct 2026 14:41:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821423",
+   "title": "Iran's President Pezeshkian heads to Moscow to participate in the meeting of gas exporters - IRNA",
+   "link": "https://www.financialjuice.com/News/9821423/Irans-President-Pezeshkian-heads-to-Moscow-to-participate-in-the-meeting-of-gas-exporters---IRNA.aspx",
+   "pubDate": "Mon, 26 Oct 2026 14:39:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821403",
+   "title": "Dallas Fed Mfg. Bus. Index Actual 13.40 (Forecast 8.8, Previous 9.80)",
+   "link": "https://www.financialjuice.com/News/9821403/Dallas-Fed-Mfg-Bus-Index-Actual-1340-Forecast-88-Previous-980.aspx",
+   "pubDate": "Mon, 26 Oct 2026 14:31:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821402",
+   "title": "Fear & Greed Index: 26/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9821402/Fear--Greed-Index-26100---Fear.aspx",
+   "pubDate": "Mon, 26 Oct 2026 14:20:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821400",
+   "title": "Crypto Fear & Greed Index: 50/100 - Neutral",
+   "link": "https://www.financialjuice.com/News/9821400/Crypto-Fear--Greed-Index-50100---Neutral.aspx",
+   "pubDate": "Mon, 26 Oct 2026 14:17:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821394",
+   "title": "Iran President tells Pakistan, Saudi, Turkey officials - IRIB",
+   "link": "https://www.financialjuice.com/News/9821394/Iran-President-tells-Pakistan-Saudi-Turkey-officials---IRIB.aspx",
+   "pubDate": "Mon, 26 Oct 2026 14:11:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9821392",
+   "title": "Iran is ready to back 'any understanding’ for regional unity - IRIB.",
+   "link": "https://www.financialjuice.com/News/9821392/Iran-is-ready-to-back-any-understanding-for-regional-unity---IRIB.aspx",
+   "pubDate": "Mon, 26 Oct 2026 14:10:19 GMT",
+   "desc": ""
+  },
   {
    "id": "9821375",
    "title": "Anthropic: Effected a 1-for-1,000 reverse stock split of its authorized and issued shares of class T common stock",
