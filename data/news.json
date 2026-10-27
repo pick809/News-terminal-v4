@@ -1,7 +1,245 @@
 {
- "updated_at": "2026-10-27T19:05:01.329695+00:00",
- "count": 16335,
+ "updated_at": "2026-10-27T22:54:59.845287+00:00",
+ "count": 16369,
  "items": [
+  {
+   "id": "9823884",
+   "title": "UK's Healey to restore cuts to cash ISA limits - FT",
+   "link": "https://www.financialjuice.com/News/9823884/UKs-Healey-to-restore-cuts-to-cash-ISA-limits---FT.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 22:41:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823869",
+   "title": "Anthropic: Claude enterprise pursuing FedRAMP moderate approval via FedRAMP 20x program",
+   "link": "https://www.financialjuice.com/News/9823869/Anthropic-Claude-enterprise-pursuing-FedRAMP-moderate-approval-via-FedRAMP-20x-program.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 22:25:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823868",
+   "title": "Anthropic: government agencies can purchase Claude at onegov discount via GSA's multiple award schedule today - website",
+   "link": "https://www.financialjuice.com/News/9823868/Anthropic-government-agencies-can-purchase-Claude-at-onegov-discount-via-GSAs-multiple-award-schedule-today---website.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 22:25:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823867",
+   "title": "Anthropic: discount on Claude products broadens to state, local, tribal, territorial governments",
+   "link": "https://www.financialjuice.com/News/9823867/Anthropic-discount-on-Claude-products-broadens-to-state-local-tribal-territorial-governments.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 22:24:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823866",
+   "title": "Anthropic: launching dedicated program to help agencies optimize Claude use",
+   "link": "https://www.financialjuice.com/News/9823866/Anthropic-launching-dedicated-program-to-help-agencies-optimize-Claude-use.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 22:24:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823865",
+   "title": "Anthropic expands GSA partnership with 40% markdown on Claude products for government",
+   "link": "https://www.financialjuice.com/News/9823865/Anthropic-expands-GSA-partnership-with-40-markdown-on-Claude-products-for-government.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 22:23:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823835",
+   "title": "Enlitic signs three-year $144,000 deal with Southwest Medical Imaging for Ensight",
+   "link": "https://www.financialjuice.com/News/9823835/Enlitic-signs-three-year-144000-deal-with-Southwest-Medical-Imaging-for-Ensight.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 21:59:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823788",
+   "title": "Chile's central bank: council will closely monitor signs of increased shock transmission or persistence in inflation",
+   "link": "https://www.financialjuice.com/News/9823788/Chiles-central-bank-council-will-closely-monitor-signs-of-increased-shock-transmission-or-persistence-in-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 21:02:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823787",
+   "title": "IMF: reaches staff-level accord on third review under Argentina's extended fund facility arrangement",
+   "link": "https://www.financialjuice.com/News/9823787/IMF-reaches-staff-level-accord-on-third-review-under-Argentinas-extended-fund-facility-arrangement.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 21:01:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823774",
+   "title": "Chile’s central bank: local economy may regain momentum by 2027, but current weakness could last longer than expected",
+   "link": "https://www.financialjuice.com/News/9823774/Chiles-central-bank-local-economy-may-regain-momentum-by-2027-but-current-weakness-could-last-longer-than-expected.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 21:01:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823769",
+   "title": "Chile's central bank: future interest rate path to be evaluated on meeting-by-meeting basis",
+   "link": "https://www.financialjuice.com/News/9823769/Chiles-central-bank-future-interest-rate-path-to-be-evaluated-on-meeting-by-meeting-basis.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 21:00:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823767",
+   "title": "US API Cushing Stock Change Actual -0.453M (Forecast -, Previous 0.936M)",
+   "link": "https://www.financialjuice.com/News/9823767/US-API-Cushing-Stock-Change-Actual--0453M-Forecast---Previous-0936M.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:47:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823766",
+   "title": "US API Distillate Stock Change Actual 0.38M (Forecast -, Previous -2.6M)",
+   "link": "https://www.financialjuice.com/News/9823766/US-API-Distillate-Stock-Change-Actual-038M-Forecast---Previous--26M.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:46:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823765",
+   "title": "US API Gasoline Stock Change Actual 2.39M (Forecast -, Previous -2.577M)",
+   "link": "https://www.financialjuice.com/News/9823765/US-API-Gasoline-Stock-Change-Actual-239M-Forecast---Previous--2577M.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:46:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823764",
+   "title": "US API Crude Stock Change Actual -2.031M (Forecast 0.8M, Previous -4.93M)",
+   "link": "https://www.financialjuice.com/News/9823764/US-API-Crude-Stock-Change-Actual--2031M-Forecast-08M-Previous--493M.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:46:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823752",
+   "title": "UK's Chancellor Healey prepares to slash household gas bills by £50 - The Telegraph",
+   "link": "https://www.financialjuice.com/News/9823752/UKs-Chancellor-Healey-prepares-to-slash-household-gas-bills-by-50---The-Telegraph.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:45:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823710",
+   "title": "Israeli Journalist Neira Kraus on X, citing Israeli election projections: Netanyahu is not projected to be Israel’s next prime minister. However, it remains unclear which coalition could be formed",
+   "link": "https://www.financialjuice.com/News/9823710/Israeli-Journalist-Neira-Kraus-on-X-citing-Israeli-election-projections-Netanyahu-is-not-projected-to-be-Israels-next-prime-minister-However-it-remains-unclear-which-coalition-could-be-formed.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:07:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823709",
+   "title": "$V Visa Q4 Earnings",
+   "link": "https://www.financialjuice.com/News/9823709/V-Visa-Q4-Earnings.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:06:43 GMT",
+   "desc": "Adjusted EPS $3.48, est. $3.44 Net revenue $12.10B, est. $12.09B Total processed transactions 74.2B, est. 73.98B Cross-border volume at constant FX +14% Raises dividend by 16% to 78c/share Net revenue growth low-double-digit on adjusted constant-dollar basis"
+  },
+  {
+   "id": "9823708",
+   "title": "Three Israeli exit polls see the Eisenkot Bloc leading, but with no majority.",
+   "link": "https://www.financialjuice.com/News/9823708/Three-Israeli-exit-polls-see-the-Eisenkot-Bloc-leading-but-with-no-majority.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:05:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823706",
+   "title": "Israel's Channel 12 Poll: The \"Eisenkot Bloc\" is leading with 52 seats, while the \"Netanyahu Bloc\" has 50. The Arab parties received 18 seats.",
+   "link": "https://www.financialjuice.com/News/9823706/Israels-Channel-12-Poll-The-Eisenkot-Bloc-is-leading-with-52-seats-while-the-Netanyahu-Bloc-has-50-The-Arab-parties-received-18-seats.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:01:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823703",
+   "title": "Israel's Prime Minister Netanyahu bloc trails in Israel vote - N12 exit poll",
+   "link": "https://www.financialjuice.com/News/9823703/Israels-Prime-Minister-Netanyahu-bloc-trails-in-Israel-vote---N12-exit-poll.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:01:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823690",
+   "title": "Netanyahu's Likud Party is to win 24 of 120 seats in the Knesset - Channel 12 Exit Poll.",
+   "link": "https://www.financialjuice.com/News/9823690/Netanyahus-Likud-Party-is-to-win-24-of-120-seats-in-the-Knesset---Channel-12-Exit-Poll.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:01:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823689",
+   "title": "Israel's Prime Minister Netanyahu Likud leads in Israel vote - N12 Exit Poll",
+   "link": "https://www.financialjuice.com/News/9823689/Israels-Prime-Minister-Netanyahu-Likud-leads-in-Israel-vote---N12-Exit-Poll.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 20:00:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823686",
+   "title": "US Interest Rate Prep: Rate Hold is Likely, but what about December? - FJElite",
+   "link": "https://www.financialjuice.com/News/9823686/US-Interest-Rate-Prep-Rate-Hold-is-Likely-but-what-about-December---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:53:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823685",
+   "title": "October FOMC Crib Sheet - FJElite",
+   "link": "https://www.financialjuice.com/News/9823685/October-FOMC-Crib-Sheet---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:53:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823684",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9823684/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:50:31 GMT",
+   "desc": "S&amp;P 500: -1050 mln Nasdaq 100: -2060 mln Dow 30: -137 mln Mag 7: -504 mln"
+  },
+  {
+   "id": "9823683",
+   "title": "Trump reiterates that oil is flowing out of the Hormuz Strait",
+   "link": "https://www.financialjuice.com/News/9823683/Trump-reiterates-that-oil-is-flowing-out-of-the-Hormuz-Strait.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:49:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823682",
+   "title": "Trump suggests Venezuela could become a US state",
+   "link": "https://www.financialjuice.com/News/9823682/Trump-suggests-Venezuela-could-become-a-US-state.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:46:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823658",
+   "title": "Lockheed Martin wins a $694m US Air Force contract, with the company to produce an air-launched hypersonic missile $LMT",
+   "link": "https://www.financialjuice.com/News/9823658/Lockheed-Martin-wins-a-694m-US-Air-Force-contract-with-the-company-to-produce-an-air-launched-hypersonic-missile-LMT.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:36:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823657",
+   "title": "Oracle: Plan to expand multicloud AI database services to the US government $ORCL",
+   "link": "https://www.financialjuice.com/News/9823657/Oracle-Plan-to-expand-multicloud-AI-database-services-to-the-US-government-ORCL.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:32:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823645",
+   "title": "Wednesday FX Option Expiries",
+   "link": "https://www.financialjuice.com/News/9823645/Wednesday-FX-Option-Expiries.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:23:59 GMT",
+   "desc": "EUR/USD: 1.1215 (EU2.16b), 1.1600 (EU1.38b), 1.1150 (EU1.34b) USD/JPY: 155.00 ($921.3m), 158.50 ($828m), 158.00 ($797.8m) USD/BRL: 4.9000 ($760m), 5.7800 ($454.8m), 5.0100 ($450m) AUD/USD: 0.7005 (AUD972.3m), 0.7050 (AUD800.2m), 0.6950 (AUD692.5m) USD/CAD: 1.4000 ($495m), 1.4050 ($479.2m) GBP/USD: 1.3200 (GBP341.2m) NZD/USD: 0.5700 (NZD413.8m), 0.5650 (NZD389m), 0.5710 (NZD357.9m) EUR/GBP: 0.8415 (EU309m), 0.8380 (EU305.1m) USD/KRW: 1490.00 ($367.5m), 1325.00 ($310m)"
+  },
+  {
+   "id": "9823618",
+   "title": "The US and Russia suggest an oil venture off the Sakhalin coast after the war - FT",
+   "link": "https://www.financialjuice.com/News/9823618/The-US-and-Russia-suggest-an-oil-venture-off-the-Sakhalin-coast-after-the-war---FT.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:11:48 GMT",
+   "desc": "As part of broader negotiations to end Vladimir Putin&#39;s war in Ukraine, the United States and Russia are considering the possibility of American companies returning to the Russian oil market. According to persons acquainted with the situation, the White House and the Kremlin have indicated that once the war is over, a joint venture including US and Russian oil companies may resume off the coast of Sakhalin, a Far Eastern island. They were also discussing incorporating the American majors in a plan to resume Russian oil deliveries to Europe through the Druzhba pipeline, they said. The potential accords are part of a larger US effort to terminate Putin&#39;s full-scale invasion, which is now in its fifth year, by offering incentives to return to the negotiating table. US leaders have frequently declared that the ventures would not begin until the conflict was done."
+  },
+  {
+   "id": "9823616",
+   "title": "HP and Asus shift some PC manufacturing back to China due to AI-driven cost hikes; Dell is also evaluating shifting some PC making back to China, according to sources - Nikkei $HPE $DELL",
+   "link": "https://www.financialjuice.com/News/9823616/HP-and-Asus-shift-some-PC-manufacturing-back-to-China-due-to-AI-driven-cost-hikes-Dell-is-also-evaluating-shifting-some-PC-making-back-to-China-according-to-sources---Nikkei-HPE-DELL.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:09:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9823615",
+   "title": "Trumps Speaks live",
+   "link": "https://www.financialjuice.com/News/9823615/Trumps-Speaks-live-.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 19:06:41 GMT",
+   "desc": ""
+  },
   {
    "id": "9823595",
    "title": "Iran's President Pezeshkian has left Russia.",
