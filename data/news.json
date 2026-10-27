@@ -1,7 +1,462 @@
 {
- "updated_at": "2026-10-27T02:17:13.954032+00:00",
- "count": 16131,
+ "updated_at": "2026-10-27T07:57:20.361230+00:00",
+ "count": 16196,
  "items": [
+  {
+   "id": "9822593",
+   "title": "French Consumer Confidence Actual 80 (Forecast 85, Previous 86)",
+   "link": "https://www.financialjuice.com/News/9822593/French-Consumer-Confidence-Actual-80-Forecast-85-Previous-86.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822592",
+   "title": "Germany's Merz: I am in favour of a trade agreement between the EU and the ASEAN bloc. It needs to happen quickly.",
+   "link": "https://www.financialjuice.com/News/9822592/Germanys-Merz-I-am-in-favour-of-a-trade-agreement-between-the-EU-and-the-ASEAN-bloc-It-needs-to-happen-quickly.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 07:42:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822582",
+   "title": "French retailers won't refill released diesel stocks - Politico",
+   "link": "https://www.financialjuice.com/News/9822582/French-retailers-wont-refill-released-diesel-stocks---Politico.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 07:23:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822581",
+   "title": "Saudi civil defense issues an alert of potential danger in Najran city",
+   "link": "https://www.financialjuice.com/News/9822581/Saudi-civil-defense-issues-an-alert-of-potential-danger-in-Najran-city.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 07:19:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822563",
+   "title": "China Foreign Ministry, on EU planning trade measures: China always believes China-EU trade ties are partnership in nature.",
+   "link": "https://www.financialjuice.com/News/9822563/China-Foreign-Ministry-on-EU-planning-trade-measures-China-always-believes-China-EU-trade-ties-are-partnership-in-nature.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 07:14:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822562",
+   "title": "China to dispatch officials to the Middle East in a bid to defuse tension",
+   "link": "https://www.financialjuice.com/News/9822562/China-to-dispatch-officials-to-the-Middle-East-in-a-bid-to-defuse-tension.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 07:14:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822561",
+   "title": "Coreweave expands AI platform to Denmark, the Middle East, and Asia",
+   "link": "https://www.financialjuice.com/News/9822561/Coreweave-expands-AI-platform-to-Denmark-the-Middle-East-and-Asia.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 07:03:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822543",
+   "title": "Swedish Trade Balance Actual 4.1B (Forecast -, Previous -11.9B)",
+   "link": "https://www.financialjuice.com/News/9822543/Swedish-Trade-Balance-Actual-41B-Forecast---Previous--119B.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 07:01:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822545",
+   "title": "Currency Strength Chart: Strongest: NZD, AUD, USD, CAD, CHF, GBP, EUR, JPY - Weakest",
+   "link": "https://www.financialjuice.com/News/9822545/Currency-Strength-Chart-Strongest-NZD-AUD-USD-CAD-CHF-GBP-EUR-JPY---Weakest.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 07:00:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822528",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9822528/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:44:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822527",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9822527/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:44:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822526",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9822526/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:44:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822525",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9822525/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:43:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822524",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9822524/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:43:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822523",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9822523/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:43:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822522",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9822522/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:42:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822521",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9822521/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:42:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822520",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9822520/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:41:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822519",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9822519/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:41:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822518",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9822518/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:41:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822517",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9822517/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:40:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822516",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9822516/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:39:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822515",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9822515/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:39:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822514",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9822514/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:39:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822513",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9822513/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:39:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822512",
+   "title": "EU securities regulator: Market infrastructure is resilient. Looking at leveraged funds and margin calls",
+   "link": "https://www.financialjuice.com/News/9822512/EU-securities-regulator-Market-infrastructure-is-resilient-Looking-at-leveraged-funds-and-margin-calls.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:38:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822489",
+   "title": "Russian defense ministry: Russian forces strike cargo ship in Black Sea",
+   "link": "https://www.financialjuice.com/News/9822489/Russian-defense-ministry-Russian-forces-strike-cargo-ship-in-Black-Sea.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:04:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822476",
+   "title": "Finnish October industry confidence rises 2 points, Ek says",
+   "link": "https://www.financialjuice.com/News/9822476/Finnish-October-industry-confidence-rises-2-points-Ek-says.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:01:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822472",
+   "title": "Finnish October Consumer Confidence Drops to -9.7 Points, Statistics Finland",
+   "link": "https://www.financialjuice.com/News/9822472/Finnish-October-Consumer-Confidence-Drops-to--97-Points-Statistics-Finland.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:00:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822471",
+   "title": "Finnish October consumer confidence at -9.7 points: Statistics Finland",
+   "link": "https://www.financialjuice.com/News/9822471/Finnish-October-consumer-confidence-at--97-points-Statistics-Finland.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 06:00:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822470",
+   "title": "China's 30-year government bond futures due in December rise 0.4% to record 118.56",
+   "link": "https://www.financialjuice.com/News/9822470/Chinas-30-year-government-bond-futures-due-in-December-rise-04-to-record-11856.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:53:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822469",
+   "title": "Meta to broaden use of Nvidia Vera Rubin, Vera CPUs, Spectrum-X, and BlueField-4",
+   "link": "https://www.financialjuice.com/News/9822469/Meta-to-broaden-use-of-Nvidia-Vera-Rubin-Vera-CPUs-Spectrum-X-and-BlueField-4.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:52:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822468",
+   "title": "Nvidia and Meta Explore Collaboration on OpenShell Reference Architecture and Nvidia Sentry",
+   "link": "https://www.financialjuice.com/News/9822468/Nvidia-and-Meta-Explore-Collaboration-on-OpenShell-Reference-Architecture-and-Nvidia-Sentry.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:52:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822467",
+   "title": "Nvidia to invest $3 billion in Meta equity offering",
+   "link": "https://www.financialjuice.com/News/9822467/Nvidia-to-invest-3-billion-in-Meta-equity-offering.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:52:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822466",
+   "title": "Nvidia and Meta to broaden partnership on Muse and Muse family of models amid strong growth",
+   "link": "https://www.financialjuice.com/News/9822466/Nvidia-and-Meta-to-broaden-partnership-on-Muse-and-Muse-family-of-models-amid-strong-growth.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:52:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822446",
+   "title": "India oil minister: Middle East crude supply is increasing as they can ship more",
+   "link": "https://www.financialjuice.com/News/9822446/India-oil-minister-Middle-East-crude-supply-is-increasing-as-they-can-ship-more.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:36:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822445",
+   "title": "India oil minister: no US pressure to reduce Russian oil imports",
+   "link": "https://www.financialjuice.com/News/9822445/India-oil-minister-no-US-pressure-to-reduce-Russian-oil-imports.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:36:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822444",
+   "title": "India oil minister: india now sources 67% of lpg imports from US",
+   "link": "https://www.financialjuice.com/News/9822444/India-oil-minister-india-now-sources-67-of-lpg-imports-from-US.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:35:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822443",
+   "title": "No pressure from United States to reduce Russian oil imports",
+   "link": "https://www.financialjuice.com/News/9822443/No-pressure-from-United-States-to-reduce-Russian-oil-imports.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:35:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822437",
+   "title": "Meta prices $25 billion of class A common stock at $625 per share in public offering",
+   "link": "https://www.financialjuice.com/News/9822437/Meta-prices-25-billion-of-class-A-common-stock-at-625-per-share-in-public-offering.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:24:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822436",
+   "title": "India oil minister: expanding refining capacity to support domestic demand, uphold export pledge",
+   "link": "https://www.financialjuice.com/News/9822436/India-oil-minister-expanding-refining-capacity-to-support-domestic-demand-uphold-export-pledge.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:23:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822400",
+   "title": "Meta: pricing of 250 million series A depositary shares at public offering price of $50 per share",
+   "link": "https://www.financialjuice.com/News/9822400/Meta-pricing-of-250-million-series-A-depositary-shares-at-public-offering-price-of-50-per-share.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:08:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822399",
+   "title": "Meta announces pricing of depositary shares linked to series A mandatory convertible preferred stock and Class A common stock in forward sale agreements",
+   "link": "https://www.financialjuice.com/News/9822399/Meta-announces-pricing-of-depositary-shares-linked-to-series-A-mandatory-convertible-preferred-stock-and-Class-A-common-stock-in-forward-sale-agreements.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 05:05:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822385",
+   "title": "Russia strikes transport infrastructure in Ukraine's Kyiv, logistics center in Kharkiv region: Russian defense ministry",
+   "link": "https://www.financialjuice.com/News/9822385/Russia-strikes-transport-infrastructure-in-Ukraines-Kyiv-logistics-center-in-Kharkiv-region-Russian-defense-ministry.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:59:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822384",
+   "title": "Ukraine drone strike kills one, injures six in Russia’s Bryansk, governor says",
+   "link": "https://www.financialjuice.com/News/9822384/Ukraine-drone-strike-kills-one-injures-six-in-Russias-Bryansk-governor-says.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:52:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822369",
+   "title": "Katayama: aims to preserve market confidence in yen, Takaichi administration's fiscal policy via transparent, consistent communication (adds dropped letter)",
+   "link": "https://www.financialjuice.com/News/9822369/Katayama-aims-to-preserve-market-confidence-in-yen-Takaichi-administrations-fiscal-policy-via-transparent-consistent-communication-adds-dropped-letter.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:43:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822368",
+   "title": "Katayam: aim to sustain market confidence in yen, Takaichi administration’s fiscal approach via clear, consistent communication",
+   "link": "https://www.financialjuice.com/News/9822368/Katayam-aim-to-sustain-market-confidence-in-yen-Takaichi-administrations-fiscal-approach-via-clear-consistent-communication.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:41:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822367",
+   "title": "Katayama: yen must shift to reflect fundamentals",
+   "link": "https://www.financialjuice.com/News/9822367/Katayama-yen-must-shift-to-reflect-fundamentals.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:40:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822366",
+   "title": "Katayama: closely monitoring market moves with heightened urgency including at this moment",
+   "link": "https://www.financialjuice.com/News/9822366/Katayama-closely-monitoring-market-moves-with-heightened-urgency-including-at-this-moment.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:39:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822365",
+   "title": "Finmin Katayama: Govt prepared to take decisive steps in fx market",
+   "link": "https://www.financialjuice.com/News/9822365/Finmin-Katayama-Govt-prepared-to-take-decisive-steps-in-fx-market.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:39:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822351",
+   "title": "Moody's analyst: future rating action hinges on whether Japan's recent resilience endures future shocks",
+   "link": "https://www.financialjuice.com/News/9822351/Moodys-analyst-future-rating-action-hinges-on-whether-Japans-recent-resilience-endures-future-shocks.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:25:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822350",
+   "title": "Moody's sovereign analyst: Japan showing signs of steady growth, stable inflation",
+   "link": "https://www.financialjuice.com/News/9822350/Moodys-sovereign-analyst-Japan-showing-signs-of-steady-growth-stable-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:25:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822349",
+   "title": "Taiwan Central Bank: Banks' loan quality stable, loan risks contained",
+   "link": "https://www.financialjuice.com/News/9822349/Taiwan-Central-Bank-Banks-loan-quality-stable-loan-risks-contained.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:17:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822345",
+   "title": "Taiwan central bank: Taiwan dollar falls 1.25% against US dollar in H1 amid foreign net selling of stocks and dividend outflows",
+   "link": "https://www.financialjuice.com/News/9822345/Taiwan-central-bank-Taiwan-dollar-falls-125-against-US-dollar-in-H1-amid-foreign-net-selling-of-stocks-and-dividend-outflows.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:12:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822344",
+   "title": "Taiwan central bank: Taiwan dollar depreciates against U.S. dollar this year, holds steady versus other major currencies",
+   "link": "https://www.financialjuice.com/News/9822344/Taiwan-central-bank-Taiwan-dollar-depreciates-against-US-dollar-this-year-holds-steady-versus-other-major-currencies.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:10:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822343",
+   "title": "Taiwan central bank: current monetary policy stance is tightening",
+   "link": "https://www.financialjuice.com/News/9822343/Taiwan-central-bank-current-monetary-policy-stance-is-tightening.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:09:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822342",
+   "title": "Taiwan central bank: geopolitical risks, climate conditions are main uncertainties shaping future inflation path in Taiwan",
+   "link": "https://www.financialjuice.com/News/9822342/Taiwan-central-bank-geopolitical-risks-climate-conditions-are-main-uncertainties-shaping-future-inflation-path-in-Taiwan.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:07:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822341",
+   "title": "Taiwan central bank: forecasts Taiwan GDP growth of 5.82% next year",
+   "link": "https://www.financialjuice.com/News/9822341/Taiwan-central-bank-forecasts-Taiwan-GDP-growth-of-582-next-year.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:05:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822340",
+   "title": "Taiwan central bank: demand for emerging technologies to remain robust next year, supporting exports and private investment",
+   "link": "https://www.financialjuice.com/News/9822340/Taiwan-central-bank-demand-for-emerging-technologies-to-remain-robust-next-year-supporting-exports-and-private-investment.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:05:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822339",
+   "title": "Taiwan central bank: forecasts robust economic expansion this year, steady growth in 2025",
+   "link": "https://www.financialjuice.com/News/9822339/Taiwan-central-bank-forecasts-robust-economic-expansion-this-year-steady-growth-in-2025.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:04:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822338",
+   "title": "One killed, 30 injured as drone strikes passenger bus in Russia-occupied Zaporizhzhia Russia-installed official says",
+   "link": "https://www.financialjuice.com/News/9822338/One-killed-30-injured-as-drone-strikes-passenger-bus-in-Russia-occupied-Zaporizhzhia-Russia-installed-official-says.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 04:02:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822316",
+   "title": "China finance ministry offers 3-month bills at 1.1222% yield: traders",
+   "link": "https://www.financialjuice.com/News/9822316/China-finance-ministry-offers-3-month-bills-at-11222-yield-traders.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 03:40:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822315",
+   "title": "Israeli military: Incident regarded seriously, continues high defensive readiness in area",
+   "link": "https://www.financialjuice.com/News/9822315/Israeli-military-Incident-regarded-seriously-continues-high-defensive-readiness-in-area.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 03:37:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822314",
+   "title": "Israeli military: Egyptian civilian held after crossing border fence from Egypt into Israel near Nitzana",
+   "link": "https://www.financialjuice.com/News/9822314/Israeli-military-Egyptian-civilian-held-after-crossing-border-fence-from-Egypt-into-Israel-near-Nitzana.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 03:36:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9822283",
+   "title": "Ukraine's Kyiv mayor: southern bridge and subway hit in strike",
+   "link": "https://www.financialjuice.com/News/9822283/Ukraines-Kyiv-mayor-southern-bridge-and-subway-hit-in-strike.aspx?xy=rss",
+   "pubDate": "Tue, 27 Oct 2026 03:05:07 GMT",
+   "desc": ""
+  },
   {
    "id": "9822162",
    "title": "Saudi-led coalition: four drones launched by Yemen's Houthis towards southern region intercepted and destroyed",
