@@ -1,7 +1,413 @@
 {
- "updated_at": "2026-10-28T01:55:29.013314+00:00",
- "count": 16460,
+ "updated_at": "2026-10-28T07:45:11.365378+00:00",
+ "count": 16518,
  "items": [
+  {
+   "id": "9824560",
+   "title": "South Korea fines Google, Apple 63.7B won on forced in-app payments.",
+   "link": "https://www.financialjuice.com/News/9824560/South-Korea-fines-Google-Apple-637B-won-on-forced-in-app-payments.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 07:30:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824533",
+   "title": "Ukraine’s President Zelenskiy: Ukraine won’t attack Russian ships with diesel for the US",
+   "link": "https://www.financialjuice.com/News/9824533/Ukraines-President-Zelenskiy-Ukraine-wont-attack-Russian-ships-with-diesel-for-the-US.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 07:16:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824532",
+   "title": "China Foreign Ministry, on Merz remarks: We hope Germany and EU will remain objective and rational.",
+   "link": "https://www.financialjuice.com/News/9824532/China-Foreign-Ministry-on-Merz-remarks-We-hope-Germany-and-EU-will-remain-objective-and-rational.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 07:09:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824531",
+   "title": "China's foreign ministry, on Merz remarks: China always advocates for open cooperation and is committed to working with all parties to maintain stability and security of global industrial and supply chain",
+   "link": "https://www.financialjuice.com/News/9824531/Chinas-foreign-ministry-on-Merz-remarks-China-always-advocates-for-open-cooperation-and-is-committed-to-working-with-all-parties-to-maintain-stability-and-security-of-global-industrial-and-supply-chain.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 07:09:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824507",
+   "title": "German GfK Consumer Sentiment Actual -30.8 (Forecast -30.3, Previous -30.6)",
+   "link": "https://www.financialjuice.com/News/9824507/German-GfK-Consumer-Sentiment-Actual--308-Forecast--303-Previous--306.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824506",
+   "title": "UK Chancellor abolishes standing charges on gas bills to make payments fairer",
+   "link": "https://www.financialjuice.com/News/9824506/UK-Chancellor-abolishes-standing-charges-on-gas-bills-to-make-payments-fairer.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 06:49:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824385",
+   "title": "Taiwan shares climb over 2%",
+   "link": "https://www.financialjuice.com/News/9824385/Taiwan-shares-climb-over-2.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 05:06:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824384",
+   "title": "Egypt and Saudi Arabia agree to maintain close collaboration: Egyptian foreign ministry",
+   "link": "https://www.financialjuice.com/News/9824384/Egypt-and-Saudi-Arabia-agree-to-maintain-close-collaboration-Egyptian-foreign-ministry.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 05:04:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824383",
+   "title": "TPG targets $5 billion buyout of UK data centre operator Ark - FT",
+   "link": "https://www.financialjuice.com/News/9824383/TPG-targets-5-billion-buyout-of-UK-data-centre-operator-Ark---FT.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 05:03:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824382",
+   "title": "Egyptian, Saudi foreign ministers talk regional developments, efforts to contain crisis and prevent escalation: Egyptian foreign ministry",
+   "link": "https://www.financialjuice.com/News/9824382/Egyptian-Saudi-foreign-ministers-talk-regional-developments-efforts-to-contain-crisis-and-prevent-escalation-Egyptian-foreign-ministry.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 05:03:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824351",
+   "title": "Asked if there will be more strikes against Iran after the election, Trump says anything could happen",
+   "link": "https://www.financialjuice.com/News/9824351/Asked-if-there-will-be-more-strikes-against-Iran-after-the-election-Trump-says-anything-could-happen.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 04:35:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824350",
+   "title": "Ukraine drone attack damages industrial facilities in Russia's Novomoskovsk: authorities",
+   "link": "https://www.financialjuice.com/News/9824350/Ukraine-drone-attack-damages-industrial-facilities-in-Russias-Novomoskovsk-authorities.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 04:34:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824349",
+   "title": "Trump: to hold meeting on nuclear disarmament during Asia trip",
+   "link": "https://www.financialjuice.com/News/9824349/Trump-to-hold-meeting-on-nuclear-disarmament-during-Asia-trip.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 04:33:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824340",
+   "title": "Trump: making significant progress on Ukraine, hopes to meet Putin and Zelenskiy soon",
+   "link": "https://www.financialjuice.com/News/9824340/Trump-making-significant-progress-on-Ukraine-hopes-to-meet-Putin-and-Zelenskiy-soon.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 04:30:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824328",
+   "title": "S.Korea's won drops 1% against dollar",
+   "link": "https://www.financialjuice.com/News/9824328/SKoreas-won-drops-1-against-dollar.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 04:02:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824322",
+   "title": "Taiwan central bank chief: CPI likely around 2% next year, which is acceptable, but may hike rates if it rises significantly",
+   "link": "https://www.financialjuice.com/News/9824322/Taiwan-central-bank-chief-CPI-likely-around-2-next-year-which-is-acceptable-but-may-hike-rates-if-it-rises-significantly.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 03:48:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824321",
+   "title": "South Korean won declines to 1,339.2 per US dollar",
+   "link": "https://www.financialjuice.com/News/9824321/South-Korean-won-declines-to-13392-per-US-dollar.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 03:46:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824302",
+   "title": "Taiwan central bank chief: inflation has stayed above 2% so far, expected to drop below 2% next year",
+   "link": "https://www.financialjuice.com/News/9824302/Taiwan-central-bank-chief-inflation-has-stayed-above-2-so-far-expected-to-drop-below-2-next-year.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 03:19:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824283",
+   "title": "Templeton Emerging Markets Investment Trust plc tem.l: Jefferies launches coverage with buy rating, target price 305p",
+   "link": "https://www.financialjuice.com/News/9824283/Templeton-Emerging-Markets-Investment-Trust-plc-teml-Jefferies-launches-coverage-with-buy-rating-target-price-305p.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:55:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824282",
+   "title": "Vinacapital Vietnam Opportunity Fund: Jefferies starts coverage with hold rating, target price 424.5p",
+   "link": "https://www.financialjuice.com/News/9824282/Vinacapital-Vietnam-Opportunity-Fund-Jefferies-starts-coverage-with-hold-rating-target-price-4245p.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:55:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824281",
+   "title": "Templeton emerging markets investment trust plc tem.l: Jefferies evaluates",
+   "link": "https://www.financialjuice.com/News/9824281/Templeton-emerging-markets-investment-trust-plc-teml-Jefferies-evaluates.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:55:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824280",
+   "title": "Initiates coverage with buy rating; target set at 305p",
+   "link": "https://www.financialjuice.com/News/9824280/Initiates-coverage-with-buy-rating-target-set-at-305p.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:55:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824274",
+   "title": "RBNZ Governor Breman: further rate hikes probable at upcoming meetings",
+   "link": "https://www.financialjuice.com/News/9824274/RBNZ-Governor-Breman-further-rate-hikes-probable-at-upcoming-meetings.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824273",
+   "title": "RBNZ Governor Breman: wage expansion below levels consistent with target inflation",
+   "link": "https://www.financialjuice.com/News/9824273/RBNZ-Governor-Breman-wage-expansion-below-levels-consistent-with-target-inflation.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824272",
+   "title": "RBNZ Governor Breman: concerns that a weak New Zealand dollar may boost inflation",
+   "link": "https://www.financialjuice.com/News/9824272/RBNZ-Governor-Breman-concerns-that-a-weak-New-Zealand-dollar-may-boost-inflation.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824271",
+   "title": "RBNZ Governor Breman: partial inflation figures will be key in coming weeks, alongside labor data",
+   "link": "https://www.financialjuice.com/News/9824271/RBNZ-Governor-Breman-partial-inflation-figures-will-be-key-in-coming-weeks-alongside-labor-data.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824270",
+   "title": "RBNZ Governor Breman: discussed risk of drop in ai-related market assets",
+   "link": "https://www.financialjuice.com/News/9824270/RBNZ-Governor-Breman-discussed-risk-of-drop-in-ai-related-market-assets.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824269",
+   "title": "RBNZ Governor Breman: additional tightening may be required, even reaching restrictive levels",
+   "link": "https://www.financialjuice.com/News/9824269/RBNZ-Governor-Breman-additional-tightening-may-be-required-even-reaching-restrictive-levels.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824268",
+   "title": "RBNZ Governor Breman: decision driven by economic outlook, considered market pricing",
+   "link": "https://www.financialjuice.com/News/9824268/RBNZ-Governor-Breman-decision-driven-by-economic-outlook-considered-market-pricing.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824267",
+   "title": "RBNZ Governor Breman: OCR likely to increase above prior forecast",
+   "link": "https://www.financialjuice.com/News/9824267/RBNZ-Governor-Breman-OCR-likely-to-increase-above-prior-forecast.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824266",
+   "title": "RBNZ Governor Breman: discussed if OCR path must be raised",
+   "link": "https://www.financialjuice.com/News/9824266/RBNZ-Governor-Breman-discussed-if-OCR-path-must-be-raised.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824265",
+   "title": "RBNZ Governor Breman: broad spectrum of neutral rate estimates, always an uncertain judgment",
+   "link": "https://www.financialjuice.com/News/9824265/RBNZ-Governor-Breman-broad-spectrum-of-neutral-rate-estimates-always-an-uncertain-judgment.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824264",
+   "title": "RBNZ Governor Breman: conditions remain favourable to restore inflation to target",
+   "link": "https://www.financialjuice.com/News/9824264/RBNZ-Governor-Breman-conditions-remain-favourable-to-restore-inflation-to-target.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824263",
+   "title": "RBNZ Governor Breman: discussed if rates might rise beyond our OCR path",
+   "link": "https://www.financialjuice.com/News/9824263/RBNZ-Governor-Breman-discussed-if-rates-might-rise-beyond-our-OCR-path.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824262",
+   "title": "Decision based on economic outlook: did consider market pricing",
+   "link": "https://www.financialjuice.com/News/9824262/Decision-based-on-economic-outlook-did-consider-market-pricing.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824261",
+   "title": "Partial inflation data will matter in coming weeks, along with labor figures",
+   "link": "https://www.financialjuice.com/News/9824261/Partial-inflation-data-will-matter-in-coming-weeks-along-with-labor-figures.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824260",
+   "title": "Discussed risk of decline in AI-related market assets",
+   "link": "https://www.financialjuice.com/News/9824260/Discussed-risk-of-decline-in-AI-related-market-assets.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824259",
+   "title": "wide array of neutral rate forecasts presents an inherently uncertain decision",
+   "link": "https://www.financialjuice.com/News/9824259/wide-array-of-neutral-rate-forecasts-presents-an-inherently-uncertain-decision.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824258",
+   "title": "Conditions to restore inflation to target remain supportive",
+   "link": "https://www.financialjuice.com/News/9824258/Conditions-to-restore-inflation-to-target-remain-supportive.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824257",
+   "title": "Wage growth lags level consistent with inflation target",
+   "link": "https://www.financialjuice.com/News/9824257/Wage-growth-lags-level-consistent-with-inflation-target.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824256",
+   "title": "Did discuss if OCR path needs to be raised",
+   "link": "https://www.financialjuice.com/News/9824256/Did-discuss-if-OCR-path-needs-to-be-raised.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824255",
+   "title": "Concerned that a weak New Zealand dollar could boost inflation",
+   "link": "https://www.financialjuice.com/News/9824255/Concerned-that-a-weak-New-Zealand-dollar-could-boost-inflation.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824254",
+   "title": "discussed whether rates could increase beyond our OCR trajectory",
+   "link": "https://www.financialjuice.com/News/9824254/discussed-whether-rates-could-increase-beyond-our-OCR-trajectory.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824253",
+   "title": "Committee discussed decline in New Zealand dollar: if sustained could boost imported inflation",
+   "link": "https://www.financialjuice.com/News/9824253/Committee-discussed-decline-in-New-Zealand-dollar-if-sustained-could-boost-imported-inflation.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824252",
+   "title": "Further rate hikes likely at upcoming meetings",
+   "link": "https://www.financialjuice.com/News/9824252/Further-rate-hikes-likely-at-upcoming-meetings.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824251",
+   "title": "Further tightening may be necessary, even approaching restrictive levels",
+   "link": "https://www.financialjuice.com/News/9824251/Further-tightening-may-be-necessary-even-approaching-restrictive-levels.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:33:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824250",
+   "title": "RBNZ Governor Breman: broad range of neutral rate estimates, always an uncertain call",
+   "link": "https://www.financialjuice.com/News/9824250/RBNZ-Governor-Breman-broad-range-of-neutral-rate-estimates-always-an-uncertain-call.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:32:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824238",
+   "title": "RBNZ Governor Breman: partial inflation figures and labour data will be key in coming weeks",
+   "link": "https://www.financialjuice.com/News/9824238/RBNZ-Governor-Breman-partial-inflation-figures-and-labour-data-will-be-key-in-coming-weeks.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:27:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824237",
+   "title": "RBNZ Governor Breman: discussed possibility of rates rising beyond OCR path",
+   "link": "https://www.financialjuice.com/News/9824237/RBNZ-Governor-Breman-discussed-possibility-of-rates-rising-beyond-OCR-path.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:25:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824236",
+   "title": "RBNZ Governor Breman: addressed risk of decline in AI-related market assets",
+   "link": "https://www.financialjuice.com/News/9824236/RBNZ-Governor-Breman-addressed-risk-of-decline-in-AI-related-market-assets.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:22:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824235",
+   "title": "RBNZ Governor Breman: worried weak NZ$ may fuel inflation",
+   "link": "https://www.financialjuice.com/News/9824235/RBNZ-Governor-Breman-worried-weak-NZ-may-fuel-inflation.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:16:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824230",
+   "title": "RBNZ Governor Breman says wage growth below levels consistent with target inflation",
+   "link": "https://www.financialjuice.com/News/9824230/RBNZ-Governor-Breman-says-wage-growth-below-levels-consistent-with-target-inflation.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:13:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824229",
+   "title": "RBNZ Governor Breman: conditions remain favourable to return inflation to target",
+   "link": "https://www.financialjuice.com/News/9824229/RBNZ-Governor-Breman-conditions-remain-favourable-to-return-inflation-to-target.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:13:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824228",
+   "title": "RBNZ Governor Breman: decision reflects economic outlook, considered market pricing",
+   "link": "https://www.financialjuice.com/News/9824228/RBNZ-Governor-Breman-decision-reflects-economic-outlook-considered-market-pricing.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:12:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824227",
+   "title": "RBNZ Governor Breman: further rate hikes probable at upcoming meetings",
+   "link": "https://www.financialjuice.com/News/9824227/RBNZ-Governor-Breman-further-rate-hikes-probable-at-upcoming-meetings.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:11:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824226",
+   "title": "RBNZ Governor Breman: more tightening may be required, even reaching restrictive levels",
+   "link": "https://www.financialjuice.com/News/9824226/RBNZ-Governor-Breman-more-tightening-may-be-required-even-reaching-restrictive-levels.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:08:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824225",
+   "title": "RBNZ Governor Breman: panel reviewed fall in NZD, if persistent could boost imported inflation",
+   "link": "https://www.financialjuice.com/News/9824225/RBNZ-Governor-Breman-panel-reviewed-fall-in-NZD-if-persistent-could-boost-imported-inflation.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:05:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9824224",
+   "title": "RBNZ Governor Breman: likely need for tighter policy depends on economy",
+   "link": "https://www.financialjuice.com/News/9824224/RBNZ-Governor-Breman-likely-need-for-tighter-policy-depends-on-economy.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 02:02:32 GMT",
+   "desc": ""
+  },
   {
    "id": "9824127",
    "title": "Taiwan central bank chief: 80% of current forex reserves held in U.S. bonds",
