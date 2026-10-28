@@ -1,7 +1,483 @@
 {
- "updated_at": "2026-10-28T19:49:44.450513+00:00",
- "count": 16718,
+ "updated_at": "2026-10-28T23:38:36.982875+00:00",
+ "count": 16786,
  "items": [
+  {
+   "id": "9826146",
+   "title": "Microsoft CFO: Azure growth expected at 49% to 50% in constant currency, clarifies range is 49% to 50%",
+   "link": "https://www.financialjuice.com/News/9826146/Microsoft-CFO-Azure-growth-expected-at-49-to-50-in-constant-currency-clarifies-range-is-49-to-50.aspx",
+   "pubDate": "Wed, 28 Oct 2026 22:14:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826144",
+   "title": "Microsoft CFO: We will tap additional funding sources when attractive to do so",
+   "link": "https://www.financialjuice.com/News/9826144/Microsoft-CFO-We-will-tap-additional-funding-sources-when-attractive-to-do-so.aspx",
+   "pubDate": "Wed, 28 Oct 2026 22:04:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826143",
+   "title": "Microsoft CFO: capex spending to speed up in second half of fiscal year with third-party capacity deliveries shifting to h2",
+   "link": "https://www.financialjuice.com/News/9826143/Microsoft-CFO-capex-spending-to-speed-up-in-second-half-of-fiscal-year-with-third-party-capacity-deliveries-shifting-to-h2.aspx",
+   "pubDate": "Wed, 28 Oct 2026 22:04:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826142",
+   "title": "Microsoft CFO: expects to remain cash flow positive in fiscal 2027",
+   "link": "https://www.financialjuice.com/News/9826142/Microsoft-CFO-expects-to-remain-cash-flow-positive-in-fiscal-2027.aspx",
+   "pubDate": "Wed, 28 Oct 2026 22:03:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826138",
+   "title": "Microsoft CFO: calendar year capital expenditure to be about $170 billion",
+   "link": "https://www.financialjuice.com/News/9826138/Microsoft-CFO-calendar-year-capital-expenditure-to-be-about-170-billion.aspx",
+   "pubDate": "Wed, 28 Oct 2026 22:02:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826133",
+   "title": "Microsoft CFO: expects robust growth in commercial sales motions in Q2, but results affected by large Azure commitments from prior year",
+   "link": "https://www.financialjuice.com/News/9826133/Microsoft-CFO-expects-robust-growth-in-commercial-sales-motions-in-Q2-but-results-affected-by-large-Azure-commitments-from-prior-year.aspx",
+   "pubDate": "Wed, 28 Oct 2026 22:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826132",
+   "title": "Microsoft CFO: Azure expansion anticipated to reach 49%",
+   "link": "https://www.financialjuice.com/News/9826132/Microsoft-CFO-Azure-expansion-anticipated-to-reach-49.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:58:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826131",
+   "title": "Microsoft CFO: 2 agents and infrastructure revenue projected at $80.1 billion to $80.7 billion",
+   "link": "https://www.financialjuice.com/News/9826131/Microsoft-CFO-2-agents-and-infrastructure-revenue-projected-at-801-billion-to-807-billion.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:57:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826130",
+   "title": "Microsoft CFO: paid M365 commercial seats increased 5%, affected by weaker sales execution",
+   "link": "https://www.financialjuice.com/News/9826130/Microsoft-CFO-paid-M365-commercial-seats-increased-5-affected-by-weaker-sales-execution.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:55:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826129",
+   "title": "USDA confirms new world screwworm found in Arizona",
+   "link": "https://www.financialjuice.com/News/9826129/USDA-confirms-new-world-screwworm-found-in-Arizona.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:53:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826128",
+   "title": "Microsoft CFO: About 30% of cloud business remaining performance obligation will be recognized in revenue over next 12 months",
+   "link": "https://www.financialjuice.com/News/9826128/Microsoft-CFO-About-30-of-cloud-business-remaining-performance-obligation-will-be-recognized-in-revenue-over-next-12-months.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:52:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826127",
+   "title": "Microsoft CFO: about 75% of capex went to short-lived assets, mainly CPUs and GPUs, with increased memory and storage expenses",
+   "link": "https://www.financialjuice.com/News/9826127/Microsoft-CFO-about-75-of-capex-went-to-short-lived-assets-mainly-CPUs-and-GPUs-with-increased-memory-and-storage-expenses.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:51:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826126",
+   "title": "Microsoft CFO: capital expenditures were below guidance in Q1 as some third-party capacity deliveries expected in Q1 were postponed",
+   "link": "https://www.financialjuice.com/News/9826126/Microsoft-CFO-capital-expenditures-were-below-guidance-in-Q1-as-some-third-party-capacity-deliveries-expected-in-Q1-were-postponed.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:50:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826124",
+   "title": "IMF announces departure of deputy managing director Bo Li, proposes appointment of Min Liao as deputy managing director",
+   "link": "https://www.financialjuice.com/News/9826124/IMF-announces-departure-of-deputy-managing-director-Bo-Li-proposes-appointment-of-Min-Liao-as-deputy-managing-director.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:47:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826123",
+   "title": "Microsoft CEO: accelerating demand prompts addition of 24 new data centers across five continents this quarter - conf call",
+   "link": "https://www.financialjuice.com/News/9826123/Microsoft-CEO-accelerating-demand-prompts-addition-of-24-new-data-centers-across-five-continents-this-quarter---conf-call.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:46:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826085",
+   "title": "Meta Platforms: forward sellers propose 40 million shares of Class A common stock - SEC filing",
+   "link": "https://www.financialjuice.com/News/9826085/Meta-Platforms-forward-sellers-propose-40-million-shares-of-Class-A-common-stock---SEC-filing.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:29:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826084",
+   "title": "Meta Platforms enters forward sale pacts with Morgan Stanley and Goldman Sachs: SEC filing",
+   "link": "https://www.financialjuice.com/News/9826084/Meta-Platforms-enters-forward-sale-pacts-with-Morgan-Stanley-and-Goldman-Sachs-SEC-filing.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:26:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826083",
+   "title": "Meta Platforms offers 40 million shares of class A common stock: SEC filing",
+   "link": "https://www.financialjuice.com/News/9826083/Meta-Platforms-offers-40-million-shares-of-class-A-common-stock-SEC-filing.aspx",
+   "pubDate": "Wed, 28 Oct 2026 21:26:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826044",
+   "title": "Google attributes $8.2 bln other income loss to SpaceX share drop. $GOOGL $SPCX",
+   "link": "https://www.financialjuice.com/News/9826044/Google-attributes-82-bln-other-income-loss-to-SpaceX-share-drop-GOOGL-SPCX.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:59:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826043",
+   "title": "Google's Ashkenazi: R&D spending up 36% driven by AI hires and depreciation. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826043/Googles-Ashkenazi-RD-spending-up-36-driven-by-AI-hires-and-depreciation-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:58:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826042",
+   "title": "Fitch Ratings: US fiscal pressures set to persist regardless of midterm outcome.",
+   "link": "https://www.financialjuice.com/News/9826042/Fitch-Ratings-US-fiscal-pressures-set-to-persist-regardless-of-midterm-outcome.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:57:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826041",
+   "title": "Google works with Anthropic on TPUs directly and with Broadcom. $GOOGL $AVGO",
+   "link": "https://www.financialjuice.com/News/9826041/Google-works-with-Anthropic-on-TPUs-directly-and-with-Broadcom-GOOGL-AVGO.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:56:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826040",
+   "title": "Apple scaling pre-training of foundation models on Google TPUs. $GOOGL $AAPL",
+   "link": "https://www.financialjuice.com/News/9826040/Apple-scaling-pre-training-of-foundation-models-on-Google-TPUs-GOOGL-AAPL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:56:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826039",
+   "title": "Kurian: Google worked with META to build torch TPU. $GOOGL $META",
+   "link": "https://www.financialjuice.com/News/9826039/Kurian-Google-worked-with-META-to-build-torch-TPU-GOOGL-META.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:55:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826038",
+   "title": "Google YouTube subscriptions are growing faster than ads. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826038/Google-YouTube-subscriptions-are-growing-faster-than-ads-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:47:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826032",
+   "title": "Google Gemini helped advertisers generate over 1.5 bln assets. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826032/Google-Gemini-helped-advertisers-generate-over-15-bln-assets-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:45:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826024",
+   "title": "Google bringing ads to search AI mode in international markets. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826024/Google-bringing-ads-to-search-AI-mode-in-international-markets-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:43:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826023",
+   "title": "Pichai: Search queries growing at fastest rate in 5 years. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826023/Pichai-Search-queries-growing-at-fastest-rate-in-5-years-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:39:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826021",
+   "title": "Alphabet's CEO Pichai: New AI model Carbon first rolls out to cyber partners. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826021/Alphabets-CEO-Pichai-New-AI-model-Carbon-first-rolls-out-to-cyber-partners-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:38:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826020",
+   "title": "Alphabet's CEO Pichai: New AI model Carbon outperforms Gemini 4 Argon. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826020/Alphabets-CEO-Pichai-New-AI-model-Carbon-outperforms-Gemini-4-Argon-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:37:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826019",
+   "title": "Pichai: New AI model carbon is in tests with US government. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826019/Pichai-New-AI-model-carbon-is-in-tests-with-US-government-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:36:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826018",
+   "title": "Alphabet's CEO Pichai: New AI model Carbon is Google's strongest. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826018/Alphabets-CEO-Pichai-New-AI-model-Carbon-is-Googles-strongest-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:36:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826017",
+   "title": "Pichai: AI model argon has sped development of code at Google. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826017/Pichai-AI-model-argon-has-sped-development-of-code-at-Google-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:35:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9826016",
+   "title": "Alphabet CEO Pichai: Now at a half trillion annual run rate. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9826016/Alphabet-CEO-Pichai-Now-at-a-half-trillion-annual-run-rate-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:34:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825984",
+   "title": "US Treasury Secretary Bessent appearance on CNBC concludes.",
+   "link": "https://www.financialjuice.com/News/9825984/US-Treasury-Secretary-Bessent-appearance-on-CNBC-concludes.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:22:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825983",
+   "title": "US Treasury Secretary Bessent: In general the trade deals are pretty locked in.",
+   "link": "https://www.financialjuice.com/News/9825983/US-Treasury-Secretary-Bessent-In-general-the-trade-deals-are-pretty-locked-in.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:21:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825982",
+   "title": "US Treasury Secretary Bessent: Consumer behavior is quite strong, business behavior is quite strong.",
+   "link": "https://www.financialjuice.com/News/9825982/US-Treasury-Secretary-Bessent-Consumer-behavior-is-quite-strong-business-behavior-is-quite-strong.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:21:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825981",
+   "title": "US Treasury Secretary Bessent: A lot of Trump economic agenda is baked in, like tax cuts.",
+   "link": "https://www.financialjuice.com/News/9825981/US-Treasury-Secretary-Bessent-A-lot-of-Trump-economic-agenda-is-baked-in-like-tax-cuts.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:20:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825980",
+   "title": "US Treasury Secretary Bessent: France has a tough hand.",
+   "link": "https://www.financialjuice.com/News/9825980/US-Treasury-Secretary-Bessent-France-has-a-tough-hand.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:19:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825979",
+   "title": "US Treasury Secretary Bessent: We're still seeing deals get done; Meta is financing with equity. $META",
+   "link": "https://www.financialjuice.com/News/9825979/US-Treasury-Secretary-Bessent-Were-still-seeing-deals-get-done-Meta-is-financing-with-equity-META.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:19:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825978",
+   "title": "US Treasury Secretary Bessent: I don't see widening spreads on al-issuer debt as problematic - CNBC",
+   "link": "https://www.financialjuice.com/News/9825978/US-Treasury-Secretary-Bessent-I-dont-see-widening-spreads-on-al-issuer-debt-as-problematic---CNBC.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:18:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825977",
+   "title": "US Treasury Secretary Bessent: I don't think AI borrowing is problematic at all.",
+   "link": "https://www.financialjuice.com/News/9825977/US-Treasury-Secretary-Bessent-I-dont-think-AI-borrowing-is-problematic-at-all.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:18:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825975",
+   "title": "Alphabet 3Q26 trailing twelve months FCF $19.75b, -73% YoY. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9825975/Alphabet-3Q26-trailing-twelve-months-FCF-1975b--73-YoY-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:18:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825974",
+   "title": "US Treasury Secretary Bessent: Iran is not able to get dollars, and funding for their proxies is going down - CNBC",
+   "link": "https://www.financialjuice.com/News/9825974/US-Treasury-Secretary-Bessent-Iran-is-not-able-to-get-dollars-and-funding-for-their-proxies-is-going-down---CNBC.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:17:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825973",
+   "title": "Global bond sales reach annual record at $6.61 trillion",
+   "link": "https://www.financialjuice.com/News/9825973/Global-bond-sales-reach-annual-record-at-661-trillion.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:17:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825959",
+   "title": "US Treasury Secretary Bessent: Operation Outcast on Iran is succeeding.",
+   "link": "https://www.financialjuice.com/News/9825959/US-Treasury-Secretary-Bessent-Operation-Outcast-on-Iran-is-succeeding.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:15:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825958",
+   "title": "Alphabet: AI investments driving overall search query growth. YoY search query growth rate highest in 5 years $GOOGL",
+   "link": "https://www.financialjuice.com/News/9825958/Alphabet-AI-investments-driving-overall-search-query-growth-YoY-search-query-growth-rate-highest-in-5-years-GOOGL.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:15:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825950",
+   "title": "US Treasury Secretary Bessent repeats there is a big correlation between yields and oil prices.",
+   "link": "https://www.financialjuice.com/News/9825950/US-Treasury-Secretary-Bessent-repeats-there-is-a-big-correlation-between-yields-and-oil-prices.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:14:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825949",
+   "title": "US Treasury Secretary Bessent: As Warsh said, bonds done a lot of tightening for us.",
+   "link": "https://www.financialjuice.com/News/9825949/US-Treasury-Secretary-Bessent-As-Warsh-said-bonds-done-a-lot-of-tightening-for-us.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:13:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825948",
+   "title": "US Treasury Secretary Bessent: 10-Yr yield never looked back after September 2024 Fed cut.",
+   "link": "https://www.financialjuice.com/News/9825948/US-Treasury-Secretary-Bessent-10-Yr-yield-never-looked-back-after-September-2024-Fed-cut.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:13:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825947",
+   "title": "$FDX FedEx Q3 Earnings",
+   "link": "https://www.financialjuice.com/News/9825947/FDX-FedEx-Q3-Earnings.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:10:19 GMT",
+   "desc": "Adjusted EPS $3.74, est $3.42 Revenue $22.9B, $22.85B Sees FY adjusted EPS $18.00 to $18.60, saw $16.90 to $18.10 Raises 2026 revenue growth outlook to -12% y/y"
+  },
+  {
+   "id": "9825944",
+   "title": "$EBAY eBay Q3 Earnings",
+   "link": "https://www.financialjuice.com/News/9825944/EBAY-eBay-Q3-Earnings.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:06:51 GMT",
+   "desc": "Adjusted EPS from continuing operations $1.51, est. $1.42 Net revenue $3.21B, est. $3.12B Organic FX-neutral revenue growth +13%, est. +11.3% Gross merchandise volume $23.17B, est. $22.32B Active buyers 147M, est. 137.46M Sees Q4 adjusted EPS from continuing operations $1.48 to $1.53, est. $1.48 Sees Q4 net revenue $3.19B to $3.24B, est. $3.20B Sees Q4 gross merchandise volume $23.7B to $24.1B Sees FY adjusted EPS from continuing operations $6.25 to $6.30, est. $6.15 Sees FY net revenue $12.62B to $12.67B, est. $12.55B"
+  },
+  {
+   "id": "9825943",
+   "title": "$F Ford Q3 2026 Earnings",
+   "link": "https://www.financialjuice.com/News/9825943/F-Ford-Q3-2026-Earnings.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:06:07 GMT",
+   "desc": "Adj. EPS $0.49, est. $0.41 Ford Blue rev. $27.1B, est. $27.42B Ford Pro rev. $17.8B, est. $17.66B Ford Model e rev. $1.2B, est. $1.12B Ford Blue EBIT $1.39B, -9.6% y/y Ford Pro EBIT $1.67B, est. $1.84B Ford Model e EBIT loss $1.06B, vs. loss $1.41B y/y Moving towards 8% adj. EBIT margin by 2029 FY outlook assumes commodity headwinds approaching $2.5B y/y Sees FY adj. EBIT $10.5B to $11B, saw $10B to $11B Sees FY Ford Blue EBIT $5.5B, saw $5B to $5.5B, est. $5.4B Sees FY Ford Pro EBIT $7B, saw $7B to $7.5B, est. $7.28B Sees FY Ford Model e EBIT loss $4B, est. loss $4B Still sees FY adj. FCF $6B to $7B Still sees FY capex $9.5B to $10.5B, est. $9.9B"
+  },
+  {
+   "id": "9825941",
+   "title": "$GOOGL Google Q3 2026 Earnings",
+   "link": "https://www.financialjuice.com/News/9825941/GOOGL-Google-Q3-2026-Earnings.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:02:45 GMT",
+   "desc": "EPS $2.12, vs. $2.87 y/y Rev. Ex-TAC $111.21B. Est. $111.29B Rev. $127.58B, est. $127.93B Google Services rev. $96.30B, est. $98.4B Google Cloud rev. $30.71B, est. $29.1B Google Search &amp; Other rev. $63.35B, est. $64.85B YouTube ads rev. $11.21B, est. $11.43B Oper income $40.58B, est. $43.16B Capex $51.36B, est. $55.78B Google Cloud Rev. grew 103% Net loss on equity securities $8.66b Gemini 4 Argon &amp; Carbon are now leading at frontier Surpassed 150M YouTube Music &amp; Premium subs globally"
+  },
+  {
+   "id": "9825940",
+   "title": "$MSFT Microsoft Q1 Earnings",
+   "link": "https://www.financialjuice.com/News/9825940/MSFT-Microsoft-Q1-Earnings.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:02:15 GMT",
+   "desc": "EPS $4.92 Adjusted EPS $4.89, est. $4.73 Revenue $92.28B, est. $90.63B Operating income $45.92B, est. $43.92B Cloud revenue $63.9B, est. $61.62B Azure revenue ex-FX +48%, est. +44.8% Capex $39.37B, est. $45.93B Industry solutions cloud revenue increased 10%"
+  },
+  {
+   "id": "9825936",
+   "title": "T-Mobile Q3 2026 Earnings $TMUS",
+   "link": "https://www.financialjuice.com/News/9825936/T-Mobile-Q3-2026-Earnings-TMUS.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:01:44 GMT",
+   "desc": "EPS $3.22, est. $2.93 Rev. $23.58B, est. $23.14B Core adj. EBITDA $9.62B, est. $9.42B Adj. EBITDA $9.62B, est. $9.41B Postpaid net accounts +274,000, est. +250,510 Capex $2.27B, est. $2.43B Sees FY postpaid net accounts +1M, saw +950,000 to +1.05M Sees FY core adj. EBITDA $37.35B to $37.45B, est. $37.33B Sees FY adj. FCF $18.7B to $18.8B, saw $18.4B to $18.8B Still sees FY capex about $10B, est. $10.05B"
+  },
+  {
+   "id": "9825925",
+   "title": "Vance sent letter at direction of Trump who is aware of continuing outreach, one person said - WSJ",
+   "link": "https://www.financialjuice.com/News/9825925/Vance-sent-letter-at-direction-of-Trump-who-is-aware-of-continuing-outreach-one-person-said---WSJ.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:00:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825924",
+   "title": "US VP Vance sent letter to Secretary of Iran's Top Security body who had been the longest-serving commander of IRGC - WSJ citing Sources.",
+   "link": "https://www.financialjuice.com/News/9825924/US-VP-Vance-sent-letter-to-Secretary-of-Irans-Top-Security-body-who-had-been-the-longest-serving-commander-of-IRGC---WSJ-citing-Sources.aspx",
+   "pubDate": "Wed, 28 Oct 2026 20:00:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825916",
+   "title": "Al Jazeera reporter: Iran insists its conditions be implemented before any nuclear negotiations as indirect US-Iran messages continue.",
+   "link": "https://www.financialjuice.com/News/9825916/Al-Jazeera-reporter-Iran-insists-its-conditions-be-implemented-before-any-nuclear-negotiations-as-indirect-US-Iran-messages-continue.aspx",
+   "pubDate": "Wed, 28 Oct 2026 19:58:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825915",
+   "title": "Al Jazeera reporter: US proposal seeks to combine Iran's seven conditions with US nuclear demands, including highly enriched uranium and inspections, with phased implementation",
+   "link": "https://www.financialjuice.com/News/9825915/Al-Jazeera-reporter-US-proposal-seeks-to-combine-Irans-seven-conditions-with-US-nuclear-demands-including-highly-enriched-uranium-and-inspections-with-phased-implementation.aspx",
+   "pubDate": "Wed, 28 Oct 2026 19:58:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825914",
+   "title": "UK's Chancellor Healey: First priority for UK energy policy is cheaper energy.",
+   "link": "https://www.financialjuice.com/News/9825914/UKs-Chancellor-Healey-First-priority-for-UK-energy-policy-is-cheaper-energy.aspx",
+   "pubDate": "Wed, 28 Oct 2026 19:56:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825913",
+   "title": "UK's Chancellor Healey: Banks are fundamental to the UK's prosperity, status, and success.",
+   "link": "https://www.financialjuice.com/News/9825913/UKs-Chancellor-Healey-Banks-are-fundamental-to-the-UKs-prosperity-status-and-success.aspx",
+   "pubDate": "Wed, 28 Oct 2026 19:55:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825912",
+   "title": "UK's Chancellor Healey: I've asked BoE to look at banks' capital requirements.",
+   "link": "https://www.financialjuice.com/News/9825912/UKs-Chancellor-Healey-Ive-asked-BoE-to-look-at-banks-capital-requirements.aspx",
+   "pubDate": "Wed, 28 Oct 2026 19:54:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825911",
+   "title": "UK's Chancellor Healey: We'll press ahead with financial services and markets bill.",
+   "link": "https://www.financialjuice.com/News/9825911/UKs-Chancellor-Healey-Well-press-ahead-with-financial-services-and-markets-bill.aspx",
+   "pubDate": "Wed, 28 Oct 2026 19:53:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825910",
+   "title": "UK's Chancellor Healey: A time limit on the bank tax hike will be in the legislation.",
+   "link": "https://www.financialjuice.com/News/9825910/UKs-Chancellor-Healey-A-time-limit-on-the-bank-tax-hike-will-be-in-the-legislation.aspx",
+   "pubDate": "Wed, 28 Oct 2026 19:52:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825909",
+   "title": "FOMC Market Reactions, Sentiment & Summary - FJElite",
+   "link": "https://www.financialjuice.com/News/9825909/FOMC-Market-Reactions-Sentiment--Summary---FJElite.aspx",
+   "pubDate": "Wed, 28 Oct 2026 19:51:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825908",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9825908/MOC-Imbalance.aspx",
+   "pubDate": "Wed, 28 Oct 2026 19:50:30 GMT",
+   "desc": "S&amp;P 500: -831 mln Nasdaq 100: +66 mln Dow 30: -302 mln Mag 7: -268 mln"
+  },
+  {
+   "id": "9825907",
+   "title": "UK's Chancellor Healey: The cost of business has been a priority for me in the budget.",
+   "link": "https://www.financialjuice.com/News/9825907/UKs-Chancellor-Healey-The-cost-of-business-has-been-a-priority-for-me-in-the-budget.aspx",
+   "pubDate": "Wed, 28 Oct 2026 19:50:04 GMT",
+   "desc": ""
+  },
   {
    "id": "9825897",
    "title": "The new proposal's schedule includes claims of opening the Strait of Hormuz, lifting the blockade, addressing the Iranian nuclear issue, and summoning inspectors. - Al Arabiya",
