@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-10-28T07:45:11.365378+00:00",
- "count": 16518,
+ "updated_at": "2026-10-28T14:31:58.847266+00:00",
+ "count": 16618,
  "items": [
+  {
+   "id": "9825327",
+   "title": "EIA Weekly Inventories Report",
+   "link": "https://www.financialjuice.com/News/9825327/EIA-Weekly-Inventories-Report.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:30:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825322",
+   "title": "EIA Distillate Inventories Actual -1.462M (Forecast -1.075M, Previous 1.675M)",
+   "link": "https://www.financialjuice.com/News/9825322/EIA-Distillate-Inventories-Actual--1462M-Forecast--1075M-Previous-1675M.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825321",
+   "title": "EIA Crude Oil Inventories Actual -1.892M (Forecast 0M, Previous -3.060M)",
+   "link": "https://www.financialjuice.com/News/9825321/EIA-Crude-Oil-Inventories-Actual--1892M-Forecast-0M-Previous--3060M.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825320",
+   "title": "EIA Gasoline Inventories Actual 3.87M (Forecast -1M, Previous -2.952M)",
+   "link": "https://www.financialjuice.com/News/9825320/EIA-Gasoline-Inventories-Actual-387M-Forecast--1M-Previous--2952M.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825318",
+   "title": "BoC Press Conference with Gov. Macklem - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9825318/BoC-Press-Conference-with-Gov-Macklem---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:21:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825317",
+   "title": "ADNOC tells clients new Hormuz bypass pipe to start early 2027.",
+   "link": "https://www.financialjuice.com/News/9825317/ADNOC-tells-clients-new-Hormuz-bypass-pipe-to-start-early-2027.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:20:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825316",
+   "title": "Crypto Fear and Greed Index: 51/100 = Neutral",
+   "link": "https://www.financialjuice.com/News/9825316/Crypto-Fear-and-Greed-Index-51100--Neutral.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:18:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825315",
+   "title": "Fear and Greed Index: 35/100 = Fear",
+   "link": "https://www.financialjuice.com/News/9825315/Fear-and-Greed-Index-35100--Fear.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:18:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825290",
+   "title": "Britain to reform electricity standing charges -Treasury Documents.",
+   "link": "https://www.financialjuice.com/News/9825290/Britain-to-reform-electricity-standing-charges--Treasury-Documents.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:14:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825289",
+   "title": "UK DMO: Standing repo facility for T-bills to start in January.",
+   "link": "https://www.financialjuice.com/News/9825289/UK-DMO-Standing-repo-facility-for-T-bills-to-start-in-January.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:04:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825268",
+   "title": "UK pre-measures headroom in 2029-30 est. at £12.5B - OBR",
+   "link": "https://www.financialjuice.com/News/9825268/UK-pre-measures-headroom-in-2029-30-est-at-125B---OBR.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 14:00:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825261",
+   "title": "Losses on BoE's QT £5.7b more in 2027-28 than forecast in March.",
+   "link": "https://www.financialjuice.com/News/9825261/Losses-on-BoEs-QT-57b-more-in-2027-28-than-forecast-in-March.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:53:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825260",
+   "title": "Kremlin: Date of trilateral talks to be announced soon: IFX",
+   "link": "https://www.financialjuice.com/News/9825260/Kremlin-Date-of-trilateral-talks-to-be-announced-soon-IFX.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:52:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825259",
+   "title": "NATO Sec. Gen. Rutte: UK budget has strong defense commitment.",
+   "link": "https://www.financialjuice.com/News/9825259/NATO-Sec-Gen-Rutte-UK-budget-has-strong-defense-commitment.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:50:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825258",
+   "title": "BoC's Gov. Macklem: The main argument for holding rates was that inflation has been concentrated in energy prices and services that rely on energy inputs",
+   "link": "https://www.financialjuice.com/News/9825258/BoCs-Gov-Macklem-The-main-argument-for-holding-rates-was-that-inflation-has-been-concentrated-in-energy-prices-and-services-that-rely-on-energy-inputs.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:47:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825257",
+   "title": "BoC's Gov. Macklem: Main argument for hiking was that energy prices are expected to remain higher and cost pressures are building.",
+   "link": "https://www.financialjuice.com/News/9825257/BoCs-Gov-Macklem-Main-argument-for-hiking-was-that-energy-prices-are-expected-to-remain-higher-and-cost-pressures-are-building.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:47:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825256",
+   "title": "BoC's Gov. Macklem: Projected 2% growth in 2027 and 2028 will absorb the remaining slack in the economy",
+   "link": "https://www.financialjuice.com/News/9825256/BoCs-Gov-Macklem-Projected-2-growth-in-2027-and-2028-will-absorb-the-remaining-slack-in-the-economy.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:47:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825255",
+   "title": "BoC's Gov. Macklem: With economy expected to recover, there is less downward pressure on prices to offset cost pressures.",
+   "link": "https://www.financialjuice.com/News/9825255/BoCs-Gov-Macklem-With-economy-expected-to-recover-there-is-less-downward-pressure-on-prices-to-offset-cost-pressures.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:47:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825254",
+   "title": "BoC's Gov. Macklem: An increase in the policy rate was needed to reduce the risk that elevated energy prices could become generalized inflation",
+   "link": "https://www.financialjuice.com/News/9825254/BoCs-Gov-Macklem-An-increase-in-the-policy-rate-was-needed-to-reduce-the-risk-that-elevated-energy-prices-could-become-generalized-inflation.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:47:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825253",
+   "title": "BoC: Outlook for Canadian inflation has deteriorated while growth outlook has improved modestly.",
+   "link": "https://www.financialjuice.com/News/9825253/BoC-Outlook-for-Canadian-inflation-has-deteriorated-while-growth-outlook-has-improved-modestly.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:47:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825252",
+   "title": "BoC's Gov. Macklem: Increased risks to inflation means there was less scope for monetary accommodation",
+   "link": "https://www.financialjuice.com/News/9825252/BoCs-Gov-Macklem-Increased-risks-to-inflation-means-there-was-less-scope-for-monetary-accommodation.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:46:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825251",
+   "title": "BoC's Gov. Macklem: Governing council will take future decisions one meeting at a time",
+   "link": "https://www.financialjuice.com/News/9825251/BoCs-Gov-Macklem-Governing-council-will-take-future-decisions-one-meeting-at-a-time.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:46:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825250",
+   "title": "BoC MPR assumes price of Brent oil to average around $100 in Q4 before gradually falling to around $75 by end-2028.",
+   "link": "https://www.financialjuice.com/News/9825250/BoC-MPR-assumes-price-of-Brent-oil-to-average-around-100-in-Q4-before-gradually-falling-to-around-75-by-end-2028.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:46:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825245",
+   "title": "BoC monetary policy rate assumes most exemptions for USMCA compliant goods will remain",
+   "link": "https://www.financialjuice.com/News/9825245/BoC-monetary-policy-rate-assumes-most-exemptions-for-USMCA-compliant-goods-will-remain.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:46:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825244",
+   "title": "BoC: Nominal neutral interest rate in Canada assumed to be at the mid point of the estimated 2.25% to 3.25% range.",
+   "link": "https://www.financialjuice.com/News/9825244/BoC-Nominal-neutral-interest-rate-in-Canada-assumed-to-be-at-the-mid-point-of-the-estimated-225-to-325-range.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:46:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825241",
+   "title": "BoC: Potential output growth expected to ease to just under 1.5% in 2026",
+   "link": "https://www.financialjuice.com/News/9825241/BoC-Potential-output-growth-expected-to-ease-to-just-under-15-in-2026.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:46:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825240",
+   "title": "BoC: Annualized Q3 growth seen at 2.0% from 1.5% in July; Q4 0.8%.",
+   "link": "https://www.financialjuice.com/News/9825240/BoC-Annualized-Q3-growth-seen-at-20-from-15-in-July-Q4-08.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:46:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825239",
+   "title": "BoC: Inflation to average 2.9% in 2026 (vs 2.5% in July), 3.1% in 2027 (vs 2.0%), 2.2% in 2028 (vs 2.1%)",
+   "link": "https://www.financialjuice.com/News/9825239/BoC-Inflation-to-average-29-in-2026-vs-25-in-July-31-in-2027-vs-20-22-in-2028-vs-21.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:46:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825238",
+   "title": "BoC still sees some excess supply in the economy",
+   "link": "https://www.financialjuice.com/News/9825238/BoC-still-sees-some-excess-supply-in-the-economy.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:46:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825237",
+   "title": "BoC sees inflation at 3.1% in 2027, from 2%.",
+   "link": "https://www.financialjuice.com/News/9825237/BoC-sees-inflation-at-31-in-2027-from-2.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:46:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825236",
+   "title": "BoC expects gdp growth to average 2% in 2027 and 2028",
+   "link": "https://www.financialjuice.com/News/9825236/BoC-expects-gdp-growth-to-average-2-in-2027-and-2028.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:45:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825235",
+   "title": "BoC: We may need to hike again, but plans to ‘proceed carefully'.",
+   "link": "https://www.financialjuice.com/News/9825235/BoC-We-may-need-to-hike-again-but-plans-to-proceed-carefully.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:45:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825234",
+   "title": "BoC: Inflation to remain over target until mid-2028",
+   "link": "https://www.financialjuice.com/News/9825234/BoC-Inflation-to-remain-over-target-until-mid-2028.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:45:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825233",
+   "title": "BoC: Hike needed to prevent oil prices seeping into other costs",
+   "link": "https://www.financialjuice.com/News/9825233/BoC-Hike-needed-to-prevent-oil-prices-seeping-into-other-costs.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:45:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825232",
+   "title": "BoC sees CPI increasing to 3.5% by end of 2026",
+   "link": "https://www.financialjuice.com/News/9825232/BoC-sees-CPI-increasing-to-35-by-end-of-2026.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:45:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825225",
+   "title": "BoC expects oil prices to remain high through 2026",
+   "link": "https://www.financialjuice.com/News/9825225/BoC-expects-oil-prices-to-remain-high-through-2026.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:45:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825224",
+   "title": "BoC Rate Decision Actual 2.5% (Forecast 2.5%, Previous 2.25%)",
+   "link": "https://www.financialjuice.com/News/9825224/BoC-Rate-Decision-Actual-25-Forecast-25-Previous-225.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825223",
+   "title": "Britain plans to extend upcoming carbon border tax to include refined products - Treasury Documents Show.",
+   "link": "https://www.financialjuice.com/News/9825223/Britain-plans-to-extend-upcoming-carbon-border-tax-to-include-refined-products---Treasury-Documents-Show.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:44:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825222",
+   "title": "UK OBR: Headroom would be £10.2 bln if fuel duty stayed frozen",
+   "link": "https://www.financialjuice.com/News/9825222/UK-OBR-Headroom-would-be-102-bln-if-fuel-duty-stayed-frozen.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:43:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825221",
+   "title": "UK OBR: Cumulative cost of fuel duty freezes and 5p cut has risen to £139 bln.",
+   "link": "https://www.financialjuice.com/News/9825221/UK-OBR-Cumulative-cost-of-fuel-duty-freezes-and-5p-cut-has-risen-to-139-bln.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:42:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825220",
+   "title": "UK 2026-31 net borrowing forecast raised by £65 billion.",
+   "link": "https://www.financialjuice.com/News/9825220/UK-2026-31-net-borrowing-forecast-raised-by-65-billion.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:38:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825219",
+   "title": "UK OBR: Probability of meeting fiscal mandate now 56%, down from 59% at budget 2025.",
+   "link": "https://www.financialjuice.com/News/9825219/UK-OBR-Probability-of-meeting-fiscal-mandate-now-56-down-from-59-at-budget-2025.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:37:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825218",
+   "title": "UK bank tax hike to raise receipts by £1 billion in 27/28 - OBR",
+   "link": "https://www.financialjuice.com/News/9825218/UK-bank-tax-hike-to-raise-receipts-by-1-billion-in-2728---OBR.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:36:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825217",
+   "title": "UK OBR sees government borrowing £112b in 2027-28; saw £96.5b.",
+   "link": "https://www.financialjuice.com/News/9825217/UK-OBR-sees-government-borrowing-112b-in-2027-28-saw-965b.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:36:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825216",
+   "title": "UK'S OBR on tax: Tax-to-GDP ratio is expected to surpass its historical high of 37.2 per cent in 2027-28 and continue increasing in every year of the forecast",
+   "link": "https://www.financialjuice.com/News/9825216/UKS-OBR-on-tax-Tax-to-GDP-ratio-is-expected-to-surpass-its-historical-high-of-372-per-cent-in-2027-28-and-continue-increasing-in-every-year-of-the-forecast.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:35:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825215",
+   "title": "UK OBR sees government borrowing £133.2b in 2026-27; saw £115.5b.",
+   "link": "https://www.financialjuice.com/News/9825215/UK-OBR-sees-government-borrowing-1332b-in-2026-27-saw-1155b.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:35:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825214",
+   "title": "UK OBR sees govt borrowing £68.3B in 2031-32",
+   "link": "https://www.financialjuice.com/News/9825214/UK-OBR-sees-govt-borrowing-683B-in-2031-32.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:35:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825213",
+   "title": "UK's OBR: If energy prices return to our march forecast path, we would expect more rapid disinflation, stronger near-term GDP growth and a potential easing of financial conditions.",
+   "link": "https://www.financialjuice.com/News/9825213/UKs-OBR-If-energy-prices-return-to-our-march-forecast-path-we-would-expect-more-rapid-disinflation-stronger-near-term-GDP-growth-and-a-potential-easing-of-financial-conditions.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:34:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825212",
+   "title": "UK headroom against debt rule now £24b; was £27.1b.",
+   "link": "https://www.financialjuice.com/News/9825212/UK-headroom-against-debt-rule-now-24b-was-271b.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:34:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825211",
+   "title": "UK'S OBR: If energy prices were to peak at a higher level and remain elevated for longer, we would expect increased inflation, weaker near-term GDP growth, and a potential tightening of financial conditions",
+   "link": "https://www.financialjuice.com/News/9825211/UKS-OBR-If-energy-prices-were-to-peak-at-a-higher-level-and-remain-elevated-for-longer-we-would-expect-increased-inflation-weaker-near-term-GDP-growth-and-a-potential-tightening-of-financial-conditions.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:34:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825210",
+   "title": "UK's OBR: Sees inflation at 3.5% in 2027 in central forecast (March forecast: 2%).",
+   "link": "https://www.financialjuice.com/News/9825210/UKs-OBR-Sees-inflation-at-35-in-2027-in-central-forecast-March-forecast-2.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:34:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825209",
+   "title": "UK'S OBR: Margins against the fiscal targets are very small compared to the inherent risk and uncertainty around any medium-term fiscal forecast",
+   "link": "https://www.financialjuice.com/News/9825209/UKS-OBR-Margins-against-the-fiscal-targets-are-very-small-compared-to-the-inherent-risk-and-uncertainty-around-any-medium-term-fiscal-forecast.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:33:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825208",
+   "title": "UK'S OBR on productivity: If productivity growth were 0.5 percentage points higher or lower than forecast, borrowing could reach £50 billion lower or £40 billion higher.",
+   "link": "https://www.financialjuice.com/News/9825208/UKS-OBR-on-productivity-If-productivity-growth-were-05-percentage-points-higher-or-lower-than-forecast-borrowing-could-reach-50-billion-lower-or-40-billion-higher.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:33:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825207",
+   "title": "UK's OBR: A 1% change in interest rates could raise or reduce government debt interest costs by £16 billion.",
+   "link": "https://www.financialjuice.com/News/9825207/UKs-OBR-A-1-change-in-interest-rates-could-raise-or-reduce-government-debt-interest-costs-by-16-billion.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:33:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825206",
+   "title": "UK OBR sees 2026 inflation at 3.1%; saw 2.3%.",
+   "link": "https://www.financialjuice.com/News/9825206/UK-OBR-sees-2026-inflation-at-31-saw-23.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:33:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825205",
+   "title": "UK budget policies increase borrowing by £3.5 billion in 2027-28",
+   "link": "https://www.financialjuice.com/News/9825205/UK-budget-policies-increase-borrowing-by-35-billion-in-2027-28.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:33:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825204",
+   "title": "UK budget policies reduce borrowing by £11.7 billion in 31-32.",
+   "link": "https://www.financialjuice.com/News/9825204/UK-budget-policies-reduce-borrowing-by-117-billion-in-31-32.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:33:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825203",
+   "title": "UK'S OBR: If energy prices reach a higher and more sustained peak, borrowing could be £17 billion above the central forecast in 2027-28",
+   "link": "https://www.financialjuice.com/News/9825203/UKS-OBR-If-energy-prices-reach-a-higher-and-more-sustained-peak-borrowing-could-be-17-billion-above-the-central-forecast-in-2027-28.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:33:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825202",
+   "title": "UK DMO: To sell £15.6 bln of index-linked gilts via auction in 2026/27 (April remit: £16 bln).",
+   "link": "https://www.financialjuice.com/News/9825202/UK-DMO-To-sell-156-bln-of-index-linked-gilts-via-auction-in-202627-April-remit-16-bln.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:32:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825201",
+   "title": "UK OBR: Significantly better or worse outcomes for public finances and economy of broadly equal probability",
+   "link": "https://www.financialjuice.com/News/9825201/UK-OBR-Significantly-better-or-worse-outcomes-for-public-finances-and-economy-of-broadly-equal-probability.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:32:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825200",
+   "title": "UK DMO: to sell £7.8 bln of index-linked gilts via syndication in 2026/27 (April remit: £7 bln).",
+   "link": "https://www.financialjuice.com/News/9825200/UK-DMO-to-sell-78-bln-of-index-linked-gilts-via-syndication-in-202627-April-remit-7-bln.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:32:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825199",
+   "title": "UK DMO: To sell £15.6 bln of index-linked gilts via auction in 2026/27 (April remit £15bln)",
+   "link": "https://www.financialjuice.com/News/9825199/UK-DMO-To-sell-156-bln-of-index-linked-gilts-via-auction-in-202627-April-remit-15bln.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:32:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825197",
+   "title": "UK DMO: To sell £12.5 bln of long-dated conventional gilts via syndication in 2026/27 (april remit: £15 bln).",
+   "link": "https://www.financialjuice.com/News/9825197/UK-DMO-To-sell-125-bln-of-long-dated-conventional-gilts-via-syndication-in-202627-april-remit-15-bln.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:32:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825196",
+   "title": "UK's OBR: The outlook for the economy and public finances is uncertain, with significantly better or worse outcomes of broadly equal probability.",
+   "link": "https://www.financialjuice.com/News/9825196/UKs-OBR-The-outlook-for-the-economy-and-public-finances-is-uncertain-with-significantly-better-or-worse-outcomes-of-broadly-equal-probability.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:32:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825182",
+   "title": "World Bank: 25 countries have received $8.7 billion in support to deal with fiscal pressures and the impacts of the Iran war",
+   "link": "https://www.financialjuice.com/News/9825182/World-Bank-25-countries-have-received-87-billion-in-support-to-deal-with-fiscal-pressures-and-the-impacts-of-the-Iran-war.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:31:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825179",
+   "title": "World Bank: Precious metals prices to jump 40% in 2026 due to elevated demand for safe-haven assets, some moderation seen in 2027.",
+   "link": "https://www.financialjuice.com/News/9825179/World-Bank-Precious-metals-prices-to-jump-40-in-2026-due-to-elevated-demand-for-safe-haven-assets-some-moderation-seen-in-2027.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:31:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825178",
+   "title": "World Bank sees metals prices rising 25% to a new high in 2026, with aluminum, copper, and tin all hitting record levels",
+   "link": "https://www.financialjuice.com/News/9825178/World-Bank-sees-metals-prices-rising-25-to-a-new-high-in-2026-with-aluminum-copper-and-tin-all-hitting-record-levels.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:31:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825177",
+   "title": "World Bank: Adverse scenario could see energy and food commodity prices surge, driving global inflation higher.",
+   "link": "https://www.financialjuice.com/News/9825177/World-Bank-Adverse-scenario-could-see-energy-and-food-commodity-prices-surge-driving-global-inflation-higher.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:31:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825176",
+   "title": "World Bank: Any escalation in the Middle East conflict, continued damage to Russian oil infrastructure, could further boost energy prices",
+   "link": "https://www.financialjuice.com/News/9825176/World-Bank-Any-escalation-in-the-Middle-East-conflict-continued-damage-to-Russian-oil-infrastructure-could-further-boost-energy-prices.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:31:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825175",
+   "title": "World Bank expects food commodity prices to rise 10% in 2026 and 7% more in 2027 due to grain shipment disruptions, extreme weather.",
+   "link": "https://www.financialjuice.com/News/9825175/World-Bank-expects-food-commodity-prices-to-rise-10-in-2026-and-7-more-in-2027-due-to-grain-shipment-disruptions-extreme-weather.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:30:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825174",
+   "title": "World Bank: Overall commodity prices to surge 23% in 2026 due to global shocks before declining by 7% in 2027",
+   "link": "https://www.financialjuice.com/News/9825174/World-Bank-Overall-commodity-prices-to-surge-23-in-2026-due-to-global-shocks-before-declining-by-7-in-2027.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:30:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825173",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9825173/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:30:36 GMT",
+   "desc": "S&amp;P 500: -37 mln Nasdaq 100: -11 mln Dow 30: -9 mln Mag 7: -13 mln"
+  },
+  {
+   "id": "9825172",
+   "title": "World Bank expects global oil supply to fall 5.2% in 2026, biggest drop in more than 4 decades outside the 2020 global recession",
+   "link": "https://www.financialjuice.com/News/9825172/World-Bank-expects-global-oil-supply-to-fall-52-in-2026-biggest-drop-in-more-than-4-decades-outside-the-2020-global-recession.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:30:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825171",
+   "title": "World Bank sees global energy prices up 32% in 2026, reaching four-year high, due to war in Middle East.",
+   "link": "https://www.financialjuice.com/News/9825171/World-Bank-sees-global-energy-prices-up-32-in-2026-reaching-four-year-high-due-to-war-in-Middle-East.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:30:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825169",
+   "title": "UK DMO: Gross gilt issuance planned for 2026/27 is £250.6 bln (poll: £249.6 bln; dmo april remit: £246.2 bln).",
+   "link": "https://www.financialjuice.com/News/9825169/UK-DMO-Gross-gilt-issuance-planned-for-202627-is-2506-bln-poll-2496-bln-dmo-april-remit-2462-bln.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:30:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825168",
+   "title": "US Sentiment: RBNZ Surprise Hold, FOMC Press Conference Important - FJElite",
+   "link": "https://www.financialjuice.com/News/9825168/US-Sentiment-RBNZ-Surprise-Hold-FOMC-Press-Conference-Important---FJElite.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:30:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825167",
+   "title": "UK's Chancellor Healey ends budget speech.",
+   "link": "https://www.financialjuice.com/News/9825167/UKs-Chancellor-Healey-ends-budget-speech.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:29:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825166",
+   "title": "UK's Chancellor Healey: \"Your first home\" to get £4.7b funding.",
+   "link": "https://www.financialjuice.com/News/9825166/UKs-Chancellor-Healey-Your-first-home-to-get-47b-funding.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:27:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825165",
+   "title": "UK's Chancellor Healey: First-time buyer ISA to replace lifetime ISA",
+   "link": "https://www.financialjuice.com/News/9825165/UKs-Chancellor-Healey-First-time-buyer-ISA-to-replace-lifetime-ISA.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:26:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825164",
+   "title": "UK's Chancellor Healey: £1.5b for social, affordable housing programme.",
+   "link": "https://www.financialjuice.com/News/9825164/UKs-Chancellor-Healey-15b-for-social-affordable-housing-programme.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:25:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825163",
+   "title": "UK's Chancellor Healey: We will set out how to meet NATO defence commitment",
+   "link": "https://www.financialjuice.com/News/9825163/UKs-Chancellor-Healey-We-will-set-out-how-to-meet-NATO-defence-commitment.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:21:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825162",
+   "title": "UK's Chancellor Healey: Double lock on pensions will save £15b.",
+   "link": "https://www.financialjuice.com/News/9825162/UKs-Chancellor-Healey-Double-lock-on-pensions-will-save-15b.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:19:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825161",
+   "title": "UK's Chancellor Healey: Triple lock changes to save £50b by 2050.",
+   "link": "https://www.financialjuice.com/News/9825161/UKs-Chancellor-Healey-Triple-lock-changes-to-save-50b-by-2050.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:18:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825132",
+   "title": "UK's Chancellor Healey: We will fully fund defense investment plan.",
+   "link": "https://www.financialjuice.com/News/9825132/UKs-Chancellor-Healey-We-will-fully-fund-defense-investment-plan.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:15:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825131",
+   "title": "UK's Chancellor Healey: Fully funding defence investment plan",
+   "link": "https://www.financialjuice.com/News/9825131/UKs-Chancellor-Healey-Fully-funding-defence-investment-plan.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:15:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825130",
+   "title": "UK's Healey: 100% of business rates will be retained by local authorities by the end of the decade",
+   "link": "https://www.financialjuice.com/News/9825130/UKs-Healey-100-of-business-rates-will-be-retained-by-local-authorities-by-the-end-of-the-decade.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:12:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825129",
+   "title": "UK's Chancellor Healey: Taking steps to devolve tax revenues.",
+   "link": "https://www.financialjuice.com/News/9825129/UKs-Chancellor-Healey-Taking-steps-to-devolve-tax-revenues.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:12:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825128",
+   "title": "UK's Chancellor Healey: We are to hold next International Investment Summit in Spring.",
+   "link": "https://www.financialjuice.com/News/9825128/UKs-Chancellor-Healey-We-are-to-hold-next-International-Investment-Summit-in-Spring.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:09:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825127",
+   "title": "UK's Chancellor Healey: Reforming skilled worker visas and non-compete clauses.",
+   "link": "https://www.financialjuice.com/News/9825127/UKs-Chancellor-Healey-Reforming-skilled-worker-visas-and-non-compete-clauses.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:06:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825126",
+   "title": "Fitch Ratings: Spacex's 'bbb+' rating unchanged by GPU lease transaction.",
+   "link": "https://www.financialjuice.com/News/9825126/Fitch-Ratings-Spacexs-bbb-rating-unchanged-by-GPU-lease-transaction.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:04:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825125",
+   "title": "UK's Chancellor Healey: Data centers must invest in local communities",
+   "link": "https://www.financialjuice.com/News/9825125/UKs-Chancellor-Healey-Data-centers-must-invest-in-local-communities.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:04:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825124",
+   "title": "UK's Chancellor Healey: There is a new British data centre covenant",
+   "link": "https://www.financialjuice.com/News/9825124/UKs-Chancellor-Healey-There-is-a-new-British-data-centre-covenant.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:04:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825123",
+   "title": "UK's Chancellor Healey: There is a new deal for data centres.",
+   "link": "https://www.financialjuice.com/News/9825123/UKs-Chancellor-Healey-There-is-a-new-deal-for-data-centres.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:04:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825118",
+   "title": "UK's Chancellor Healey: £20.4b for national wealth fund.",
+   "link": "https://www.financialjuice.com/News/9825118/UKs-Chancellor-Healey-204b-for-national-wealth-fund.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 13:01:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825094",
+   "title": "Effective fed funds rate 3.88% October 27th vs 3.88% October 26th",
+   "link": "https://www.financialjuice.com/News/9825094/Effective-fed-funds-rate-388-October-27th-vs-388-October-26th.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 12:59:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825093",
+   "title": "UK's Chancellor Healey: Banks will pay extra 3% on bank surcharge.",
+   "link": "https://www.financialjuice.com/News/9825093/UKs-Chancellor-Healey-Banks-will-pay-extra-3-on-bank-surcharge.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 12:59:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825092",
+   "title": "UK's Chancellor Healey: Limit to cash ISA to stay at £20k for people of all ages",
+   "link": "https://www.financialjuice.com/News/9825092/UKs-Chancellor-Healey-Limit-to-cash-ISA-to-stay-at-20k-for-people-of-all-ages.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 12:58:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825091",
+   "title": "UK's Chancellor Healey: Won't go ahead with cash isa change.",
+   "link": "https://www.financialjuice.com/News/9825091/UKs-Chancellor-Healey-Wont-go-ahead-with-cash-isa-change.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 12:58:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825090",
+   "title": "UK's Chancellor Healey: Increasing rates on tax from income, property, and savings",
+   "link": "https://www.financialjuice.com/News/9825090/UKs-Chancellor-Healey-Increasing-rates-on-tax-from-income-property-and-savings.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 12:58:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9825089",
+   "title": "UK's Chancellor Healey: We are cutting threshold for business asset disposal relief.",
+   "link": "https://www.financialjuice.com/News/9825089/UKs-Chancellor-Healey-We-are-cutting-threshold-for-business-asset-disposal-relief.aspx?xy=rss",
+   "pubDate": "Wed, 28 Oct 2026 12:57:48 GMT",
+   "desc": ""
+  },
   {
    "id": "9824560",
    "title": "South Korea fines Google, Apple 63.7B won on forced in-app payments.",
