@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-10-30T12:45:25.725790+00:00",
- "count": 17269,
+ "updated_at": "2026-10-30T18:14:33.444691+00:00",
+ "count": 17369,
  "items": [
+  {
+   "id": "9829987",
+   "title": "US SEC Enforcement Director: Agency is examining AI company disclosures. Wants to ensure companies are giving investors a full picture of the risks as AI spending booms.",
+   "link": "https://www.financialjuice.com/News/9829987/US-SEC-Enforcement-Director-Agency-is-examining-AI-company-disclosures-Wants-to-ensure-companies-are-giving-investors-a-full-picture-of-the-risks-as-AI-spending-booms.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:49:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829972",
+   "title": "Pakistan military spokesman: additional forces for Saudi defense hinge on situation, political decision",
+   "link": "https://www.financialjuice.com/News/9829972/Pakistan-military-spokesman-additional-forces-for-Saudi-defense-hinge-on-situation-political-decision.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:45:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829971",
+   "title": "Pakistan military spokesman: no restriction on Iran joining Mecca joint defense pact, decision rests with three main parties",
+   "link": "https://www.financialjuice.com/News/9829971/Pakistan-military-spokesman-no-restriction-on-Iran-joining-Mecca-joint-defense-pact-decision-rests-with-three-main-parties.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:45:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829970",
+   "title": "Pakistan Military Spokesman: Pakistan military is ‘cautiously optimistic’ on Iran-US mediation, warns of 'powerful spoilers.",
+   "link": "https://www.financialjuice.com/News/9829970/Pakistan-Military-Spokesman-Pakistan-military-is-cautiously-optimistic-on-Iran-US-mediation-warns-of-powerful-spoilers.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:45:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829964",
+   "title": "Logan: Labor market is balanced, maybe tightening slightly",
+   "link": "https://www.financialjuice.com/News/9829964/Logan-Labor-market-is-balanced-maybe-tightening-slightly.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829963",
+   "title": "Logan: Economic growth robust, consumer spending steady",
+   "link": "https://www.financialjuice.com/News/9829963/Logan-Economic-growth-robust-consumer-spending-steady.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829962",
+   "title": "Logan: Long-term rates have climbed, but aren't as much of a drag on economy as expected",
+   "link": "https://www.financialjuice.com/News/9829962/Logan-Long-term-rates-have-climbed-but-arent-as-much-of-a-drag-on-economy-as-expected.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829961",
+   "title": "Logan: higher market rates signal investors think monetary policy has work ahead",
+   "link": "https://www.financialjuice.com/News/9829961/Logan-higher-market-rates-signal-investors-think-monetary-policy-has-work-ahead.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829959",
+   "title": "Logan: financial conditions are boosting the economy",
+   "link": "https://www.financialjuice.com/News/9829959/Logan-financial-conditions-are-boosting-the-economy.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829958",
+   "title": "Logan: after 50 bps of rate increases, a pause would be reasonable to assess appropriate next steps",
+   "link": "https://www.financialjuice.com/News/9829958/Logan-after-50-bps-of-rate-increases-a-pause-would-be-reasonable-to-assess-appropriate-next-steps.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829957",
+   "title": "Logan: inflation not returning to Fed's 2% target is 'unacceptable'",
+   "link": "https://www.financialjuice.com/News/9829957/Logan-inflation-not-returning-to-Feds-2-target-is-unacceptable.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829956",
+   "title": "Logan: clarifying policy rate target aids economy in adjusting, reaping benefits of a pause",
+   "link": "https://www.financialjuice.com/News/9829956/Logan-clarifying-policy-rate-target-aids-economy-in-adjusting-reaping-benefits-of-a-pause.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829955",
+   "title": "Logan: gradual policy shift aids households, firms, investors in adapting to higher rates",
+   "link": "https://www.financialjuice.com/News/9829955/Logan-gradual-policy-shift-aids-households-firms-investors-in-adapting-to-higher-rates.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829954",
+   "title": "Logan: ultimate goal is to keep policy moderately restrictive",
+   "link": "https://www.financialjuice.com/News/9829954/Logan-ultimate-goal-is-to-keep-policy-moderately-restrictive.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829953",
+   "title": "Logan: Gradual policy adjustment can lower risks of abrupt economic decline",
+   "link": "https://www.financialjuice.com/News/9829953/Logan-Gradual-policy-adjustment-can-lower-risks-of-abrupt-economic-decline.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829952",
+   "title": "Logan: missing a meeting doesn't alter policy direction",
+   "link": "https://www.financialjuice.com/News/9829952/Logan-missing-a-meeting-doesnt-alter-policy-direction.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829947",
+   "title": "Fed's Logan: Fed needs at least two more quarter-point rate hikes.",
+   "link": "https://www.financialjuice.com/News/9829947/Feds-Logan-Fed-needs-at-least-two-more-quarter-point-rate-hikes.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:31:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829930",
+   "title": "Ford CEO aims for a 20% sales jump by 2032 - WSJ. $F",
+   "link": "https://www.financialjuice.com/News/9829930/Ford-CEO-aims-for-a-20-sales-jump-by-2032---WSJ-F.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:21:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829915",
+   "title": "US Baker Hughes Oil Rig Count Actual 462 (Forecast -, Previous 460)",
+   "link": "https://www.financialjuice.com/News/9829915/US-Baker-Hughes-Oil-Rig-Count-Actual-462-Forecast---Previous-460.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:01:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829914",
+   "title": "US Baker Hughes Total Rig Count Actual 603 (Forecast -, Previous 603)",
+   "link": "https://www.financialjuice.com/News/9829914/US-Baker-Hughes-Total-Rig-Count-Actual-603-Forecast---Previous-603.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 17:01:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829898",
+   "title": "Fed's Musalem: I'm focused on preventing second round inflation impact like in service sector.",
+   "link": "https://www.financialjuice.com/News/9829898/Feds-Musalem-Im-focused-on-preventing-second-round-inflation-impact-like-in-service-sector.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:59:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829897",
+   "title": "Fed's Musalem: Policy rules are useful for monetary policy",
+   "link": "https://www.financialjuice.com/News/9829897/Feds-Musalem-Policy-rules-are-useful-for-monetary-policy.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:53:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829896",
+   "title": "Fed's Musalem: Communications is not necessarily the same as forward guidance.",
+   "link": "https://www.financialjuice.com/News/9829896/Feds-Musalem-Communications-is-not-necessarily-the-same-as-forward-guidance.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:51:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829895",
+   "title": "Fed's Musalem: It's really important for public to understand how central bank thinks and acts.",
+   "link": "https://www.financialjuice.com/News/9829895/Feds-Musalem-Its-really-important-for-public-to-understand-how-central-bank-thinks-and-acts.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:50:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829889",
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - FT",
+   "link": "https://www.financialjuice.com/News/9829889/Anthropic-may-not-secure-investment-grade-rating-after-IPO-Blackstone-tells-investors---FT.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:46:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829875",
+   "title": "Canada's PM Carney: Canada and EU working towards deepest possible partnership, short of accession.",
+   "link": "https://www.financialjuice.com/News/9829875/Canadas-PM-Carney-Canada-and-EU-working-towards-deepest-possible-partnership-short-of-accession.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:46:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829873",
+   "title": "Canada and EU sign agreements on digital trade and competition",
+   "link": "https://www.financialjuice.com/News/9829873/Canada-and-EU-sign-agreements-on-digital-trade-and-competition.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:45:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829868",
+   "title": "Canada's PM Carney: Canada-EU talks to wrap at June EU council meetings. Canada aims to become EU's first associate member.",
+   "link": "https://www.financialjuice.com/News/9829868/Canadas-PM-Carney-Canada-EU-talks-to-wrap-at-June-EU-council-meetings-Canada-aims-to-become-EUs-first-associate-member.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:45:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829867",
+   "title": "Ukraine has requested an emergency UN security council meeting.",
+   "link": "https://www.financialjuice.com/News/9829867/Ukraine-has-requested-an-emergency-UN-security-council-meeting.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:44:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829865",
+   "title": "Canada, EU agree in joint statement to outline by 2027 summit idea of 'ever-closer association of Canada to EU, short of full membership'",
+   "link": "https://www.financialjuice.com/News/9829865/Canada-EU-agree-in-joint-statement-to-outline-by-2027-summit-idea-of-ever-closer-association-of-Canada-to-EU-short-of-full-membership.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:34:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829863",
+   "title": "CD&R pursues buyout of $40bn payment processor Global Payments - FT",
+   "link": "https://www.financialjuice.com/News/9829863/CDR-pursues-buyout-of-40bn-payment-processor-Global-Payments---FT.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:33:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829859",
+   "title": "Fed's Musalem: Q3 data confirm the underlying strength of the economy",
+   "link": "https://www.financialjuice.com/News/9829859/Feds-Musalem-Q3-data-confirm-the-underlying-strength-of-the-economy.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:31:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829849",
+   "title": "Fed's Musalem: inflation expectations remain steady",
+   "link": "https://www.financialjuice.com/News/9829849/Feds-Musalem-inflation-expectations-remain-steady.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:31:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829848",
+   "title": "Fed's Musalem: risks remain tilted toward elevated inflation",
+   "link": "https://www.financialjuice.com/News/9829848/Feds-Musalem-risks-remain-tilted-toward-elevated-inflation.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:31:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829847",
+   "title": "Fed's Musalem: wider economy and labor market robust",
+   "link": "https://www.financialjuice.com/News/9829847/Feds-Musalem-wider-economy-and-labor-market-robust.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:30:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829846",
+   "title": "Fed's Musalem: financial conditions are tighter, but only slightly",
+   "link": "https://www.financialjuice.com/News/9829846/Feds-Musalem-financial-conditions-are-tighter-but-only-slightly.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:30:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829845",
+   "title": "Fed’s Musalem: best move now is restoring price stability",
+   "link": "https://www.financialjuice.com/News/9829845/Feds-Musalem-best-move-now-is-restoring-price-stability.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:30:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829844",
+   "title": "Fed's Musalem: financial conditions continue to be accommodative",
+   "link": "https://www.financialjuice.com/News/9829844/Feds-Musalem-financial-conditions-continue-to-be-accommodative.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:30:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829843",
+   "title": "Fed's Musalem: current monetary policy remains accommodative",
+   "link": "https://www.financialjuice.com/News/9829843/Feds-Musalem-current-monetary-policy-remains-accommodative.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:30:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829842",
+   "title": "Fed's Musalem: inflation remains elevated, unlikely to decline without central bank measures",
+   "link": "https://www.financialjuice.com/News/9829842/Feds-Musalem-inflation-remains-elevated-unlikely-to-decline-without-central-bank-measures.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:30:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829841",
+   "title": "Fed’s Musalem: elevated long-term bond yields fueled by anticipated higher policy rates",
+   "link": "https://www.financialjuice.com/News/9829841/Feds-Musalem-elevated-long-term-bond-yields-fueled-by-anticipated-higher-policy-rates.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:30:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829840",
+   "title": "Fed's Musalem: gradual rate adjustments preferable to sudden moves",
+   "link": "https://www.financialjuice.com/News/9829840/Feds-Musalem-gradual-rate-adjustments-preferable-to-sudden-moves.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:30:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829839",
+   "title": "Fed's Musalem: US central bank to hike interest rates again soon",
+   "link": "https://www.financialjuice.com/News/9829839/Feds-Musalem-US-central-bank-to-hike-interest-rates-again-soon.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:30:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829838",
+   "title": "Fed's Musalem: acting earlier with rate increases reduces risk to wider economy",
+   "link": "https://www.financialjuice.com/News/9829838/Feds-Musalem-acting-earlier-with-rate-increases-reduces-risk-to-wider-economy.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:30:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829825",
+   "title": "Lane: AI companies are more vulnerable to monetary policy",
+   "link": "https://www.financialjuice.com/News/9829825/Lane-AI-companies-are-more-vulnerable-to-monetary-policy.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:11:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829824",
+   "title": "Lane: Artificial intelligence could boost productivity significantly",
+   "link": "https://www.financialjuice.com/News/9829824/Lane-Artificial-intelligence-could-boost-productivity-significantly.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:11:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829823",
+   "title": "Lane: AI is driving both growth and credit trends",
+   "link": "https://www.financialjuice.com/News/9829823/Lane-AI-is-driving-both-growth-and-credit-trends.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:11:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829822",
+   "title": "ECB's Lane: AI is already supporting euro area activity",
+   "link": "https://www.financialjuice.com/News/9829822/ECBs-Lane-AI-is-already-supporting-euro-area-activity.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:11:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829821",
+   "title": "ECB's Lane: AI-related price pressures are visible, but the effect on headline inflation is limited",
+   "link": "https://www.financialjuice.com/News/9829821/ECBs-Lane-AI-related-price-pressures-are-visible-but-the-effect-on-headline-inflation-is-limited.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:10:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829820",
+   "title": "Fed's Daly: AI really matters for how we think about policy in near and medium term.",
+   "link": "https://www.financialjuice.com/News/9829820/Feds-Daly-AI-really-matters-for-how-we-think-about-policy-in-near-and-medium-term.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 16:06:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829759",
+   "title": "Ukraine's Tykhyi: Ukraine wants trilateral talks in Nov., no dates yet.",
+   "link": "https://www.financialjuice.com/News/9829759/Ukraines-Tykhyi-Ukraine-wants-trilateral-talks-in-Nov-no-dates-yet.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 15:21:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829751",
+   "title": "Japan asks Anthropic and OpenAI for more access to advanced models - Nikkei",
+   "link": "https://www.financialjuice.com/News/9829751/Japan-asks-Anthropic-and-OpenAI-for-more-access-to-advanced-models---Nikkei.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 15:12:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829735",
+   "title": "Canadian Budget Balance Actual -5.36B (Forecast -, Previous -4.77B)",
+   "link": "https://www.financialjuice.com/News/9829735/Canadian-Budget-Balance-Actual--536B-Forecast---Previous--477B.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 15:00:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829729",
+   "title": "Russia's Novak: Russia will draw up plan for December diesel exports at the end of November",
+   "link": "https://www.financialjuice.com/News/9829729/Russias-Novak-Russia-will-draw-up-plan-for-December-diesel-exports-at-the-end-of-November.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:50:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829728",
+   "title": "Fitch on UK budget: We see moderately more policy risk closer to next general election.",
+   "link": "https://www.financialjuice.com/News/9829728/Fitch-on-UK-budget-We-see-moderately-more-policy-risk-closer-to-next-general-election.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:48:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829727",
+   "title": "Fitch on UK budget: Continues to anticipate significant fiscal slippage against spending plans.",
+   "link": "https://www.financialjuice.com/News/9829727/Fitch-on-UK-budget-Continues-to-anticipate-significant-fiscal-slippage-against-spending-plans.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:47:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829726",
+   "title": "Fitch on UK budget: Fiscal consolidation plan remains much more challenging to deliver from 2027.",
+   "link": "https://www.financialjuice.com/News/9829726/Fitch-on-UK-budget-Fiscal-consolidation-plan-remains-much-more-challenging-to-deliver-from-2027.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:47:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829725",
+   "title": "Russia's Novak: Russian oil production in October is higher than in September.",
+   "link": "https://www.financialjuice.com/News/9829725/Russias-Novak-Russian-oil-production-in-October-is-higher-than-in-September.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:47:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829710",
+   "title": "Fitch Ratings on UK budget: Broad policy continuity leaves sizeable delivery challenge",
+   "link": "https://www.financialjuice.com/News/9829710/Fitch-Ratings-on-UK-budget-Broad-policy-continuity-leaves-sizeable-delivery-challenge.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:46:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829707",
+   "title": "Russia's Novak: Attacks on oil refineries will have negative impact on diesel fuel supplies to global market.",
+   "link": "https://www.financialjuice.com/News/9829707/Russias-Novak-Attacks-on-oil-refineries-will-have-negative-impact-on-diesel-fuel-supplies-to-global-market.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:45:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829704",
+   "title": "Binance's Teng: We are rebuilding the withdrawal service, and we are not switching it back on until it passes rigorous testing.",
+   "link": "https://www.financialjuice.com/News/9829704/Binances-Teng-We-are-rebuilding-the-withdrawal-service-and-we-are-not-switching-it-back-on-until-it-passes-rigorous-testing.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:37:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829703",
+   "title": "UAE oil leak from tanker gem no. 2 under control - WAM",
+   "link": "https://www.financialjuice.com/News/9829703/UAE-oil-leak-from-tanker-gem-no-2-under-control---WAM.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:35:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829702",
+   "title": "Exxon: UAE production has returned to levels consistent with historical output.",
+   "link": "https://www.financialjuice.com/News/9829702/Exxon-UAE-production-has-returned-to-levels-consistent-with-historical-output.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:33:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829692",
+   "title": "China to expand cooperation with Germany in vehicles, AI",
+   "link": "https://www.financialjuice.com/News/9829692/China-to-expand-cooperation-with-Germany-in-vehicles-AI.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:26:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829690",
+   "title": "Axios' Ravid: Multiple US officials say focus of yesterday's meeting wasn't strikes; more than 20 attended, blockade and economic pressure discussed at length; strikes could still happen immediately after the midterms",
+   "link": "https://www.financialjuice.com/News/9829690/Axios-Ravid-Multiple-US-officials-say-focus-of-yesterdays-meeting-wasnt-strikes-more-than-20-attended-blockade-and-economic-pressure-discussed-at-length-strikes-could-still-happen-immediately-after-the-midterms.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:19:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829689",
+   "title": "Fear & Greed Index: 29/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9829689/Fear--Greed-Index-29100---Fear.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:18:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829688",
+   "title": "Crypto Fear & Greed Index: 30/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9829688/Crypto-Fear--Greed-Index-30100---Fear.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:17:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829664",
+   "title": "Major banks raise 1Q27 Brent price forecast, WSJ survey finds",
+   "link": "https://www.financialjuice.com/News/9829664/Major-banks-raise-1Q27-Brent-price-forecast-WSJ-survey-finds.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:14:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829663",
+   "title": "Major banks raise 2026 oil price forecast, WSJ survey finds",
+   "link": "https://www.financialjuice.com/News/9829663/Major-banks-raise-2026-oil-price-forecast-WSJ-survey-finds.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:14:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829662",
+   "title": "Exxon CEO expects global refining capacity could begin to recover next year but may take longer.",
+   "link": "https://www.financialjuice.com/News/9829662/Exxon-CEO-expects-global-refining-capacity-could-begin-to-recover-next-year-but-may-take-longer.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:13:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829661",
+   "title": "Exxon estimates half of Russia's refining capacity is offline.",
+   "link": "https://www.financialjuice.com/News/9829661/Exxon-estimates-half-of-Russias-refining-capacity-is-offline.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:12:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829660",
+   "title": "China commerce ministry: if US continues, China will implement additional necessary countermeasures",
+   "link": "https://www.financialjuice.com/News/9829660/China-commerce-ministry-if-US-continues-China-will-implement-additional-necessary-countermeasures.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:02:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829659",
+   "title": "China commerce ministry: Beijing had repeatedly suggested talks on bilateral mutual recognition pact, US stance ‘extremely negative’",
+   "link": "https://www.financialjuice.com/News/9829659/China-commerce-ministry-Beijing-had-repeatedly-suggested-talks-on-bilateral-mutual-recognition-pact-US-stance-extremely-negative.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:02:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829657",
+   "title": "China commerce ministry: FCC action breaches key consensus reached by two heads of state - statement",
+   "link": "https://www.financialjuice.com/News/9829657/China-commerce-ministry-FCC-action-breaches-key-consensus-reached-by-two-heads-of-state---statement.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:01:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829656",
+   "title": "China Commerce Ministry, on US FCC China lab testing ban: Strongly dissatisfied with, firmly opposes fcc vote on testing lab restrictions",
+   "link": "https://www.financialjuice.com/News/9829656/China-Commerce-Ministry-on-US-FCC-China-lab-testing-ban-Strongly-dissatisfied-with-firmly-opposes-fcc-vote-on-testing-lab-restrictions.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 14:01:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829641",
+   "title": "Strike notice at French utility EDF to start Wednesday at 2100 CET and finish Thursday at 2100 CET",
+   "link": "https://www.financialjuice.com/News/9829641/Strike-notice-at-French-utility-EDF-to-start-Wednesday-at-2100-CET-and-finish-Thursday-at-2100-CET.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:59:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829640",
+   "title": "Chevron CEO Wirth: Sees elevated prices for both crude oil and for refined products around the world - CNBC.",
+   "link": "https://www.financialjuice.com/News/9829640/Chevron-CEO-Wirth-Sees-elevated-prices-for-both-crude-oil-and-for-refined-products-around-the-world---CNBC.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:50:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829617",
+   "title": "US Chicago PMI Actual 55.3 (Forecast 56, Previous 58.8)",
+   "link": "https://www.financialjuice.com/News/9829617/US-Chicago-PMI-Actual-553-Forecast-56-Previous-588.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829616",
+   "title": "Fed's Barkin appearance on “business briefing’ ends.",
+   "link": "https://www.financialjuice.com/News/9829616/Feds-Barkin-appearance-on-business-briefing-ends.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:44:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829615",
+   "title": "Fed's Barkin: I hear from businesses on plans to pass along price rises",
+   "link": "https://www.financialjuice.com/News/9829615/Feds-Barkin-I-hear-from-businesses-on-plans-to-pass-along-price-rises.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:44:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829614",
+   "title": "Fed's Barkin: Businesses say that cost pressures are broad based.",
+   "link": "https://www.financialjuice.com/News/9829614/Feds-Barkin-Businesses-say-that-cost-pressures-are-broad-based.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:43:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829613",
+   "title": "Fed's Barkin: Business owners say demand remains solid, with only weakness among non-profits and in the housing sector",
+   "link": "https://www.financialjuice.com/News/9829613/Feds-Barkin-Business-owners-say-demand-remains-solid-with-only-weakness-among-non-profits-and-in-the-housing-sector.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:42:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829612",
+   "title": "BofA global research cuts intel to neutral from buy; cuts price objective to $100 from $145. $INTC",
+   "link": "https://www.financialjuice.com/News/9829612/BofA-global-research-cuts-intel-to-neutral-from-buy-cuts-price-objective-to-100-from-145-INTC.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:42:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829611",
+   "title": "Fed's Barkin: AI investment is leading to demand side inflation, which is the kind of thing the fed can lean against.",
+   "link": "https://www.financialjuice.com/News/9829611/Feds-Barkin-AI-investment-is-leading-to-demand-side-inflation-which-is-the-kind-of-thing-the-fed-can-lean-against.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:39:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829610",
+   "title": "Barkin: The AI investment surge has pressured supply chains, and that is inflationary.",
+   "link": "https://www.financialjuice.com/News/9829610/Barkin-The-AI-investment-surge-has-pressured-supply-chains-and-that-is-inflationary.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:38:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829609",
+   "title": "Fed's Barkin: The resilience of consumer spending has been a surprise, given the relatively flat incomes.",
+   "link": "https://www.financialjuice.com/News/9829609/Feds-Barkin-The-resilience-of-consumer-spending-has-been-a-surprise-given-the-relatively-flat-incomes.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:37:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829608",
+   "title": "Fed's Barkin: In the context of years of elevated inflation, it is easier for businesses to argue they need to raise prices.",
+   "link": "https://www.financialjuice.com/News/9829608/Feds-Barkin-In-the-context-of-years-of-elevated-inflation-it-is-easier-for-businesses-to-argue-they-need-to-raise-prices.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:36:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829607",
+   "title": "Fed's Barkin: A lot of cost pressures are hitting US businesses.",
+   "link": "https://www.financialjuice.com/News/9829607/Feds-Barkin-A-lot-of-cost-pressures-are-hitting-US-businesses.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:35:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829606",
+   "title": "Fed's Barkin: The direction of travel is \"straightforward\" for the Fed, the question is pace - SiriusXM Business Briefing.",
+   "link": "https://www.financialjuice.com/News/9829606/Feds-Barkin-The-direction-of-travel-is-straightforward-for-the-Fed-the-question-is-pace---SiriusXM-Business-Briefing.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:34:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829605",
+   "title": "Fed's Barkin: We'll see what we learn over the next period.",
+   "link": "https://www.financialjuice.com/News/9829605/Feds-Barkin-Well-see-what-we-learn-over-the-next-period.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:34:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829604",
+   "title": "Fed's Barkin: The Fed has signaled a gradual approach.",
+   "link": "https://www.financialjuice.com/News/9829604/Feds-Barkin-The-Fed-has-signaled-a-gradual-approach.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:34:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829586",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9829586/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:30:36 GMT",
+   "desc": "S&amp;P 500: +124 mln Nasdaq 100: +6 mln Dow 30: +3 mln Mag 7: -1 mln"
+  },
+  {
+   "id": "9829569",
+   "title": "Kremlin: There are no difficulties in agreeing on a date for trilateral negotiations on Ukraine - Ria.",
+   "link": "https://www.financialjuice.com/News/9829569/Kremlin-There-are-no-difficulties-in-agreeing-on-a-date-for-trilateral-negotiations-on-Ukraine---Ria.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:20:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829558",
+   "title": "MUFG on ECB Rate Decision - FJElite",
+   "link": "https://www.financialjuice.com/News/9829558/MUFG-on-ECB-Rate-Decision---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:11:13 GMT",
+   "desc": "Let’s start with the policy decision. The ECB held the deposit rate at 2.50%, as expected, with unchanged guidance. The statement highlighted both sides of the debate. There was emphasis on the larger and longer-lasting energy shock but also a new explicit reference to the impact from tighter financial conditions and the lack of second-round effects. That gave the statement a cautious tone but overall it reads like justification for a pause at this juncture rather than an argument against further tightening. That was certainly backed up by Lagarde’s comments in the Q&amp;A. She revealed that, although the decision to hold was unanimous, policymakers debated whether to hike at this meeting and suggested that current conditions “could have warranted&quot; further tightening. While stopping short of pre-committing to December, Lagarde’s remark that the ECB’s “direction of travel” is clear points to at least one more hike to come, barring significant developments or shocks. While market conditions were noted, there was little suggestion that higher market rates are viewed as a substitute for policy action. All told, given Lagarde’s comments, we see the decision as a hawkish pause which leaves the door wide open to further tightening. Our call remains that the ECB delivers a further 50bp of tightening, with 25bp hikes at the next projection meetings in December and March. That would push rates into mildly restrictive territory. In line with the ECB’s assessment, we still see relatively little evidence that energy prices are generating second-round effects. But the duration of the energy shock increases the risk that price pressures will broaden. That risk will become increasingly difficult to ignore and we continue to think the argument for further action will ultimately win out, with some support from upcoming data."
+  },
+  {
+   "id": "9829557",
+   "title": "Kremlin: Ukrainian attacks on oil refineries do not cast doubt on upcoming negotiations on Ukraine - IFX.",
+   "link": "https://www.financialjuice.com/News/9829557/Kremlin-Ukrainian-attacks-on-oil-refineries-do-not-cast-doubt-on-upcoming-negotiations-on-Ukraine---IFX.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:09:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829556",
+   "title": "Goldman Sachs on AI Space - FJElite",
+   "link": "https://www.financialjuice.com/News/9829556/Goldman-Sachs-on-AI-Space---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:03:35 GMT",
+   "desc": "Price action since mid-October has shown that there is a threshold beyond which Al-related cost-of-capital concerns can threaten the broader growth narrative. Over these past few weeks, this overhang has affected the non-AI landscape, with spreads decompressing (Le., lower rated cohorts underperforming) and correlations moving notably higher. And as our rates strategy colleagues have noted, the past few weeks have also catalyzed a rally in duration as Treasuries served as a hedge amid the risk-off tone. AI funding concerns, elevated yields, and escalating geopolitical tensions pushed USD credit spreads to break out (wider) from their local range. In the USD market, pairwise correlations of spread changes reached their highest level since the 1Q2026 Iran escalation (Exhibit 1). Meanwhile, sovereign stress in the Euro area has added to the risk-off tone, and EUR credit correlations have similarly risen."
+  },
+  {
+   "id": "9829524",
+   "title": "German CPI MoM Prelim  Actual -0.2% (Forecast 0.1%, Previous 0.60%)",
+   "link": "https://www.financialjuice.com/News/9829524/German-CPI-MoM-Prelim--Actual--02-Forecast-01-Previous-060.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829523",
+   "title": "German CPI YoY Prelim  Actual 2.8% (Forecast 3%, Previous 3.30%)",
+   "link": "https://www.financialjuice.com/News/9829523/German-CPI-YoY-Prelim--Actual-28-Forecast-3-Previous-330.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829522",
+   "title": "German HICP MoM Prelim  Actual -0.1% (Forecast 0.1%, Previous 0.60%)",
+   "link": "https://www.financialjuice.com/News/9829522/German-HICP-MoM-Prelim--Actual--01-Forecast-01-Previous-060.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9829521",
+   "title": "German HICP YoY Prelim  Actual 2.8% (Forecast 3.1%, Previous 3.30%)",
+   "link": "https://www.financialjuice.com/News/9829521/German-HICP-YoY-Prelim--Actual-28-Forecast-31-Previous-330.aspx?xy=rss",
+   "pubDate": "Fri, 30 Oct 2026 13:00:02 GMT",
+   "desc": ""
+  },
   {
    "id": "9829489",
    "title": "Russia plans to export 2.15m tons of diesel in November - Tass",
