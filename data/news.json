@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-11-03T01:06:12.686569+00:00",
- "count": 17806,
+ "updated_at": "2026-11-03T07:50:00.282765+00:00",
+ "count": 17906,
  "items": [
+  {
+   "id": "9834280",
+   "title": "French Budget Balance Actual -159.173B (Forecast -, Previous -159.60B)",
+   "link": "https://www.financialjuice.com/News/9834280/French-Budget-Balance-Actual--159173B-Forecast---Previous--15960B.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834260",
+   "title": "Swiss CPI YoY Actual 1.5% (Forecast 1.2%, Previous 1.0%)",
+   "link": "https://www.financialjuice.com/News/9834260/Swiss-CPI-YoY-Actual-15-Forecast-12-Previous-10.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834259",
+   "title": "Swiss Core CPI YoY Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
+   "link": "https://www.financialjuice.com/News/9834259/Swiss-Core-CPI-YoY-Actual-05-Forecast-05-Previous-05.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834258",
+   "title": "Swiss CPI MoM Actual 0.2% (Forecast 0%, Previous 0.0%)",
+   "link": "https://www.financialjuice.com/News/9834258/Swiss-CPI-MoM-Actual-02-Forecast-0-Previous-00.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834257",
+   "title": "ECB's Radev: ECB shouldn't await second-round effects before acting.",
+   "link": "https://www.financialjuice.com/News/9834257/ECBs-Radev-ECB-shouldnt-await-second-round-effects-before-acting.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:26:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834256",
+   "title": "ECB's Radev: Core inflation stable, energy shock not reaching wages.",
+   "link": "https://www.financialjuice.com/News/9834256/ECBs-Radev-Core-inflation-stable-energy-shock-not-reaching-wages.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:25:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834255",
+   "title": "ECB's Radev: October pause doesn't mean tightening is over.",
+   "link": "https://www.financialjuice.com/News/9834255/ECBs-Radev-October-pause-doesnt-mean-tightening-is-over.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:22:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834254",
+   "title": "ECB's Radev: Economic environment is getting more challenging.",
+   "link": "https://www.financialjuice.com/News/9834254/ECBs-Radev-Economic-environment-is-getting-more-challenging.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:22:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834251",
+   "title": "Diplomat: Iran, US reviewing latest suggestions from mediators.",
+   "link": "https://www.financialjuice.com/News/9834251/Diplomat-Iran-US-reviewing-latest-suggestions-from-mediators.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:14:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834250",
+   "title": "Qatari mediators were in Tehran Monday for more talks with Iran.",
+   "link": "https://www.financialjuice.com/News/9834250/Qatari-mediators-were-in-Tehran-Monday-for-more-talks-with-Iran.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:14:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834249",
+   "title": "Iran's Parliament Speaker Ghalibaf: Tehran gave Washington a 'strong and rational response, the ball is in the US' court' - State Media",
+   "link": "https://www.financialjuice.com/News/9834249/Irans-Parliament-Speaker-Ghalibaf-Tehran-gave-Washington-a-strong-and-rational-response-the-ball-is-in-the-US-court---State-Media.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:05:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834223",
+   "title": "Turkish CPI MoM Actual 2.58% (Forecast 2.4%, Previous 1.84%)",
+   "link": "https://www.financialjuice.com/News/9834223/Turkish-CPI-MoM-Actual-258-Forecast-24-Previous-184.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:00:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834222",
+   "title": "Turkish CPI YoY Actual 29.77% (Forecast 29.5%, Previous 29.73%)",
+   "link": "https://www.financialjuice.com/News/9834222/Turkish-CPI-YoY-Actual-2977-Forecast-295-Previous-2973.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 07:00:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834206",
+   "title": "Mediators are working hard to narrow gaps between Tehran and Washington - Senior Iranian Official.",
+   "link": "https://www.financialjuice.com/News/9834206/Mediators-are-working-hard-to-narrow-gaps-between-Tehran-and-Washington---Senior-Iranian-Official.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:42:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834205",
+   "title": "Iran is prepared to respond forcefully to US strikes, in the region and beyond - Senior Iranian Official",
+   "link": "https://www.financialjuice.com/News/9834205/Iran-is-prepared-to-respond-forcefully-to-US-strikes-in-the-region-and-beyond---Senior-Iranian-Official.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:42:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834204",
+   "title": "Tehran's conditions must be met if the US wants Hormuz reopened, nuclear talks can begin afterwards - Senior Iranian Official",
+   "link": "https://www.financialjuice.com/News/9834204/Tehrans-conditions-must-be-met-if-the-US-wants-Hormuz-reopened-nuclear-talks-can-begin-afterwards---Senior-Iranian-Official.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:42:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834203",
+   "title": "US excessive demands will not be accepted by Tehran - Senior Iranian Official",
+   "link": "https://www.financialjuice.com/News/9834203/US-excessive-demands-will-not-be-accepted-by-Tehran---Senior-Iranian-Official.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:42:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834202",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9834202/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:41:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834201",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9834201/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:41:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834200",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9834200/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:41:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834135",
+   "title": "Senior Iranian Official: Iran and the US are far from reaching a deal to end the war.",
+   "link": "https://www.financialjuice.com/News/9834135/Senior-Iranian-Official-Iran-and-the-US-are-far-from-reaching-a-deal-to-end-the-war.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:40:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834199",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9834199/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:39:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834198",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9834198/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:39:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834197",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9834197/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:38:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834196",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9834196/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:38:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834195",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9834195/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:38:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834194",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9834194/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:37:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834193",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9834193/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:37:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834192",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9834192/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:37:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834191",
+   "title": "Top S&P 500 Stock names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9834191/Top-SP-500-Stock-names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:36:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834190",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9834190/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:35:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834189",
+   "title": "Aramco CEO: Firm exploring additional export routes and overseas capacity, including potential expansion of East-West pipeline.",
+   "link": "https://www.financialjuice.com/News/9834189/Aramco-CEO-Firm-exploring-additional-export-routes-and-overseas-capacity-including-potential-expansion-of-East-West-pipeline.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:35:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834188",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9834188/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:35:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834187",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9834187/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:34:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834186",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9834186/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:34:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834134",
+   "title": "India 2026 gold demand to drop 15% y/y to six-year low: World Gold Council",
+   "link": "https://www.financialjuice.com/News/9834134/India-2026-gold-demand-to-drop-15-yy-to-six-year-low-World-Gold-Council.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 06:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834129",
+   "title": "Turkish Jan-October automotive sales drop 15.33% year-on-year: association",
+   "link": "https://www.financialjuice.com/News/9834129/Turkish-Jan-October-automotive-sales-drop-1533-year-on-year-association.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:32:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834128",
+   "title": "Turkish October automotive sales down 30.84% year-on-year: association",
+   "link": "https://www.financialjuice.com/News/9834128/Turkish-October-automotive-sales-down-3084-year-on-year-association.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:31:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834114",
+   "title": "RBA Governor Bullock: no forward guidance, market to interpret",
+   "link": "https://www.financialjuice.com/News/9834114/RBA-Governor-Bullock-no-forward-guidance-market-to-interpret.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:21:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834113",
+   "title": "RBA Governor Bullock: board makes policy choices, not trying to shape expectations",
+   "link": "https://www.financialjuice.com/News/9834113/RBA-Governor-Bullock-board-makes-policy-choices-not-trying-to-shape-expectations.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:20:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834110",
+   "title": "don't see economy weakening at this point",
+   "link": "https://www.financialjuice.com/News/9834110/dont-see-economy-weakening-at-this-point.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:18:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834109",
+   "title": "RBA Governor Bullock: uncertain how high rates must rise",
+   "link": "https://www.financialjuice.com/News/9834109/RBA-Governor-Bullock-uncertain-how-high-rates-must-rise.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:18:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834108",
+   "title": "Unemployment remains relatively low, job growth continues",
+   "link": "https://www.financialjuice.com/News/9834108/Unemployment-remains-relatively-low-job-growth-continues.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:18:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834103",
+   "title": "Russian defense ministry: launched extensive strike on Ukraine's energy infrastructure overnight",
+   "link": "https://www.financialjuice.com/News/9834103/Russian-defense-ministry-launched-extensive-strike-on-Ukraines-energy-infrastructure-overnight.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:07:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834102",
+   "title": "RBA Governor Bullock: not definitely hiking rates again, preserving options",
+   "link": "https://www.financialjuice.com/News/9834102/RBA-Governor-Bullock-not-definitely-hiking-rates-again-preserving-options.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:06:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834101",
+   "title": "Probably wise to wait and observe incoming data",
+   "link": "https://www.financialjuice.com/News/9834101/Probably-wise-to-wait-and-observe-incoming-data.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:06:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834100",
+   "title": "RBA Governor Bullock: this increase might not suffice, but it's less evident",
+   "link": "https://www.financialjuice.com/News/9834100/RBA-Governor-Bullock-this-increase-might-not-suffice-but-its-less-evident.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:06:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834099",
+   "title": "RBA governor Bullock: A$ has tracked interest differentials, pass-through to import prices delayed",
+   "link": "https://www.financialjuice.com/News/9834099/RBA-governor-Bullock-A-has-tracked-interest-differentials-pass-through-to-import-prices-delayed.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:04:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834098",
+   "title": "Don't know what next rate move will be: not providing guidance",
+   "link": "https://www.financialjuice.com/News/9834098/Dont-know-what-next-rate-move-will-be-not-providing-guidance.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:04:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834052",
+   "title": "Nvidia tells cloud computing clients to sell at least 51% of services to non-Chinese companies - FT",
+   "link": "https://www.financialjuice.com/News/9834052/Nvidia-tells-cloud-computing-clients-to-sell-at-least-51-of-services-to-non-Chinese-companies---FT.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:02:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834051",
+   "title": "Nvidia directs data center clients to cut China exposure - FT",
+   "link": "https://www.financialjuice.com/News/9834051/Nvidia-directs-data-center-clients-to-cut-China-exposure---FT.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 05:01:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834039",
+   "title": "RBA Governor Bullock: no wage price spiral expected",
+   "link": "https://www.financialjuice.com/News/9834039/RBA-Governor-Bullock-no-wage-price-spiral-expected.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:54:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834038",
+   "title": "RBA Governor Bullock: no intention to push economy into recession",
+   "link": "https://www.financialjuice.com/News/9834038/RBA-Governor-Bullock-no-intention-to-push-economy-into-recession.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:49:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834037",
+   "title": "RBA Governor Bullock: those on hold weren’t dismissing a hike but wanted additional data",
+   "link": "https://www.financialjuice.com/News/9834037/RBA-Governor-Bullock-those-on-hold-werent-dismissing-a-hike-but-wanted-additional-data.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:48:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834020",
+   "title": "RBA Governor Bullock: don’t see economy weakening at this point",
+   "link": "https://www.financialjuice.com/News/9834020/RBA-Governor-Bullock-dont-see-economy-weakening-at-this-point.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:44:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834019",
+   "title": "RBA governor Bullock: unemployment remains relatively low, job growth continues",
+   "link": "https://www.financialjuice.com/News/9834019/RBA-governor-Bullock-unemployment-remains-relatively-low-job-growth-continues.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:44:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834018",
+   "title": "RBA Governor Bullock: monetary policy will be effective, requires time to take effect",
+   "link": "https://www.financialjuice.com/News/9834018/RBA-Governor-Bullock-monetary-policy-will-be-effective-requires-time-to-take-effect.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:43:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834017",
+   "title": "RBA Governor Bullock: Probably best to pause and assess incoming data",
+   "link": "https://www.financialjuice.com/News/9834017/RBA-Governor-Bullock-Probably-best-to-pause-and-assess-incoming-data.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:41:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834016",
+   "title": "RBA Governor Bullock: uncertain about next rate move, withholding guidance",
+   "link": "https://www.financialjuice.com/News/9834016/RBA-Governor-Bullock-uncertain-about-next-rate-move-withholding-guidance.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:41:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834015",
+   "title": "RBA Governor Bullock: not an ideal situation to be in",
+   "link": "https://www.financialjuice.com/News/9834015/RBA-Governor-Bullock-not-an-ideal-situation-to-be-in.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:41:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834014",
+   "title": "Not a favorable situation to be in",
+   "link": "https://www.financialjuice.com/News/9834014/Not-a-favorable-situation-to-be-in.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:38:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834012",
+   "title": "RBA Governor Bullock: inflation is largely set for the next year",
+   "link": "https://www.financialjuice.com/News/9834012/RBA-Governor-Bullock-inflation-is-largely-set-for-the-next-year.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:37:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834011",
+   "title": "RBA Governor Bullock: those favoring a hold wanted to wait longer for data",
+   "link": "https://www.financialjuice.com/News/9834011/RBA-Governor-Bullock-those-favoring-a-hold-wanted-to-wait-longer-for-data.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:36:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834010",
+   "title": "RBA Governor Bullock: voters favoring pause perceived greater downside risks",
+   "link": "https://www.financialjuice.com/News/9834010/RBA-Governor-Bullock-voters-favoring-pause-perceived-greater-downside-risks.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:36:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834009",
+   "title": "China's central bank: 31 securities and fund firms took part in bidding, rate set at 10 basis points",
+   "link": "https://www.financialjuice.com/News/9834009/Chinas-central-bank-31-securities-and-fund-firms-took-part-in-bidding-rate-set-at-10-basis-points.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:35:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834008",
+   "title": "RBA Governor Bullock: some hardship now will avoid more pain later",
+   "link": "https://www.financialjuice.com/News/9834008/RBA-Governor-Bullock-some-hardship-now-will-avoid-more-pain-later.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:35:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834007",
+   "title": "China’s central bank: carried out 100 billion yuan of swap deals with financial institutions",
+   "link": "https://www.financialjuice.com/News/9834007/Chinas-central-bank-carried-out-100-billion-yuan-of-swap-deals-with-financial-institutions.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:33:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833994",
+   "title": "RBA Governor Bullock: growth must stay muted, unemployment to climb more",
+   "link": "https://www.financialjuice.com/News/9833994/RBA-Governor-Bullock-growth-must-stay-muted-unemployment-to-climb-more.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:33:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833993",
+   "title": "RBA Governor Bullock: rate increase was necessary to reduce inflation",
+   "link": "https://www.financialjuice.com/News/9833993/RBA-Governor-Bullock-rate-increase-was-necessary-to-reduce-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:30:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833984",
+   "title": "Saudi Arabia S&P Global October Composite PMI at 54.0 versus 55.3 in September",
+   "link": "https://www.financialjuice.com/News/9833984/Saudi-Arabia-SP-Global-October-Composite-PMI-at-540-versus-553-in-September.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:15:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833983",
+   "title": "Brookfield Corp CEO: Energy demand for AI ecosystem is strained in every country",
+   "link": "https://www.financialjuice.com/News/9833983/Brookfield-Corp-CEO-Energy-demand-for-AI-ecosystem-is-strained-in-every-country.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:09:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833982",
+   "title": "US judge stops Trump administration from requiring states to set aside votes of suspected noncitizens",
+   "link": "https://www.financialjuice.com/News/9833982/US-judge-stops-Trump-administration-from-requiring-states-to-set-aside-votes-of-suspected-noncitizens.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 04:08:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833944",
+   "title": "RBA: growth in Australia's key trading partners has exceeded expectations as AI investment boost offsets Middle East conflict impact",
+   "link": "https://www.financialjuice.com/News/9833944/RBA-growth-in-Australias-key-trading-partners-has-exceeded-expectations-as-AI-investment-boost-offsets-Middle-East-conflict-impact.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:31:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833943",
+   "title": "RBA: unemployment rate forecast to increase more than expected in August projections",
+   "link": "https://www.financialjuice.com/News/9833943/RBA-unemployment-rate-forecast-to-increase-more-than-expected-in-August-projections.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:31:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833928",
+   "title": "RBA Cash Rate Actual 4.85% (Forecast 4.85%, Previous 4.60%)",
+   "link": "https://www.financialjuice.com/News/9833928/RBA-Cash-Rate-Actual-485-Forecast-485-Previous-460.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:31:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833942",
+   "title": "RBA: forecasts show output growth slowing further over the coming year, easing capacity pressures and aiding inflation return to target",
+   "link": "https://www.financialjuice.com/News/9833942/RBA-forecasts-show-output-growth-slowing-further-over-the-coming-year-easing-capacity-pressures-and-aiding-inflation-return-to-target.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:31:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833941",
+   "title": "RBA: capacity constraints seem slightly tighter than earlier thought, with signs that increased fuel costs are being reflected in prices of other goods and services",
+   "link": "https://www.financialjuice.com/News/9833941/RBA-capacity-constraints-seem-slightly-tighter-than-earlier-thought-with-signs-that-increased-fuel-costs-are-being-reflected-in-prices-of-other-goods-and-services.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:31:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833940",
+   "title": "RBA: inflation now expected to stay above 3% for next year with rising risk of entrenched higher inflation expectations",
+   "link": "https://www.financialjuice.com/News/9833940/RBA-inflation-now-expected-to-stay-above-3-for-next-year-with-rising-risk-of-entrenched-higher-inflation-expectations.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:31:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833939",
+   "title": "RBA: AI-related spending fuels sharp rise in tech goods prices, many goods and services see persistent inflation",
+   "link": "https://www.financialjuice.com/News/9833939/RBA-AI-related-spending-fuels-sharp-rise-in-tech-goods-prices-many-goods-and-services-see-persistent-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:31:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833938",
+   "title": "RBA: cash rate target hikes since start of year have tightened financial conditions",
+   "link": "https://www.financialjuice.com/News/9833938/RBA-cash-rate-target-hikes-since-start-of-year-have-tightened-financial-conditions.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:31:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833937",
+   "title": "RBA: with revised inflation outlook and ongoing upside risks, board decides further tightening of financial conditions is necessary to support inflation return to target",
+   "link": "https://www.financialjuice.com/News/9833937/RBA-with-revised-inflation-outlook-and-ongoing-upside-risks-board-decides-further-tightening-of-financial-conditions-is-necessary-to-support-inflation-return-to-target.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:31:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833935",
+   "title": "RBA: today's decision reached by majority",
+   "link": "https://www.financialjuice.com/News/9833935/RBA-todays-decision-reached-by-majority.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833934",
+   "title": "Reserve Bank of Australia sets cash rate at 4.85%",
+   "link": "https://www.financialjuice.com/News/9833934/Reserve-Bank-of-Australia-sets-cash-rate-at-485.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833933",
+   "title": "Reserve Bank of Australia: board raises cash rate target 25 basis points to 4.85% at today's meeting",
+   "link": "https://www.financialjuice.com/News/9833933/Reserve-Bank-of-Australia-board-raises-cash-rate-target-25-basis-points-to-485-at-todays-meeting.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833932",
+   "title": "RBA forecasts CPI at 4.5% in Q4 2026, 3.7% in Q2 2027, 2.7% in Q4 2027, 2.4% in Q4 2028",
+   "link": "https://www.financialjuice.com/News/9833932/RBA-forecasts-CPI-at-45-in-Q4-2026-37-in-Q2-2027-27-in-Q4-2027-24-in-Q4-2028.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833931",
+   "title": "RBA forecasts unemployment at 4.7% in Q4 2026, 4.8% in Q2 2027, 4.9% in Q4 2027, 5.1% in Q4 2028",
+   "link": "https://www.financialjuice.com/News/9833931/RBA-forecasts-unemployment-at-47-in-Q4-2026-48-in-Q2-2027-49-in-Q4-2027-51-in-Q4-2028.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833930",
+   "title": "RBA: forecasts trimmed mean CPI at 3.6% in Q4 2026, 3.5% in Q2 2027, 2.9% in Q4 2027, 2.6% in Q4 2028",
+   "link": "https://www.financialjuice.com/News/9833930/RBA-forecasts-trimmed-mean-CPI-at-36-in-Q4-2026-35-in-Q2-2027-29-in-Q4-2027-26-in-Q4-2028.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833929",
+   "title": "RBA lifts near-term GDP forecasts on data centre investments, lowers long-term outlook",
+   "link": "https://www.financialjuice.com/News/9833929/RBA-lifts-near-term-GDP-forecasts-on-data-centre-investments-lowers-long-term-outlook.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833927",
+   "title": "RBA: cash rate expected above average 4.7% in Q4 2026, 4.9% in Q2 2027, 4.8% in Q4 2027, 4.8% in Q4 2028",
+   "link": "https://www.financialjuice.com/News/9833927/RBA-cash-rate-expected-above-average-47-in-Q4-2026-49-in-Q2-2027-48-in-Q4-2027-48-in-Q4-2028.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833926",
+   "title": "RBA forecasts GDP growth of 1.6% in Q4 2026, 1.6% in Q2 2027, 1.3% in Q4 2027, 1.5% in Q4 2028",
+   "link": "https://www.financialjuice.com/News/9833926/RBA-forecasts-GDP-growth-of-16-in-Q4-2026-16-in-Q2-2027-13-in-Q4-2027-15-in-Q4-2028.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833925",
+   "title": "RBA: A$ TWI matches estimates of long-run equilibrium, remains 5% higher for year",
+   "link": "https://www.financialjuice.com/News/9833925/RBA-A-TWI-matches-estimates-of-long-run-equilibrium-remains-5-higher-for-year.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833924",
+   "title": "RBA: inflation remains high across sectors, increasing for market services, rents, and durables",
+   "link": "https://www.financialjuice.com/News/9833924/RBA-inflation-remains-high-across-sectors-increasing-for-market-services-rents-and-durables.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833923",
+   "title": "RBA: unemployment climbs above forecasts, mainly driven by stronger labor supply",
+   "link": "https://www.financialjuice.com/News/9833923/RBA-unemployment-climbs-above-forecasts-mainly-driven-by-stronger-labor-supply.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833922",
+   "title": "RBA: cash rate trajectory at upper neutral range, house prices and lending decline",
+   "link": "https://www.financialjuice.com/News/9833922/RBA-cash-rate-trajectory-at-upper-neutral-range-house-prices-and-lending-decline.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833921",
+   "title": "RBA: domestic financial conditions seen as restrictive, but subject to uncertainty",
+   "link": "https://www.financialjuice.com/News/9833921/RBA-domestic-financial-conditions-seen-as-restrictive-but-subject-to-uncertainty.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833920",
+   "title": "Rba: Business loans stay robust, bank credit remains accessible",
+   "link": "https://www.financialjuice.com/News/9833920/Rba-Business-loans-stay-robust-bank-credit-remains-accessible.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833919",
+   "title": "China commerce ministry: both sides exchanged views on china-U.S. economic, trade ties and agricultural product cooperation",
+   "link": "https://www.financialjuice.com/News/9833919/China-commerce-ministry-both-sides-exchanged-views-on-china-US-economic-trade-ties-and-agricultural-product-cooperation.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:26:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833918",
+   "title": "China commerce ministry: Vice minister Li Chenggang meets U.S. agricultural trade delegation",
+   "link": "https://www.financialjuice.com/News/9833918/China-commerce-ministry-Vice-minister-Li-Chenggang-meets-US-agricultural-trade-delegation.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:25:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833902",
+   "title": "Taiwan stocks slip over 2%",
+   "link": "https://www.financialjuice.com/News/9833902/Taiwan-stocks-slip-over-2.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 03:14:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833878",
+   "title": "China's offshore yuan extends losses, last down 0.34% to 6.67 per dollar",
+   "link": "https://www.financialjuice.com/News/9833878/Chinas-offshore-yuan-extends-losses-last-down-034-to-667-per-dollar.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 02:30:02 GMT",
+   "desc": ""
+  },
   {
    "id": "9833639",
    "title": "China's offshore yuan weakens to 6.6588 per dollar after forex deposit reserve ratio hike",
