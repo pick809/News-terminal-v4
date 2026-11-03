@@ -1,7 +1,280 @@
 {
- "updated_at": "2026-11-03T15:29:31.136612+00:00",
- "count": 18000,
+ "updated_at": "2026-11-03T21:12:02.040873+00:00",
+ "count": 18039,
  "items": [
+  {
+   "id": "9835390",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9835390/MOC-Imbalance.aspx",
+   "pubDate": "Tue, 03 Nov 2026 20:50:30 GMT",
+   "desc": "S&amp;P 500: -880 mln Nasdaq 100: -1404 mln Dow 30: -49 mln Mag 7: -14 mln"
+  },
+  {
+   "id": "9835386",
+   "title": "UK Navy: Received report of vessel struck by an unknown projectile 9nm northeast of Lima, Oman; vessel and crew safe",
+   "link": "https://www.financialjuice.com/News/9835386/UK-Navy-Received-report-of-vessel-struck-by-an-unknown-projectile-9nm-northeast-of-Lima-Oman-vessel-and-crew-safe.aspx",
+   "pubDate": "Tue, 03 Nov 2026 20:35:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835364",
+   "title": "Wednesday FX Options Expiries",
+   "link": "https://www.financialjuice.com/News/9835364/Wednesday-FX-Options-Expiries.aspx",
+   "pubDate": "Tue, 03 Nov 2026 20:22:14 GMT",
+   "desc": "EUR/USD: 1.1095 (EU1.58b), 1.1410 (EU1.51b), 1.1250 (EU1.35b) USD/JPY: 159.00 ($1.39b), 163.00 ($1.17b), 157.25 ($860m) AUD/USD: 0.6900 (AUD848.4m), 0.6950 (AUD740.4m), 0.7000 (AUD607.3m) USD/BRL: 5.0150 ($472.2m) EUR/GBP: 0.8375 (EU2.54b), 0.8330 (EU1.46b), 0.8365 (EU1.25b) GBP/USD: 1.3450 (GBP568.6m), 1.3365 (GBP429.7m), 1.3190 (GBP307.8m) USD/CAD: 1.3875 ($350m), 1.3860 ($344m), 1.3900 ($335.3m) USD/CNY : 6.6000 ($560m), 6.6100 ($550m) USD/MXN: 17.76 ($501.6m), 19.36 ($308.6m) NZD/USD: 0.5625 (NZD572m), 0.5600 (NZD414.2m)"
+  },
+  {
+   "id": "9835331",
+   "title": "Brent Crude futures settle at $103.60/bbl, down $1.17, 1.12%",
+   "link": "https://www.financialjuice.com/News/9835331/Brent-Crude-futures-settle-at-10360bbl-down-117-112.aspx",
+   "pubDate": "Tue, 03 Nov 2026 19:46:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835321",
+   "title": "NYMEX Nat Gas Dec. futures settle at $2.8950/MMBTU",
+   "link": "https://www.financialjuice.com/News/9835321/NYMEX-Nat-Gas-Dec-futures-settle-at-28950MMBTU.aspx",
+   "pubDate": "Tue, 03 Nov 2026 19:31:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835308",
+   "title": "NYMEX gasoline Dec. futures settle at $2.9355 a gallon",
+   "link": "https://www.financialjuice.com/News/9835308/NYMEX-gasoline-Dec-futures-settle-at-29355-a-gallon.aspx",
+   "pubDate": "Tue, 03 Nov 2026 19:31:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835306",
+   "title": "NYMEX diesel Dec. futures settle at $4.5306 a gallon",
+   "link": "https://www.financialjuice.com/News/9835306/NYMEX-diesel-Dec-futures-settle-at-45306-a-gallon.aspx",
+   "pubDate": "Tue, 03 Nov 2026 19:31:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835305",
+   "title": "NYMEX WTI Crude Dec. futures settle at $96.09 a barrel down 37 cents, 0.38%",
+   "link": "https://www.financialjuice.com/News/9835305/NYMEX-WTI-Crude-Dec-futures-settle-at-9609-a-barrel-down-37-cents-038.aspx",
+   "pubDate": "Tue, 03 Nov 2026 19:30:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835275",
+   "title": "Apple opens Siri AI preview to all developers. $AAPL",
+   "link": "https://www.financialjuice.com/News/9835275/Apple-opens-Siri-AI-preview-to-all-developers-AAPL.aspx",
+   "pubDate": "Tue, 03 Nov 2026 19:05:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835274",
+   "title": "ECB's Sleijpen: Problems in France must be solved in Paris",
+   "link": "https://www.financialjuice.com/News/9835274/ECBs-Sleijpen-Problems-in-France-must-be-solved-in-Paris.aspx",
+   "pubDate": "Tue, 03 Nov 2026 19:02:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835246",
+   "title": "US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China - Sources.",
+   "link": "https://www.financialjuice.com/News/9835246/US-officials-have-held-up-approval-for-American-chipmaking-equipment-needed-by-SK-Hynix-to-expand-production-in-China---Sources.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:50:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835240",
+   "title": "ECB's Nagel on France Budget: This isn't a task for monetary policy.",
+   "link": "https://www.financialjuice.com/News/9835240/ECBs-Nagel-on-France-Budget-This-isnt-a-task-for-monetary-policy.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:39:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835239",
+   "title": "ECB's Nagel: I am confident that France will get a grip on its budget issues.",
+   "link": "https://www.financialjuice.com/News/9835239/ECBs-Nagel-I-am-confident-that-France-will-get-a-grip-on-its-budget-issues.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:38:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835238",
+   "title": "ECB's Sleijpen: Tightening is slowing Europe's economy.",
+   "link": "https://www.financialjuice.com/News/9835238/ECBs-Sleijpen-Tightening-is-slowing-Europes-economy.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:34:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835237",
+   "title": "ECB's Sleijpen: The advance in energy risks has knock-on inflation effects.",
+   "link": "https://www.financialjuice.com/News/9835237/ECBs-Sleijpen-The-advance-in-energy-risks-has-knock-on-inflation-effects.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:34:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835235",
+   "title": "ECB's Sleijpen: We don't really see second-round effects yet.",
+   "link": "https://www.financialjuice.com/News/9835235/ECBs-Sleijpen-We-dont-really-see-second-round-effects-yet.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:31:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835218",
+   "title": "ECB's Sleijpen: The Iran shock is more persistent than earlier thought.",
+   "link": "https://www.financialjuice.com/News/9835218/ECBs-Sleijpen-The-Iran-shock-is-more-persistent-than-earlier-thought.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:27:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835217",
+   "title": "Trump is negotiating an agreement with Venezuela on US troops - NYT.",
+   "link": "https://www.financialjuice.com/News/9835217/Trump-is-negotiating-an-agreement-with-Venezuela-on-US-troops---NYT.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:19:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835193",
+   "title": "ECB's Nagel: We can and must prevent an energy price spike from causing broad-based inflation.",
+   "link": "https://www.financialjuice.com/News/9835193/ECBs-Nagel-We-can-and-must-prevent-an-energy-price-spike-from-causing-broad-based-inflation.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:00:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835191",
+   "title": "ECB's Nagel: Inflationary pressures higher than expected in September; approaching adverse scenario",
+   "link": "https://www.financialjuice.com/News/9835191/ECBs-Nagel-Inflationary-pressures-higher-than-expected-in-September-approaching-adverse-scenario.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:00:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835190",
+   "title": "ECB's Nagel: A rate hike in December is very likely to be necessary.",
+   "link": "https://www.financialjuice.com/News/9835190/ECBs-Nagel-A-rate-hike-in-December-is-very-likely-to-be-necessary.aspx",
+   "pubDate": "Tue, 03 Nov 2026 18:00:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835188",
+   "title": "Israel tells the US that Iran is weighing chemical weapons use - NYT.",
+   "link": "https://www.financialjuice.com/News/9835188/Israel-tells-the-US-that-Iran-is-weighing-chemical-weapons-use---NYT.aspx",
+   "pubDate": "Tue, 03 Nov 2026 17:52:47 GMT",
+   "desc": "Some administration officials suggested Prime Minister Benjamin Netanyahu is trying to draw President Trump back into military action. Israel has shared intelligence with the United States asserting that Iran is considering the use of chemical weapons against its adversaries, information met with alarm by some American officials and deep skepticism by others, according to U.S. and regional officials. Some American officials see the Israeli intelligence as part of a pressure campaign by Prime Minister Benjamin Netanyahu’s government to persuade the Trump administration to return to major combat operations against Iran."
+  },
+  {
+   "id": "9835187",
+   "title": "Israel tells the US that Iran is weighing chemical weapons use - NYT.",
+   "link": "https://www.financialjuice.com/News/9835187/Israel-tells-the-US-that-Iran-is-weighing-chemical-weapons-use---NYT.aspx",
+   "pubDate": "Tue, 03 Nov 2026 17:50:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835169",
+   "title": "Fitch Ratings: French banks’ rating headroom narrows on sovereign outlook revision.",
+   "link": "https://www.financialjuice.com/News/9835169/Fitch-Ratings-French-banks-rating-headroom-narrows-on-sovereign-outlook-revision.aspx",
+   "pubDate": "Tue, 03 Nov 2026 17:37:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835069",
+   "title": "Greenland's Parliament approves a security deal with the United States.",
+   "link": "https://www.financialjuice.com/News/9835069/Greenlands-Parliament-approves-a-security-deal-with-the-United-States.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:28:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835068",
+   "title": "System initially will not incorporate AI into decision-making processes, launch & other decisions to remain in the hands of commanders - Nikkei",
+   "link": "https://www.financialjuice.com/News/9835068/System-initially-will-not-incorporate-AI-into-decision-making-processes-launch--other-decisions-to-remain-in-the-hands-of-commanders---Nikkei.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:18:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835060",
+   "title": "Japan to bolster defenses with unified missile, artillery systems - Nikkei",
+   "link": "https://www.financialjuice.com/News/9835060/Japan-to-bolster-defenses-with-unified-missile-artillery-systems---Nikkei.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:15:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835056",
+   "title": "BoC's Gov. Macklem: In current circumstances, does not think fiscal policy is making it harder to get inflation down",
+   "link": "https://www.financialjuice.com/News/9835056/BoCs-Gov-Macklem-In-current-circumstances-does-not-think-fiscal-policy-is-making-it-harder-to-get-inflation-down.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:12:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835055",
+   "title": "Todd Boehly-Led Consortium Preparing Securities Swap to Acquire Lukoil's Foreign Assets – Sources",
+   "link": "https://www.financialjuice.com/News/9835055/Todd-Boehly-Led-Consortium-Preparing-Securities-Swap-to-Acquire-Lukoils-Foreign-Assets--Sources.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:11:41 GMT",
+   "desc": "Group led by US billionaire Todd Boehly is preparing a securities swap deal to acquire Lukoil&#39;s foreign assets Consortium reportedly purchased billions of dollars in Lukoil securities through a bank to facilitate the proposed transaction Deal preparations cited by multiple sources familiar with the process"
+  },
+  {
+   "id": "9835054",
+   "title": "Senior Iranian Official: There is no deadline for exchanging messages with Washington through mediators or reviewing responses",
+   "link": "https://www.financialjuice.com/News/9835054/Senior-Iranian-Official-There-is-no-deadline-for-exchanging-messages-with-Washington-through-mediators-or-reviewing-responses.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:04:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835053",
+   "title": "BoC's Gov. Macklem: Higher oil prices and refinery margins are increasing consumer and business costs, with greater pass-through to inflation expected over the coming year",
+   "link": "https://www.financialjuice.com/News/9835053/BoCs-Gov-Macklem-Higher-oil-prices-and-refinery-margins-are-increasing-consumer-and-business-costs-with-greater-pass-through-to-inflation-expected-over-the-coming-year.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:03:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835052",
+   "title": "BoC's Gov. Macklem: Growth expected to slow in Q4 due to new US tariffs before recovering in 2027.",
+   "link": "https://www.financialjuice.com/News/9835052/BoCs-Gov-Macklem-Growth-expected-to-slow-in-Q4-due-to-new-US-tariffs-before-recovering-in-2027.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:03:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835051",
+   "title": "BoC's Gov. Macklem: GDP is projected to grow 1% in 2026 and approximately 2% in both 2027 and 2028.",
+   "link": "https://www.financialjuice.com/News/9835051/BoCs-Gov-Macklem-GDP-is-projected-to-grow-1-in-2026-and-approximately-2-in-both-2027-and-2028.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:02:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835050",
+   "title": "BoC's Gov. Macklem: Canadian economy showing resilience despite US trade actions, with growth outlook improving modestly",
+   "link": "https://www.financialjuice.com/News/9835050/BoCs-Gov-Macklem-Canadian-economy-showing-resilience-despite-US-trade-actions-with-growth-outlook-improving-modestly.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:02:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835049",
+   "title": "BoC's Gov. Macklem: GDP growth reached 3.3% in Q2, with Q3 growth estimated around 2%.",
+   "link": "https://www.financialjuice.com/News/9835049/BoCs-Gov-Macklem-GDP-growth-reached-33-in-Q2-with-Q3-growth-estimated-around-2.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:02:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835048",
+   "title": "BoC's Gov. Macklem: CPI inflation expected to rise to 3.5% by year-end, remain at or above 3% through much of 2027, and return near 2% by mid-2028.",
+   "link": "https://www.financialjuice.com/News/9835048/BoCs-Gov-Macklem-CPI-inflation-expected-to-rise-to-35-by-year-end-remain-at-or-above-3-through-much-of-2027-and-return-near-2-by-mid-2028.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:02:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835047",
+   "title": "BoC's Gov. Macklem: Further rate hikes may be needed, but future decisions will be taken meeting by meeting amid elevated uncertainty.",
+   "link": "https://www.financialjuice.com/News/9835047/BoCs-Gov-Macklem-Further-rate-hikes-may-be-needed-but-future-decisions-will-be-taken-meeting-by-meeting-amid-elevated-uncertainty.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:02:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835046",
+   "title": "BoC's Gov. Macklem: The outlook for inflation has deteriorated. With the war in the Middle East persisting, global oil prices have increased and are expected to remain higher for longer, which is hitting Canadians at the gas pump and increasing costs for many businesses.",
+   "link": "https://www.financialjuice.com/News/9835046/BoCs-Gov-Macklem-The-outlook-for-inflation-has-deteriorated-With-the-war-in-the-Middle-East-persisting-global-oil-prices-have-increased-and-are-expected-to-remain-higher-for-longer-which-is-hitting-Canadians-at-the-gas-pump-and-increasing-c.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:02:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835031",
+   "title": "US to sell $115 bln 4-week bills on November 5th, to settle on November 10th.",
+   "link": "https://www.financialjuice.com/News/9835031/US-to-sell-115-bln-4-week-bills-on-November-5th-to-settle-on-November-10th.aspx",
+   "pubDate": "Tue, 03 Nov 2026 16:00:51 GMT",
+   "desc": ""
+  },
   {
    "id": "9834992",
    "title": "Fear & Greed Index: 20/100 - Extreme Fear",
