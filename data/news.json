@@ -1,7 +1,665 @@
 {
- "updated_at": "2026-11-03T07:50:00.282765+00:00",
- "count": 17906,
+ "updated_at": "2026-11-03T15:29:31.136612+00:00",
+ "count": 18000,
  "items": [
+  {
+   "id": "9834992",
+   "title": "Fear & Greed Index: 20/100 - Extreme Fear",
+   "link": "https://www.financialjuice.com/News/9834992/Fear--Greed-Index-20100---Extreme-Fear.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 15:18:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834991",
+   "title": "Crypto Fear & Greed Index: 26/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9834991/Crypto-Fear--Greed-Index-26100---Fear.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 15:17:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834972",
+   "title": "Iran rejects reports it's close to a deal with the US - IRIB",
+   "link": "https://www.financialjuice.com/News/9834972/Iran-rejects-reports-its-close-to-a-deal-with-the-US---IRIB.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 15:16:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834964",
+   "title": "Iran: No new development reached on agreement with the US - IRIB cites negotiating team spokesman on talks.",
+   "link": "https://www.financialjuice.com/News/9834964/Iran-No-new-development-reached-on-agreement-with-the-US---IRIB-cites-negotiating-team-spokesman-on-talks.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 15:14:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834906",
+   "title": "US JOLTS Job Openings Actual 7.523M (Forecast 7.164M, Previous 7.079M, Revised 7.19M)",
+   "link": "https://www.financialjuice.com/News/9834906/US-JOLTS-Job-Openings-Actual-7523M-Forecast-7164M-Previous-7079M-Revised-719M.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 15:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834905",
+   "title": "US Durable Goods Revised Actual 1.9% (Forecast 1.8%, Previous 1.8%)",
+   "link": "https://www.financialjuice.com/News/9834905/US-Durable-Goods-Revised-Actual-19-Forecast-18-Previous-18.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 15:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834904",
+   "title": "US Core Durable Goods Revised Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
+   "link": "https://www.financialjuice.com/News/9834904/US-Core-Durable-Goods-Revised-Actual-05-Forecast-05-Previous-05.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 15:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834903",
+   "title": "US Factory Orders MoM Actual 1.8% (Forecast 1.2%, Previous 0.1%, Revised 0.3%)",
+   "link": "https://www.financialjuice.com/News/9834903/US-Factory-Orders-MoM-Actual-18-Forecast-12-Previous-01-Revised-03.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 15:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834898",
+   "title": "Venezuela's October Oil Exports Hold Steady at 1.08 Million BPD as European Shipments Rise",
+   "link": "https://www.financialjuice.com/News/9834898/Venezuelas-October-Oil-Exports-Hold-Steady-at-108-Million-BPD-as-European-Shipments-Rise.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:45:51 GMT",
+   "desc": "Venezuela&#39;s total oil exports remained largely unchanged at 1.08 million barrels per day in October Venezuelan oil exports to Europe increased to approximately 235,000 BPD Venezuelan oil exports to the US declined to 449,000 BPD Chevron&#39;s exports of Venezuelan crude rose to approximately 303,000 BPD, while traders exported 506,000 BPD"
+  },
+  {
+   "id": "9834891",
+   "title": "HSBC cuts Apple's target price to $360 from $366. $AAPL",
+   "link": "https://www.financialjuice.com/News/9834891/HSBC-cuts-Apples-target-price-to-360-from-366-AAPL.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:37:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834890",
+   "title": "ECB's Moulin: Euro-area growth is rather resilient",
+   "link": "https://www.financialjuice.com/News/9834890/ECBs-Moulin-Euro-area-growth-is-rather-resilient.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:37:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834889",
+   "title": "ECB's Moulin: Likely to have to revise down the French GDP forecast",
+   "link": "https://www.financialjuice.com/News/9834889/ECBs-Moulin-Likely-to-have-to-revise-down-the-French-GDP-forecast.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:36:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834888",
+   "title": "ECB's Moulin: France's 0.4% GDP-growth forecast is optimistic.",
+   "link": "https://www.financialjuice.com/News/9834888/ECBs-Moulin-Frances-04-GDP-growth-forecast-is-optimistic.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:35:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834872",
+   "title": "Meta seeks to raise at least $20b in latest bond sale - WSJ $META",
+   "link": "https://www.financialjuice.com/News/9834872/Meta-seeks-to-raise-at-least-20b-in-latest-bond-sale---WSJ-META.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:30:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834871",
+   "title": "Binance: Approximately $2.85 billion in digital assets have been frozen or intercepted.",
+   "link": "https://www.financialjuice.com/News/9834871/Binance-Approximately-285-billion-in-digital-assets-have-been-frozen-or-intercepted.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:30:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834870",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9834870/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:30:36 GMT",
+   "desc": "S&amp;P 500: +2 mln Nasdaq 100: -11 mln Dow 30: -2 mln Mag 7: -1 mln"
+  },
+  {
+   "id": "9834867",
+   "title": "Iran's Baqaei: The realization of any understanding depends on a definite commitment to stop the war on all fronts, including in Lebanon.",
+   "link": "https://www.financialjuice.com/News/9834867/Irans-Baqaei-The-realization-of-any-understanding-depends-on-a-definite-commitment-to-stop-the-war-on-all-fronts-including-in-Lebanon.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:27:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834866",
+   "title": "Iran's Rezaei: The US must act on 7 conditions for Hormuz to open.",
+   "link": "https://www.financialjuice.com/News/9834866/Irans-Rezaei-The-US-must-act-on-7-conditions-for-Hormuz-to-open.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:26:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834865",
+   "title": "Iran Rezaee: The US response to its demands wasn’t convincing",
+   "link": "https://www.financialjuice.com/News/9834865/Iran-Rezaee-The-US-response-to-its-demands-wasnt-convincing.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:26:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834863",
+   "title": "Iran's Baqaei: Due to the experience of violation of previous agreements by the US, we participate in any diplomatic process with maximum caution and complete pessimism.",
+   "link": "https://www.financialjuice.com/News/9834863/Irans-Baqaei-Due-to-the-experience-of-violation-of-previous-agreements-by-the-US-we-participate-in-any-diplomatic-process-with-maximum-caution-and-complete-pessimism.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:26:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834862",
+   "title": "Iran's Baghai: We are not afraid of diplomacy and use dialogue as a tool to secure the interests of the Iranian nation and prevent the intensification of insecurity in the region.",
+   "link": "https://www.financialjuice.com/News/9834862/Irans-Baghai-We-are-not-afraid-of-diplomacy-and-use-dialogue-as-a-tool-to-secure-the-interests-of-the-Iranian-nation-and-prevent-the-intensification-of-insecurity-in-the-region.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:25:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834843",
+   "title": "China's NPC SC hears report from PBOC's Pan on financial work - Xinhua",
+   "link": "https://www.financialjuice.com/News/9834843/Chinas-NPC-SC-hears-report-from-PBOCs-Pan-on-financial-work---Xinhua.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:15:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834826",
+   "title": "China to defend stable operation of stock, bond, and FX markets - Xinhua",
+   "link": "https://www.financialjuice.com/News/9834826/China-to-defend-stable-operation-of-stock-bond-and-FX-markets---Xinhua.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:14:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834825",
+   "title": "Meta seeks to raise $15b in the US dollar portion of the bond offering $META",
+   "link": "https://www.financialjuice.com/News/9834825/Meta-seeks-to-raise-15b-in-the-US-dollar-portion-of-the-bond-offering-META.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:12:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834824",
+   "title": "Moody's assigns AA3 rating to Meta's new SR unsecured notes. $META",
+   "link": "https://www.financialjuice.com/News/9834824/Moodys-assigns-AA3-rating-to-Metas-new-SR-unsecured-notes-META.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:08:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834822",
+   "title": "Anthropic engineers found Claude cuts the time taken to design chips compared to their estimates of workflows at designers such as NVIDIA, AMD - The Information $NVDA $AMD",
+   "link": "https://www.financialjuice.com/News/9834822/Anthropic-engineers-found-Claude-cuts-the-time-taken-to-design-chips-compared-to-their-estimates-of-workflows-at-designers-such-as-NVIDIA-AMD---The-Information-NVDA-AMD.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:06:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834820",
+   "title": "Anthropic chip design team using Claude models - The Information",
+   "link": "https://www.financialjuice.com/News/9834820/Anthropic-chip-design-team-using-Claude-models---The-Information.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:04:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834800",
+   "title": "ECB: Forex reserves rose €300 mln to €349.6 bln.",
+   "link": "https://www.financialjuice.com/News/9834800/ECB-Forex-reserves-rose-300-mln-to-3496-bln.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:00:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834795",
+   "title": "Effective Fed funds rate 3.88% November 2nd vs 3.88% October 30th.",
+   "link": "https://www.financialjuice.com/News/9834795/Effective-Fed-funds-rate-388-November-2nd-vs-388-October-30th.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 14:00:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834794",
+   "title": "US Redbook YoY Actual 10.4% (Forecast -, Previous 9.3%)",
+   "link": "https://www.financialjuice.com/News/9834794/US-Redbook-YoY-Actual-104-Forecast---Previous-93.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:56:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834787",
+   "title": "The announcement will be made step by step and simultaneously - Al Araby, citing sources close to the negotiating team",
+   "link": "https://www.financialjuice.com/News/9834787/The-announcement-will-be-made-step-by-step-and-simultaneously---Al-Araby-citing-sources-close-to-the-negotiating-team.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:45:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834784",
+   "title": "The discussion now revolves around the first step and how to announce reaching an interim agreement, followed by the return of both parties to negotiations - Al Araby citing sources close to the mediation team",
+   "link": "https://www.financialjuice.com/News/9834784/The-discussion-now-revolves-around-the-first-step-and-how-to-announce-reaching-an-interim-agreement-followed-by-the-return-of-both-parties-to-negotiations---Al-Araby-citing-sources-close-to-the-mediation-team.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:42:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834783",
+   "title": "Ukraine’s President Zelenskiy confirms Ukraine, Russia, and the US meeting in Abu Dhabi on November 10th-11th.",
+   "link": "https://www.financialjuice.com/News/9834783/Ukraines-President-Zelenskiy-confirms-Ukraine-Russia-and-the-US-meeting-in-Abu-Dhabi-on-November-10th-11th.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:39:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834782",
+   "title": "Trump ends remarks on Fox News",
+   "link": "https://www.financialjuice.com/News/9834782/Trump-ends-remarks-on-Fox-News.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:37:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834759",
+   "title": "Washington has approved the draft memorandum of understanding - Al Araby",
+   "link": "https://www.financialjuice.com/News/9834759/Washington-has-approved-the-draft-memorandum-of-understanding---Al-Araby.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:36:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834781",
+   "title": "Trump on ammo shortage: The US was low on certain things",
+   "link": "https://www.financialjuice.com/News/9834781/Trump-on-ammo-shortage-The-US-was-low-on-certain-things.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:32:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834764",
+   "title": "Washington and Tehran have made concessions - Al Araby Citing Sources",
+   "link": "https://www.financialjuice.com/News/9834764/Washington-and-Tehran-have-made-concessions---Al-Araby-Citing-Sources.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:26:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834758",
+   "title": "Trump: Israel aid gets cut off at the end of the year, they don't need it",
+   "link": "https://www.financialjuice.com/News/9834758/Trump-Israel-aid-gets-cut-off-at-the-end-of-the-year-they-dont-need-it.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:26:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834779",
+   "title": "Washington and Tehran have made concessions regarding the Iranian nuclear program and frozen funds\", Al Araby Al Jadeed reports, citing Sources",
+   "link": "https://www.financialjuice.com/News/9834779/Washington-and-Tehran-have-made-concessions-regarding-the-Iranian-nuclear-program-and-frozen-funds-Al-Araby-Al-Jadeed-reports-citing-Sources.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:26:43 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"doPyvLNq\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9834757",
+   "title": "Trump: We'll make a great deal with Canada soon",
+   "link": "https://www.financialjuice.com/News/9834757/Trump-Well-make-a-great-deal-with-Canada-soon.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:22:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834756",
+   "title": "Trump adds if us has to kill people in Iran, it has to.",
+   "link": "https://www.financialjuice.com/News/9834756/Trump-adds-if-us-has-to-kill-people-in-Iran-it-has-to.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:21:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834755",
+   "title": "Goldman Sachs: Tech De-Grossing Continues as Energy Collapse Drives Rotation - FJElite",
+   "link": "https://www.financialjuice.com/News/9834755/Goldman-Sachs-Tech-De-Grossing-Continues-as-Energy-Collapse-Drives-Rotation---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:21:43 GMT",
+   "desc": "Markets are trading poorly into the US midterms, with the AI trade failing to hold an early rebound yesterday, despite a sharp pullback in energy. Gen AI fell around 5%, AI healthcare 4%, optical names 7.5% and neoclouds 6%, while high-momentum stocks dropped about 7%. In contrast, homebuilders, alternatives and value outperformed, suggesting the de-grossing cycle is still running, with crowded longs being cut and shorts continuing to squeeze higher. The move appears to reflect two main forces: fading support for the AI complex and a collapse in energy prices that is redirecting flows toward discretionary and retail. Apple added to the cautious tone after beating on the quarter but disappointing on the outlook, with the shares down around 3% after hours. December-quarter gross margin guidance of 45-46% reflected higher memory costs, while services growth guidance of 8-9% missed expectations, highlighting how AI demand is supporting memory pricing but also tightening component supply and pressuring margins elsewhere."
+  },
+  {
+   "id": "9834754",
+   "title": "UKTMO on Vessel attack: The Indian crew was leaving the Strait of Hormuz when it was hit and attacked.",
+   "link": "https://www.financialjuice.com/News/9834754/UKTMO-on-Vessel-attack-The-Indian-crew-was-leaving-the-Strait-of-Hormuz-when-it-was-hit-and-attacked.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:21:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834753",
+   "title": "Trump on Iran: Not looking to kill tons of people",
+   "link": "https://www.financialjuice.com/News/9834753/Trump-on-Iran-Not-looking-to-kill-tons-of-people.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:20:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834752",
+   "title": "UKMTO: Attack on a vessel in the waters of the Strait of Hormuz and the rescue of its crew by Oman.",
+   "link": "https://www.financialjuice.com/News/9834752/UKMTO-Attack-on-a-vessel-in-the-waters-of-the-Strait-of-Hormuz-and-the-rescue-of-its-crew-by-Oman.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:20:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834751",
+   "title": "Trump on Iran facility: We hit it last night very nicely",
+   "link": "https://www.financialjuice.com/News/9834751/Trump-on-Iran-facility-We-hit-it-last-night-very-nicely.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:20:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834750",
+   "title": "UKMTO: A security incident occurred near the exit of the Strait of Hormuz",
+   "link": "https://www.financialjuice.com/News/9834750/UKMTO-A-security-incident-occurred-near-the-exit-of-the-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:19:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834749",
+   "title": "Deutsche Bank: Markets Caught Between Falling Oil and Renewed AI Weakness Ahead of Midterms - FJElite",
+   "link": "https://www.financialjuice.com/News/9834749/Deutsche-Bank-Markets-Caught-Between-Falling-Oil-and-Renewed-AI-Weakness-Ahead-of-Midterms---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:19:32 GMT",
+   "desc": "Markets enter the US midterms with competing signals from energy and technology. Brent fell sharply as hopes for progress in the US-Iran conflict improved, with Iran’s Supreme Leader granting the government authority to pursue peace talks, Trump downplaying the prospect of renewed strikes and Vice President Vance expressing optimism over a potential agreement. Lower oil prices eased inflation concerns and supported Treasuries and European sovereign bonds. However, the improvement in risk sentiment was offset by renewed weakness in technology, pushing the Nasdaq 100 into technical correction territory even as broader equities proved more resilient. The midterms are the main focus, with implications for Trump’s legislative agenda, fiscal policy and appointments, while attention later in the week turns to payrolls and other labour-market and activity data."
+  },
+  {
+   "id": "9834748",
+   "title": "Trump: Made a deal with Israel months ago, we're stopping $4b aid",
+   "link": "https://www.financialjuice.com/News/9834748/Trump-Made-a-deal-with-Israel-months-ago-were-stopping-4b-aid.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:18:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834747",
+   "title": "Blackrock: AI Investment Faces Higher Bar as Investors Demand Returns - FJElite",
+   "link": "https://www.financialjuice.com/News/9834747/Blackrock-AI-Investment-Faces-Higher-Bar-as-Investors-Demand-Returns---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:17:47 GMT",
+   "desc": "Investor scrutiny of AI spending is intensifying as four years of rapid investment have pushed earnings expectations sharply higher. Rising capex is increasingly weighing on free cash flow, turning it negative for some companies, while the Nasdaq has suffered its worst month since March 2025. The key question is now whether AI spending can translate into sufficient growth, profitability and returns to justify current expectations. Despite the near-term caution, the longer-term AI investment thesis remains intact. US equities have been downgraded to neutral to lock in gains, while emerging-market equities remain favoured through exposure to bottlenecks in the AI buildout. Attention also turns to October US jobs data, with a still-tight labour market and further wage pressure posing a risk to core services inflation."
+  },
+  {
+   "id": "9834746",
+   "title": "Chief of Staff of the Iranian Armed Forces: Iran will counter any type and level of threat with an immediate, effective response which would not be limited geographically - Press TV",
+   "link": "https://www.financialjuice.com/News/9834746/Chief-of-Staff-of-the-Iranian-Armed-Forces-Iran-will-counter-any-type-and-level-of-threat-with-an-immediate-effective-response-which-would-not-be-limited-geographically---Press-TV.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:17:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834731",
+   "title": "US Energy Secretary Wright ends remarks on Fox Business",
+   "link": "https://www.financialjuice.com/News/9834731/US-Energy-Secretary-Wright-ends-remarks-on-Fox-Business.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:16:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834730",
+   "title": "US Sentiment: Midterm Elections, Geopolitics, & AI in focus - FJElite",
+   "link": "https://www.financialjuice.com/News/9834730/US-Sentiment-Midterm-Elections-Geopolitics--AI-in-focus---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:15:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834729",
+   "title": "Trump: Won't be paying more to Israel - Fox News Interview",
+   "link": "https://www.financialjuice.com/News/9834729/Trump-Wont-be-paying-more-to-Israel---Fox-News-Interview.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:15:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834722",
+   "title": "Trump: Israel is a helper, the relationship is tremendous - Fox News",
+   "link": "https://www.financialjuice.com/News/9834722/Trump-Israel-is-a-helper-the-relationship-is-tremendous---Fox-News.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:14:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834721",
+   "title": "Meta benchmark debt offering in five parts $META",
+   "link": "https://www.financialjuice.com/News/9834721/Meta-benchmark-debt-offering-in-five-parts-META.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:12:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834719",
+   "title": "Saudi Arabia: Oil revenues decline 23% in Q3 2026",
+   "link": "https://www.financialjuice.com/News/9834719/Saudi-Arabia-Oil-revenues-decline-23-in-Q3-2026.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:06:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834718",
+   "title": "US Energy Secretary Wright on Iran strikes overnight: Hasn't impacted oil flow",
+   "link": "https://www.financialjuice.com/News/9834718/US-Energy-Secretary-Wright-on-Iran-strikes-overnight-Hasnt-impacted-oil-flow.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:05:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834683",
+   "title": "Secured Overnight Financing Rate 3.95% Nov. 2 vs 3.95% Oct. 30",
+   "link": "https://www.financialjuice.com/News/9834683/Secured-Overnight-Financing-Rate-395-Nov-2-vs-395-Oct-30.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 13:00:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834677",
+   "title": "Iranian Ambassador to Egypt on potential proposals: Iran does not negotiate under pressure or threats - Tasnim News",
+   "link": "https://www.financialjuice.com/News/9834677/Iranian-Ambassador-to-Egypt-on-potential-proposals-Iran-does-not-negotiate-under-pressure-or-threats---Tasnim-News.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 12:57:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834676",
+   "title": "Iranian Ambassador to Egypt on potential proposals: Any message received through official channels will be carefully reviewed, and a response will be provided through the same channels - Tasnim News",
+   "link": "https://www.financialjuice.com/News/9834676/Iranian-Ambassador-to-Egypt-on-potential-proposals-Any-message-received-through-official-channels-will-be-carefully-reviewed-and-a-response-will-be-provided-through-the-same-channels---Tasnim-News.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 12:55:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834674",
+   "title": "Nvidia orders data centre clients to reduce China exposure - FT.",
+   "link": "https://www.financialjuice.com/News/9834674/Nvidia-orders-data-centre-clients-to-reduce-China-exposure---FT.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 12:48:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834673",
+   "title": "Meeting between EU, Ukraine and US representatives in Brussels on Wednesday to discuss prosperity plan and security guarantees - Sources.",
+   "link": "https://www.financialjuice.com/News/9834673/Meeting-between-EU-Ukraine-and-US-representatives-in-Brussels-on-Wednesday-to-discuss-prosperity-plan-and-security-guarantees---Sources.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 12:48:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834672",
+   "title": "UK's PM Spokesman Wells: No UK return to EU freedom of movement this parliament.",
+   "link": "https://www.financialjuice.com/News/9834672/UKs-PM-Spokesman-Wells-No-UK-return-to-EU-freedom-of-movement-this-parliament.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 12:47:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834671",
+   "title": "Anthropic aims to double computing power next year - NYT",
+   "link": "https://www.financialjuice.com/News/9834671/Anthropic-aims-to-double-computing-power-next-year---NYT.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 12:47:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834643",
+   "title": "Qatari mediators expect feedback from US and Iran within 36 hours on new proposal to advance talks - Official Briefed on The Talks",
+   "link": "https://www.financialjuice.com/News/9834643/Qatari-mediators-expect-feedback-from-US-and-Iran-within-36-hours-on-new-proposal-to-advance-talks---Official-Briefed-on-The-Talks.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 12:16:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834604",
+   "title": "US dollar more likely to trade stronger than expectations in three months - 17 of 30 FX strategists.",
+   "link": "https://www.financialjuice.com/News/9834604/US-dollar-more-likely-to-trade-stronger-than-expectations-in-three-months---17-of-30-FX-strategists.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 11:52:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834603",
+   "title": "Euro forecast to trade at $1.43 in three months, $1.14 in six and $1.16 in a year vs $1.15, $1.15 and $1.16 seen in October - Poll.",
+   "link": "https://www.financialjuice.com/News/9834603/Euro-forecast-to-trade-at-143-in-three-months-114-in-six-and-116-in-a-year-vs-115-115-and-116-seen-in-October---Poll.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 11:52:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834602",
+   "title": "$PFE Pfizer Q3 Earnings",
+   "link": "https://www.financialjuice.com/News/9834602/PFE-Pfizer-Q3-Earnings.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 11:47:27 GMT",
+   "desc": "Adj. EPS $0.87, est. $0.73 Rev. $16.58B, est. $15.87B Sees FY Adj. EPS $2.95 to $3.05, saw $2.80 to $3.00, est. $2.96 Sees FY rev. $62B to $64B, saw $60.5B to $62.5B"
+  },
+  {
+   "id": "9834579",
+   "title": "EU plans changes to its single market to cut China dependence.",
+   "link": "https://www.financialjuice.com/News/9834579/EU-plans-changes-to-its-single-market-to-cut-China-dependence.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 11:40:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834511",
+   "title": "SNB's Chairman Schlegel: Swiss GDP should grow moderately after strong 2Q.",
+   "link": "https://www.financialjuice.com/News/9834511/SNBs-Chairman-Schlegel-Swiss-GDP-should-grow-moderately-after-strong-2Q.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:41:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834510",
+   "title": "SNB's Chairman Schlegel: In September, inflation pressure slightly higher than June.",
+   "link": "https://www.financialjuice.com/News/9834510/SNBs-Chairman-Schlegel-In-September-inflation-pressure-slightly-higher-than-June.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:40:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834509",
+   "title": "ECB's Moulin: ECB must prevent inflation spreading beyond energy.",
+   "link": "https://www.financialjuice.com/News/9834509/ECBs-Moulin-ECB-must-prevent-inflation-spreading-beyond-energy.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:35:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834508",
+   "title": "German 5 Yr Bobl Yield Actual 3.14% (Forecast -, Previous 3.22%)",
+   "link": "https://www.financialjuice.com/News/9834508/German-5-Yr-Bobl-Yield-Actual-314-Forecast---Previous-322.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:31:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834507",
+   "title": "German 5 Yr Bobl Bid-to-Cover Actual 1.4 (Forecast -, Previous 1.1)",
+   "link": "https://www.financialjuice.com/News/9834507/German-5-Yr-Bobl-Bid-to-Cover-Actual-14-Forecast---Previous-11.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:31:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834498",
+   "title": "We remain hopeful that there is still chance for a deal to set environment for future negotiations - Qatar's Foreign Ministry Spokesperson.",
+   "link": "https://www.financialjuice.com/News/9834498/We-remain-hopeful-that-there-is-still-chance-for-a-deal-to-set-environment-for-future-negotiations---Qatars-Foreign-Ministry-Spokesperson.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:23:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834497",
+   "title": "The two sides are currently studying the proposal - Qatar's Foreign Ministry Spokesperson.",
+   "link": "https://www.financialjuice.com/News/9834497/The-two-sides-are-currently-studying-the-proposal---Qatars-Foreign-Ministry-Spokesperson.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:18:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834496",
+   "title": "Both the US and Iran are committed to the mediation process - Qatar's Foreign Ministry Spokesperson.",
+   "link": "https://www.financialjuice.com/News/9834496/Both-the-US-and-Iran-are-committed-to-the-mediation-process---Qatars-Foreign-Ministry-Spokesperson.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:18:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834495",
+   "title": "Iran claims 3 oil tankers caught fire in Hormuz Tuesday - IRIB",
+   "link": "https://www.financialjuice.com/News/9834495/Iran-claims-3-oil-tankers-caught-fire-in-Hormuz-Tuesday---IRIB.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:17:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834487",
+   "title": "Qatari mediation team that went to Tehran on monday night have returned to Doha, talks continue - Qatar's Foreign Ministry Spokesperson",
+   "link": "https://www.financialjuice.com/News/9834487/Qatari-mediation-team-that-went-to-Tehran-on-monday-night-have-returned-to-Doha-talks-continue---Qatars-Foreign-Ministry-Spokesperson.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:14:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834486",
+   "title": "UK 10 Yr Gilt Bid-to-Cover Actual 3.38 (Forecast -, Previous 3.61)",
+   "link": "https://www.financialjuice.com/News/9834486/UK-10-Yr-Gilt-Bid-to-Cover-Actual-338-Forecast---Previous-361.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:03:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834485",
+   "title": "UK 10 Yr Gilt Yield Actual 5.268% (Forecast -, Previous 5.418%)",
+   "link": "https://www.financialjuice.com/News/9834485/UK-10-Yr-Gilt-Yield-Actual-5268-Forecast---Previous-5418.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 10:02:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834460",
+   "title": "China to continue implement moderately loose monetary policy - Xinhua",
+   "link": "https://www.financialjuice.com/News/9834460/China-to-continue-implement-moderately-loose-monetary-policy---Xinhua.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 09:54:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834459",
+   "title": "MUFG: The USD - FJElite",
+   "link": "https://www.financialjuice.com/News/9834459/MUFG-The-USD---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 09:50:48 GMT",
+   "desc": "The US dollar has continued to trade on a softer footing at the start of this week with the dollar index dosing lower for the fourth consecutive day yesterday. The US dollar was undermined both by the sharp move lower for the price of oil and the continued correction lower for US Al-related equities. The price of Brent dropped sharply by around USD10/barrel encouraged by media reports over the potential for US-lran talks. It was reported that Iran’s President Masoud Pezeshkian said his government has been granted more authority by the country&#39;s supreme leader to pursue peace talks. The state-run Islamic republic News Agency cited Pezeshkian as stating &quot;we are striving to resolve the issue through dialogue and. in this regard, the supreme leader has also granted certain powers to the government&quot;. The Iranian president didn’t clarify the extent of the new authority or whether it signals a broader shift in their negotiating strategy with the US. At the same time. President Trump told reporters yesterday that ‘they want to make a deal, and that it could happen&#39;. Vice President JD Vance separately told reporters that &quot;we&#39;ve had good conversations with the Iranians’ and that “the president and I both feel pretty good about the prospects of potentially coming to a negotiated settlement&quot;. While it remains highly uncertain whether a deal can be reached, yesterday&#39;s price action does highlight the potential for a sharp move lower in energy prices if there is further positive progress. The case for a stronger US dollar would diminish if the energy price shock started to fade. At the same time, the outcome from the US mid-term elections today could also put a temporary dampener on US dollar upside. According to the final set of polls from the New York Times, and Siena University, the Democrats have moved ahead in almost all of the seven battleground states (Michigan, Texas, Maine, Ohio, Kansas. Alaska &amp; Iowa) that will determine control of the Senate."
+  },
+  {
+   "id": "9834458",
+   "title": "Goldman Sachs: Natural Gas - FJElite",
+   "link": "https://www.financialjuice.com/News/9834458/Goldman-Sachs-Natural-Gas---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 09:50:05 GMT",
+   "desc": "European gas and LNG markets remain exposed to two major uncertainties: Middle Eastern supply disruptions and winter weather. TTF prices have been highly volatile, with a sharp sell-off following reports of potential diplomatic progress and a shift towards more neutral weather forecasts, reversing some of last week’s concerns over military escalation and a colder start to November. Despite maintaining the assumption that Qatari LNG exports reach operational capacity by February 2027, forecasts have been raised to €74/MWh for Q1 2027 and €51/MWh for the full-year average, reflecting a 45% probability of a tighter Middle Eastern supply scenario and a modest cold-weather premium. Risks to 2027 forecasts remain skewed to the upside. A combination of reduced Middle Eastern LNG supply and a winter one standard deviation colder than average could push Q1 2027 TTF towards €150/MWh, while current pricing around €92/MWh implies the market assigns a 47% probability to this severe scenario. Conversely, warmer weather and supply recovering in line with the base case could bring prices down to €45/MWh, effectively removing the need for Europe to compete aggressively with other regions for LNG. Given the recent decline in Hormuz LNG flows, call spreads on Q1 2027 TTF remain an attractive hedge against a tight winter. Beyond the immediate winter risks, the longer-term LNG outlook is becoming increasingly bearish as additional export capacity receives final investment approval. With long-dated TTF prices having risen substantially since the Iran conflict began, investors are advised to consider buying longer-dated puts, such as December 2029 contracts, to position for softer market balances further ahead."
+  },
+  {
+   "id": "9834457",
+   "title": "ING: The EUR - FJElite",
+   "link": "https://www.financialjuice.com/News/9834457/ING-The-EUR---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 09:48:32 GMT",
+   "desc": "EUR/USD is looking to establish support at 1.120 after a good start to the week. A Democratic sweep at the midterms today could help, but we don’t expect radical mood changes in the pair. French spreads didn’t benefit from lower oil prices yesterday, signalling levels above 150bp are the new normal now. It therefore remains hard for the euro to shake out the lingering risk premium, and much more tangible progress is needed for oil to trade sustainably lower from here. In the eurozone, focus will be on a number of ECB speakers today. Since last week’s meeting, we’ve heard some hawkish comments, endorsing market expectations that at least another hike is needed. Elevated energy prices suggest there is little room for a clear dovish current to emerge yet."
+  },
+  {
+   "id": "9834433",
+   "title": "Kremlin: Hope work on 3-way meeting in china later this month between Putin, Trump and Xi will be finalised in coming days.",
+   "link": "https://www.financialjuice.com/News/9834433/Kremlin-Hope-work-on-3-way-meeting-in-china-later-this-month-between-Putin-Trump-and-Xi-will-be-finalised-in-coming-days.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 09:31:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834354",
+   "title": "Iran's Armed Forces Chief: Principles include full sanctions relief and release of frozen assets - Tasnim",
+   "link": "https://www.financialjuice.com/News/9834354/Irans-Armed-Forces-Chief-Principles-include-full-sanctions-relief-and-release-of-frozen-assets---Tasnim.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 08:34:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834353",
+   "title": "Iran's Armed Forces Chief Abdollahi: Tehran's five principles for lasting regional peace include end to war on all fronts, including Lebanon and Gaza - Tasnim.",
+   "link": "https://www.financialjuice.com/News/9834353/Irans-Armed-Forces-Chief-Abdollahi-Tehrans-five-principles-for-lasting-regional-peace-include-end-to-war-on-all-fronts-including-Lebanon-and-Gaza---Tasnim.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 08:33:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834331",
+   "title": "Aramco CEO: Tanker attacks eliminated 15% of effective capacity.",
+   "link": "https://www.financialjuice.com/News/9834331/Aramco-CEO-Tanker-attacks-eliminated-15-of-effective-capacity.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 08:29:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834321",
+   "title": "US, Russia, China mull trilateral meeting between leaders - FT",
+   "link": "https://www.financialjuice.com/News/9834321/US-Russia-China-mull-trilateral-meeting-between-leaders---FT.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 08:12:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834320",
+   "title": "Aramco CEO: Energy markets face pressure in coming winter.",
+   "link": "https://www.financialjuice.com/News/9834320/Aramco-CEO-Energy-markets-face-pressure-in-coming-winter.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 08:11:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834319",
+   "title": "Russian attack hits energy facilities in 10 Ukrainian regions - Energy Deputy Minister",
+   "link": "https://www.financialjuice.com/News/9834319/Russian-attack-hits-energy-facilities-in-10-Ukrainian-regions---Energy-Deputy-Minister.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 08:07:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9834318",
+   "title": "Currency Strength Chart: Strongest: CHF, NZD, CAD, EUR, GBP, JPY, USD, AUD - Weakest",
+   "link": "https://www.financialjuice.com/News/9834318/Currency-Strength-Chart-Strongest-CHF-NZD-CAD-EUR-GBP-JPY-USD-AUD---Weakest.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 08:01:39 GMT",
+   "desc": ""
+  },
   {
    "id": "9834280",
    "title": "French Budget Balance Actual -159.173B (Forecast -, Previous -159.60B)",
