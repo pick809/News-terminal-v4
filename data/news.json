@@ -1,7 +1,511 @@
 {
- "updated_at": "2026-11-02T18:24:07.328627+00:00",
- "count": 17734,
+ "updated_at": "2026-11-03T01:06:12.686569+00:00",
+ "count": 17806,
  "items": [
+  {
+   "id": "9833639",
+   "title": "China's offshore yuan weakens to 6.6588 per dollar after forex deposit reserve ratio hike",
+   "link": "https://www.financialjuice.com/News/9833639/Chinas-offshore-yuan-weakens-to-66588-per-dollar-after-forex-deposit-reserve-ratio-hike.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 01:05:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833638",
+   "title": "China’s offshore yuan drops nearly 0.2% after PBOC hikes forex deposit reserve ratio",
+   "link": "https://www.financialjuice.com/News/9833638/Chinas-offshore-yuan-drops-nearly-02-after-PBOC-hikes-forex-deposit-reserve-ratio.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 01:05:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833585",
+   "title": "China c.bank: foreign exchange deposit reserve ratio to increase from 4% to 6%",
+   "link": "https://www.financialjuice.com/News/9833585/China-cbank-foreign-exchange-deposit-reserve-ratio-to-increase-from-4-to-6.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 00:47:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833584",
+   "title": "China c.bank: From November 15, foreign exchange deposit reserve ratio for financial institutions will increase by 2 percentage points",
+   "link": "https://www.financialjuice.com/News/9833584/China-cbank-From-November-15-foreign-exchange-deposit-reserve-ratio-for-financial-institutions-will-increase-by-2-percentage-points.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 00:47:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833583",
+   "title": "U.S. strikes Iran’s Qeshm Island: WSJ",
+   "link": "https://www.financialjuice.com/News/9833583/US-strikes-Irans-Qeshm-Island-WSJ.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 00:46:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833582",
+   "title": "China c.bank: decision aims to enhance oversight of foreign-exchange liquidity in financial institutions",
+   "link": "https://www.financialjuice.com/News/9833582/China-cbank-decision-aims-to-enhance-oversight-of-foreign-exchange-liquidity-in-financial-institutions.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 00:46:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833581",
+   "title": "China c.bank: People's Bank of China to increase foreign exchange deposit reserve ratio for financial institutions",
+   "link": "https://www.financialjuice.com/News/9833581/China-cbank-Peoples-Bank-of-China-to-increase-foreign-exchange-deposit-reserve-ratio-for-financial-institutions.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 00:46:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833572",
+   "title": "US hits Iran’s Qeshm Island: WSJ",
+   "link": "https://www.financialjuice.com/News/9833572/US-hits-Irans-Qeshm-Island-WSJ.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 00:42:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833556",
+   "title": "China PBOC likely to set yuan midpoint at 6.6489 per dollar: estimate",
+   "link": "https://www.financialjuice.com/News/9833556/China-PBOC-likely-to-set-yuan-midpoint-at-66489-per-dollar-estimate.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 00:23:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833516",
+   "title": "Irish consumer confidence 61.6 in October vs 61.1 in September",
+   "link": "https://www.financialjuice.com/News/9833516/Irish-consumer-confidence-616-in-October-vs-611-in-September.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 00:01:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833504",
+   "title": "OpenAI: Dan Driscoll to advise on advanced AI use for national and cyber security, focus on U.S. allies",
+   "link": "https://www.financialjuice.com/News/9833504/OpenAI-Dan-Driscoll-to-advise-on-advanced-AI-use-for-national-and-cyber-security-focus-on-US-allies.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:33:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833503",
+   "title": "OpenAI appoints Dan Driscoll as senior adviser for national security modernization",
+   "link": "https://www.financialjuice.com/News/9833503/OpenAI-appoints-Dan-Driscoll-as-senior-adviser-for-national-security-modernization.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:32:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833473",
+   "title": "US envoy Witkoff: American negotiators to meet this week in Brussels with France, Germany, UK, EU and Nato representatives",
+   "link": "https://www.financialjuice.com/News/9833473/US-envoy-Witkoff-American-negotiators-to-meet-this-week-in-Brussels-with-France-Germany-UK-EU-and-Nato-representatives.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:10:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833472",
+   "title": "US envoy Witkoff: United States to mediate working-level talks between Ukraine and Russia on November 10-11 in Abu Dhabi",
+   "link": "https://www.financialjuice.com/News/9833472/US-envoy-Witkoff-United-States-to-mediate-working-level-talks-between-Ukraine-and-Russia-on-November-10-11-in-Abu-Dhabi.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:10:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833437",
+   "title": "Dan Driscoll to join OpenAI as senior adviser for national security modernization - FT",
+   "link": "https://www.financialjuice.com/News/9833437/Dan-Driscoll-to-join-OpenAI-as-senior-adviser-for-national-security-modernization---FT.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:01:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833435",
+   "title": "OpenAI recruits ex-US Army secretary Dan Driscoll - FT",
+   "link": "https://www.financialjuice.com/News/9833435/OpenAI-recruits-ex-US-Army-secretary-Dan-Driscoll---FT.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:00:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833431",
+   "title": "US officials to meet this week in Brussels with France, Germany, UK, EU and NATO reps to discuss Ukraine: senior US official",
+   "link": "https://www.financialjuice.com/News/9833431/US-officials-to-meet-this-week-in-Brussels-with-France-Germany-UK-EU-and-NATO-reps-to-discuss-Ukraine-senior-US-official.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:00:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833430",
+   "title": "S.Korea Oct consumer price index rises 0.2% m/m, below poll of 0.25%: stats office",
+   "link": "https://www.financialjuice.com/News/9833430/SKorea-Oct-consumer-price-index-rises-02-mm-below-poll-of-025-stats-office.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:00:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833429",
+   "title": "S.Korea oct consumer price index rises 2.8% y/y: stats office",
+   "link": "https://www.financialjuice.com/News/9833429/SKorea-oct-consumer-price-index-rises-28-yy-stats-office.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833428",
+   "title": "Trilateral talks to address ending war, post-war security pacts, de-escalation, aid measures: senior US official",
+   "link": "https://www.financialjuice.com/News/9833428/Trilateral-talks-to-address-ending-war-post-war-security-pacts-de-escalation-aid-measures-senior-US-official.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833427",
+   "title": "S.Korea Oct core CPI rises 2.8% y/y vs 2.8% in Sept: stats office",
+   "link": "https://www.financialjuice.com/News/9833427/SKorea-Oct-core-CPI-rises-28-yy-vs-28-in-Sept-stats-office.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833426",
+   "title": "US to hold trilateral talks with Ukraine, Russia in Abu Dhabi on Nov. 10-11: senior US official",
+   "link": "https://www.financialjuice.com/News/9833426/US-to-hold-trilateral-talks-with-Ukraine-Russia-in-Abu-Dhabi-on-Nov-10-11-senior-US-official.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833425",
+   "title": "S. Korean CPI MoM Actual 0.2% (Forecast 0.3%, Previous 0.30%)",
+   "link": "https://www.financialjuice.com/News/9833425/S-Korean-CPI-MoM-Actual-02-Forecast-03-Previous-030.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833424",
+   "title": "S. Korean CPI YoY Actual 2.8% (Forecast 2.8%, Previous 2.90%)",
+   "link": "https://www.financialjuice.com/News/9833424/S-Korean-CPI-YoY-Actual-28-Forecast-28-Previous-290.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 23:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833423",
+   "title": "Apple’s limits on advanced-node chip output are loosening as it shifts more products to 2-nanometer tech: Apple chief operating officer on call",
+   "link": "https://www.financialjuice.com/News/9833423/Apples-limits-on-advanced-node-chip-output-are-loosening-as-it-shifts-more-products-to-2-nanometer-tech-Apple-chief-operating-officer-on-call.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:50:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833422",
+   "title": "US Supreme Court declines to bar California from counting ballots cast by voters the Trump administration claims are likely noncitizens",
+   "link": "https://www.financialjuice.com/News/9833422/US-Supreme-Court-declines-to-bar-California-from-counting-ballots-cast-by-voters-the-Trump-administration-claims-are-likely-noncitizens.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:47:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833418",
+   "title": "Apple manufacturing purchase obligations rose by $33 billion between June and September quarters: CFO on conf call",
+   "link": "https://www.financialjuice.com/News/9833418/Apple-manufacturing-purchase-obligations-rose-by-33-billion-between-June-and-September-quarters-CFO-on-conf-call.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:41:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833417",
+   "title": "Apple CFO on call: memory purchase prices expected to keep rising",
+   "link": "https://www.financialjuice.com/News/9833417/Apple-CFO-on-call-memory-purchase-prices-expected-to-keep-rising.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:40:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833401",
+   "title": "Apple forecasts services revenue to increase 8% to 9% in fiscal first quarter: CFO on conf call",
+   "link": "https://www.financialjuice.com/News/9833401/Apple-forecasts-services-revenue-to-increase-8-to-9-in-fiscal-first-quarter-CFO-on-conf-call.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:29:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833400",
+   "title": "Apple gross margin forecast factors in memory chip expenses, Siri AI costs: CFO on conference call",
+   "link": "https://www.financialjuice.com/News/9833400/Apple-gross-margin-forecast-factors-in-memory-chip-expenses-Siri-AI-costs-CFO-on-conference-call.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:28:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833398",
+   "title": "Apple expects 45% to 46% gross margin in fiscal first quarter: CFO on conference call",
+   "link": "https://www.financialjuice.com/News/9833398/Apple-expects-45-to-46-gross-margin-in-fiscal-first-quarter-CFO-on-conference-call.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:28:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833397",
+   "title": "Apple expects 7-10% full company revenue growth in first quarter: CFO on conference call",
+   "link": "https://www.financialjuice.com/News/9833397/Apple-expects-7-10-full-company-revenue-growth-in-first-quarter-CFO-on-conference-call.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:27:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833396",
+   "title": "Apple bought back $24 billion in shares during fourth quarter: CFO on conference call",
+   "link": "https://www.financialjuice.com/News/9833396/Apple-bought-back-24-billion-in-shares-during-fourth-quarter-CFO-on-conference-call.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:27:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833395",
+   "title": "US preparing new NATO effort to boost Ukraine weapons shipments",
+   "link": "https://www.financialjuice.com/News/9833395/US-preparing-new-NATO-effort-to-boost-Ukraine-weapons-shipments.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:25:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833394",
+   "title": "Apple says vast majority of tariff refunds received, CFO on conference call",
+   "link": "https://www.financialjuice.com/News/9833394/Apple-says-vast-majority-of-tariff-refunds-received-CFO-on-conference-call.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:21:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833376",
+   "title": "Rubio discussed institutional reforms laying groundwork for free, fair, credible elections with Venezuelan foreign minister on Monday: State Department",
+   "link": "https://www.financialjuice.com/News/9833376/Rubio-discussed-institutional-reforms-laying-groundwork-for-free-fair-credible-elections-with-Venezuelan-foreign-minister-on-Monday-State-Department.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 22:15:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833347",
+   "title": "New Zealand Building Consents Actual -7.9% (Forecast -, Previous 5.6%)",
+   "link": "https://www.financialjuice.com/News/9833347/New-Zealand-Building-Consents-Actual--79-Forecast---Previous-56.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 21:45:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833345",
+   "title": "Anthropic investors push for valuation closer to $1.5 trln - WSJ.",
+   "link": "https://www.financialjuice.com/News/9833345/Anthropic-investors-push-for-valuation-closer-to-15-trln---WSJ.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 21:40:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833344",
+   "title": "Blasts heard from sea off Bandar Lengeh in southern Iran - Fars",
+   "link": "https://www.financialjuice.com/News/9833344/Blasts-heard-from-sea-off-Bandar-Lengeh-in-southern-Iran---Fars.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 21:34:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833331",
+   "title": "$AAPL Apple Q4 Earnings",
+   "link": "https://www.financialjuice.com/News/9833331/AAPL-Apple-Q4-Earnings.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 21:30:45 GMT",
+   "desc": "EPS $2.10, est. $2.00 Revenue $114.48B, est. $113.47B Products revenue $82.90B, est. $81.85B Services revenue $31.57B, est. $31.58B iPhone revenue $57.58B, est. $56.49B Mac revenue $10.79B, est. $9.70B iPad revenue $6.23B, est. $6.89B Wearables, Home &amp; Accessories revenue $8.30B, est. $9.00B Americas revenue $48.68B, est. $48.51B Greater China revenue $17.54B, est. $18.75B Total operating expenses $19.19B, est. $19.19B Board declares cash dividend of $0.27 per share"
+  },
+  {
+   "id": "9833314",
+   "title": "North Korea: Claims that it was behind Binance heist is fabrication - KCNA",
+   "link": "https://www.financialjuice.com/News/9833314/North-Korea-Claims-that-it-was-behind-Binance-heist-is-fabrication---KCNA.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 21:13:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833313",
+   "title": "$PLTR Palantir Q3 2026 Earnings",
+   "link": "https://www.financialjuice.com/News/9833313/PLTR-Palantir-Q3-2026-Earnings.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 21:05:35 GMT",
+   "desc": "Adj. EPS $0.44, est. $0.41 Rev. $2.31B, est. $2.17B Sees Q4 rev. $2.65B, est. $2.46B Sees FY rev. $8.53B, saw $8.15B to $8.16B Sees FY adj. oper profit $5.25B, est. $4.79B US commercial rev. $984M, est. $937.4M Sees FY US commercial rev. above $3.56b"
+  },
+  {
+   "id": "9833312",
+   "title": "Iran's IRNA: Explosions heard in Qeshm Island; no official confirmation.",
+   "link": "https://www.financialjuice.com/News/9833312/Irans-IRNA-Explosions-heard-in-Qeshm-Island-no-official-confirmation.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 21:04:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833286",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9833286/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:50:30 GMT",
+   "desc": "S&amp;P 500: +1192 mln Nasdaq 100: +357 mln Dow 30: +173 mln Mag 7: +83 mln"
+  },
+  {
+   "id": "9833255",
+   "title": "Vance ends remarks to reporters",
+   "link": "https://www.financialjuice.com/News/9833255/Vance-ends-remarks-to-reporters.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:26:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833254",
+   "title": "Vance: I discussed Iran with Trump about an hour ago",
+   "link": "https://www.financialjuice.com/News/9833254/Vance-I-discussed-Iran-with-Trump-about-an-hour-ago.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:25:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833253",
+   "title": "Vance: Have had a number of good talks with Iranians",
+   "link": "https://www.financialjuice.com/News/9833253/Vance-Have-had-a-number-of-good-talks-with-Iranians.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:24:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833252",
+   "title": "US VP Vance on Iran: We have not set deadlines to resume strikes.",
+   "link": "https://www.financialjuice.com/News/9833252/US-VP-Vance-on-Iran-We-have-not-set-deadlines-to-resume-strikes.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:24:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833251",
+   "title": "Vance: I feel good about prospects of Iran deal. We've made some progress, will see if can make some more.",
+   "link": "https://www.financialjuice.com/News/9833251/Vance-I-feel-good-about-prospects-of-Iran-deal-Weve-made-some-progress-will-see-if-can-make-some-more.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:24:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833249",
+   "title": "Tuesday FX Options Expiries",
+   "link": "https://www.financialjuice.com/News/9833249/Tuesday-FX-Options-Expiries.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:22:11 GMT",
+   "desc": "EUR/USD: 1.1200 (EU1.96b), 1.1335 (EU1.8b), 1.1300 (EU1.39b) USD/JPY: 160.50 ($1b), 158.00 ($876.6m), 157.95 ($784.5m) AUD/USD: 0.7325 (AUD567.9m) USD/BRL: 5.8000 ($310.4m), 4.8700 ($300m) EUR/GBP: 0.8475 (EU799.9m), 0.8400 (EU330.9m) GBP/USD: 1.3250 (GBP1.09b), 1.3000 (GBP568.8m), 1.3410 (GBP522.9m) USD/CAD: 1.3900 ($403.5m), 1.3940 ($340m) USD/MXN: 18.87 ($435.7m), 19.18 ($302.4m) NZD/USD: 0.5675 (NZD600m), 0.5650 (NZD395.5m)"
+  },
+  {
+   "id": "9833228",
+   "title": "Trump says 'No' to striking Iran after elections - Pool Report.",
+   "link": "https://www.financialjuice.com/News/9833228/Trump-says-No-to-striking-Iran-after-elections---Pool-Report.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:03:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833226",
+   "title": "US Treasury QRA Estimate: Excluding the higher-than-expected beginning-of-quarter cash balance, borrowing estimate is $87 billion higher than May's projection",
+   "link": "https://www.financialjuice.com/News/9833226/US-Treasury-QRA-Estimate-Excluding-the-higher-than-expected-beginning-of-quarter-cash-balance-borrowing-estimate-is-87-billion-higher-than-Mays-projection.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:02:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833225",
+   "title": "US Treasury Raises July-September Borrowing Estimate to $739 Billion",
+   "link": "https://www.financialjuice.com/News/9833225/US-Treasury-Raises-July-September-Borrowing-Estimate-to-739-Billion.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:01:51 GMT",
+   "desc": "US Treasury estimates $739 billion in privately held net marketable borrowing for July-September 2026, assuming an end-September cash balance of $950 billion Borrowing estimate is $68 billion higher than projected in May, primarily due to lower expected net cash flows Excluding the higher-than-expected beginning-of-quarter cash balance, borrowing estimate is $87 billion higher than May&#39;s projection Treasury expects $628 billion in borrowing for October-December 2026, assuming an end-December cash balance of $850 billion Treasury borrowed $190 billion during April-June 2026, compared with its previous estimate of $189 billion Treasury ended June with a cash balance of $919 billion, above its $900 billion projection"
+  },
+  {
+   "id": "9833224",
+   "title": "US Treasury estimates $739 billion in privately held net marketable borrowing for July-September 2026, assuming an end-September cash balance of $950 billion",
+   "link": "https://www.financialjuice.com/News/9833224/US-Treasury-estimates-739-billion-in-privately-held-net-marketable-borrowing-for-July-September-2026-assuming-an-end-September-cash-balance-of-950-billion.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 20:01:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833212",
+   "title": "Trump ends remarks at Reflecting Pool",
+   "link": "https://www.financialjuice.com/News/9833212/Trump-ends-remarks-at-Reflecting-Pool.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:54:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833211",
+   "title": "Trump on Iran: It's coming together nicely, that's why oil down.",
+   "link": "https://www.financialjuice.com/News/9833211/Trump-on-Iran-Its-coming-together-nicely-thats-why-oil-down.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:53:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833210",
+   "title": "Brent Crude futures settle at $104.77/bbl, down $8.66, 7.63%",
+   "link": "https://www.financialjuice.com/News/9833210/Brent-Crude-futures-settle-at-10477bbl-down-866-763.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:52:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833209",
+   "title": "Trump: Iran asked to stop killing its leaders, we will.",
+   "link": "https://www.financialjuice.com/News/9833209/Trump-Iran-asked-to-stop-killing-its-leaders-we-will.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:52:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833204",
+   "title": "Trump to Axios: No rush to decide on restarting war in Iran",
+   "link": "https://www.financialjuice.com/News/9833204/Trump-to-Axios-No-rush-to-decide-on-restarting-war-in-Iran.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:35:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833203",
+   "title": "Trump: Iran said even recently they won't have nuclear weapon.",
+   "link": "https://www.financialjuice.com/News/9833203/Trump-Iran-said-even-recently-they-wont-have-nuclear-weapon.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:33:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833202",
+   "title": "NYMEX Nat Gas December futures settle at $2.8560/MMBtu",
+   "link": "https://www.financialjuice.com/News/9833202/NYMEX-Nat-Gas-December-futures-settle-at-28560MMBtu.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:31:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833188",
+   "title": "NYMEX diesel December futures settle at $4.4216 a gallon",
+   "link": "https://www.financialjuice.com/News/9833188/NYMEX-diesel-December-futures-settle-at-44216-a-gallon.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:31:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833187",
+   "title": "NYMEX gasoline December futures settle at $2.9001 a gallon",
+   "link": "https://www.financialjuice.com/News/9833187/NYMEX-gasoline-December-futures-settle-at-29001-a-gallon.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:31:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833184",
+   "title": "NYMEX WTI Crude Dec. futures settle at $96.46 a barrel down $7.66, 7.36%",
+   "link": "https://www.financialjuice.com/News/9833184/NYMEX-WTI-Crude-Dec-futures-settle-at-9646-a-barrel-down-766-736.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:30:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833178",
+   "title": "Trump: Iran wants to make a deal, that could happen.",
+   "link": "https://www.financialjuice.com/News/9833178/Trump-Iran-wants-to-make-a-deal-that-could-happen.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:28:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833177",
+   "title": "Under discussion is a version of the draft US-Iran deal under negotiation for past eight days - official briefed on the talks.",
+   "link": "https://www.financialjuice.com/News/9833177/Under-discussion-is-a-version-of-the-draft-US-Iran-deal-under-negotiation-for-past-eight-days---official-briefed-on-the-talks.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:28:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833176",
+   "title": "Qatari mediators travel to Tehran late Monday for talks with iran foreign minister aragchi on potential US-Iran deal - official briefed on the talks.",
+   "link": "https://www.financialjuice.com/News/9833176/Qatari-mediators-travel-to-Tehran-late-Monday-for-talks-with-iran-foreign-minister-aragchi-on-potential-US-Iran-deal---official-briefed-on-the-talks.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:28:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833175",
+   "title": "Trump: Oil will go down further because we're winning with Iran",
+   "link": "https://www.financialjuice.com/News/9833175/Trump-Oil-will-go-down-further-because-were-winning-with-Iran.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 19:27:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833143",
+   "title": "Trump Delivers Remarks - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9833143/Trump-Delivers-Remarks---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 18:57:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833142",
+   "title": "UKMTO: A vessel was struck by a projectile on November 1st near Oman",
+   "link": "https://www.financialjuice.com/News/9833142/UKMTO-A-vessel-was-struck-by-a-projectile-on-November-1st-near-Oman.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 18:51:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833135",
+   "title": "Oracle Is Said to Draw Excess Demand for $10 Billion Share Sale $ORCL",
+   "link": "https://www.financialjuice.com/News/9833135/Oracle-Is-Said-to-Draw-Excess-Demand-for-10-Billion-Share-Sale-ORCL.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 18:44:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9833132",
+   "title": "There has been no new development in the exchange of messages with America - Fars News, citing a Knowledgeable Source",
+   "link": "https://www.financialjuice.com/News/9833132/There-has-been-no-new-development-in-the-exchange-of-messages-with-America---Fars-News-citing-a-Knowledgeable-Source-.aspx?xy=rss",
+   "pubDate": "Mon, 02 Nov 2026 18:33:18 GMT",
+   "desc": ""
+  },
   {
    "id": "9833098",
    "title": "Anthropic to launch UK retail ipo alongside us, offering",
