@@ -1,7 +1,343 @@
 {
- "updated_at": "2026-11-03T21:12:02.040873+00:00",
- "count": 18039,
+ "updated_at": "2026-11-04T01:23:54.256331+00:00",
+ "count": 18087,
  "items": [
+  {
+   "id": "9835731",
+   "title": "China cbank injects 257.5 billion yuan via overnight reverse repos at 1.25%: statement",
+   "link": "https://www.financialjuice.com/News/9835731/China-cbank-injects-2575-billion-yuan-via-overnight-reverse-repos-at-125-statement.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:21:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835730",
+   "title": "China sets yuan midpoint at weakest level since Oct. 23, PBOC says",
+   "link": "https://www.financialjuice.com/News/9835730/China-sets-yuan-midpoint-at-weakest-level-since-Oct-23-PBOC-says.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:18:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835726",
+   "title": "Republican Moody wins Florida Senate race - DDHQ projects",
+   "link": "https://www.financialjuice.com/News/9835726/Republican-Moody-wins-Florida-Senate-race---DDHQ-projects.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:16:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835724",
+   "title": "Democrat Chris Pappas defeats Republican John Sununu in contest for democratic-held US Senate seat in New Hampshire - Fox News",
+   "link": "https://www.financialjuice.com/News/9835724/Democrat-Chris-Pappas-defeats-Republican-John-Sununu-in-contest-for-democratic-held-US-Senate-seat-in-New-Hampshire---Fox-News.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:12:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835723",
+   "title": "China c.bank: requests for relending exceed 200 billion yuan",
+   "link": "https://www.financialjuice.com/News/9835723/China-cbank-requests-for-relending-exceed-200-billion-yuan.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:11:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835722",
+   "title": "China central bank: steps up stock buybacks, raises holdings and re-lending policies",
+   "link": "https://www.financialjuice.com/News/9835722/China-central-bank-steps-up-stock-buybacks-raises-holdings-and-re-lending-policies.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:11:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835721",
+   "title": "Democrat Chris Pappas beats Republican John Sununu in race for democratic-held US Senate seat in New Hampshire: Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9835721/Democrat-Chris-Pappas-beats-Republican-John-Sununu-in-race-for-democratic-held-US-Senate-seat-in-New-Hampshire-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:01:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835719",
+   "title": "Taiwan overnight interbank rate starts at 0.805% (unchanged from prior session)",
+   "link": "https://www.financialjuice.com/News/9835719/Taiwan-overnight-interbank-rate-starts-at-0805-unchanged-from-prior-session.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:01:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835706",
+   "title": "North Korea launches unidentified projectile toward sea off east coast: South Korea defence ministry",
+   "link": "https://www.financialjuice.com/News/9835706/North-Korea-launches-unidentified-projectile-toward-sea-off-east-coast-South-Korea-defence-ministry.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 00:53:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835681",
+   "title": "Australia September household spending volumes rise 0.7% quarter on quarter seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9835681/Australia-September-household-spending-volumes-rise-07-quarter-on-quarter-seasonally-adjusted.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 00:30:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835680",
+   "title": "Australia September household spending rises 0.6% month on month seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9835680/Australia-September-household-spending-rises-06-month-on-month-seasonally-adjusted.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 00:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835679",
+   "title": "Hong Kong S&P Global October PMI at 50.2 vs 49.2 in September",
+   "link": "https://www.financialjuice.com/News/9835679/Hong-Kong-SP-Global-October-PMI-at-502-vs-492-in-September.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 00:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835678",
+   "title": "Dollar/yen declines 0.21% to 158.35",
+   "link": "https://www.financialjuice.com/News/9835678/Dollaryen-declines-021-to-15835.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 00:29:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835677",
+   "title": "Euro rises 0.26% to $1.12215",
+   "link": "https://www.financialjuice.com/News/9835677/Euro-rises-026-to-112215.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 00:28:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835676",
+   "title": "China PBOC likely to set yuan midpoint at 6.6811 per dollar: Estimate",
+   "link": "https://www.financialjuice.com/News/9835676/China-PBOC-likely-to-set-yuan-midpoint-at-66811-per-dollar-Estimate.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 00:22:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835675",
+   "title": "Democratic US Senator Jon Ossoff secures reelection in Georgia, Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9835675/Democratic-US-Senator-Jon-Ossoff-secures-reelection-in-Georgia-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 00:21:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835655",
+   "title": "Consumer group alleges Tesla misled South Korean customers by selling driver software most vehicles cannot legally use",
+   "link": "https://www.financialjuice.com/News/9835655/Consumer-group-alleges-Tesla-misled-South-Korean-customers-by-selling-driver-software-most-vehicles-cannot-legally-use.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 00:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835654",
+   "title": "Saudi civil defense: danger has passed in Riyadh",
+   "link": "https://www.financialjuice.com/News/9835654/Saudi-civil-defense-danger-has-passed-in-Riyadh.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 23:58:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835652",
+   "title": "Japanese Monetary Base YoY Actual -13.6% (Forecast -, Previous -15.2%)",
+   "link": "https://www.financialjuice.com/News/9835652/Japanese-Monetary-Base-YoY-Actual--136-Forecast---Previous--152.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 23:50:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835651",
+   "title": "Saudi civil defense issues early warning alert in Riyadh",
+   "link": "https://www.financialjuice.com/News/9835651/Saudi-civil-defense-issues-early-warning-alert-in-Riyadh.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 23:48:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835634",
+   "title": "Trump on Iran: 'we appear to be achieving all our objectives' - FT",
+   "link": "https://www.financialjuice.com/News/9835634/Trump-on-Iran-we-appear-to-be-achieving-all-our-objectives---FT.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 23:37:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835632",
+   "title": "Trump: Position with Tehran is ‘brilliant’ - FT",
+   "link": "https://www.financialjuice.com/News/9835632/Trump-Position-with-Tehran-is-brilliant---FT.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 23:36:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835631",
+   "title": "US has no immediate plan to attack Iran, Trump tells FT",
+   "link": "https://www.financialjuice.com/News/9835631/US-has-no-immediate-plan-to-attack-Iran-Trump-tells-FT.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 23:35:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835572",
+   "title": "S&P 500 futures rise 0.2%, Nasdaq futures gain 0.4% as AMD jumps 8% after hours",
+   "link": "https://www.financialjuice.com/News/9835572/SP-500-futures-rise-02-Nasdaq-futures-gain-04-as-AMD-jumps-8-after-hours.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 23:00:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835541",
+   "title": "Meta Platforms prices $15 billion senior notes in five segments - SEC filing",
+   "link": "https://www.financialjuice.com/News/9835541/Meta-Platforms-prices-15-billion-senior-notes-in-five-segments---SEC-filing.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:26:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835534",
+   "title": "Carney says he looks forward to meeting Trump at APEC summit in China",
+   "link": "https://www.financialjuice.com/News/9835534/Carney-says-he-looks-forward-to-meeting-Trump-at-APEC-summit-in-China.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:11:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835533",
+   "title": "Canada’s PM Carney: trade negotiators don’t always need talks with USTR, communication lines remain open",
+   "link": "https://www.financialjuice.com/News/9835533/Canadas-PM-Carney-trade-negotiators-dont-always-need-talks-with-USTR-communication-lines-remain-open.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:07:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835532",
+   "title": "Canada's PM Carney: US requests fewer concessions and proposes more, but deal not reached yet",
+   "link": "https://www.financialjuice.com/News/9835532/Canadas-PM-Carney-US-requests-fewer-concessions-and-proposes-more-but-deal-not-reached-yet.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:05:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835531",
+   "title": "Canada's PM Carney: some of our limits in US trade talks have been eliminated",
+   "link": "https://www.financialjuice.com/News/9835531/Canadas-PM-Carney-some-of-our-limits-in-US-trade-talks-have-been-eliminated.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:05:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835530",
+   "title": "Canada's PM Carney: key issues remain, but progress achieved",
+   "link": "https://www.financialjuice.com/News/9835530/Canadas-PM-Carney-key-issues-remain-but-progress-achieved.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:04:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835529",
+   "title": "Canada’s PM Carney: some red lines remain to be addressed",
+   "link": "https://www.financialjuice.com/News/9835529/Canadas-PM-Carney-some-red-lines-remain-to-be-addressed.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:04:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835528",
+   "title": "Canada's PM Carney: progress made but US trade talks not yet complete",
+   "link": "https://www.financialjuice.com/News/9835528/Canadas-PM-Carney-progress-made-but-US-trade-talks-not-yet-complete.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:03:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835527",
+   "title": "Canada Prime Minister Carney: talks with US to become more intensive",
+   "link": "https://www.financialjuice.com/News/9835527/Canada-Prime-Minister-Carney-talks-with-US-to-become-more-intensive.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:03:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835504",
+   "title": "AIG Construction Index Actual -26.9 (Forecast -, Previous -6.9)",
+   "link": "https://www.financialjuice.com/News/9835504/AIG-Construction-Index-Actual--269-Forecast---Previous--69.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:01:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835503",
+   "title": "AIG Manufacturing Index Actual -20.1 (Forecast -, Previous -16.6)",
+   "link": "https://www.financialjuice.com/News/9835503/AIG-Manufacturing-Index-Actual--201-Forecast---Previous--166.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:01:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835502",
+   "title": "Australian Composite PMI Final Actual 48.2 (Forecast -, Previous 47.7)",
+   "link": "https://www.financialjuice.com/News/9835502/Australian-Composite-PMI-Final-Actual-482-Forecast---Previous-477.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:01:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835501",
+   "title": "Australian Services PMI Final Actual 48.5 (Forecast -, Previous 47.8)",
+   "link": "https://www.financialjuice.com/News/9835501/Australian-Services-PMI-Final-Actual-485-Forecast---Previous-478.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 22:01:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835500",
+   "title": "US API Cushing Stock Change Actual 0.511M (Forecast -, Previous -0.453M)",
+   "link": "https://www.financialjuice.com/News/9835500/US-API-Cushing-Stock-Change-Actual-0511M-Forecast---Previous--0453M.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:55:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835499",
+   "title": "US API Distillate Stock Change Actual -1.192M (Forecast -, Previous 0.38M)",
+   "link": "https://www.financialjuice.com/News/9835499/US-API-Distillate-Stock-Change-Actual--1192M-Forecast---Previous-038M.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:55:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835498",
+   "title": "US API Gasoline Stock Change Actual 1.427M (Forecast -, Previous 2.39M)",
+   "link": "https://www.financialjuice.com/News/9835498/US-API-Gasoline-Stock-Change-Actual-1427M-Forecast---Previous-239M.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:54:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835497",
+   "title": "US API Crude Stock Change Actual -5.267M (Forecast 2.1M, Previous -2.031M)",
+   "link": "https://www.financialjuice.com/News/9835497/US-API-Crude-Stock-Change-Actual--5267M-Forecast-21M-Previous--2031M.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:54:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835482",
+   "title": "New Zealand Participation Rate Actual 70.4% (Forecast 70.7%, Previous 70.7%)",
+   "link": "https://www.financialjuice.com/News/9835482/New-Zealand-Participation-Rate-Actual-704-Forecast-707-Previous-707.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:45:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835481",
+   "title": "New Zealand Job Growth QoQ Actual -0.1% (Forecast 0.4%, Previous 0.5%)",
+   "link": "https://www.financialjuice.com/News/9835481/New-Zealand-Job-Growth-QoQ-Actual--01-Forecast-04-Previous-05.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:45:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835480",
+   "title": "New Zealand Unemployment Rate Actual 5.7% (Forecast 5.5%, Previous 5.6%)",
+   "link": "https://www.financialjuice.com/News/9835480/New-Zealand-Unemployment-Rate-Actual-57-Forecast-55-Previous-56.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:45:00 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"kaJZ0jc1\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9835438",
+   "title": "$AMD Q3 Earnings",
+   "link": "https://www.financialjuice.com/News/9835438/AMD-Q3-Earnings.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:16:06 GMT",
+   "desc": "Revenue $13.38B, est. $13.08B Adjusted EPS $2.09, est. $1.97 Adjusted Operating Income $3.92B, est. $3.68B Adjusted Operating Margin 29%, est. 28% R&amp;D Expenses $2.80B, est. $2.72B Capex $648M, est. $647M Sees Q4 Revenue of ~$17B, ±3% Est. $16.3B Sees Q4 ADJ Gross margin about 55%, est. 55.5% AMD sees growth accelerating in Q4 as it scales Helios, Venice AMD outlook reflects strong demand across data center portfolio"
+  },
+  {
+   "id": "9835434",
+   "title": "ECB's Kocher: Dec. rate hike likely if situation doesn't change.",
+   "link": "https://www.financialjuice.com/News/9835434/ECBs-Kocher-Dec-rate-hike-likely-if-situation-doesnt-change.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:15:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835433",
+   "title": "ECB's Kocher: ECB will continue to react on inflation when necessary.",
+   "link": "https://www.financialjuice.com/News/9835433/ECBs-Kocher-ECB-will-continue-to-react-on-inflation-when-necessary.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:14:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835432",
+   "title": "ECB's Kocher: Risks to inflation remain elevated",
+   "link": "https://www.financialjuice.com/News/9835432/ECBs-Kocher-Risks-to-inflation-remain-elevated.aspx?xy=rss",
+   "pubDate": "Tue, 03 Nov 2026 21:13:23 GMT",
+   "desc": ""
+  },
   {
    "id": "9835390",
    "title": "MOC Imbalance",
