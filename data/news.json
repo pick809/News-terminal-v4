@@ -1,7 +1,602 @@
 {
- "updated_at": "2026-11-04T01:23:54.256331+00:00",
- "count": 18087,
+ "updated_at": "2026-11-04T07:40:49.881678+00:00",
+ "count": 18172,
  "items": [
+  {
+   "id": "9836349",
+   "title": "Thune plans to run for minority senate leader - Fox",
+   "link": "https://www.financialjuice.com/News/9836349/Thune-plans-to-run-for-minority-senate-leader---Fox.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 07:30:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836348",
+   "title": "China: In contact with US, Russia on leaders' meeting.",
+   "link": "https://www.financialjuice.com/News/9836348/China-In-contact-with-US-Russia-on-leaders-meeting.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 07:20:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836328",
+   "title": "Japan's Dep. Chief Cabinet Sec. Kihara: We will watch market moves with high sense of urgency.",
+   "link": "https://www.financialjuice.com/News/9836328/Japans-Dep-Chief-Cabinet-Sec-Kihara-We-will-watch-market-moves-with-high-sense-of-urgency.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 07:03:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836327",
+   "title": "Japan's Dep. Chief Cabinet Sec. Kihara: Markets move on various factors.",
+   "link": "https://www.financialjuice.com/News/9836327/Japans-Dep-Chief-Cabinet-Sec-Kihara-Markets-move-on-various-factors.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 07:03:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836307",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9836307/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:51:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836306",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9836306/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:50:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836305",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9836305/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:50:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836304",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9836304/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:50:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836303",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9836303/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:49:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836302",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9836302/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:49:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836301",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9836301/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:49:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836300",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9836300/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:49:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836299",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9836299/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:48:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836298",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9836298/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:48:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836297",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9836297/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:47:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836296",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9836296/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:47:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836295",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9836295/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:46:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836294",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9836294/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:46:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836293",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9836293/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:46:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836275",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9836275/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 06:46:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836220",
+   "title": "Trump: no plans to alter personnel in his administration, backs Pete Hegseth - WSJ",
+   "link": "https://www.financialjuice.com/News/9836220/Trump-no-plans-to-alter-personnel-in-his-administration-backs-Pete-Hegseth---WSJ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:56:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836219",
+   "title": "Trump: I don’t regret initiating the Iran conflict earlier this year - WSJ",
+   "link": "https://www.financialjuice.com/News/9836219/Trump-I-dont-regret-initiating-the-Iran-conflict-earlier-this-year---WSJ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:54:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836218",
+   "title": "Can collaborate with Democrats on immigration",
+   "link": "https://www.financialjuice.com/News/9836218/Can-collaborate-with-Democrats-on-immigration.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:54:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836195",
+   "title": "Edge’s naval shipbuilding unit Abu Dhabi Ship Building to handle full integration",
+   "link": "https://www.financialjuice.com/News/9836195/Edges-naval-shipbuilding-unit-Abu-Dhabi-Ship-Building-to-handle-full-integration.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:41:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836194",
+   "title": "Edge: Novamarine to supply platforms made at its Olbia, Italy production facility",
+   "link": "https://www.financialjuice.com/News/9836194/Edge-Novamarine-to-supply-platforms-made-at-its-Olbia-Italy-production-facility.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:41:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836181",
+   "title": "Trump acknowledges Iran war partly responsible for Republican losses: WSJ",
+   "link": "https://www.financialjuice.com/News/9836181/Trump-acknowledges-Iran-war-partly-responsible-for-Republican-losses-WSJ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:20:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836180",
+   "title": "Democratic challenger Troy Dale Jackson beats Republican incumbent Susan Collins in Maine US Senate race, CNN projects",
+   "link": "https://www.financialjuice.com/News/9836180/Democratic-challenger-Troy-Dale-Jackson-beats-Republican-incumbent-Susan-Collins-in-Maine-US-Senate-race-CNN-projects.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:17:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836179",
+   "title": "Susan Collins concedes Maine Senate race: NBC News",
+   "link": "https://www.financialjuice.com/News/9836179/Susan-Collins-concedes-Maine-Senate-race-NBC-News.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:17:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836178",
+   "title": "Trump: I will accept election outcome",
+   "link": "https://www.financialjuice.com/News/9836178/Trump-I-will-accept-election-outcome.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:17:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836174",
+   "title": "Trump: I don't expect to alter cabinet",
+   "link": "https://www.financialjuice.com/News/9836174/Trump-I-dont-expect-to-alter-cabinet.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:08:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836173",
+   "title": "Trump: I can cooperate with Democrats on immigration",
+   "link": "https://www.financialjuice.com/News/9836173/Trump-I-can-cooperate-with-Democrats-on-immigration.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:08:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836172",
+   "title": "Trump: I could collaborate with Democrats on many issues",
+   "link": "https://www.financialjuice.com/News/9836172/Trump-I-could-collaborate-with-Democrats-on-many-issues.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:07:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836171",
+   "title": "Trump: Democrats performed well",
+   "link": "https://www.financialjuice.com/News/9836171/Trump-Democrats-performed-well.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:05:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836170",
+   "title": "Democrat Peggy Flanagan beats Republican Michele Tafoya in contest for democratic-held US Senate seat in Minnesota - NBC News",
+   "link": "https://www.financialjuice.com/News/9836170/Democrat-Peggy-Flanagan-beats-Republican-Michele-Tafoya-in-contest-for-democratic-held-US-Senate-seat-in-Minnesota---NBC-News.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:05:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836169",
+   "title": "Trump on Iran: people likely unwilling to accept short-term gasoline price impact",
+   "link": "https://www.financialjuice.com/News/9836169/Trump-on-Iran-people-likely-unwilling-to-accept-short-term-gasoline-price-impact.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:05:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836168",
+   "title": "Democrat Peggy Flanagan wins over Republican Michele Tafoya in contest for democratic-held Minnesota Senate seat: Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9836168/Democrat-Peggy-Flanagan-wins-over-Republican-Michele-Tafoya-in-contest-for-democratic-held-Minnesota-Senate-seat-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:03:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836167",
+   "title": "Trump: part of outcome related to Iran",
+   "link": "https://www.financialjuice.com/News/9836167/Trump-part-of-outcome-related-to-Iran.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:01:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836139",
+   "title": "Trump: Democrats will send insane measures and I will veto them",
+   "link": "https://www.financialjuice.com/News/9836139/Trump-Democrats-will-send-insane-measures-and-I-will-veto-them.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:00:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836136",
+   "title": "India HSBC and S&P Global October final services PMI at 55.8 vs flash 56.2",
+   "link": "https://www.financialjuice.com/News/9836136/India-HSBC-and-SP-Global-October-final-services-PMI-at-558-vs-flash-562.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 05:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836097",
+   "title": "NBC News projects Democrats to gain control of US Senate",
+   "link": "https://www.financialjuice.com/News/9836097/NBC-News-projects-Democrats-to-gain-control-of-US-Senate.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 04:25:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836096",
+   "title": "Democrat Josh Turek beats Republican Ashley Hinson in race for GOP-held US Senate seat in Iowa - NBC News",
+   "link": "https://www.financialjuice.com/News/9836096/Democrat-Josh-Turek-beats-Republican-Ashley-Hinson-in-race-for-GOP-held-US-Senate-seat-in-Iowa---NBC-News.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 04:24:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836095",
+   "title": "Democrat Gina Hinojosa beats Republican incumbent Greg Abbott in Texas governor race - NBC News",
+   "link": "https://www.financialjuice.com/News/9836095/Democrat-Gina-Hinojosa-beats-Republican-incumbent-Greg-Abbott-in-Texas-governor-race---NBC-News.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 04:20:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836093",
+   "title": "Democrat Josh Turek defeats Republican Ashley Hinson in race for GOP-held US Senate seat in Iowa: Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9836093/Democrat-Josh-Turek-defeats-Republican-Ashley-Hinson-in-race-for-GOP-held-US-Senate-seat-in-Iowa-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 04:17:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836089",
+   "title": "Democratic challenger Adam Hamilton defeats Republican incumbent Roger Marshall in Kansas US Senate race, CNN projects",
+   "link": "https://www.financialjuice.com/News/9836089/Democratic-challenger-Adam-Hamilton-defeats-Republican-incumbent-Roger-Marshall-in-Kansas-US-Senate-race-CNN-projects.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 04:15:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836086",
+   "title": "United Arab Emirates S&P Global composite PMI falls to 54.8 in October from 55.3 in September",
+   "link": "https://www.financialjuice.com/News/9836086/United-Arab-Emirates-SP-Global-composite-PMI-falls-to-548-in-October-from-553-in-September.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 04:15:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836085",
+   "title": "Democrat Rob Sand beats Republican Zach Lahn in race for Iowa governor held by GOP - NBC News",
+   "link": "https://www.financialjuice.com/News/9836085/Democrat-Rob-Sand-beats-Republican-Zach-Lahn-in-race-for-Iowa-governor-held-by-GOP---NBC-News.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 04:13:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836084",
+   "title": "Democrat Gina Hinojosa beats Republican incumbent Greg Abbott in Texas governor race, CNN projects",
+   "link": "https://www.financialjuice.com/News/9836084/Democrat-Gina-Hinojosa-beats-Republican-incumbent-Greg-Abbott-in-Texas-governor-race-CNN-projects.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 04:02:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836071",
+   "title": "Democratic challenger Sherrod Brown defeats Republican incumbent Jon Husted in Ohio Senate race, CNN projects",
+   "link": "https://www.financialjuice.com/News/9836071/Democratic-challenger-Sherrod-Brown-defeats-Republican-incumbent-Jon-Husted-in-Ohio-Senate-race-CNN-projects.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 04:00:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836070",
+   "title": "Democrat James Talarico defeats Republican Ken Paxton in race for GOP-held US Senate seat in Texas, CNN projects:",
+   "link": "https://www.financialjuice.com/News/9836070/Democrat-James-Talarico-defeats-Republican-Ken-Paxton-in-race-for-GOP-held-US-Senate-seat-in-Texas-CNN-projects.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 04:00:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836068",
+   "title": "Democrat James Talarico beats Republican Ken Paxton in race for Republican-held US Senate seat in Texas - NBC News",
+   "link": "https://www.financialjuice.com/News/9836068/Democrat-James-Talarico-beats-Republican-Ken-Paxton-in-race-for-Republican-held-US-Senate-seat-in-Texas---NBC-News.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:53:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836067",
+   "title": "Trump: he is absolutely willing to accept election results - NYT",
+   "link": "https://www.financialjuice.com/News/9836067/Trump-he-is-absolutely-willing-to-accept-election-results---NYT.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:52:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836066",
+   "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in race for GOP-held Ohio governor seat - NBC",
+   "link": "https://www.financialjuice.com/News/9836066/Democrat-Amy-Acton-beats-Republican-Vivek-Ramaswamy-in-race-for-GOP-held-Ohio-governor-seat---NBC.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:50:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836065",
+   "title": "Democrat Amy Acton overcomes Republican Vivek Ramaswamy in contest for Ohio governor, CNN projects",
+   "link": "https://www.financialjuice.com/News/9836065/Democrat-Amy-Acton-overcomes-Republican-Vivek-Ramaswamy-in-contest-for-Ohio-governor-CNN-projects.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:49:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836064",
+   "title": "Democratic challenger Adam Hamilton defeats Republican incumbent Roger Marshall in Kansas Senate race: Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9836064/Democratic-challenger-Adam-Hamilton-defeats-Republican-incumbent-Roger-Marshall-in-Kansas-Senate-race-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:49:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836051",
+   "title": "Iran's Revolutionary Guards say four tankers remain ablaze after hitting naval mines",
+   "link": "https://www.financialjuice.com/News/9836051/Irans-Revolutionary-Guards-say-four-tankers-remain-ablaze-after-hitting-naval-mines.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:36:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836050",
+   "title": "Iran's IRGC: four tankers destroyed after hitting mines south of Strait of Hormuz, two other ships seized - statement",
+   "link": "https://www.financialjuice.com/News/9836050/Irans-IRGC-four-tankers-destroyed-after-hitting-mines-south-of-Strait-of-Hormuz-two-other-ships-seized---statement.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:35:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836049",
+   "title": "Democrat Amy Acton defeats Republican Vivek Ramaswamy in Ohio governor race held by GOP: Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9836049/Democrat-Amy-Acton-defeats-Republican-Vivek-Ramaswamy-in-Ohio-governor-race-held-by-GOP-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:31:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836048",
+   "title": "Nvidia says China clients to receive 1% of $70 billion RTX chips ordered",
+   "link": "https://www.financialjuice.com/News/9836048/Nvidia-says-China-clients-to-receive-1-of-70-billion-RTX-chips-ordered.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:28:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836039",
+   "title": "Democratic contender Bob Brooks beats Republican incumbent Ryan Mackenzie in Pennsylvania’s 7th House race, CNN projects",
+   "link": "https://www.financialjuice.com/News/9836039/Democratic-contender-Bob-Brooks-beats-Republican-incumbent-Ryan-Mackenzie-in-Pennsylvanias-7th-House-race-CNN-projects.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:17:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836038",
+   "title": "Democratic challenger Janelle Stelson overcomes Republican incumbent Scott Perry in Pennsylvania’s 10th congressional district race - NBC News",
+   "link": "https://www.financialjuice.com/News/9836038/Democratic-challenger-Janelle-Stelson-overcomes-Republican-incumbent-Scott-Perry-in-Pennsylvanias-10th-congressional-district-race---NBC-News.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:17:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836037",
+   "title": "Dollar/Swiss franc drops 0.86% to 0.8138",
+   "link": "https://www.financialjuice.com/News/9836037/DollarSwiss-franc-drops-086-to-08138.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:16:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836036",
+   "title": "Democrat James Talarico tops Republican Ken Paxton in race for GOP-held US Senate seat in Texas: Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9836036/Democrat-James-Talarico-tops-Republican-Ken-Paxton-in-race-for-GOP-held-US-Senate-seat-in-Texas-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:14:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836035",
+   "title": "NBC News projects Democrats take control of US House",
+   "link": "https://www.financialjuice.com/News/9836035/NBC-News-projects-Democrats-take-control-of-US-House.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:08:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836034",
+   "title": "Taiwan stocks fall over 2%",
+   "link": "https://www.financialjuice.com/News/9836034/Taiwan-stocks-fall-over-2.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:07:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836033",
+   "title": "euro rises 0.5% to $1.125",
+   "link": "https://www.financialjuice.com/News/9836033/euro-rises-05-to-1125.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:06:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836032",
+   "title": "CNN projects Democrats to gain control of US House",
+   "link": "https://www.financialjuice.com/News/9836032/CNN-projects-Democrats-to-gain-control-of-US-House.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:05:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836031",
+   "title": "Democrat Annie Andrews defeats Republican Darline Graham in race for GOP-held US Senate seat in South Carolina, CBS News projects",
+   "link": "https://www.financialjuice.com/News/9836031/Democrat-Annie-Andrews-defeats-Republican-Darline-Graham-in-race-for-GOP-held-US-Senate-seat-in-South-Carolina-CBS-News-projects.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 03:02:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835979",
+   "title": "Democrat Rob Sand beats Republican Zach Lahn in race for Republican-held Iowa governor's seat: Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9835979/Democrat-Rob-Sand-beats-Republican-Zach-Lahn-in-race-for-Republican-held-Iowa-governors-seat-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 02:59:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835978",
+   "title": "Democrat Annie Andrews beats Republican Darline Graham in race for South Carolina republican-held US Senate seat - NBC",
+   "link": "https://www.financialjuice.com/News/9835978/Democrat-Annie-Andrews-beats-Republican-Darline-Graham-in-race-for-South-Carolina-republican-held-US-Senate-seat---NBC.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 02:58:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835977",
+   "title": "Democrat Annie Andrews defeats Republican incumbent Darline Graham in South Carolina Senate race: Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9835977/Democrat-Annie-Andrews-defeats-Republican-incumbent-Darline-Graham-in-South-Carolina-Senate-race-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 02:56:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835976",
+   "title": "South Korea, US examining details of North Korean missiles: South Korea defence ministry",
+   "link": "https://www.financialjuice.com/News/9835976/South-Korea-US-examining-details-of-North-Korean-missiles-South-Korea-defence-ministry.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 02:50:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835975",
+   "title": "North Korea launches multiple missiles from Sondok area: South Korea defense ministry",
+   "link": "https://www.financialjuice.com/News/9835975/North-Korea-launches-multiple-missiles-from-Sondok-area-South-Korea-defense-ministry.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 02:49:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835964",
+   "title": "Democratic contender Rebecca Bennett defeats Republican incumbent Thomas Kean Jr. in New Jersey's 7th congressional district house race - NBC News",
+   "link": "https://www.financialjuice.com/News/9835964/Democratic-contender-Rebecca-Bennett-defeats-Republican-incumbent-Thomas-Kean-Jr-in-New-Jerseys-7th-congressional-district-house-race---NBC-News.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 02:40:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835963",
+   "title": "Democratic contender Bob Brooks defeats Republican incumbent Ryan Mackenzie in race for US House seat in Pennsylvania’s 7th congressional district: Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9835963/Democratic-contender-Bob-Brooks-defeats-Republican-incumbent-Ryan-Mackenzie-in-race-for-US-House-seat-in-Pennsylvanias-7th-congressional-district-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 02:35:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835947",
+   "title": "China finance ministry plans auction of 60 billion yuan 182-day bills on Nov. 11",
+   "link": "https://www.financialjuice.com/News/9835947/China-finance-ministry-plans-auction-of-60-billion-yuan-182-day-bills-on-Nov-11.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 02:16:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835944",
+   "title": "Decision Desk HQ projects Democrats to secure control of US House",
+   "link": "https://www.financialjuice.com/News/9835944/Decision-Desk-HQ-projects-Democrats-to-secure-control-of-US-House.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 02:11:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835943",
+   "title": "Democrat Lance Bottoms beats Republican Jackson in Georgia governor race - NBC",
+   "link": "https://www.financialjuice.com/News/9835943/Democrat-Lance-Bottoms-beats-Republican-Jackson-in-Georgia-governor-race---NBC.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 02:05:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835769",
+   "title": "Dollar/Swiss franc down 0.76% at 0.8146",
+   "link": "https://www.financialjuice.com/News/9835769/DollarSwiss-franc-down-076-at-08146.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:51:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835768",
+   "title": "Dollar/yen dips 0.56% to 157.77",
+   "link": "https://www.financialjuice.com/News/9835768/Dollaryen-dips-056-to-15777.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:47:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835766",
+   "title": "Sterling rises 0.45% to $1.3474",
+   "link": "https://www.financialjuice.com/News/9835766/Sterling-rises-045-to-13474.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:46:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835754",
+   "title": "China general services PMI at 50.8 in October, down from 51.6 in September",
+   "link": "https://www.financialjuice.com/News/9835754/China-general-services-PMI-at-508-in-October-down-from-516-in-September.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:45:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835753",
+   "title": "Chinese Services PMI Actual 50.8 (Forecast 51.7, Previous 51.6)",
+   "link": "https://www.financialjuice.com/News/9835753/Chinese-Services-PMI-Actual-508-Forecast-517-Previous-516.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835752",
+   "title": "euro rises 0.6% to $1.1259",
+   "link": "https://www.financialjuice.com/News/9835752/euro-rises-06-to-11259.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:44:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835751",
+   "title": "S.Korea central bank: sells 1-year monetary stabilization bonds at 3.510% yield",
+   "link": "https://www.financialjuice.com/News/9835751/SKorea-central-bank-sells-1-year-monetary-stabilization-bonds-at-3510-yield.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:40:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9835732",
+   "title": "Democrat Roy Cooper defeats Republican Michael Whatley in race for Republican-held U.S. Senate seat in North Carolina: Decision Desk HQ",
+   "link": "https://www.financialjuice.com/News/9835732/Democrat-Roy-Cooper-defeats-Republican-Michael-Whatley-in-race-for-Republican-held-US-Senate-seat-in-North-Carolina-Decision-Desk-HQ.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 01:24:09 GMT",
+   "desc": ""
+  },
   {
    "id": "9835731",
    "title": "China cbank injects 257.5 billion yuan via overnight reverse repos at 1.25%: statement",
