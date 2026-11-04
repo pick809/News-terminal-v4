@@ -1,7 +1,546 @@
 {
- "updated_at": "2026-11-04T07:40:49.881678+00:00",
- "count": 18172,
+ "updated_at": "2026-11-04T15:46:56.641563+00:00",
+ "count": 18249,
  "items": [
+  {
+   "id": "9837107",
+   "title": "US VP Vance: The relationship with Israel is one reason the GOP lost. The reason we lost is the war.",
+   "link": "https://www.financialjuice.com/News/9837107/US-VP-Vance-The-relationship-with-Israel-is-one-reason-the-GOP-lost-The-reason-we-lost-is-the-war.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:43:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837105",
+   "title": "US Gulf Coast Crude stock fell in the latest week to its lowest since December 2022 - EIA.",
+   "link": "https://www.financialjuice.com/News/9837105/US-Gulf-Coast-Crude-stock-fell-in-the-latest-week-to-its-lowest-since-December-2022---EIA.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:35:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837068",
+   "title": "EIA Crude Cushing Inventories  Actual 0.280M (Forecast -, Previous -0.624M)",
+   "link": "https://www.financialjuice.com/News/9837068/EIA-Crude-Cushing-Inventories--Actual-0280M-Forecast---Previous--0624M.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:31:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837067",
+   "title": "EIA Distillate Inventories Actual -3.565M (Forecast -1.5M, Previous -1.462M)",
+   "link": "https://www.financialjuice.com/News/9837067/EIA-Distillate-Inventories-Actual--3565M-Forecast--15M-Previous--1462M.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837066",
+   "title": "EIA Gasoline Inventories Actual -0.222M (Forecast 1M, Previous 3.870M)",
+   "link": "https://www.financialjuice.com/News/9837066/EIA-Gasoline-Inventories-Actual--0222M-Forecast-1M-Previous-3870M.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837065",
+   "title": "EIA Crude Oil Inventories Actual -0.865M (Forecast -1.7M, Previous -1.892M)",
+   "link": "https://www.financialjuice.com/News/9837065/EIA-Crude-Oil-Inventories-Actual--0865M-Forecast--17M-Previous--1892M.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837064",
+   "title": "EU Chip Design platform to mobilize €525m investment.",
+   "link": "https://www.financialjuice.com/News/9837064/EU-Chip-Design-platform-to-mobilize-525m-investment.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:21:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837063",
+   "title": "Crypto Fear & Greed Index: 34/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9837063/Crypto-Fear--Greed-Index-34100---Fear.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:19:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837062",
+   "title": "Fear & Greed Index: 29/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9837062/Fear--Greed-Index-29100---Fear.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:18:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837047",
+   "title": "US House Speaker Johnson will not run for the House GOP leader role - CNN.",
+   "link": "https://www.financialjuice.com/News/9837047/US-House-Speaker-Johnson-will-not-run-for-the-House-GOP-leader-role---CNN.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:03:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837021",
+   "title": "US ISM Services PMI Actual 54.5 (Forecast 54.8, Previous 54.9)",
+   "link": "https://www.financialjuice.com/News/9837021/US-ISM-Services-PMI-Actual-545-Forecast-548-Previous-549.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837020",
+   "title": "US ISM Services Employment Actual 51.4 (Forecast 50, Previous 50.1)",
+   "link": "https://www.financialjuice.com/News/9837020/US-ISM-Services-Employment-Actual-514-Forecast-50-Previous-501.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837019",
+   "title": "US ISM Services New Orders Actual 55.9 (Forecast 58.5, Previous 59.8)",
+   "link": "https://www.financialjuice.com/News/9837019/US-ISM-Services-New-Orders-Actual-559-Forecast-585-Previous-598.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837018",
+   "title": "US ISM Services Prices Paid Actual 73 (Forecast 74.6, Previous 74.0)",
+   "link": "https://www.financialjuice.com/News/9837018/US-ISM-Services-Prices-Paid-Actual-73-Forecast-746-Previous-740.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 15:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836995",
+   "title": "US S&P Services PMI Final Actual 56.1 (Forecast 57.9, Previous 57.9)",
+   "link": "https://www.financialjuice.com/News/9836995/US-SP-Services-PMI-Final-Actual-561-Forecast-579-Previous-579.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 14:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836994",
+   "title": "US S&P Composite PMI Final Actual 55.9 (Forecast 57.3, Previous 57.6)",
+   "link": "https://www.financialjuice.com/News/9836994/US-SP-Composite-PMI-Final-Actual-559-Forecast-573-Previous-576.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 14:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836993",
+   "title": "Bank of America cuts AMD price target to $650 from $720. $AMD",
+   "link": "https://www.financialjuice.com/News/9836993/Bank-of-America-cuts-AMD-price-target-to-650-from-720-AMD.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 14:39:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836991",
+   "title": "OpenAI is to acquire Pierre Computer Company.",
+   "link": "https://www.financialjuice.com/News/9836991/OpenAI-is-to-acquire-Pierre-Computer-Company.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 14:31:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836986",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9836986/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 14:30:36 GMT",
+   "desc": "S&amp;P 500: +132 mln Nasdaq 100: -29 mln Dow 30: +14 mln Mag 7: +5 mln"
+  },
+  {
+   "id": "9836982",
+   "title": "The UAE mulls a third Crude oil pipeline to avoid the Strait of Hormuz.",
+   "link": "https://www.financialjuice.com/News/9836982/The-UAE-mulls-a-third-Crude-oil-pipeline-to-avoid-the-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 14:26:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836965",
+   "title": "Iran's State Media citing IRGC; A US MQ1 drone was destroyed by Iranian air defenses over Qeshm Island.",
+   "link": "https://www.financialjuice.com/News/9836965/Irans-State-Media-citing-IRGC-A-US-MQ1-drone-was-destroyed-by-Iranian-air-defenses-over-Qeshm-Island.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 14:11:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836964",
+   "title": "Kremlin on Melania Trump meeting, Peskov: Trilateral talks to focus on security guarantee - TASS.",
+   "link": "https://www.financialjuice.com/News/9836964/Kremlin-on-Melania-Trump-meeting-Peskov-Trilateral-talks-to-focus-on-security-guarantee---TASS.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 14:02:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836941",
+   "title": "Effective Fed funds rate 3.88% November 3th vs 3.88% November 2nd.",
+   "link": "https://www.financialjuice.com/News/9836941/Effective-Fed-funds-rate-388-November-3th-vs-388-November-2nd.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:59:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836940",
+   "title": "UniCredit: Democratic Midterm Gains Shift Focus to Congressional Oversight and Policy Constraints - FJElite",
+   "link": "https://www.financialjuice.com/News/9836940/UniCredit-Democratic-Midterm-Gains-Shift-Focus-to-Congressional-Oversight-and-Policy-Constraints---FJElite.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:58:35 GMT",
+   "desc": "Democrats secure a majority in both chambers, with the result increasing the likelihood of stronger congressional oversight of the Trump administration. Healthcare, data-centre regulation and investigations into government contracts are likely to become key areas of focus, while tighter rules around data-centre development could slow parts of the AI investment boom. Congress has less direct scope to address inflation pressures tied to tariffs and the Iran conflict. The result also shifts attention toward 2028, with Republicans likely to reassess parts of the MAGA agenda and Democrats weighing the balance between their centrist and liberal wings. The main market uncertainty is how Trump responds to the new balance of power, with greater confrontation potentially increasing volatility while cooperation with Congress could reduce some policy uncertainty."
+  },
+  {
+   "id": "9836939",
+   "title": "Credit Agricole: USD Weakens as Post-Midterm Tech Selloff Raises AI Investment Concerns - FJElite",
+   "link": "https://www.financialjuice.com/News/9836939/Credit-Agricole-USD-Weakens-as-Post-Midterm-Tech-Selloff-Raises-AI-Investment-Concerns---FJElite.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:55:52 GMT",
+   "desc": "The dollar is being hit by renewed weakness in US technology stocks following the midterms, reflecting the close link between USD performance and capital flows into the US tech sector. A stronger Democratic showing is seen as a headwind for the AI investment boom because of greater regulatory scrutiny around data-centre expansion, with several major data-centre states now under Democratic governors and facing tighter or proposed restrictions. The AI buildout is unlikely to stop, however, as investment could shift toward states with more supportive policy environments. That suggests the midterms may slow or redirect AI-related capital spending rather than end it. Near-term USD direction will therefore depend heavily on whether US technology stocks stabilise, with further weakness likely to favour traditional havens such as the CHF, JPY and EUR."
+  },
+  {
+   "id": "9836906",
+   "title": "Qualcomm: SpaceX selects Qualcomm to accelerate Starlink $SPCX $QCOM",
+   "link": "https://www.financialjuice.com/News/9836906/Qualcomm-SpaceX-selects-Qualcomm-to-accelerate-Starlink-SPCX-QCOM.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:39:57 GMT",
+   "desc": "SpaceX to deploy tens of thousands of 5G sites Qualcomm to supply QRU100 and QDU100 to Starlink Mobile Starlink Mobile rollout to start in 2027 SpaceX to use Qualcomm Dragonwing for its 5G network SpaceX selects Qualcomm to accelerate Starlink Mobile"
+  },
+  {
+   "id": "9836905",
+   "title": "US Sentiment: Democratic Sweep Causes Rotation Away from AI & Musk-linked Names - FJElite",
+   "link": "https://www.financialjuice.com/News/9836905/US-Sentiment-Democratic-Sweep-Causes-Rotation-Away-from-AI--Musk-linked-Names---FJElite.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:36:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836904",
+   "title": "US Treasury Quarterly Refunding",
+   "link": "https://www.financialjuice.com/News/9836904/US-Treasury-Quarterly-Refunding.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:35:44 GMT",
+   "desc": "US Treasury to sell $42B in 10-year notes on November 10th US Treasury to sell $25B in 30-year bonds on November 12th US sets quarterly refunding at $125B, in line with estimates"
+  },
+  {
+   "id": "9836903",
+   "title": "US Trade Balance Summary",
+   "link": "https://www.financialjuice.com/News/9836903/US-Trade-Balance-Summary-.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:33:25 GMT",
+   "desc": "US September oil import price was $80.48/bbl vs. $76.94/bbl in August, up 29.7% from $62.03/bbl in September 2025 US-China September trade deficit was $21.87B vs. $18.40B in August US September capital goods imports were $157.97B vs. $146.41B in August US September exports were $321.51B vs. $315.67B in August; imports were $426.56B vs. $421.40B US September exports rose 1.9% vs. 1.6% in August; imports rose 1.2% vs. 4.4% US September goods deficit was $135.91B, while the services surplus was $30.87B"
+  },
+  {
+   "id": "9836878",
+   "title": "Canadian Trade Balance Actual 5.35B (Forecast 5B, Previous 4.20B, Revised 5.35B)",
+   "link": "https://www.financialjuice.com/News/9836878/Canadian-Trade-Balance-Actual-535B-Forecast-5B-Previous-420B-Revised-535B.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836877",
+   "title": "US Trade Balance Actual -105B (Forecast -107.9B, Previous -105.6B, Revised $-105.7B)",
+   "link": "https://www.financialjuice.com/News/9836877/US-Trade-Balance-Actual--105B-Forecast--1079B-Previous--1056B-Revised--1057B.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836876",
+   "title": "Meta gets record €53 billion of orders for debut Euro bonds $META",
+   "link": "https://www.financialjuice.com/News/9836876/Meta-gets-record-53-billion-of-orders-for-debut-Euro-bonds-META.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:26:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836875",
+   "title": "Google to backstop some Anthropic obligations for Terawulf $GOOGL",
+   "link": "https://www.financialjuice.com/News/9836875/Google-to-backstop-some-Anthropic-obligations-for-Terawulf-GOOGL.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:23:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836854",
+   "title": "US ADP Employment Change Actual 86k (Forecast 67k, Previous 90k)",
+   "link": "https://www.financialjuice.com/News/9836854/US-ADP-Employment-Change-Actual-86k-Forecast-67k-Previous-90k.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 13:15:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836830",
+   "title": "ECB's Knot: Europe on receiving end of US-China rivalry.",
+   "link": "https://www.financialjuice.com/News/9836830/ECBs-Knot-Europe-on-receiving-end-of-US-China-rivalry.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:54:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836829",
+   "title": "ECB's Knot: AI will bring productivity growth.",
+   "link": "https://www.financialjuice.com/News/9836829/ECBs-Knot-AI-will-bring-productivity-growth.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:51:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836828",
+   "title": "ECB's Knot: Will continue to see small shocks that lift inflation.",
+   "link": "https://www.financialjuice.com/News/9836828/ECBs-Knot-Will-continue-to-see-small-shocks-that-lift-inflation.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:49:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836827",
+   "title": "ECB's Knot: ECB may have to approach 2% goal more often from above.",
+   "link": "https://www.financialjuice.com/News/9836827/ECBs-Knot-ECB-may-have-to-approach-2-goal-more-often-from-above.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:48:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836826",
+   "title": "ECB's Knot: Core inflation, second-round effects will likely pick up.",
+   "link": "https://www.financialjuice.com/News/9836826/ECBs-Knot-Core-inflation-second-round-effects-will-likely-pick-up.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:46:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836821",
+   "title": "Meta gets record €53 billion demand for debut euro bond sale.",
+   "link": "https://www.financialjuice.com/News/9836821/Meta-gets-record-53-billion-demand-for-debut-euro-bond-sale.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:44:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836820",
+   "title": "German Fin. Min. Klingbeil: We will work with US Democrats to renew ties.",
+   "link": "https://www.financialjuice.com/News/9836820/German-Fin-Min-Klingbeil-We-will-work-with-US-Democrats-to-renew-ties.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:31:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836793",
+   "title": "Meta seeks as much as €9 billion from debut euro bond sale.",
+   "link": "https://www.financialjuice.com/News/9836793/Meta-seeks-as-much-as-9-billion-from-debut-euro-bond-sale.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:19:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836748",
+   "title": "US MBA 30-Yr Mortgage Rate Actual 7.30% (Forecast -, Previous 7.37%)",
+   "link": "https://www.financialjuice.com/News/9836748/US-MBA-30-Yr-Mortgage-Rate-Actual-730-Forecast---Previous-737.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:01:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836755",
+   "title": "$MCD McDonald's Q3 Earnings",
+   "link": "https://www.financialjuice.com/News/9836755/MCD-McDonalds-Q3-Earnings.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:01:03 GMT",
+   "desc": "Adj. EPS $3.57, est. $3.40 Rev. $7.16B, est. $7.29B Comp sales +1.5%, est. +1.35% US comp sales -0.2%, est. -0.47% International operated markets comp sales +1.4%, est. +2.07% International developmental licensed markets comp sales +4.2%, est. +3.15% EPS $3.51 vs. $3.18 y/y"
+  },
+  {
+   "id": "9836747",
+   "title": "US MBA Mortgage Applications Actual -1.2% (Forecast -, Previous 3.4%)",
+   "link": "https://www.financialjuice.com/News/9836747/US-MBA-Mortgage-Applications-Actual--12-Forecast---Previous-34.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 12:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836746",
+   "title": "$UBER Uber Q3 Earnings",
+   "link": "https://www.financialjuice.com/News/9836746/UBER-Uber-Q3-Earnings.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 11:57:02 GMT",
+   "desc": "Adj. EPS $0.88, est. $0.87 Rev. $14.77B, est. $14.65B Gross bookings $59.82B, est. $59.79B Mobility bookings $29.51B, est. $29.88B Delivery bookings $28.54B, est. $28.41B Adj. EBITDA $2.96B, est. $2.93B Adj. oper. income $2.3B, est. $2.25B Adj. net income $1.8B, est. $1.78B Trips 4.06B, est. 4.12B EPS $0.25 Sees Q4 gross bookings $63.25B to $65.25B, est. $64.29B Sees Q4 Adj. EBITDA $3.13B to $3.23B, est. $3.15B Sees Q4 Adj. EPS $0.95 to $0.99, est. $0.98 Expects about 700 fully driverless vehicles by year-end and over 2,000 in 2027 Expects further driverless deployments with Avride in 2027"
+  },
+  {
+   "id": "9836730",
+   "title": "Russia hopes Trump continues peace efforts after vote - Tass",
+   "link": "https://www.financialjuice.com/News/9836730/Russia-hopes-Trump-continues-peace-efforts-after-vote---Tass.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 11:42:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836729",
+   "title": "France Fin. Min. Lescure: France must hit 2027 deficit goal of 5% to be credible.",
+   "link": "https://www.financialjuice.com/News/9836729/France-Fin-Min-Lescure-France-must-hit-2027-deficit-goal-of-5-to-be-credible.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 11:42:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836728",
+   "title": "France Fin. Min. Lescure: No reason to revise french 2026 deficit goal of 5.4%.",
+   "link": "https://www.financialjuice.com/News/9836728/France-Fin-Min-Lescure-No-reason-to-revise-french-2026-deficit-goal-of-54.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 11:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836703",
+   "title": "OpenAI to buy Pierre Computer - Axios",
+   "link": "https://www.financialjuice.com/News/9836703/OpenAI-to-buy-Pierre-Computer---Axios.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 11:31:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836701",
+   "title": "OpenAI targets Microsoft's Github with deal - Axios",
+   "link": "https://www.financialjuice.com/News/9836701/OpenAI-targets-Microsofts-Github-with-deal---Axios.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 11:30:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836648",
+   "title": "German 15 Yr Bid-to-Cover Actual 1.3 (Forecast -, Previous 2)",
+   "link": "https://www.financialjuice.com/News/9836648/German-15-Yr-Bid-to-Cover-Actual-13-Forecast---Previous-2.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 10:33:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836647",
+   "title": "German 15 Yr Bund Yield Actual 3.57% (Forecast -, Previous 3.5%)",
+   "link": "https://www.financialjuice.com/News/9836647/German-15-Yr-Bund-Yield-Actual-357-Forecast---Previous-35.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 10:33:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836601",
+   "title": "Adviser to Iran's Revolutionary Guards Commander: In case of war, Tehran's retaliation won't be restricted to source of attack - Tasnim.",
+   "link": "https://www.financialjuice.com/News/9836601/Adviser-to-Irans-Revolutionary-Guards-Commander-In-case-of-war-Tehrans-retaliation-wont-be-restricted-to-source-of-attack---Tasnim.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 10:04:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836600",
+   "title": "MUFG: The JPY - FJElite",
+   "link": "https://www.financialjuice.com/News/9836600/MUFG-The-JPY---FJElite.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 10:01:49 GMT",
+   "desc": "The US midterm results are unlikely to alter the US-Japan relationship or Washington’s opposition to further yen weakness. Unless Trump makes an unlikely cabinet reshuffle involving Treasury Secretary Scott Bessent, pressure on Japan to support the currency should persist. However, recent yen gains have been limited despite a sizeable correction in global yields: the two-year Treasury yield has fallen 35bp from its September 29 high, while USD/JPY has risen by around one big figure. This suggests structural capital outflows continue to outweigh the support normally provided by narrowing rate differentials. Finance Minister Katayama has reiterated that Japan would act in line with the US-Japan joint statement. Two major structural flows are weighing on the yen. First, the expansion of Japan’s NISA tax-free investment allowances has encouraged households to shift savings into overseas equities, with foreign equity purchases reaching ¥3.95tn over the three months to September, equivalent to roughly ¥16tn annually. This trend is likely to persist as inflation erodes the value of cash deposits and strong overseas equity returns attract investment. Second, Japanese companies continue to direct capital abroad through foreign direct investment, reflecting the search for growth in overseas markets amid domestic demographic decline. Net FDI outflows have remained around ¥24tn–¥28tn annually over the past three years, adding another significant structural drag on the currency. Despite these pressures, the yen may be approaching a turning point. Narrowing rate differentials should eventually provide support, while government measures to encourage more domestic investment and retain capital in Japan could help reverse some of the outflows. Rate spreads remain important, but recent market moves demonstrate that they are no longer a reliable standalone guide to yen performance."
+  },
+  {
+   "id": "9836576",
+   "title": "Eurozone CPI MoM Flash Actual 0.4% (Forecast 0.4%, Previous 0.6%)",
+   "link": "https://www.financialjuice.com/News/9836576/Eurozone-CPI-MoM-Flash-Actual-04-Forecast-04-Previous-06.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 10:00:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836575",
+   "title": "Eurozone Core CPI YoY Flash Actual 2.5% (Forecast 2.5%, Previous 2.5%)",
+   "link": "https://www.financialjuice.com/News/9836575/Eurozone-Core-CPI-YoY-Flash-Actual-25-Forecast-25-Previous-25.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 10:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836574",
+   "title": "Eurozone CPI YoY Flash Actual 4% (Forecast 4%, Previous 3.8%)",
+   "link": "https://www.financialjuice.com/News/9836574/Eurozone-CPI-YoY-Flash-Actual-4-Forecast-4-Previous-38.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 10:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836555",
+   "title": "Google extends employee buyout offers to several countries.",
+   "link": "https://www.financialjuice.com/News/9836555/Google-extends-employee-buyout-offers-to-several-countries.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 09:43:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836529",
+   "title": "UK Composite PMI Final Actual 52.9 (Forecast 53.1, Previous 53.1)",
+   "link": "https://www.financialjuice.com/News/9836529/UK-Composite-PMI-Final-Actual-529-Forecast-531-Previous-531.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 09:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836528",
+   "title": "UK Services PMI Final Actual 52.8 (Forecast 53.1, Previous 53.1)",
+   "link": "https://www.financialjuice.com/News/9836528/UK-Services-PMI-Final-Actual-528-Forecast-531-Previous-531.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 09:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836527",
+   "title": "Standard Chartered: US Midterm Implications - FJElite",
+   "link": "https://www.financialjuice.com/News/9836527/Standard-Chartered-US-Midterm-Implications---FJElite.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 09:21:26 GMT",
+   "desc": "The market reaction is harsh. NASDAQ futures are down 2.2%, S&amp;P futures down 1.3%, DJ futures down 0.8%. US 2Y UST yields are down 8bps, and 10Y yields down 7bps. JPY and CHF are up about 0.7%. The weakest G10 currencies are CAD, NOK. NZD and AUD. which are flat to up 0.2%. There is a risk-off element on top of the Al/tech element. WTI is down by about USD 1/bbl. Some key governorships look likely to turn over, particularly those in Texas and Ohio. These will likely be viewed as anti-AI/tech moves, raising legislative uncertainty in key states such as Texas, where the largest number of data centre projects have been announced. Data centre construction alone has not been a predominant driver of overall economic growth, but the backlash may also raise the question of how much longer large AI capex spending can be sustained. The key asset market question is what the results tell us about the next two years. We emphasise this because big Democratic majorities will not likely produce veto-proof measures, so there may be noise but not much action with economic consequences. One question that will emerge is whether the debt ceiling negotiations (likely late 2027) and budget negotiations in December 2026 raise threats of government shutdowns and debt default. The USD may have further to drop in the very near term, but we are wary of seeing this as the USD turning point. The market is still digesting the political surprise, so some of the USD weakness reflects uncertainty. The Fed is still likely to hike in December but may be more cautious on hikes subsequently. Our forecast is that rates remain flat after the next hike, and the market may head in that direction. Similarly, bond yields have come off sharply already, so short bond positioning is not nearly as extreme as when 10Y yields were near 5.25%. Overall, we expect the market to spend some time assessing the implications of the vote, so in the near term we may see limited price action but with a modest tilt to lower yields and a weaker USD."
+  },
+  {
+   "id": "9836518",
+   "title": "Gazprom sets daily record for gas flows to china November 3.",
+   "link": "https://www.financialjuice.com/News/9836518/Gazprom-sets-daily-record-for-gas-flows-to-china-November-3.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 09:03:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836516",
+   "title": "ECB sees wage growth at 2.8% in 2Q 2027, 2.4% in 3Q 2027.",
+   "link": "https://www.financialjuice.com/News/9836516/ECB-sees-wage-growth-at-28-in-2Q-2027-24-in-3Q-2027.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 09:01:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836490",
+   "title": "Google to invest $15 billion in Malaysia data center expansion.",
+   "link": "https://www.financialjuice.com/News/9836490/Google-to-invest-15-billion-in-Malaysia-data-center-expansion.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 09:00:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836484",
+   "title": "Eurozone Services PMI Final Actual 51.4 (Forecast 51.7, Previous 51.7)",
+   "link": "https://www.financialjuice.com/News/9836484/Eurozone-Services-PMI-Final-Actual-514-Forecast-517-Previous-517.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 09:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836483",
+   "title": "Eurozone Composite Final PMI Actual 51.7 (Forecast 51.9, Previous 51.9)",
+   "link": "https://www.financialjuice.com/News/9836483/Eurozone-Composite-Final-PMI-Actual-517-Forecast-519-Previous-519.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 09:00:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836482",
+   "title": "German Services PMI Final Actual 52.5 (Forecast 51.7, Previous 51.7)",
+   "link": "https://www.financialjuice.com/News/9836482/German-Services-PMI-Final-Actual-525-Forecast-517-Previous-517.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 08:55:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836481",
+   "title": "German Composite PMI Final Actual 53.4 (Forecast 52.8, Previous 52.8)",
+   "link": "https://www.financialjuice.com/News/9836481/German-Composite-PMI-Final-Actual-534-Forecast-528-Previous-528.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 08:55:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836480",
+   "title": "French Services PMI Actual 46.2 (Forecast 48.4, Previous 48.4)",
+   "link": "https://www.financialjuice.com/News/9836480/French-Services-PMI-Actual-462-Forecast-484-Previous-484.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 08:50:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836479",
+   "title": "French Composite PMI Actual 46.6 (Forecast 48.4, Previous 48.4)",
+   "link": "https://www.financialjuice.com/News/9836479/French-Composite-PMI-Actual-466-Forecast-484-Previous-484.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 08:50:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836459",
+   "title": "Italian Composite PMI Actual 50.8 (Forecast 50.8, Previous 51.0)",
+   "link": "https://www.financialjuice.com/News/9836459/Italian-Composite-PMI-Actual-508-Forecast-508-Previous-510.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 08:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836458",
+   "title": "Italian Services PMI Actual 52 (Forecast 51.5, Previous 51.7)",
+   "link": "https://www.financialjuice.com/News/9836458/Italian-Services-PMI-Actual-52-Forecast-515-Previous-517.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 08:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836427",
+   "title": "Swedish Riksbank Rate Actual 2% (Forecast 2%, Previous 1.75%)",
+   "link": "https://www.financialjuice.com/News/9836427/Swedish-Riksbank-Rate-Actual-2-Forecast-2-Previous-175.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 08:30:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836414",
+   "title": "NVIDIA China clients to get 1% of $70 billion RTX chips ordered.",
+   "link": "https://www.financialjuice.com/News/9836414/NVIDIA-China-clients-to-get-1-of-70-billion-RTX-chips-ordered.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 08:08:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836413",
+   "title": "BoJ Gov. Ueda to travel to US, Switzerland from November 5-10.",
+   "link": "https://www.financialjuice.com/News/9836413/BoJ-Gov-Ueda-to-travel-to-US-Switzerland-from-November-5-10.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 08:07:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9836392",
+   "title": "Currency Strength Chart: Strongest: NZD, CHF, GBP, EUR, AUD, JPY, CAD, USD - Weakest",
+   "link": "https://www.financialjuice.com/News/9836392/Currency-Strength-Chart-Strongest-NZD-CHF-GBP-EUR-AUD-JPY-CAD-USD---Weakest.aspx?xy=rss",
+   "pubDate": "Wed, 04 Nov 2026 08:01:05 GMT",
+   "desc": ""
+  },
   {
    "id": "9836349",
    "title": "Thune plans to run for minority senate leader - Fox",
