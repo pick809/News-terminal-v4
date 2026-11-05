@@ -1,7 +1,441 @@
 {
- "updated_at": "2026-11-05T01:44:24.744190+00:00",
- "count": 18346,
+ "updated_at": "2026-11-05T08:31:29.470533+00:00",
+ "count": 18408,
  "items": [
+  {
+   "id": "9838338",
+   "title": "German Chamber of Commerce sees 2027 GDP growth at 1%.",
+   "link": "https://www.financialjuice.com/News/9838338/German-Chamber-of-Commerce-sees-2027-GDP-growth-at-1.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:30:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838337",
+   "title": "German Chamber of Commerce sees 2026 German GDP growth at 1% (previously 0.3%).",
+   "link": "https://www.financialjuice.com/News/9838337/German-Chamber-of-Commerce-sees-2026-German-GDP-growth-at-1-previously-03.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:30:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838331",
+   "title": "UKMTO gets report of incident near Madinat Ash Shamal, Qatar",
+   "link": "https://www.financialjuice.com/News/9838331/UKMTO-gets-report-of-incident-near-Madinat-Ash-Shamal-Qatar.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:20:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838305",
+   "title": "ECB's Moulin: Essential for France to adopt a budget by year-end.",
+   "link": "https://www.financialjuice.com/News/9838305/ECBs-Moulin-Essential-for-France-to-adopt-a-budget-by-year-end.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:13:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838304",
+   "title": "ECB's Moulin: French budget uncertainty amplifies rise in bond yields.",
+   "link": "https://www.financialjuice.com/News/9838304/ECBs-Moulin-French-budget-uncertainty-amplifies-rise-in-bond-yields.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:13:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838303",
+   "title": "ECB’s Moulin: Higher yields are new test for financial sector.",
+   "link": "https://www.financialjuice.com/News/9838303/ECBs-Moulin-Higher-yields-are-new-test-for-financial-sector.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:12:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838279",
+   "title": "Swiss Unemployment Rate Unadjusted Actual 3.0% (Forecast 3%, Previous 3.0%)",
+   "link": "https://www.financialjuice.com/News/9838279/Swiss-Unemployment-Rate-Unadjusted-Actual-30-Forecast-3-Previous-30.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:01:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838278",
+   "title": "Swiss Unemployment Rate Adjusted Actual 3.1% (Forecast 3.1%, Previous 3.1%)",
+   "link": "https://www.financialjuice.com/News/9838278/Swiss-Unemployment-Rate-Adjusted-Actual-31-Forecast-31-Previous-31.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:01:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838302",
+   "title": "Currency Strength Chart: Strongest: NZD, CHF, GBP, CAD, AUD, EUR, USD, GBP - Weakest",
+   "link": "https://www.financialjuice.com/News/9838302/Currency-Strength-Chart-Strongest-NZD-CHF-GBP-CAD-AUD-EUR-USD-GBP---Weakest.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:01:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838285",
+   "title": "ECB's Schnabel: It has become more difficult to put public finances back on a sustainable path.",
+   "link": "https://www.financialjuice.com/News/9838285/ECBs-Schnabel-It-has-become-more-difficult-to-put-public-finances-back-on-a-sustainable-path.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:00:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838284",
+   "title": "ECB's Schnabel: Rise of non-bank finance and increase in public debt could threaten monetary dominance",
+   "link": "https://www.financialjuice.com/News/9838284/ECBs-Schnabel-Rise-of-non-bank-finance-and-increase-in-public-debt-could-threaten-monetary-dominance.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 08:00:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838258",
+   "title": "French Industrial Production MoM Actual -0.5% (Forecast 0.3%, Previous -0.3%)",
+   "link": "https://www.financialjuice.com/News/9838258/French-Industrial-Production-MoM-Actual--05-Forecast-03-Previous--03.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838257",
+   "title": "RBA's Hauser: Consumption growth has held up better than expected",
+   "link": "https://www.financialjuice.com/News/9838257/RBAs-Hauser-Consumption-growth-has-held-up-better-than-expected.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 07:43:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838256",
+   "title": "RBA's Hauser: There was no attempt to do open-mouth operations for the market",
+   "link": "https://www.financialjuice.com/News/9838256/RBAs-Hauser-There-was-no-attempt-to-do-open-mouth-operations-for-the-market.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 07:41:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838255",
+   "title": "RBA's Hauser: Inflation is too high, whichever measure you use",
+   "link": "https://www.financialjuice.com/News/9838255/RBAs-Hauser-Inflation-is-too-high-whichever-measure-you-use.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 07:31:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838235",
+   "title": "SNB's Chairman Schlegel: Initial signs that the Swiss economy continues to grow",
+   "link": "https://www.financialjuice.com/News/9838235/SNBs-Chairman-Schlegel-Initial-signs-that-the-Swiss-economy-continues-to-grow.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 07:23:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838234",
+   "title": "RBA's Hauser: Board discussions were very lively at the last meeting",
+   "link": "https://www.financialjuice.com/News/9838234/RBAs-Hauser-Board-discussions-were-very-lively-at-the-last-meeting.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 07:21:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838233",
+   "title": "SNB's Chairman Schlegel: SNB would intervene if price stability were at risk",
+   "link": "https://www.financialjuice.com/News/9838233/SNBs-Chairman-Schlegel-SNB-would-intervene-if-price-stability-were-at-risk.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 07:19:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838232",
+   "title": "SNB's Chairman Schlegel: Not yet seen any significant second-round effects",
+   "link": "https://www.financialjuice.com/News/9838232/SNBs-Chairman-Schlegel-Not-yet-seen-any-significant-second-round-effects.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 07:16:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838215",
+   "title": "BoJ to hold 25th bond market group meetings on December 7-8th",
+   "link": "https://www.financialjuice.com/News/9838215/BoJ-to-hold-25th-bond-market-group-meetings-on-December-7-8th.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 07:04:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838193",
+   "title": "German Industrial Orders MoM Actual 4.4% (Forecast 4.5%, Previous -10.6%)",
+   "link": "https://www.financialjuice.com/News/9838193/German-Industrial-Orders-MoM-Actual-44-Forecast-45-Previous--106.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 07:01:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838177",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9838177/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:44:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838176",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9838176/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:44:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838175",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9838175/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:44:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838174",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9838174/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:43:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838173",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9838173/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:43:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838172",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9838172/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:43:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838171",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9838171/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:42:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838170",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9838170/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:42:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838169",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9838169/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:42:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838168",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9838168/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:41:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838167",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9838167/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:41:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838166",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9838166/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:40:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838165",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9838165/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:40:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838164",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9838164/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:40:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838163",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9838163/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:39:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838162",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9838162/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:39:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838126",
+   "title": "China's November diesel exports to decline from previous peaks amid low domestic inventories, trade and industry sources say",
+   "link": "https://www.financialjuice.com/News/9838126/Chinas-November-diesel-exports-to-decline-from-previous-peaks-amid-low-domestic-inventories-trade-and-industry-sources-say.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:01:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838125",
+   "title": "Chinese refiners have sold roughly 500,000 metric tons of diesel for November export, traders say based on trade data calculations",
+   "link": "https://www.financialjuice.com/News/9838125/Chinese-refiners-have-sold-roughly-500000-metric-tons-of-diesel-for-November-export-traders-say-based-on-trade-data-calculations.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:01:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838116",
+   "title": "Russia S&P Global October services PMI dips to 50.1 from September 51.3",
+   "link": "https://www.financialjuice.com/News/9838116/Russia-SP-Global-October-services-PMI-dips-to-501-from-September-513.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 06:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838115",
+   "title": "Emirates Group: net profit in h1 at 3.6 bln dirhams - chief executive",
+   "link": "https://www.financialjuice.com/News/9838115/Emirates-Group-net-profit-in-h1-at-36-bln-dirhams---chief-executive.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 05:54:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838114",
+   "title": "Emirates Group: h1 revenues reach 66.2 billion dirhams - chief executive on X",
+   "link": "https://www.financialjuice.com/News/9838114/Emirates-Group-h1-revenues-reach-662-billion-dirhams---chief-executive-on-X.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 05:53:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838088",
+   "title": "India power secretary: to implement storage requirements for state power utilities",
+   "link": "https://www.financialjuice.com/News/9838088/India-power-secretary-to-implement-storage-requirements-for-state-power-utilities.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 05:20:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838084",
+   "title": "North Korea: EU should mind its own business instead of criticizing human rights issues",
+   "link": "https://www.financialjuice.com/News/9838084/North-Korea-EU-should-mind-its-own-business-instead-of-criticizing-human-rights-issues.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 05:08:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838083",
+   "title": "S. Korea finmin: ready for possible rise in market volatility",
+   "link": "https://www.financialjuice.com/News/9838083/S-Korea-finmin-ready-for-possible-rise-in-market-volatility.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 05:05:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838082",
+   "title": "S. Korea finmin: to track US tariff policies, Middle East conflict",
+   "link": "https://www.financialjuice.com/News/9838082/S-Korea-finmin-to-track-US-tariff-policies-Middle-East-conflict.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 05:05:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838081",
+   "title": "S. Korea finmin: to closely watch shifts in US policy on AI after midterm elections",
+   "link": "https://www.financialjuice.com/News/9838081/S-Korea-finmin-to-closely-watch-shifts-in-US-policy-on-AI-after-midterm-elections.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 05:04:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838080",
+   "title": "Microsoft declines multibillion-dollar AI partnership with UK’s nScale - FT",
+   "link": "https://www.financialjuice.com/News/9838080/Microsoft-declines-multibillion-dollar-AI-partnership-with-UKs-nScale---FT.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 05:01:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838050",
+   "title": "Russia strikes logistics center in Ukraine's Kharkiv region, power plant in Dnipropetrovsk region: Russian defense ministry",
+   "link": "https://www.financialjuice.com/News/9838050/Russia-strikes-logistics-center-in-Ukraines-Kharkiv-region-power-plant-in-Dnipropetrovsk-region-Russian-defense-ministry.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 04:58:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838030",
+   "title": "Drones strike industrial facilities in Russia's Ryazan, setting fire: authorities",
+   "link": "https://www.financialjuice.com/News/9838030/Drones-strike-industrial-facilities-in-Russias-Ryazan-setting-fire-authorities.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 04:37:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838000",
+   "title": "Iran's IRGC: tanker hit mine while navigating unauthorized Strait of Hormuz route",
+   "link": "https://www.financialjuice.com/News/9838000/Irans-IRGC-tanker-hit-mine-while-navigating-unauthorized-Strait-of-Hormuz-route.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 04:08:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837999",
+   "title": "Iran's IRGC: two tankers and tugboat blaze in Strait of Hormuz",
+   "link": "https://www.financialjuice.com/News/9837999/Irans-IRGC-two-tankers-and-tugboat-blaze-in-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 04:06:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837984",
+   "title": "U.S. dollar index drops 0.26% to 101.2100",
+   "link": "https://www.financialjuice.com/News/9837984/US-dollar-index-drops-026-to-1012100.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 03:53:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837981",
+   "title": "China foreign minister Wang Yi: China ready to advance deeper, practical, positive development of China-North Korea ties - Xinhua",
+   "link": "https://www.financialjuice.com/News/9837981/China-foreign-minister-Wang-Yi-China-ready-to-advance-deeper-practical-positive-development-of-China-North-Korea-ties---Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 03:40:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837980",
+   "title": "ban b3 kole <9): 10) (0): at",
+   "link": "https://www.financialjuice.com/News/9837980/ban-b3-kole-9-10-0-at.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 03:40:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837979",
+   "title": "China foreign minister Wang Yi meets North Korea delegation in Beijing led by Kim Song-nam: Xinhua",
+   "link": "https://www.financialjuice.com/News/9837979/China-foreign-minister-Wang-Yi-meets-North-Korea-delegation-in-Beijing-led-by-Kim-Song-nam-Xinhua.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 03:39:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837970",
+   "title": "New Zealand dollar rises 0.60% to $0.5656",
+   "link": "https://www.financialjuice.com/News/9837970/New-Zealand-dollar-rises-060-to-05656.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 03:18:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837945",
+   "title": "Euro rises 0.25% to $1.1257",
+   "link": "https://www.financialjuice.com/News/9837945/Euro-rises-025-to-11257.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 02:54:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837933",
+   "title": "China finance ministry auctions two-month deposits at 1.47% yield: statement",
+   "link": "https://www.financialjuice.com/News/9837933/China-finance-ministry-auctions-two-month-deposits-at-147-yield-statement.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 02:33:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837833",
+   "title": "S.Korea foreign minister Cho: prepared for all possibilities in efforts to amend South Korea-US nuclear pact",
+   "link": "https://www.financialjuice.com/News/9837833/SKorea-foreign-minister-Cho-prepared-for-all-possibilities-in-efforts-to-amend-South-Korea-US-nuclear-pact.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 02:00:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837832",
+   "title": "South Korea PM Han: No significant change expected in US ties after midterm election",
+   "link": "https://www.financialjuice.com/News/9837832/South-Korea-PM-Han-No-significant-change-expected-in-US-ties-after-midterm-election.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 01:56:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9837824",
+   "title": "North Korea appears to have launched various types of missiles yesterday: South Korea defence ministry",
+   "link": "https://www.financialjuice.com/News/9837824/North-Korea-appears-to-have-launched-various-types-of-missiles-yesterday-South-Korea-defence-ministry.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 01:45:51 GMT",
+   "desc": ""
+  },
   {
    "id": "9837808",
    "title": "Taiwan overnight interbank rate starts at 0.805% versus previous session open",
