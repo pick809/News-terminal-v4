@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-11-05T08:31:29.470533+00:00",
- "count": 18408,
+ "updated_at": "2026-11-05T16:43:49.583817+00:00",
+ "count": 18508,
  "items": [
+  {
+   "id": "9839215",
+   "title": "Meeting between Putin and Iran's Rezai is still ongoing at the Kremlin - Fars News",
+   "link": "https://www.financialjuice.com/News/9839215/Meeting-between-Putin-and-Irans-Rezai-is-still-ongoing-at-the-Kremlin---Fars-News.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:40:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839212",
+   "title": "Al-Mayadeen: Iran's Rezai discussed ending the war with Russian President Putin during their meeting",
+   "link": "https://www.financialjuice.com/News/9839212/Al-Mayadeen-Irans-Rezai-discussed-ending-the-war-with-Russian-President-Putin-during-their-meeting.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:36:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839211",
+   "title": "Iran reviewing ‘concrete proposals’ on the nuclear program - NYT.",
+   "link": "https://www.financialjuice.com/News/9839211/Iran-reviewing-concrete-proposals-on-the-nuclear-program---NYT.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:35:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839210",
+   "title": "US 4-Week Bill Auction",
+   "link": "https://www.financialjuice.com/News/9839210/US-4-Week-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:33:05 GMT",
+   "desc": "High Yield 3.890% Bid-to-cover 2.46 Sells $115 bln Awards 5.33% of bids at high"
+  },
+  {
+   "id": "9839209",
+   "title": "US 4-Week Bill Bid-to-Cover Actual 2.46 (Forecast -, Previous 3.100)",
+   "link": "https://www.financialjuice.com/News/9839209/US-4-Week-Bill-Bid-to-Cover-Actual-246-Forecast---Previous-3100.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:32:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839208",
+   "title": "US 4-Week Bill High Yield Actual 3.89% (Forecast -, Previous 3.910%)",
+   "link": "https://www.financialjuice.com/News/9839208/US-4-Week-Bill-High-Yield-Actual-389-Forecast---Previous-3910.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:32:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839180",
+   "title": "BoC's Gov. Macklem: Can't rule out escalation before US trade gets better",
+   "link": "https://www.financialjuice.com/News/9839180/BoCs-Gov-Macklem-Cant-rule-out-escalation-before-US-trade-gets-better.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:27:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839179",
+   "title": "BoC's Gov. Macklem: Optimistic we can get to lower US tariffs",
+   "link": "https://www.financialjuice.com/News/9839179/BoCs-Gov-Macklem-Optimistic-we-can-get-to-lower-US-tariffs.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:26:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839175",
+   "title": "Fed bids for 4-week bills total $8.3 bln",
+   "link": "https://www.financialjuice.com/News/9839175/Fed-bids-for-4-week-bills-total-83-bln.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:16:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839169",
+   "title": "Putin Envoy Dmitriev: Putin appreciates trump's peacemaking efforts",
+   "link": "https://www.financialjuice.com/News/9839169/Putin-Envoy-Dmitriev-Putin-appreciates-trumps-peacemaking-efforts.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:13:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839168",
+   "title": "ECB's President Lagarde: There are also demand shocks happening at the same time",
+   "link": "https://www.financialjuice.com/News/9839168/ECBs-President-Lagarde-There-are-also-demand-shocks-happening-at-the-same-time.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:13:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839167",
+   "title": "ECB's President Lagarde: Must pay attention to secondary effects of energy price shock",
+   "link": "https://www.financialjuice.com/News/9839167/ECBs-President-Lagarde-Must-pay-attention-to-secondary-effects-of-energy-price-shock.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:11:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839166",
+   "title": "French PM Lecornu to meet with unions and employers on Monday",
+   "link": "https://www.financialjuice.com/News/9839166/French-PM-Lecornu-to-meet-with-unions-and-employers-on-Monday.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:08:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839165",
+   "title": "Shield AI to hit $28.8 billion valuation with radar firm deal.",
+   "link": "https://www.financialjuice.com/News/9839165/Shield-AI-to-hit-288-billion-valuation-with-radar-firm-deal.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:02:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839164",
+   "title": "US Treasury Auction dates",
+   "link": "https://www.financialjuice.com/News/9839164/US-Treasury-Auction-dates.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:02:13 GMT",
+   "desc": "US to sell $82B 6-month bills on November 9th, to settle on November 12th &nbsp;US to sell $95B 3-month bills on November 9th, to settle on November 12th"
+  },
+  {
+   "id": "9839145",
+   "title": "BoE Gov. Bailey: Inflation is baked in currently due to the energy price cap.",
+   "link": "https://www.financialjuice.com/News/9839145/BoE-Gov-Bailey-Inflation-is-baked-in-currently-due-to-the-energy-price-cap.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:00:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839143",
+   "title": "BoE Gov. Bailey: Peace moves would bring limited relief from inflation",
+   "link": "https://www.financialjuice.com/News/9839143/BoE-Gov-Bailey-Peace-moves-would-bring-limited-relief-from-inflation.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:00:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839142",
+   "title": "BoE Gov. Bailey: The future decisions hinge on how fast inflation comes down.",
+   "link": "https://www.financialjuice.com/News/9839142/BoE-Gov-Bailey-The-future-decisions-hinge-on-how-fast-inflation-comes-down.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:00:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839141",
+   "title": "BoE Gov. Bailey: Inflation risks are on the upside, which could change",
+   "link": "https://www.financialjuice.com/News/9839141/BoE-Gov-Bailey-Inflation-risks-are-on-the-upside-which-could-change.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:00:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839137",
+   "title": "BoE Gov. Bailey: The BoE is watching the extent of inflation pass-through.",
+   "link": "https://www.financialjuice.com/News/9839137/BoE-Gov-Bailey-The-BoE-is-watching-the-extent-of-inflation-pass-through.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 16:00:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839134",
+   "title": "Standard Chartered expects the BoE to deliver a 25 bp rate hike in February 2027 vs the prior forecast of no rate hikes after November 2026.",
+   "link": "https://www.financialjuice.com/News/9839134/Standard-Chartered-expects-the-BoE-to-deliver-a-25-bp-rate-hike-in-February-2027-vs-the-prior-forecast-of-no-rate-hikes-after-November-2026.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:56:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839133",
+   "title": "ECB's President Lagarde: Don't expect US tariffs to be revisited right away.",
+   "link": "https://www.financialjuice.com/News/9839133/ECBs-President-Lagarde-Dont-expect-US-tariffs-to-be-revisited-right-away.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:55:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839132",
+   "title": "ECB’s President Lagarde: We will have many indicators between now and December",
+   "link": "https://www.financialjuice.com/News/9839132/ECBs-President-Lagarde-We-will-have-many-indicators-between-now-and-December.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:51:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839131",
+   "title": "ECB's President Lagarde: Still necessary to apply tools to avoid inflation running away",
+   "link": "https://www.financialjuice.com/News/9839131/ECBs-President-Lagarde-Still-necessary-to-apply-tools-to-avoid-inflation-running-away.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:49:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839130",
+   "title": "ECB's President Lagarde: Very difficult to disentangle supply-driven and demand-driven shocks.",
+   "link": "https://www.financialjuice.com/News/9839130/ECBs-President-Lagarde-Very-difficult-to-disentangle-supply-driven-and-demand-driven-shocks.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:47:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839129",
+   "title": "ECB's President Lagarde: The current situation is made hard by the energy shock and AI pulling in opposite directions.",
+   "link": "https://www.financialjuice.com/News/9839129/ECBs-President-Lagarde-The-current-situation-is-made-hard-by-the-energy-shock-and-AI-pulling-in-opposite-directions.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:47:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839102",
+   "title": "Microsoft Increases Oversight of Neocloud Providers Amid Data Center Delays and Rising Costs $MSFT",
+   "link": "https://www.financialjuice.com/News/9839102/Microsoft-Increases-Oversight-of-Neocloud-Providers-Amid-Data-Center-Delays-and-Rising-Costs-MSFT.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:42:55 GMT",
+   "desc": "Microsoft is increasing oversight of Nebius, IREN and Nscale amid concerns over data center delays and costs Microsoft&#39;s data center delays are reportedly linked to an IREN facility in Texas Microsoft has withdrawn from three Nscale projects Microsoft is reportedly becoming more cautious about neocloud partnerships due to construction delays and rising costs"
+  },
+  {
+   "id": "9839081",
+   "title": "EIA Natural Gas Change BCF Actual 77B (Forecast 78B, Previous 80B)",
+   "link": "https://www.financialjuice.com/News/9839081/EIA-Natural-Gas-Change-BCF-Actual-77B-Forecast-78B-Previous-80B.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839079",
+   "title": "Iran's Security Chief Rezaei delivers a message from the country's supreme leader, Mojtaba Khamenei, to Russia's Putin - State Media",
+   "link": "https://www.financialjuice.com/News/9839079/Irans-Security-Chief-Rezaei-delivers-a-message-from-the-countrys-supreme-leader-Mojtaba-Khamenei-to-Russias-Putin---State-Media.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:22:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839078",
+   "title": "Crypto Fear & Greed Index: 50/100 - Neutral",
+   "link": "https://www.financialjuice.com/News/9839078/Crypto-Fear--Greed-Index-50100---Neutral.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:18:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839077",
+   "title": "Fear & Greed Index: 27/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9839077/Fear--Greed-Index-27100---Fear.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:18:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839076",
+   "title": "BoE Bank Rate Past Market Reactions, Deviations, Summary & Sentiment - FJElite",
+   "link": "https://www.financialjuice.com/News/9839076/BoE-Bank-Rate-Past-Market-Reactions-Deviations-Summary--Sentiment---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:18:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839069",
+   "title": "Fed's Hammack: See potential strengthening of the labor market",
+   "link": "https://www.financialjuice.com/News/9839069/Feds-Hammack-See-potential-strengthening-of-the-labor-market.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:15:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839052",
+   "title": "Fed's Hammack: See inflationary pressures spilling across the economy",
+   "link": "https://www.financialjuice.com/News/9839052/Feds-Hammack-See-inflationary-pressures-spilling-across-the-economy.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:13:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839051",
+   "title": "Fed's Hammack: Six FOMC meetings from eight would be a modest shift",
+   "link": "https://www.financialjuice.com/News/9839051/Feds-Hammack-Six-FOMC-meetings-from-eight-would-be-a-modest-shift.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:08:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839050",
+   "title": "Fed's Barkin concludes Q&A",
+   "link": "https://www.financialjuice.com/News/9839050/Feds-Barkin-concludes-QA.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:04:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839049",
+   "title": "Fed's Barkin: Raising rates can affect demand and in time, oil prices",
+   "link": "https://www.financialjuice.com/News/9839049/Feds-Barkin-Raising-rates-can-affect-demand-and-in-time-oil-prices.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 15:03:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839028",
+   "title": "UBS cuts ARM Holdings' target price to $270 from $320. $ARM",
+   "link": "https://www.financialjuice.com/News/9839028/UBS-cuts-ARM-Holdings-target-price-to-270-from-320-ARM.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:57:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839026",
+   "title": "Fed's Hammack: Use of stablecoins by AI agents would be a big shift",
+   "link": "https://www.financialjuice.com/News/9839026/Feds-Hammack-Use-of-stablecoins-by-AI-agents-would-be-a-big-shift.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:51:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839001",
+   "title": "Fed's Barkin: Credit dynamics in the banking sector are \"reassuring\" at this point.",
+   "link": "https://www.financialjuice.com/News/9839001/Feds-Barkin-Credit-dynamics-in-the-banking-sector-are-reassuring-at-this-point.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:37:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838999",
+   "title": "Russia advises citizens to avoid travel to Iran - IFX",
+   "link": "https://www.financialjuice.com/News/9838999/Russia-advises-citizens-to-avoid-travel-to-Iran---IFX.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:36:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838998",
+   "title": "Fed's Barkin: Changing the pace of policy meetings has the advantage of a better flow of data for each session.",
+   "link": "https://www.financialjuice.com/News/9838998/Feds-Barkin-Changing-the-pace-of-policy-meetings-has-the-advantage-of-a-better-flow-of-data-for-each-session.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:33:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838997",
+   "title": "Fed's Barkin: A change in the number of policy-setting meetings is not a big deal.",
+   "link": "https://www.financialjuice.com/News/9838997/Feds-Barkin-A-change-in-the-number-of-policy-setting-meetings-is-not-a-big-deal.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:32:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838991",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9838991/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:30:35 GMT",
+   "desc": "S&amp;P 500: +64 mln Nasdaq 100: -66 mln Dow 30: -10 mln Mag 7: -13 mln"
+  },
+  {
+   "id": "9838985",
+   "title": "Fed's Barkin: Data centers, because of a lack of employees, do not have natural constituencies in the communities where they are located.",
+   "link": "https://www.financialjuice.com/News/9838985/Feds-Barkin-Data-centers-because-of-a-lack-of-employees-do-not-have-natural-constituencies-in-the-communities-where-they-are-located.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:27:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838984",
+   "title": "S&PGR rates Apple's sr unsecured notes \"a+\".",
+   "link": "https://www.financialjuice.com/News/9838984/SPGR-rates-Apples-sr-unsecured-notes-a.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:27:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838983",
+   "title": "Fitch: Major share of planned data center capacity may face regulatory hurdles under new gubernatorial regimes, particularly in Texas, Georgia, Ohio.",
+   "link": "https://www.financialjuice.com/News/9838983/Fitch-Major-share-of-planned-data-center-capacity-may-face-regulatory-hurdles-under-new-gubernatorial-regimes-particularly-in-Texas-Georgia-Ohio.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:27:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838982",
+   "title": "Russia's Putin and Iran's top security official Mohsen Rezai meet in Kremlin - IFX",
+   "link": "https://www.financialjuice.com/News/9838982/Russias-Putin-and-Irans-top-security-official-Mohsen-Rezai-meet-in-Kremlin---IFX.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:27:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838981",
+   "title": "Fed's Barkin: AI buildout has definitely had an inflationary impact in the near term.",
+   "link": "https://www.financialjuice.com/News/9838981/Feds-Barkin-AI-buildout-has-definitely-had-an-inflationary-impact-in-the-near-term.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:25:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838980",
+   "title": "Fed's Barkin: I do not think AI is what is currently driving productivity as much as adaptation to the labor shortages that began during the pandemic",
+   "link": "https://www.financialjuice.com/News/9838980/Feds-Barkin-I-do-not-think-AI-is-what-is-currently-driving-productivity-as-much-as-adaptation-to-the-labor-shortages-that-began-during-the-pandemic.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:24:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838979",
+   "title": "Fed's Barkin: I do not have a point of view about what will happen to fiscal policy following the election.",
+   "link": "https://www.financialjuice.com/News/9838979/Feds-Barkin-I-do-not-have-a-point-of-view-about-what-will-happen-to-fiscal-policy-following-the-election.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:22:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838978",
+   "title": "Fed's Barkin: The budget deficit is \"sizeable,\" fiscal policy over the past few years has been a tailwind for the economy.",
+   "link": "https://www.financialjuice.com/News/9838978/Feds-Barkin-The-budget-deficit-is-sizeable-fiscal-policy-over-the-past-few-years-has-been-a-tailwind-for-the-economy.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:21:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838977",
+   "title": "NFP Past Market Reactions & Deviations - FJElite",
+   "link": "https://www.financialjuice.com/News/9838977/NFP-Past-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:19:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838976",
+   "title": "Fed's Barkin: Inflation is the most important risk for the fed right now.",
+   "link": "https://www.financialjuice.com/News/9838976/Feds-Barkin-Inflation-is-the-most-important-risk-for-the-fed-right-now.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:19:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838975",
+   "title": "Fed's Barkin: Interest rates are probably not the top thing that would curb AI, but they will have some impact",
+   "link": "https://www.financialjuice.com/News/9838975/Feds-Barkin-Interest-rates-are-probably-not-the-top-thing-that-would-curb-AI-but-they-will-have-some-impact.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:18:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838974",
+   "title": "Fed's Barkin: AI is a big part of current strong demand.",
+   "link": "https://www.financialjuice.com/News/9838974/Feds-Barkin-AI-is-a-big-part-of-current-strong-demand.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:17:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838973",
+   "title": "Fed's Barkin: Policy right now is somewhere around neutral.",
+   "link": "https://www.financialjuice.com/News/9838973/Feds-Barkin-Policy-right-now-is-somewhere-around-neutral.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:17:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838957",
+   "title": "Fed's Barkin: The path on policy is straightforward; the issue now is pace and gradual \"makes sense\".",
+   "link": "https://www.financialjuice.com/News/9838957/Feds-Barkin-The-path-on-policy-is-straightforward-the-issue-now-is-pace-and-gradual-makes-sense.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:15:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838951",
+   "title": "Fed's Barkin: I do not anticipate inflaiton will accelerate, but also don't see it falling at this point",
+   "link": "https://www.financialjuice.com/News/9838951/Feds-Barkin-I-do-not-anticipate-inflaiton-will-accelerate-but-also-dont-see-it-falling-at-this-point.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:15:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838949",
+   "title": "Fed's Barkin: The set of cost pressures of the past 18 months, starting with tariffs, are broad based and firms feel they have to pass them along.",
+   "link": "https://www.financialjuice.com/News/9838949/Feds-Barkin-The-set-of-cost-pressures-of-the-past-18-months-starting-with-tariffs-are-broad-based-and-firms-feel-they-have-to-pass-them-along.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:13:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838948",
+   "title": "Fed's Barkin: I hear broadly that costs are high and increasing.",
+   "link": "https://www.financialjuice.com/News/9838948/Feds-Barkin-I-hear-broadly-that-costs-are-high-and-increasing.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:10:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838947",
+   "title": "Fed's Barkin: Earnings remain strong, and that is encouraging firms to invest and hold onto workers.",
+   "link": "https://www.financialjuice.com/News/9838947/Feds-Barkin-Earnings-remain-strong-and-that-is-encouraging-firms-to-invest-and-hold-onto-workers.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:10:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838946",
+   "title": "Today at noon, two other offending oil tankers collided with sea mines and caught fire in the insecure area east of the Strait of Hormuz - IRIB",
+   "link": "https://www.financialjuice.com/News/9838946/Today-at-noon-two-other-offending-oil-tankers-collided-with-sea-mines-and-caught-fire-in-the-insecure-area-east-of-the-Strait-of-Hormuz---IRIB.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:09:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838945",
+   "title": "Fed's Barkin: Demand is solid, and the economy is healthy.",
+   "link": "https://www.financialjuice.com/News/9838945/Feds-Barkin-Demand-is-solid-and-the-economy-is-healthy.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:08:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838944",
+   "title": "Fed's Barkin: Businesses are still cautious about hiring but are not yet firing",
+   "link": "https://www.financialjuice.com/News/9838944/Feds-Barkin-Businesses-are-still-cautious-about-hiring-but-are-not-yet-firing.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:08:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838943",
+   "title": "An increase in the number of oil tankers on fire in the east of the Strait of Hormuz - IRIB",
+   "link": "https://www.financialjuice.com/News/9838943/An-increase-in-the-number-of-oil-tankers-on-fire-in-the-east-of-the-Strait-of-Hormuz---IRIB.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:08:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838942",
+   "title": "Fed's Barkin: Demand in the economy is solid, though some sectors don't feel it.",
+   "link": "https://www.financialjuice.com/News/9838942/Feds-Barkin-Demand-in-the-economy-is-solid-though-some-sectors-dont-feel-it.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:08:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838941",
+   "title": "Supermicro launches KV cache solution with IBM and NVIDIA demonstrating significant inference performance benefits.",
+   "link": "https://www.financialjuice.com/News/9838941/Supermicro-launches-KV-cache-solution-with-IBM-and-NVIDIA-demonstrating-significant-inference-performance-benefits.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:05:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838940",
+   "title": "Apple seeks to raise up to $7 billion from US Dollar bond sale $AAPL",
+   "link": "https://www.financialjuice.com/News/9838940/Apple-seeks-to-raise-up-to-7-billion-from-US-Dollar-bond-sale-AAPL.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 14:03:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838912",
+   "title": "Effective Fed Funds Rate 3.88% November 4 vs 3.88% November 3",
+   "link": "https://www.financialjuice.com/News/9838912/Effective-Fed-Funds-Rate-388-November-4-vs-388-November-3.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:59:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838911",
+   "title": "Fed's Hammack: Hard to see the Dollar losing reserve status",
+   "link": "https://www.financialjuice.com/News/9838911/Feds-Hammack-Hard-to-see-the-Dollar-losing-reserve-status.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:51:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838910",
+   "title": "Fed's Hammack: US central bank has earned credibility through its actions.",
+   "link": "https://www.financialjuice.com/News/9838910/Feds-Hammack-US-central-bank-has-earned-credibility-through-its-actions.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:50:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838908",
+   "title": "Fed's Hammack: dollar's status owes to us institutions, legal system",
+   "link": "https://www.financialjuice.com/News/9838908/Feds-Hammack-dollars-status-owes-to-us-institutions-legal-system.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:50:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838907",
+   "title": "Fed's Hammack: Dollar remains word's top reserve currency.",
+   "link": "https://www.financialjuice.com/News/9838907/Feds-Hammack-Dollar-remains-words-top-reserve-currency.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:50:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838906",
+   "title": "Fed's Hammack: Gradual rate hikes are the best way to make sure the US Central Bank gets inflation back to 2%.",
+   "link": "https://www.financialjuice.com/News/9838906/Feds-Hammack-Gradual-rate-hikes-are-the-best-way-to-make-sure-the-US-Central-Bank-gets-inflation-back-to-2.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:50:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838905",
+   "title": "Fed's Hammack: Inflation has been too high, moving in wrong direction.",
+   "link": "https://www.financialjuice.com/News/9838905/Feds-Hammack-Inflation-has-been-too-high-moving-in-wrong-direction.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:50:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838904",
+   "title": "Fed's Hammack: US central bank's independence critical to get inflation to 2%.",
+   "link": "https://www.financialjuice.com/News/9838904/Feds-Hammack-US-central-banks-independence-critical-to-get-inflation-to-2.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:50:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838903",
+   "title": "Fed's Hammack: Gradual rate-hike path is the best way forward for monetary policy.",
+   "link": "https://www.financialjuice.com/News/9838903/Feds-Hammack-Gradual-rate-hike-path-is-the-best-way-forward-for-monetary-policy.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:50:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838902",
+   "title": "Fed's Hammack: Monetary policy needs to move to restrictive stance.",
+   "link": "https://www.financialjuice.com/News/9838902/Feds-Hammack-Monetary-policy-needs-to-move-to-restrictive-stance.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:50:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838901",
+   "title": "Fed's Hammack: Gradual rate hikes less disruptive to the economy and financial system.",
+   "link": "https://www.financialjuice.com/News/9838901/Feds-Hammack-Gradual-rate-hikes-less-disruptive-to-the-economy-and-financial-system.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:50:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838900",
+   "title": "China's He urges to enhance financial support for AI and computing.",
+   "link": "https://www.financialjuice.com/News/9838900/Chinas-He-urges-to-enhance-financial-support-for-AI-and-computing.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:47:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838878",
+   "title": "JPMorgan: Broadening Breadth Looks More Positioning-Driven Than a Fundamental Rotation - FJElite",
+   "link": "https://www.financialjuice.com/News/9838878/JPMorgan-Broadening-Breadth-Looks-More-Positioning-Driven-Than-a-Fundamental-Rotation---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:38:22 GMT",
+   "desc": "The latest broadening in market breadth appears to reflect positioning rather than a genuine shift in fundamentals. Investors are using short-dated calls to hedge popular shorts and underweight sectors, but there is little evidence of customers aggressively chasing laggards higher or flipping outright long. The clearest rotation is within TMT, where preference remains for large-cap quality names with strong financing access and control of compute, particularly hyperscalers. For AI, several conditions investors wanted before re-risking have now been met, including the passing of the midterms, reiterated capex guidance, semiconductor earnings, a positioning washout and improved capital-markets activity. However, the Democratic sweep has introduced a new regulatory overhang, leading investors to reassess valuations across the group. The setup is becoming more attractive, but conviction remains low and it is still difficult to call a bottom before more AI-related capital-markets events play out."
+  },
+  {
+   "id": "9838877",
+   "title": "Moonshot turned to Europe for Nvidia Blackwell access - CNBC $NVDA",
+   "link": "https://www.financialjuice.com/News/9838877/Moonshot-turned-to-Europe-for-Nvidia-Blackwell-access---CNBC-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:37:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838876",
+   "title": "Apple kicks off seven-part us dollar high-grade bond sale.",
+   "link": "https://www.financialjuice.com/News/9838876/Apple-kicks-off-seven-part-us-dollar-high-grade-bond-sale.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:36:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838875",
+   "title": "Goldman Sachs: Treasury Borrowing Outlook Points to Later Coupon Increases - FJElite",
+   "link": "https://www.financialjuice.com/News/9838875/Goldman-Sachs-Treasury-Borrowing-Outlook-Points-to-Later-Coupon-Increases---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:36:22 GMT",
+   "desc": "Treasury’s marketable borrowing estimates came in modestly above expectations, with $618bn projected for Q4 2026 and $800bn for Q1 2027. The higher Q1 figure mainly reflects a larger Treasury General Account target of $1tn versus an assumed $900bn. Nominal coupon, TIPS and FRN auction sizes were left unchanged, but Treasury softened its guidance by removing “at least” from the phrase that current sizes would remain in place for the next several quarters. TBAC also pointed more clearly to potential coupon auction changes in the second half of 2027, shifting expectations for increases to begin around August rather than May. Treasury remains comfortable with bill demand for now, supported by private-sector demand and SOMA purchases, though some signs of greater price sensitivity are emerging. That suggests any future auction-size increases are more likely to be concentrated in the 2- to 10-year sector, while long-end sizes are expected to stay unchanged, with some risk of modest reductions."
+  },
+  {
+   "id": "9838874",
+   "title": "Citi: Democratic Gains Pressure Yields and USD, but Executive Power Remains a Constraint - FJElite",
+   "link": "https://www.financialjuice.com/News/9838874/Citi-Democratic-Gains-Pressure-Yields-and-USD-but-Executive-Power-Remains-a-Constraint---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:34:24 GMT",
+   "desc": "Democrats have secured at least 54 Senate seats and 228 House seats, with the House tally likely to rise further as counting continues. Early market moves have followed the typical post-election pattern: yields lower on expectations of limited large-scale spending, the dollar weaker alongside yields, and equities higher as election-related implied volatility collapses and hedges are unwound. However, the result does not give Democrats a veto-proof majority, limiting their ability to overturn Trump’s agenda on their own. Trump has also relied heavily on executive orders and the courts rather than Congress, meaning control of both chambers does not necessarily translate into control over policy. Without two-thirds majorities, Democrats are unlikely to have enough votes to reverse many existing executive actions or prevent future ones."
+  },
+  {
+   "id": "9838873",
+   "title": "US Sentiment: The \"Midterm Trade\" Rotation Continues - FJElite",
+   "link": "https://www.financialjuice.com/News/9838873/US-Sentiment-The-Midterm-Trade-Rotation-Continues---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:32:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838850",
+   "title": "US Unit Labor Costs Prelim Actual -0.7% (Forecast 0.4%, Previous 1.2%, Revised 1.9%)",
+   "link": "https://www.financialjuice.com/News/9838850/US-Unit-Labor-Costs-Prelim-Actual--07-Forecast-04-Previous-12-Revised-19.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838849",
+   "title": "US Productivity Prelim Actual 3.6% (Forecast 2.7%, Previous 1.4%, Revised 2.1%)",
+   "link": "https://www.financialjuice.com/News/9838849/US-Productivity-Prelim-Actual-36-Forecast-27-Previous-14-Revised-21.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838848",
+   "title": "US Initial Jobless Claims Actual 189k (Forecast 196k, Previous 194k, Revised 195K)",
+   "link": "https://www.financialjuice.com/News/9838848/US-Initial-Jobless-Claims-Actual-189k-Forecast-196k-Previous-194k-Revised-195K.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838847",
+   "title": "US Continued Jobless Claims Actual 1.718M (Forecast 1.71M, Previous 1.701M, Revised 1.695M)",
+   "link": "https://www.financialjuice.com/News/9838847/US-Continued-Jobless-Claims-Actual-1718M-Forecast-171M-Previous-1701M-Revised-1695M.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838846",
+   "title": "SNB's Chairman Schlegel: We have the right tools to fight against inflation in the future.",
+   "link": "https://www.financialjuice.com/News/9838846/SNBs-Chairman-Schlegel-We-have-the-right-tools-to-fight-against-inflation-in-the-future.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:28:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838845",
+   "title": "SNB's Chairman Schlegel: At present we don't see a broadening of price pressures in Switzerland",
+   "link": "https://www.financialjuice.com/News/9838845/SNBs-Chairman-Schlegel-At-present-we-dont-see-a-broadening-of-price-pressures-in-Switzerland.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:28:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838844",
+   "title": "SNB's Chairman Schlegel: Swiss inflation at the moment mainly limited to fuel and energy.",
+   "link": "https://www.financialjuice.com/News/9838844/SNBs-Chairman-Schlegel-Swiss-inflation-at-the-moment-mainly-limited-to-fuel-and-energy.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:27:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838843",
+   "title": "BoE Gov. Bailey when asked about persistent above-target UK inflation: We have been in a world of very big supply shocks.",
+   "link": "https://www.financialjuice.com/News/9838843/BoE-Gov-Bailey-when-asked-about-persistent-above-target-UK-inflation-We-have-been-in-a-world-of-very-big-supply-shocks.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:19:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838824",
+   "title": "Russia's Ryazan oil refinery appears to have come under attack - Video analysis",
+   "link": "https://www.financialjuice.com/News/9838824/Russias-Ryazan-oil-refinery-appears-to-have-come-under-attack---Video-analysis.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:16:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838818",
+   "title": "BoE Gov. Bailey when asked on closer EU ties: He is in favour of greater trade and openness.",
+   "link": "https://www.financialjuice.com/News/9838818/BoE-Gov-Bailey-when-asked-on-closer-EU-ties-He-is-in-favour-of-greater-trade-and-openness.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:15:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838817",
+   "title": "BoE Gov. Bailey: I hope we will have more info by December on the war's outcome",
+   "link": "https://www.financialjuice.com/News/9838817/BoE-Gov-Bailey-I-hope-we-will-have-more-info-by-December-on-the-wars-outcome.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:13:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838816",
+   "title": "BoE's Lombardelli: Minimum wage rise is in line or below people's expectations.",
+   "link": "https://www.financialjuice.com/News/9838816/BoEs-Lombardelli-Minimum-wage-rise-is-in-line-or-below-peoples-expectations.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:11:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9838815",
+   "title": "BoE's Lombardelli: We do not see public-sector wages as a particular risk.",
+   "link": "https://www.financialjuice.com/News/9838815/BoEs-Lombardelli-We-do-not-see-public-sector-wages-as-a-particular-risk.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 13:11:05 GMT",
+   "desc": ""
+  },
   {
    "id": "9838338",
    "title": "German Chamber of Commerce sees 2027 GDP growth at 1%.",
