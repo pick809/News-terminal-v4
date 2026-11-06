@@ -1,7 +1,483 @@
 {
- "updated_at": "2026-11-06T16:56:49.247657+00:00",
- "count": 18755,
+ "updated_at": "2026-11-06T21:54:34.047353+00:00",
+ "count": 18823,
  "items": [
+  {
+   "id": "9841473",
+   "title": "USD CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841473/USD-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841472",
+   "title": "EUR CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841472/EUR-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841471",
+   "title": "AUD CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841471/AUD-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841470",
+   "title": "JPY CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841470/JPY-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841469",
+   "title": "GBP CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841469/GBP-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841468",
+   "title": "CHF CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841468/CHF-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841467",
+   "title": "NZD CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841467/NZD-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841466",
+   "title": "CAD CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841466/CAD-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841465",
+   "title": "ZN CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841465/ZN-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841464",
+   "title": "ZT CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841464/ZT-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841463",
+   "title": "VIX CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841463/VIX-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841462",
+   "title": "NQ CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841462/NQ-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841461",
+   "title": "ES CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841461/ES-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841460",
+   "title": "WTI CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841460/WTI-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841459",
+   "title": "Copper CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841459/Copper-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841458",
+   "title": "Gold CFTC Positions Week of November 3rd - FJElite",
+   "link": "https://www.financialjuice.com/News/9841458/Gold-CFTC-Positions-Week-of-November-3rd---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 21:10:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841435",
+   "title": "OpenAI closes $11 billion of new round at $1.25 trillion value; initial funding commitments were wired as of Friday.",
+   "link": "https://www.financialjuice.com/News/9841435/OpenAI-closes-11-billion-of-new-round-at-125-trillion-value-initial-funding-commitments-were-wired-as-of-Friday.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 20:59:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841434",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9841434/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 20:50:30 GMT",
+   "desc": "S&amp;P 500: -291 mln Nasdaq 100: +33 mln Dow 30: +442 mln Mag 7: +313 mln"
+  },
+  {
+   "id": "9841414",
+   "title": "CFTC Positions in the Week of November 3rd 2026",
+   "link": "https://www.financialjuice.com/News/9841414/CFTC-Positions-in-the-Week-of-November-3rd-2026.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 20:41:49 GMT",
+   "desc": "Equity fund speculators trim S&amp;P 500 CME net short position by 27,501 contracts to 345,246 Equity fund managers raise S&amp;P 500 CME net long position by 55 contracts to 917,568 Speculators increase CBOT US 5-year Treasury futures net short position by 246,314 contracts to 1,275,370 Speculators trim CBOT US 10-year Treasury futures net short position by 19,179 contracts to 962,359 Speculators trim CBOT US 2-year Treasury futures net short position by 6,932 contracts to 1,002,544 Speculators trim CBOT US UltraBond Treasury futures net short position by 21,646 contracts to 361,932 Speculators trim CBOT US Treasury bonds futures net short position by 10,041 contracts to 9,097 Bitcoin net long position is 2,230 contracts Swiss franc posts net short position of -16,589 contracts British pound net short position is -59,821 contracts Euro net short position is -157,791 contracts Japanese yen net long position is 102,321 contracts"
+  },
+  {
+   "id": "9841399",
+   "title": "Monday FX Options Expiries",
+   "link": "https://www.financialjuice.com/News/9841399/Monday-FX-Options-Expiries.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 20:22:27 GMT",
+   "desc": "EUR/USD: 1.1300 (EU1.72b), 1.1190 (EU1.46b), 1.1150 (EU1.36b) USD/JPY: 159.50 ($750m), 157.00 ($520m), 156.00 ($455m) AUD/USD: 0.7020 (AUD484m), 0.7150 (AUD308.5m) GBP/USD: 1.3400 (GBP751m) USD/MXN: 18.50 ($455.2m) USD/CAD: 1.3990 ($405.3m), 1.3960 ($355m), 1.4240 ($312.4m) NZD/USD: 0.5525 (NZD325.9m), 0.5600 (NZD313.9m)"
+  },
+  {
+   "id": "9841398",
+   "title": "IBM unveils its most advanced quantum computer in Chicago, marking a milestone for Illinois's quantum future. $IBM",
+   "link": "https://www.financialjuice.com/News/9841398/IBM-unveils-its-most-advanced-quantum-computer-in-Chicago-marking-a-milestone-for-Illinoiss-quantum-future-IBM.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 20:16:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841388",
+   "title": "US Consumer Credit Actual 27.839B (Forecast 13.8B, Previous 8.28B)",
+   "link": "https://www.financialjuice.com/News/9841388/US-Consumer-Credit-Actual-27839B-Forecast-138B-Previous-828B.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 20:00:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841387",
+   "title": "Trump ends remarks to reporters",
+   "link": "https://www.financialjuice.com/News/9841387/Trump-ends-remarks-to-reporters.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:51:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841386",
+   "title": "Trump: We're talking to Iran, we have been.",
+   "link": "https://www.financialjuice.com/News/9841386/Trump-Were-talking-to-Iran-we-have-been.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:51:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841385",
+   "title": "Trump blames vote for stock market loss",
+   "link": "https://www.financialjuice.com/News/9841385/Trump-blames-vote-for-stock-market-loss.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:50:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841384",
+   "title": "Trump: Had most incredible job numbers.",
+   "link": "https://www.financialjuice.com/News/9841384/Trump-Had-most-incredible-job-numbers.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:49:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841366",
+   "title": "Brent Crude futures settle at $98.32/bbl, up 3 cents, 0.03%",
+   "link": "https://www.financialjuice.com/News/9841366/Brent-Crude-futures-settle-at-9832bbl-up-3-cents-003.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:41:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841365",
+   "title": "Move aimed at easing freight rates and oil prices",
+   "link": "https://www.financialjuice.com/News/9841365/Move-aimed-at-easing-freight-rates-and-oil-prices.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:41:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841364",
+   "title": "Oil traders are in talks with US to use sanctioned tankers",
+   "link": "https://www.financialjuice.com/News/9841364/Oil-traders-are-in-talks-with-US-to-use-sanctioned-tankers.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:40:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841363",
+   "title": "NYMEX diesel Dec. futures settle at $4.3317 a gallon",
+   "link": "https://www.financialjuice.com/News/9841363/NYMEX-diesel-Dec-futures-settle-at-43317-a-gallon.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:32:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841362",
+   "title": "NYMEX gasoline Dec. futures settle at $2.7767 a gallon",
+   "link": "https://www.financialjuice.com/News/9841362/NYMEX-gasoline-Dec-futures-settle-at-27767-a-gallon.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:31:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841361",
+   "title": "NYMEX Nat Gas Dec. futures settle at $2.9980/MMBTU",
+   "link": "https://www.financialjuice.com/News/9841361/NYMEX-Nat-Gas-Dec-futures-settle-at-29980MMBTU.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:31:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841360",
+   "title": "NYMEX WTI Crude Dec. futures settle at $90.83 a barrel up 31 cents, 0.34%",
+   "link": "https://www.financialjuice.com/News/9841360/NYMEX-WTI-Crude-Dec-futures-settle-at-9083-a-barrel-up-31-cents-034.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:31:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841347",
+   "title": "Europe insists Putin end war before discussing Russian concerns",
+   "link": "https://www.financialjuice.com/News/9841347/Europe-insists-Putin-end-war-before-discussing-Russian-concerns.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 19:20:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841319",
+   "title": "USTR Greer: China needs to implement agricultural and rare earths commitments",
+   "link": "https://www.financialjuice.com/News/9841319/USTR-Greer-China-needs-to-implement-agricultural-and-rare-earths-commitments.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:55:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841318",
+   "title": "Google buys Crusoe’s Wyoming data center site $GOOGL",
+   "link": "https://www.financialjuice.com/News/9841318/Google-buys-Crusoes-Wyoming-data-center-site-GOOGL.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:48:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841297",
+   "title": "Musk: Still sees SpaceX annualized Revenue above $500b in December 2027 $SPCX",
+   "link": "https://www.financialjuice.com/News/9841297/Musk-Still-sees-SpaceX-annualized-Revenue-above-500b-in-December-2027-SPCX.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:44:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841296",
+   "title": "Musk: See SpaceX 4Q revenue up 'something like' 70% from 3Q $SPCX",
+   "link": "https://www.financialjuice.com/News/9841296/Musk-See-SpaceX-4Q-revenue-up-something-like-70-from-3Q-SPCX.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:33:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841277",
+   "title": "Council of Economic Advisers Chair Phelan: I don't predict a recession at all",
+   "link": "https://www.financialjuice.com/News/9841277/Council-of-Economic-Advisers-Chair-Phelan-I-dont-predict-a-recession-at-all.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:31:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841273",
+   "title": "Council of Economic Advisers Chair Phelan: we'll need to see the next CPI to see what the Fed will do",
+   "link": "https://www.financialjuice.com/News/9841273/Council-of-Economic-Advisers-Chair-Phelan-well-need-to-see-the-next-CPI-to-see-what-the-Fed-will-do.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:25:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841271",
+   "title": "Fed's Daly: Services inflation not coming down in the way we would expect",
+   "link": "https://www.financialjuice.com/News/9841271/Feds-Daly-Services-inflation-not-coming-down-in-the-way-we-would-expect.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:22:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841270",
+   "title": "Fed's Daly: Rates could be slightly restrictive to neutral",
+   "link": "https://www.financialjuice.com/News/9841270/Feds-Daly-Rates-could-be-slightly-restrictive-to-neutral.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:21:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841260",
+   "title": "Fed's Daly: When you step back from 'painful' volatility, this is the kind of rebalancing that you would hope for",
+   "link": "https://www.financialjuice.com/News/9841260/Feds-Daly-When-you-step-back-from-painful-volatility-this-is-the-kind-of-rebalancing-that-you-would-hope-for.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:13:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841259",
+   "title": "Canada's Prime Minister Carney: We are talking to China about next steps on trade development",
+   "link": "https://www.financialjuice.com/News/9841259/Canadas-Prime-Minister-Carney-We-are-talking-to-China-about-next-steps-on-trade-development.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:10:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841258",
+   "title": "Council of Economic Advisers Chair Phelan: Don't think the Fed will see the job report as inflationary",
+   "link": "https://www.financialjuice.com/News/9841258/Council-of-Economic-Advisers-Chair-Phelan-Dont-think-the-Fed-will-see-the-job-report-as-inflationary.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:09:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841257",
+   "title": "Fed's Daly: Businesses are cautiously optimistic about outlook",
+   "link": "https://www.financialjuice.com/News/9841257/Feds-Daly-Businesses-are-cautiously-optimistic-about-outlook.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:08:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841256",
+   "title": "Fed's Daly: If AI repricing signals slowing of demand growth might come down a little",
+   "link": "https://www.financialjuice.com/News/9841256/Feds-Daly-If-AI-repricing-signals-slowing-of-demand-growth-might-come-down-a-little.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:08:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841255",
+   "title": "Fed's Daly: AI repricing trade has been orderly so far",
+   "link": "https://www.financialjuice.com/News/9841255/Feds-Daly-AI-repricing-trade-has-been-orderly-so-far.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:07:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841254",
+   "title": "Fed's Daly: Was good to hold at the last meeting due to uncertainty",
+   "link": "https://www.financialjuice.com/News/9841254/Feds-Daly-Was-good-to-hold-at-the-last-meeting-due-to-uncertainty.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:06:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841253",
+   "title": "Fed's Daly: Will have to tighten policy further",
+   "link": "https://www.financialjuice.com/News/9841253/Feds-Daly-Will-have-to-tighten-policy-further.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:06:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841252",
+   "title": "Fed's Daly: Solid job market gives latitude to get inflation job done",
+   "link": "https://www.financialjuice.com/News/9841252/Feds-Daly-Solid-job-market-gives-latitude-to-get-inflation-job-done.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:06:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841251",
+   "title": "Fed's Daly: I would like my confidence about inflation to be higher",
+   "link": "https://www.financialjuice.com/News/9841251/Feds-Daly-I-would-like-my-confidence-about-inflation-to-be-higher.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:05:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841250",
+   "title": "Fed's Daly: Wage growth isn't booming",
+   "link": "https://www.financialjuice.com/News/9841250/Feds-Daly-Wage-growth-isnt-booming.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:03:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841249",
+   "title": "Fed's Daly: Job report good news - CNBC",
+   "link": "https://www.financialjuice.com/News/9841249/Feds-Daly-Job-report-good-news---CNBC.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:03:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841248",
+   "title": "Meta's Muse launches spaces for custom in-app experiences, letting users build personalized spaces via prompts $META",
+   "link": "https://www.financialjuice.com/News/9841248/Metas-Muse-launches-spaces-for-custom-in-app-experiences-letting-users-build-personalized-spaces-via-prompts-META.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:02:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841247",
+   "title": "US Baker Hughes Oil Rig Count Actual 463 (Forecast -, Previous 462)",
+   "link": "https://www.financialjuice.com/News/9841247/US-Baker-Hughes-Oil-Rig-Count-Actual-463-Forecast---Previous-462.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:01:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841236",
+   "title": "US Baker Hughes Total Rig Count Actual 604 (Forecast -, Previous 603)",
+   "link": "https://www.financialjuice.com/News/9841236/US-Baker-Hughes-Total-Rig-Count-Actual-604-Forecast---Previous-603.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 18:00:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841231",
+   "title": "Canada's PM Carney: We will continue to work with the Americans to get a trade deal that works for Canada.",
+   "link": "https://www.financialjuice.com/News/9841231/Canadas-PM-Carney-We-will-continue-to-work-with-the-Americans-to-get-a-trade-deal-that-works-for-Canada.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:56:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841230",
+   "title": "Canadian Employment Change Market Reactions, Deviations & Sentiment - FJElite",
+   "link": "https://www.financialjuice.com/News/9841230/Canadian-Employment-Change-Market-Reactions-Deviations--Sentiment---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:55:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841206",
+   "title": "Microsoft Winds Down Oracle AI Compute Deal $ORCL $MSFT",
+   "link": "https://www.financialjuice.com/News/9841206/Microsoft-Winds-Down-Oracle-AI-Compute-Deal-ORCL-MSFT.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:38:56 GMT",
+   "desc": "Microsoft is scaling back rented AI computing capacity from Oracle after choosing not to renew parts of the agreement. The capacity had become less useful as it relied on older-generation Nvidia chips that no longer matched Microsoft’s specifications, prompting the company to turn off the rented infrastructure over recent months. The move forms part of a broader reassessment of Microsoft’s cloud partnerships and AI infrastructure spending. Oracle maintains that demand for its AI infrastructure remains strong, including for older GPUs, and said in September that some four-year-old GPU contracts were being renewed at a 20% premium to original pricing."
+  },
+  {
+   "id": "9841205",
+   "title": "Microsoft is winding down its Oracle deal to rent AI cloud capacity. $MSFT $ORCL",
+   "link": "https://www.financialjuice.com/News/9841205/Microsoft-is-winding-down-its-Oracle-deal-to-rent-AI-cloud-capacity-MSFT-ORCL.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:36:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841204",
+   "title": "NFP Market Reactions, Deviations & Sentiment - FJElite",
+   "link": "https://www.financialjuice.com/News/9841204/NFP-Market-Reactions-Deviations--Sentiment---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:36:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841203",
+   "title": "US Treasury Secretary Bessent: We told China to fully, and immediately honor its commitments.",
+   "link": "https://www.financialjuice.com/News/9841203/US-Treasury-Secretary-Bessent-We-told-China-to-fully-and-immediately-honor-its-commitments.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:32:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841202",
+   "title": "US Treasury Secretary Bessent: USTR Greer and I spoke with Vice Premier He Lifeng about the US-China economic relationship.",
+   "link": "https://www.financialjuice.com/News/9841202/US-Treasury-Secretary-Bessent-USTR-Greer-and-I-spoke-with-Vice-Premier-He-Lifeng-about-the-US-China-economic-relationship.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:31:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841194",
+   "title": "Qatar PM: The US and Iran should accept a good deal over a perfect one.",
+   "link": "https://www.financialjuice.com/News/9841194/Qatar-PM-The-US-and-Iran-should-accept-a-good-deal-over-a-perfect-one.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:30:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841193",
+   "title": "Qatar PM: The US and Iran won't be able to make a \"perfect deal\".",
+   "link": "https://www.financialjuice.com/News/9841193/Qatar-PM-The-US-and-Iran-wont-be-able-to-make-a-perfect-deal.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:29:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841192",
+   "title": "Putin and the Russian Security Council discuss upcoming Ukraine talks.",
+   "link": "https://www.financialjuice.com/News/9841192/Putin-and-the-Russian-Security-Council-discuss-upcoming-Ukraine-talks.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:27:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9841191",
+   "title": "The US warns China that it must ‘immediately’ meet terms of Busan trade truce - FT.",
+   "link": "https://www.financialjuice.com/News/9841191/The-US-warns-China-that-it-must-immediately-meet-terms-of-Busan-trade-truce---FT.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 17:23:22 GMT",
+   "desc": ""
+  },
   {
    "id": "9841157",
    "title": "Trump Heads to Florida After Departure From Washington - WATCH LIVE",
