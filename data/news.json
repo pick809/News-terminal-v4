@@ -1,7 +1,301 @@
 {
- "updated_at": "2026-11-05T22:20:08.419427+00:00",
- "count": 18548,
+ "updated_at": "2026-11-06T02:33:36.239293+00:00",
+ "count": 18590,
  "items": [
+  {
+   "id": "9839828",
+   "title": "Yield on China's 10-year government bonds falls to 1.581% in early trade, nearing record low",
+   "link": "https://www.financialjuice.com/News/9839828/Yield-on-Chinas-10-year-government-bonds-falls-to-1581-in-early-trade-nearing-record-low.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 01:40:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839827",
+   "title": "China's 10-year treasury futures hit record high in early trade",
+   "link": "https://www.financialjuice.com/News/9839827/Chinas-10-year-treasury-futures-hit-record-high-in-early-trade.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 01:38:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839826",
+   "title": "World Liberty Financial: plan to finance buybacks with initial allocation possibly including fees from USD1 reserves and other sources",
+   "link": "https://www.financialjuice.com/News/9839826/World-Liberty-Financial-plan-to-finance-buybacks-with-initial-allocation-possibly-including-fees-from-USD1-reserves-and-other-sources.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 01:38:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839825",
+   "title": "World Liberty Financial: to introduce new WLFI token repurchase program",
+   "link": "https://www.financialjuice.com/News/9839825/World-Liberty-Financial-to-introduce-new-WLFI-token-repurchase-program.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 01:36:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839824",
+   "title": "Taiwan deputy finance minister: Taiwan's fundamentals currently remain very strong, stable",
+   "link": "https://www.financialjuice.com/News/9839824/Taiwan-deputy-finance-minister-Taiwans-fundamentals-currently-remain-very-strong-stable.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 01:36:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839823",
+   "title": "Taiwan deputy finance minister: fund may hold emergency meeting if market turns disorderly or confidence breaks down",
+   "link": "https://www.financialjuice.com/News/9839823/Taiwan-deputy-finance-minister-fund-may-hold-emergency-meeting-if-market-turns-disorderly-or-confidence-breaks-down.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 01:33:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839821",
+   "title": "Taiwan deputy finance minister: national stabilization fund closely tracking stock market and global political, economic shifts",
+   "link": "https://www.financialjuice.com/News/9839821/Taiwan-deputy-finance-minister-national-stabilization-fund-closely-tracking-stock-market-and-global-political-economic-shifts.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 01:33:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839800",
+   "title": "China cbank pumps 226 bln yuan via overnight reverse repos at 1.25%: statement",
+   "link": "https://www.financialjuice.com/News/9839800/China-cbank-pumps-226-bln-yuan-via-overnight-reverse-repos-at-125-statement.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 01:21:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839773",
+   "title": "Japan PM Takaichi: Proceeds from BoJ's accelerated ETF sales can fund bonds to help government secure funds for public spending targeting public investment",
+   "link": "https://www.financialjuice.com/News/9839773/Japan-PM-Takaichi-Proceeds-from-BoJs-accelerated-ETF-sales-can-fund-bonds-to-help-government-secure-funds-for-public-spending-targeting-public-investment.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 00:49:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839772",
+   "title": "Japan PM Takaichi: Proceeds from BoJ ETF sales reflect Japan's economic growth, should be used to promote further growth and a virtuous economic cycle",
+   "link": "https://www.financialjuice.com/News/9839772/Japan-PM-Takaichi-Proceeds-from-BoJ-ETF-sales-reflect-Japans-economic-growth-should-be-used-to-promote-further-growth-and-a-virtuous-economic-cycle.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 00:47:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839760",
+   "title": "Japan PM Takaichi: aim to use proceeds from BoJ’s faster ETF sales to fund spending on key areas for Japan's economic security",
+   "link": "https://www.financialjuice.com/News/9839760/Japan-PM-Takaichi-aim-to-use-proceeds-from-BoJs-faster-ETF-sales-to-fund-spending-on-key-areas-for-Japans-economic-security.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 00:46:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839756",
+   "title": "Japan PM Takaichi: market turbulence impacting not only Japan but nations worldwide, so monitoring progress closely",
+   "link": "https://www.financialjuice.com/News/9839756/Japan-PM-Takaichi-market-turbulence-impacting-not-only-Japan-but-nations-worldwide-so-monitoring-progress-closely.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 00:31:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839755",
+   "title": "Japan PM Takaichi: Focus on measures to reinforce economy by enhancing areas with competitive edge",
+   "link": "https://www.financialjuice.com/News/9839755/Japan-PM-Takaichi-Focus-on-measures-to-reinforce-economy-by-enhancing-areas-with-competitive-edge.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 00:31:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839754",
+   "title": "Japan PM Takaichi: aware AI, chip shares dropping sharply, unsure if temporary or lasting",
+   "link": "https://www.financialjuice.com/News/9839754/Japan-PM-Takaichi-aware-AI-chip-shares-dropping-sharply-unsure-if-temporary-or-lasting.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 00:31:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839752",
+   "title": "China PBOC expected to fix yuan midpoint at 6.6762 per dollar: estimate",
+   "link": "https://www.financialjuice.com/News/9839752/China-PBOC-expected-to-fix-yuan-midpoint-at-66762-per-dollar-estimate.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 00:22:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839738",
+   "title": "Saudi civil defense: threat has ended in Najran region",
+   "link": "https://www.financialjuice.com/News/9839738/Saudi-civil-defense-threat-has-ended-in-Najran-region.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 00:10:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839737",
+   "title": "Saudi civil defense issues advance alert in Najran region",
+   "link": "https://www.financialjuice.com/News/9839737/Saudi-civil-defense-issues-advance-alert-in-Najran-region.aspx?xy=rss",
+   "pubDate": "Fri, 06 Nov 2026 00:07:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839717",
+   "title": "Japanese Foreign Stock Investment Actual 1,077.7B (Forecast -, Previous 288.1B)",
+   "link": "https://www.financialjuice.com/News/9839717/Japanese-Foreign-Stock-Investment-Actual-10777B-Forecast---Previous-2881B.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:52:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839716",
+   "title": "Foreign Investment Japanese Bonds Actual 1,481.7B (Forecast -, Previous 43.3B)",
+   "link": "https://www.financialjuice.com/News/9839716/Foreign-Investment-Japanese-Bonds-Actual-14817B-Forecast---Previous-433B.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:52:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839715",
+   "title": "Foreign Investment Japanese Stocks Actual 1,129.3B (Forecast -, Previous 1,180.9B ,Revision 1,182.2B)",
+   "link": "https://www.financialjuice.com/News/9839715/Foreign-Investment-Japanese-Stocks-Actual-11293B-Forecast---Previous-11809B-Revision-11822B.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:51:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839714",
+   "title": "Japanese Foreign Bond Investment Actual 1,312.0B (Forecast -, Previous -92.6B)",
+   "link": "https://www.financialjuice.com/News/9839714/Japanese-Foreign-Bond-Investment-Actual-13120B-Forecast---Previous--926B.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:51:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839700",
+   "title": "S.Korea finance minister: to implement trade agreement with US and increase communication with Congress and state governments",
+   "link": "https://www.financialjuice.com/News/9839700/SKorea-finance-minister-to-implement-trade-agreement-with-US-and-increase-communication-with-Congress-and-state-governments.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:38:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839699",
+   "title": "S. Korea finmin: to track effect of US trade and industry policy shifts on domestic firms",
+   "link": "https://www.financialjuice.com/News/9839699/S-Korea-finmin-to-track-effect-of-US-trade-and-industry-policy-shifts-on-domestic-firms.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:37:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839698",
+   "title": "S.Korea finmin: to take necessary steps to prevent stock market from overreacting relative to fundamentals",
+   "link": "https://www.financialjuice.com/News/9839698/SKorea-finmin-to-take-necessary-steps-to-prevent-stock-market-from-overreacting-relative-to-fundamentals.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:36:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839697",
+   "title": "S.Korea finmin: cannot dismiss spillover impact of US stock market slump on global markets",
+   "link": "https://www.financialjuice.com/News/9839697/SKorea-finmin-cannot-dismiss-spillover-impact-of-US-stock-market-slump-on-global-markets.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:35:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839696",
+   "title": "S.Korea finance minister: US midterm election a key turning point for global economic, trade landscape",
+   "link": "https://www.financialjuice.com/News/9839696/SKorea-finance-minister-US-midterm-election-a-key-turning-point-for-global-economic-trade-landscape.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:34:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839695",
+   "title": "Some potential Anthropic investors aim for valuation of $1.5 trillion at the high end, sources say",
+   "link": "https://www.financialjuice.com/News/9839695/Some-potential-Anthropic-investors-aim-for-valuation-of-15-trillion-at-the-high-end-sources-say.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:33:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839694",
+   "title": "Anthropic IPO may face delay amid AI-driven market selloff: potential investors",
+   "link": "https://www.financialjuice.com/News/9839694/Anthropic-IPO-may-face-delay-amid-AI-driven-market-selloff-potential-investors.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:33:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839673",
+   "title": "Japanese Overtime Pay Actual 3.6% (Forecast -, Previous 5.2% ,Revision 4.9%)",
+   "link": "https://www.financialjuice.com/News/9839673/Japanese-Overtime-Pay-Actual-36-Forecast---Previous-52-Revision-49.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:31:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839674",
+   "title": "Japan September overtime pay rises 3.6% year on year: govt",
+   "link": "https://www.financialjuice.com/News/9839674/Japan-September-overtime-pay-rises-36-year-on-year-govt.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839672",
+   "title": "Japan September total cash earnings rise 4.6% year on year: govt",
+   "link": "https://www.financialjuice.com/News/9839672/Japan-September-total-cash-earnings-rise-46-year-on-year-govt.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839671",
+   "title": "Japan september inflation-adjusted real wages rise 2.2% yr/yr: govt",
+   "link": "https://www.financialjuice.com/News/9839671/Japan-september-inflation-adjusted-real-wages-rise-22-yryr-govt.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839670",
+   "title": "Japanese Average Cash Earnings YoY Actual 4.6% (Forecast 3.8%, Previous 3.8%)",
+   "link": "https://www.financialjuice.com/News/9839670/Japanese-Average-Cash-Earnings-YoY-Actual-46-Forecast-38-Previous-38.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839669",
+   "title": "Japan government allocates 10 billion yen from reserve for cybersecurity efforts",
+   "link": "https://www.financialjuice.com/News/9839669/Japan-government-allocates-10-billion-yen-from-reserve-for-cybersecurity-efforts.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:29:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839667",
+   "title": "Major investors skeptical anthropic ipo can reach $1.5 trillion value: wsj",
+   "link": "https://www.financialjuice.com/News/9839667/Major-investors-skeptical-anthropic-ipo-can-reach-15-trillion-value-wsj.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:19:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839666",
+   "title": "Trump: we will shortly, one way or another, be bigger and stronger than ever before",
+   "link": "https://www.financialjuice.com/News/9839666/Trump-we-will-shortly-one-way-or-another-be-bigger-and-stronger-than-ever-before.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:19:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839665",
+   "title": "Trump: stock market endured one of worst days in history following election results",
+   "link": "https://www.financialjuice.com/News/9839665/Trump-stock-market-endured-one-of-worst-days-in-history-following-election-results.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 23:19:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839630",
+   "title": "Amazon: project to create at least 550 full-time jobs with wages significantly exceeding county average",
+   "link": "https://www.financialjuice.com/News/9839630/Amazon-project-to-create-at-least-550-full-time-jobs-with-wages-significantly-exceeding-county-average.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 22:45:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839629",
+   "title": "Amazon plans data center campus near Glen Rose on Vistra Corp land adjacent to Comanche Peak nuclear power plant",
+   "link": "https://www.financialjuice.com/News/9839629/Amazon-plans-data-center-campus-near-Glen-Rose-on-Vistra-Corp-land-adjacent-to-Comanche-Peak-nuclear-power-plant.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 22:44:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839604",
+   "title": "US Secretary of State Rubio: working for Trump through end of his term has always been my plan",
+   "link": "https://www.financialjuice.com/News/9839604/US-Secretary-of-State-Rubio-working-for-Trump-through-end-of-his-term-has-always-been-my-plan.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 22:29:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839603",
+   "title": "Rubio denies reports he'll quit roles to run for president - NYT",
+   "link": "https://www.financialjuice.com/News/9839603/Rubio-denies-reports-hell-quit-roles-to-run-for-president---NYT.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 22:28:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9839602",
+   "title": "Apple plans $7.5 billion note sale in seven tranches: term sheet seen by source",
+   "link": "https://www.financialjuice.com/News/9839602/Apple-plans-75-billion-note-sale-in-seven-tranches-term-sheet-seen-by-source.aspx?xy=rss",
+   "pubDate": "Thu, 05 Nov 2026 22:24:53 GMT",
+   "desc": ""
+  },
   {
    "id": "9839556",
    "title": "Trump ends remarks at the White House.",
