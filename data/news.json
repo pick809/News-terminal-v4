@@ -1,7 +1,196 @@
 {
- "updated_at": "2026-11-08T22:53:59.347100+00:00",
- "count": 18962,
+ "updated_at": "2026-11-09T02:13:37.886737+00:00",
+ "count": 18989,
  "items": [
+  {
+   "id": "9842643",
+   "title": "South Korea industry vice minister: Nvidia's current issues won't impact country's contracted GPU supply",
+   "link": "https://www.financialjuice.com/News/9842643/South-Korea-industry-vice-minister-Nvidias-current-issues-wont-impact-countrys-contracted-GPU-supply.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 01:42:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842642",
+   "title": "Drones strike industrial zone in Kirishi in Russia's Leningrad region: officials",
+   "link": "https://www.financialjuice.com/News/9842642/Drones-strike-industrial-zone-in-Kirishi-in-Russias-Leningrad-region-officials.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 01:41:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842637",
+   "title": "Chinese CPI MoM Actual 0.0% (Forecast -, Previous 0.2%)",
+   "link": "https://www.financialjuice.com/News/9842637/Chinese-CPI-MoM-Actual-00-Forecast---Previous-02.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 01:32:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842633",
+   "title": "Chinese CPI YoY Actual 0.7% (Forecast 0.8%, Previous 0.9%)",
+   "link": "https://www.financialjuice.com/News/9842633/Chinese-CPI-YoY-Actual-07-Forecast-08-Previous-09.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 01:32:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842631",
+   "title": "Chinese PPI YoY Actual 5.7% (Forecast 5.3%, Previous 5.0%)",
+   "link": "https://www.financialjuice.com/News/9842631/Chinese-PPI-YoY-Actual-57-Forecast-53-Previous-50.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 01:32:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842636",
+   "title": "China: October food CPI falls 2.9% year on year; non-food CPI rises 1.5%",
+   "link": "https://www.financialjuice.com/News/9842636/China-October-food-CPI-falls-29-year-on-year-non-food-CPI-rises-15.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 01:30:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842635",
+   "title": "China october cpi unchanged from previous month: poll matches 0.0%",
+   "link": "https://www.financialjuice.com/News/9842635/China-october-cpi-unchanged-from-previous-month-poll-matches-00.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 01:30:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842634",
+   "title": "China October producer prices rise 0.7% month on month",
+   "link": "https://www.financialjuice.com/News/9842634/China-October-producer-prices-rise-07-month-on-month.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 01:30:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842632",
+   "title": "China October CPI rises 0.7% year on year, poll expected 0.8%",
+   "link": "https://www.financialjuice.com/News/9842632/China-October-CPI-rises-07-year-on-year-poll-expected-08.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 01:30:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842630",
+   "title": "China cbank injects 182 billion yuan via overnight reverse repos at 1.25%: statement",
+   "link": "https://www.financialjuice.com/News/9842630/China-cbank-injects-182-billion-yuan-via-overnight-reverse-repos-at-125-statement.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 01:21:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842589",
+   "title": "Trump, when asked if Rubio will remain secretary of state: ‘I think so!’ in CBS ‘60 Minutes’ interview",
+   "link": "https://www.financialjuice.com/News/9842589/Trump-when-asked-if-Rubio-will-remain-secretary-of-state-I-think-so-in-CBS-60-Minutes-interview.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 00:23:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842588",
+   "title": "China PBOC likely to fix yuan mid-point at 6.6799 per dollar: estimate",
+   "link": "https://www.financialjuice.com/News/9842588/China-PBOC-likely-to-fix-yuan-mid-point-at-66799-per-dollar-estimate.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 00:22:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842587",
+   "title": "Trump: AI risk can be managed, but 'I don't mind guardrails' in CBS '60 Minutes' interview",
+   "link": "https://www.financialjuice.com/News/9842587/Trump-AI-risk-can-be-managed-but-I-dont-mind-guardrails-in-CBS-60-Minutes-interview.aspx?xy=rss",
+   "pubDate": "Mon, 09 Nov 2026 00:08:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842580",
+   "title": "Japan's largest daily market intervention in July-Sept quarter was 7.98 trillion yen on July 30, finance ministry data shows",
+   "link": "https://www.financialjuice.com/News/9842580/Japans-largest-daily-market-intervention-in-July-Sept-quarter-was-798-trillion-yen-on-July-30-finance-ministry-data-shows.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:51:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842579",
+   "title": "Japan foreign reserves $1,179.119 billion at end-October, $1,178.396 billion at end-September: MOF",
+   "link": "https://www.financialjuice.com/News/9842579/Japan-foreign-reserves-1179119-billion-at-end-October-1178396-billion-at-end-September-MOF.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:50:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842577",
+   "title": "Trump: many people disliked Vance's remarks on Iran",
+   "link": "https://www.financialjuice.com/News/9842577/Trump-many-people-disliked-Vances-remarks-on-Iran.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:32:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842573",
+   "title": "Trump: I expect to hold talks with Xi and Putin",
+   "link": "https://www.financialjuice.com/News/9842573/Trump-I-expect-to-hold-talks-with-Xi-and-Putin.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:30:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842572",
+   "title": "Trump on Nvidia's Huang: I would take him but don't know if he will join Asia trip",
+   "link": "https://www.financialjuice.com/News/9842572/Trump-on-Nvidias-Huang-I-would-take-him-but-dont-know-if-he-will-join-Asia-trip.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:26:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842571",
+   "title": "Trump on Nvidia CEO Huang: he is a good person",
+   "link": "https://www.financialjuice.com/News/9842571/Trump-on-Nvidia-CEO-Huang-he-is-a-good-person.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:25:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842570",
+   "title": "Trump on Nvidia CEO Huang: I have not discussed allegations with him",
+   "link": "https://www.financialjuice.com/News/9842570/Trump-on-Nvidia-CEO-Huang-I-have-not-discussed-allegations-with-him.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:24:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842569",
+   "title": "Trump on Dana White as press secretary: we will discuss other issues tomorrow",
+   "link": "https://www.financialjuice.com/News/9842569/Trump-on-Dana-White-as-press-secretary-we-will-discuss-other-issues-tomorrow.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:24:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842568",
+   "title": "Trump on Dana White as press secretary: he was joking",
+   "link": "https://www.financialjuice.com/News/9842568/Trump-on-Dana-White-as-press-secretary-he-was-joking.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:23:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842564",
+   "title": "Japan Tobacco Inc.: impact of temporary management on Russian operations under review, JT group continues assessing potential financial effects",
+   "link": "https://www.financialjuice.com/News/9842564/Japan-Tobacco-Inc-impact-of-temporary-management-on-Russian-operations-under-review-JT-group-continues-assessing-potential-financial-effects.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:03:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842563",
+   "title": "Japan Tobacco Inc.: Russian business continues operating at present",
+   "link": "https://www.financialjuice.com/News/9842563/Japan-Tobacco-Inc-Russian-business-continues-operating-at-present.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:03:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842562",
+   "title": "Japan Tobacco Inc.: all JT group’s entities in Russia now under temporary administration",
+   "link": "https://www.financialjuice.com/News/9842562/Japan-Tobacco-Inc-all-JT-groups-entities-in-Russia-now-under-temporary-administration.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:02:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842561",
+   "title": "Japan Tobacco expands temporary administration to three additional manufacturing entities beyond four cited in Nov 6 announcement",
+   "link": "https://www.financialjuice.com/News/9842561/Japan-Tobacco-expands-temporary-administration-to-three-additional-manufacturing-entities-beyond-four-cited-in-Nov-6-announcement.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:02:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9842557",
+   "title": "Japan Tobacco Inc.: update on JT group's operations in Russia",
+   "link": "https://www.financialjuice.com/News/9842557/Japan-Tobacco-Inc-update-on-JT-groups-operations-in-Russia.aspx?xy=rss",
+   "pubDate": "Sun, 08 Nov 2026 23:00:44 GMT",
+   "desc": ""
+  },
   {
    "id": "9842549",
    "title": "RBA's Hunter: Extra supply will match demand, AI's long-term impact on inflation probably neutral",
