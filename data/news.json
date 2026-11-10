@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-11-10T10:27:48.609295+00:00",
- "count": 19323,
+ "updated_at": "2026-11-10T18:03:28.661338+00:00",
+ "count": 19423,
  "items": [
+  {
+   "id": "9845735",
+   "title": "US 10-Year Note High Yield Actual 5.02% (Forecast -, Previous 5.300%)",
+   "link": "https://www.financialjuice.com/News/9845735/US-10-Year-Note-High-Yield-Actual-502-Forecast---Previous-5300.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 18:02:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845734",
+   "title": "US 10-Year Note Bid-to-Cover Actual 2.46 (Forecast -, Previous 2.770)",
+   "link": "https://www.financialjuice.com/News/9845734/US-10-Year-Note-Bid-to-Cover-Actual-246-Forecast---Previous-2770.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 18:02:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845729",
+   "title": "Treasury WI 10 Yr yield 5.010% before $42 billion auction",
+   "link": "https://www.financialjuice.com/News/9845729/Treasury-WI-10-Yr-yield-5010-before-42-billion-auction.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 18:00:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845699",
+   "title": "Schumer calls for passing bill on AI chip exports.",
+   "link": "https://www.financialjuice.com/News/9845699/Schumer-calls-for-passing-bill-on-AI-chip-exports.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:33:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845698",
+   "title": "ECB's Lane: It would be a surprise if there are no second-round effects",
+   "link": "https://www.financialjuice.com/News/9845698/ECBs-Lane-It-would-be-a-surprise-if-there-are-no-second-round-effects.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:32:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845697",
+   "title": "ECB's Lane: Energy prices are already reversing; if that continues, headline inflation could fall while underlying inflation rises",
+   "link": "https://www.financialjuice.com/News/9845697/ECBs-Lane-Energy-prices-are-already-reversing-if-that-continues-headline-inflation-could-fall-while-underlying-inflation-rises.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:31:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845696",
+   "title": "ECB's Lane: Underlying inflation is a guide to 1-year ahead inflation",
+   "link": "https://www.financialjuice.com/News/9845696/ECBs-Lane-Underlying-inflation-is-a-guide-to-1-year-ahead-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:31:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845695",
+   "title": "ECB's Lane: It's informative that underlying inflation hasn't moved yet, it means it's the usual delayed response",
+   "link": "https://www.financialjuice.com/News/9845695/ECBs-Lane-Its-informative-that-underlying-inflation-hasnt-moved-yet-it-means-its-the-usual-delayed-response.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:30:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845691",
+   "title": "IRGC Spokesman: US navigation aid equipment was completely destroyed in the south of the Strait of Hormuz",
+   "link": "https://www.financialjuice.com/News/9845691/IRGC-Spokesman-US-navigation-aid-equipment-was-completely-destroyed-in-the-south-of-the-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:29:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845690",
+   "title": "ECB's Lane: Important that ECB has an instrument for multiple equilibriums on bond market",
+   "link": "https://www.financialjuice.com/News/9845690/ECBs-Lane-Important-that-ECB-has-an-instrument-for-multiple-equilibriums-on-bond-market.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:27:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845689",
+   "title": "ECB's Lane: I would put a high bar on directional forward guidance now",
+   "link": "https://www.financialjuice.com/News/9845689/ECBs-Lane-I-would-put-a-high-bar-on-directional-forward-guidance-now.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:23:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845688",
+   "title": "ECB's Lane: We put a very high premium on consensus, would be difficult with dots.",
+   "link": "https://www.financialjuice.com/News/9845688/ECBs-Lane-We-put-a-very-high-premium-on-consensus-would-be-difficult-with-dots.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:22:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845687",
+   "title": "Anthropic unveils office tools before IPO, rivaling Microsoft. $MSFT",
+   "link": "https://www.financialjuice.com/News/9845687/Anthropic-unveils-office-tools-before-IPO-rivaling-Microsoft-MSFT.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:20:11 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"y0lqZsYc\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9845685",
+   "title": "Russian Deputy Foreign Minister Ryabkov: It is too early to assess negotiations taking place in Abu Dhabi - IFX",
+   "link": "https://www.financialjuice.com/News/9845685/Russian-Deputy-Foreign-Minister-Ryabkov-It-is-too-early-to-assess-negotiations-taking-place-in-Abu-Dhabi---IFX.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:20:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845684",
+   "title": "UK's PM Burnham rejects dynamic alignment of UK with EU financial rules",
+   "link": "https://www.financialjuice.com/News/9845684/UKs-PM-Burnham-rejects-dynamic-alignment-of-UK-with-EU-financial-rules.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:19:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845667",
+   "title": "US Official: Russian diesel is on the water and 'headed to market', which will ease fuel prices for Americans",
+   "link": "https://www.financialjuice.com/News/9845667/US-Official-Russian-diesel-is-on-the-water-and-headed-to-market-which-will-ease-fuel-prices-for-Americans.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:13:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845666",
+   "title": "Third oil tanker involved in illegal activity explodes in the Strait of Hormuz - IRIB News",
+   "link": "https://www.financialjuice.com/News/9845666/Third-oil-tanker-involved-in-illegal-activity-explodes-in-the-Strait-of-Hormuz---IRIB-News.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:09:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845664",
+   "title": "US STEO Report",
+   "link": "https://www.financialjuice.com/News/9845664/US-STEO-Report.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:02:51 GMT",
+   "desc": "2026 Brent forecast raised to $97.44/bbl from $96.32; 2027 raised to $85.78 from $83.74. 2026 WTI forecast raised to $88.29/bbl from $88.21; 2027 raised to $80.54 from $79.74. 2026 world oil demand unchanged at 102.4 mln bpd; 2027 cut to 104.4 mln bpd from 104.6 mln. 2026 world oil output raised to 101.7 mln bpd from 101.1 mln; 2027 cut to 108.4 mln bpd from 109.6 mln. 2026 US natural gas demand cut to 92.3 Bcf/d from 92.4; 2027 raised to 94.4 Bcf/d from 93.8. 2026 US oil demand unchanged at 20.6 mln bpd; 2027 raised to 20.9 mln bpd from 20.8 mln. 2026 US natural gas output raised to 113 Bcf/d from 112.2; 2027 raised to 117.6 Bcf/d from 116.1. 2026 US oil output cut to 13.86 mln bpd from 13.87 mln; 2027 unchanged at 14.3 mln bpd. US natural gas production seen rising to 127.1 Bcf/d in November from 126.2 Bcf/d in October, then to 127.6 Bcf/d in December. US oil production seen rising to 14.03 mln bpd in November from 13.81 mln bpd in October, then to 14.14 mln bpd in December. US EIA expects US crude production to average 13.9 million barrels per day in 2026, rising to 14.3 million bpd in 2027. Expects crude stocks to rise in 2027 as net imports increase and domestic oil production reaches record 14.3 million BPD"
+  },
+  {
+   "id": "9845645",
+   "title": "WASDE Cotton End Stocks Actual 3.7M (Forecast 3.6M, Previous 3.8M)",
+   "link": "https://www.financialjuice.com/News/9845645/WASDE-Cotton-End-Stocks-Actual-37M-Forecast-36M-Previous-38M.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845644",
+   "title": "WASDE Corn End Stocks Actual 1758M (Forecast 1.87M, Previous 1.849M)",
+   "link": "https://www.financialjuice.com/News/9845644/WASDE-Corn-End-Stocks-Actual-1758M-Forecast-187M-Previous-1849M.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845643",
+   "title": "WASDE Soybean End Stocks Actual 300M (Forecast 330M, Previous 315M)",
+   "link": "https://www.financialjuice.com/News/9845643/WASDE-Soybean-End-Stocks-Actual-300M-Forecast-330M-Previous-315M.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845642",
+   "title": "WASDE Wheat End Stocks Actual 743M (Forecast 740M, Previous 740M)",
+   "link": "https://www.financialjuice.com/News/9845642/WASDE-Wheat-End-Stocks-Actual-743M-Forecast-740M-Previous-740M.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 17:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845641",
+   "title": "Microsoft’s market value surpasses Nvidia for the first time since June 2025. $MSFT $NVDA",
+   "link": "https://www.financialjuice.com/News/9845641/Microsofts-market-value-surpasses-Nvidia-for-the-first-time-since-June-2025-MSFT-NVDA.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:50:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845639",
+   "title": "Syria weighs sending troops to aid Saudi war with Houthis - NYT.",
+   "link": "https://www.financialjuice.com/News/9845639/Syria-weighs-sending-troops-to-aid-Saudi-war-with-Houthis---NYT.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:46:53 GMT",
+   "desc": "Syrian reconnaissance teams have visited Saudi Arabia and Yemen ahead of a potential deployment, but a final decision has not been made, officials said. Syria is weighing whether to send thousands of troops to Saudi Arabia and Yemen to support the kingdom in its war with the Iranian-backed Houthi militia, according to three Syrian military and Yemeni officials with direct knowledge of the government’s plans. Military reconnaissance teams have visited Saudi Arabia and Yemen in recent weeks to scout positions and coordinate with their counterparts in both countries, according to the officials."
+  },
+  {
+   "id": "9845633",
+   "title": "Syria weighs sending troops to aid Saudi war with Houthis - NYT.",
+   "link": "https://www.financialjuice.com/News/9845633/Syria-weighs-sending-troops-to-aid-Saudi-war-with-Houthis---NYT.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:44:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845632",
+   "title": "Canada PM Carney: Don't need a contested tax on web giants",
+   "link": "https://www.financialjuice.com/News/9845632/Canada-PM-Carney-Dont-need-a-contested-tax-on-web-giants.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:44:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845631",
+   "title": "Canada PM Carney: There are still some difficult areas in trade talks with the US",
+   "link": "https://www.financialjuice.com/News/9845631/Canada-PM-Carney-There-are-still-some-difficult-areas-in-trade-talks-with-the-US.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:42:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845630",
+   "title": "Canada's PM Carney: I may meet Trump later this month at Asian summits",
+   "link": "https://www.financialjuice.com/News/9845630/Canadas-PM-Carney-I-may-meet-Trump-later-this-month-at-Asian-summits.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:36:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845629",
+   "title": "Canada's PM Carney: I spoke briefly to Trump over the weekend.",
+   "link": "https://www.financialjuice.com/News/9845629/Canadas-PM-Carney-I-spoke-briefly-to-Trump-over-the-weekend.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:35:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845607",
+   "title": "Canada's PM Carney: I will meet China's Xi later this month, says this will be a chance to have frank conversations.",
+   "link": "https://www.financialjuice.com/News/9845607/Canadas-PM-Carney-I-will-meet-Chinas-Xi-later-this-month-says-this-will-be-a-chance-to-have-frank-conversations.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:25:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845592",
+   "title": "Iran's Major General Rezai: Hormuz will not be reopened until Iran's 7 conditions are met.",
+   "link": "https://www.financialjuice.com/News/9845592/Irans-Major-General-Rezai-Hormuz-will-not-be-reopened-until-Irans-7-conditions-are-met.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:15:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845589",
+   "title": "Russian delegation in Abu Dhabi did not have any contact with Europeans, according to a source - RIA",
+   "link": "https://www.financialjuice.com/News/9845589/Russian-delegation-in-Abu-Dhabi-did-not-have-any-contact-with-Europeans-according-to-a-source---RIA.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:15:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845588",
+   "title": "Goldman and Citi among banks in $270 mln stablecoin backing. $GS $C",
+   "link": "https://www.financialjuice.com/News/9845588/Goldman-and-Citi-among-banks-in-270-mln-stablecoin-backing-GS-C.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:13:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845587",
+   "title": "Iran's Major General Rezai: asked the US to provide a clear and unambiguous response to our conditions, but they haven't yet provided such a response.",
+   "link": "https://www.financialjuice.com/News/9845587/Irans-Major-General-Rezai-asked-the-US-to-provide-a-clear-and-unambiguous-response-to-our-conditions-but-they-havent-yet-provided-such-a-response.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:11:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845586",
+   "title": "Iran's Major General Rezai: The American response is deceptive - Fars News",
+   "link": "https://www.financialjuice.com/News/9845586/Irans-Major-General-Rezai-The-American-response-is-deceptive---Fars-News.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:10:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845584",
+   "title": "Google: Introducing 3 new domains: .eat, .fly, & .here. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9845584/Google-Introducing-3-new-domains-eat-fly--here-GOOGL.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:02:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845570",
+   "title": "NY Fed: US Household Debt Rises $334 Billion to $19.1 Trillion in Q3",
+   "link": "https://www.financialjuice.com/News/9845570/NY-Fed-US-Household-Debt-Rises-334-Billion-to-191-Trillion-in-Q3.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:00:59 GMT",
+   "desc": "NY Fed: Total US household debt increased $334 billion to $19.1 trillion in Q3 NY Fed: Mortgage debt rose $257 billion to $13.4 trillion NY Fed: Credit card debt increased $22 billion to $1.3 trillion NY Fed: 5% of outstanding household debt was in some form of delinquency at the end of September NY Fed: Overall delinquency rates increased compared with Q2, although transitions into serious delinquency declined from Q3 2025 NY Fed: Share of student loans 90 days or more past due remained broadly unchanged at 10.9% NY Fed: Mortgage transitions into delinquency increased but remained historically low NY Fed: Credit card delinquency rates expected to improve"
+  },
+  {
+   "id": "9845569",
+   "title": "Google launches Gemini 4 Carbon globally; introductory price $2/1m input tokens. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9845569/Google-launches-Gemini-4-Carbon-globally-introductory-price-21m-input-tokens-GOOGL.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 16:00:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845565",
+   "title": "Press briefing by Russian delegation after talks in Abu Dhabi will take place on Wednesday - IFX cites source",
+   "link": "https://www.financialjuice.com/News/9845565/Press-briefing-by-Russian-delegation-after-talks-in-Abu-Dhabi-will-take-place-on-Wednesday---IFX-cites-source.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:56:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845564",
+   "title": "Deutsche Bank expects Fed to deliver an additional 25 BPS rate hike in January 2027 vs prior forecast of rate hikes in December and March",
+   "link": "https://www.financialjuice.com/News/9845564/Deutsche-Bank-expects-Fed-to-deliver-an-additional-25-BPS-rate-hike-in-January-2027-vs-prior-forecast-of-rate-hikes-in-December-and-March.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:56:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845563",
+   "title": "Traders fully price two quarter-point BoE hikes by March",
+   "link": "https://www.financialjuice.com/News/9845563/Traders-fully-price-two-quarter-point-BoE-hikes-by-March.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:55:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845561",
+   "title": "Fed's Logan: Price pressures are also broader than tariffs, and the broad trend is likely to persist.",
+   "link": "https://www.financialjuice.com/News/9845561/Feds-Logan-Price-pressures-are-also-broader-than-tariffs-and-the-broad-trend-is-likely-to-persist.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:52:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845560",
+   "title": "Fed's Logan: Economic growth is strong, consumer spending solid, business spending robust.",
+   "link": "https://www.financialjuice.com/News/9845560/Feds-Logan-Economic-growth-is-strong-consumer-spending-solid-business-spending-robust.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:51:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845559",
+   "title": "Fed's Logan: Inflation is trending meaningfully higher than the 2% goal.",
+   "link": "https://www.financialjuice.com/News/9845559/Feds-Logan-Inflation-is-trending-meaningfully-higher-than-the-2-goal.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:51:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845558",
+   "title": "Fed's Logan: Labor market is balanced and even tightening a bit",
+   "link": "https://www.financialjuice.com/News/9845558/Feds-Logan-Labor-market-is-balanced-and-even-tightening-a-bit.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:51:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845557",
+   "title": "Fed's Logan: Concerned that higher-than-expected consumer price index means personal consumption expenditures inflation could rise.",
+   "link": "https://www.financialjuice.com/News/9845557/Feds-Logan-Concerned-that-higher-than-expected-consumer-price-index-means-personal-consumption-expenditures-inflation-could-rise.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:51:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845556",
+   "title": "Fed's Logan: Accommodative policy is adding to inflationary pressures; the real Fed funds rate is 78 basis points, data suggest.",
+   "link": "https://www.financialjuice.com/News/9845556/Feds-Logan-Accommodative-policy-is-adding-to-inflationary-pressures-the-real-Fed-funds-rate-is-78-basis-points-data-suggest.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:51:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845555",
+   "title": "Fed's Logan: Wartime energy disruptions not the only source of price pressures.",
+   "link": "https://www.financialjuice.com/News/9845555/Feds-Logan-Wartime-energy-disruptions-not-the-only-source-of-price-pressures.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:51:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845554",
+   "title": "Fed's Logan: Fed policy rate is at least 50 basis points below a modestly restrictive level.",
+   "link": "https://www.financialjuice.com/News/9845554/Feds-Logan-Fed-policy-rate-is-at-least-50-basis-points-below-a-modestly-restrictive-level.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:51:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845553",
+   "title": "Fed's Logan: After two more rate hikes, it would make sense to pause and assess what further action may be appropriate.",
+   "link": "https://www.financialjuice.com/News/9845553/Feds-Logan-After-two-more-rate-hikes-it-would-make-sense-to-pause-and-assess-what-further-action-may-be-appropriate.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:51:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845552",
+   "title": "Fed's Logan: Higher bond-market rates signal monetary policy has work to do, not an independent tailwind for activity",
+   "link": "https://www.financialjuice.com/News/9845552/Feds-Logan-Higher-bond-market-rates-signal-monetary-policy-has-work-to-do-not-an-independent-tailwind-for-activity.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:51:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845551",
+   "title": "Fed's Logan: Important to promptly achieve balance in outlook, risks for inflation and employment",
+   "link": "https://www.financialjuice.com/News/9845551/Feds-Logan-Important-to-promptly-achieve-balance-in-outlook-risks-for-inflation-and-employment.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:50:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845550",
+   "title": "Fed's Logan: Adjusting policy gradually can reduce the risk that economic activity deteriorates more sharply than necessary.",
+   "link": "https://www.financialjuice.com/News/9845550/Feds-Logan-Adjusting-policy-gradually-can-reduce-the-risk-that-economic-activity-deteriorates-more-sharply-than-necessary.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:50:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845549",
+   "title": "Fed's Logan: It may be possible to raise interest rates more rapidly this winter than the US central bank has moved so far.",
+   "link": "https://www.financialjuice.com/News/9845549/Feds-Logan-It-may-be-possible-to-raise-interest-rates-more-rapidly-this-winter-than-the-US-central-bank-has-moved-so-far.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:50:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845548",
+   "title": "Fed's Logan: More rapid rate hikes possibly needed this winter",
+   "link": "https://www.financialjuice.com/News/9845548/Feds-Logan-More-rapid-rate-hikes-possibly-needed-this-winter.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:50:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845547",
+   "title": "Fed's Logan: It is clear that Fed needs at least two more quarter-percentage-point rate increases.",
+   "link": "https://www.financialjuice.com/News/9845547/Feds-Logan-It-is-clear-that-Fed-needs-at-least-two-more-quarter-percentage-point-rate-increases.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:50:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845532",
+   "title": "UKMTO: Tanker struck by unknown projectile.",
+   "link": "https://www.financialjuice.com/News/9845532/UKMTO-Tanker-struck-by-unknown-projectile.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:43:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845531",
+   "title": "UKMTO receives a report of an incident near Oman’s Lima on November 10th.",
+   "link": "https://www.financialjuice.com/News/9845531/UKMTO-receives-a-report-of-an-incident-near-Omans-Lima-on-November-10th.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:42:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845530",
+   "title": "WATCH LIVE: Fed's Logan Speaks 10:50 ET",
+   "link": "https://www.financialjuice.com/News/9845530/WATCH-LIVE-Feds-Logan-Speaks-1050-ET.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:41:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845529",
+   "title": "Israel's Prime Minister Netanyahu: Israel to face pressure to retreat from security zones.",
+   "link": "https://www.financialjuice.com/News/9845529/Israels-Prime-Minister-Netanyahu-Israel-to-face-pressure-to-retreat-from-security-zones.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:35:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845528",
+   "title": "Israel's Prime Minister Netanyahu: Iran working to renew nuclear threat.",
+   "link": "https://www.financialjuice.com/News/9845528/Israels-Prime-Minister-Netanyahu-Iran-working-to-renew-nuclear-threat.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:33:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845508",
+   "title": "Fear & Greed Index: 34/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9845508/Fear--Greed-Index-34100---Fear.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:19:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845507",
+   "title": "Crypto Fear & Greed Index: 32/100 - Fear",
+   "link": "https://www.financialjuice.com/News/9845507/Crypto-Fear--Greed-Index-32100---Fear.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:18:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845483",
+   "title": "Iran’s Foreign Minister Araghchi: War does not end with military action or sanctions; The solution is diplomacy and compliance with Iran's conditions.",
+   "link": "https://www.financialjuice.com/News/9845483/Irans-Foreign-Minister-Araghchi-War-does-not-end-with-military-action-or-sanctions-The-solution-is-diplomacy-and-compliance-with-Irans-conditions.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 15:08:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845472",
+   "title": "US CPI Market Reactions, Deviations & Sentiment - FJElite",
+   "link": "https://www.financialjuice.com/News/9845472/US-CPI-Market-Reactions-Deviations--Sentiment---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:56:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845469",
+   "title": "Anthropic IPO said to draw orders to cover available shares.",
+   "link": "https://www.financialjuice.com/News/9845469/Anthropic-IPO-said-to-draw-orders-to-cover-available-shares.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:55:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845468",
+   "title": "ECB's Nagel: France must look at its fiscal challenges.",
+   "link": "https://www.financialjuice.com/News/9845468/ECBs-Nagel-France-must-look-at-its-fiscal-challenges.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:54:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845467",
+   "title": "ECB's Nagel: We'll do what's needed to return inflation to 2%",
+   "link": "https://www.financialjuice.com/News/9845467/ECBs-Nagel-Well-do-whats-needed-to-return-inflation-to-2.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:54:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845466",
+   "title": "ECB's Nagel: I don't see a risk of fiscal dominance.",
+   "link": "https://www.financialjuice.com/News/9845466/ECBs-Nagel-I-dont-see-a-risk-of-fiscal-dominance.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:54:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845470",
+   "title": "Goldman Sachs expects Anthropic revenue to exceed $600 bln by 2030 - FT",
+   "link": "https://www.financialjuice.com/News/9845470/Goldman-Sachs-expects-Anthropic-revenue-to-exceed-600-bln-by-2030---FT.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:54:35 GMT",
+   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"pfJsuvkR\",container_id:\"desc_{{NewsID}}\"});"
+  },
+  {
+   "id": "9845465",
+   "title": "ECB's Nagel: Market expectations important but not driving factor.",
+   "link": "https://www.financialjuice.com/News/9845465/ECBs-Nagel-Market-expectations-important-but-not-driving-factor.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:54:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845464",
+   "title": "ECB's Nagel: drop in energy prices since US midterms is good news",
+   "link": "https://www.financialjuice.com/News/9845464/ECBs-Nagel-drop-in-energy-prices-since-US-midterms-is-good-news.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:54:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845463",
+   "title": "ECB's Nagel: It is rather obvious that we have to increase in December.",
+   "link": "https://www.financialjuice.com/News/9845463/ECBs-Nagel-It-is-rather-obvious-that-we-have-to-increase-in-December.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:54:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845455",
+   "title": "FMR cuts share stake in Amazon by 11.8% to 322.6 mln shares - SEC filing. $AMZN",
+   "link": "https://www.financialjuice.com/News/9845455/FMR-cuts-share-stake-in-Amazon-by-118-to-3226-mln-shares---SEC-filing-AMZN.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:44:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845454",
+   "title": "FMR cuts share stake in Nvidia by 9.1% to 932.8 mln shares - SEC filing. $NVDA",
+   "link": "https://www.financialjuice.com/News/9845454/FMR-cuts-share-stake-in-Nvidia-by-91-to-9328-mln-shares---SEC-filing-NVDA.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:42:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845452",
+   "title": "Anthropic hires first UK lobby firm in global AI policy push.",
+   "link": "https://www.financialjuice.com/News/9845452/Anthropic-hires-first-UK-lobby-firm-in-global-AI-policy-push.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:37:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845451",
+   "title": "House Panel calls on the Treasury to review financial institutions.",
+   "link": "https://www.financialjuice.com/News/9845451/House-Panel-calls-on-the-Treasury-to-review-financial-institutions.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:36:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845450",
+   "title": "UK: Government security group is leading an investigation into a potential leak of budget measures which may have moved financial markets",
+   "link": "https://www.financialjuice.com/News/9845450/UK-Government-security-group-is-leading-an-investigation-into-a-potential-leak-of-budget-measures-which-may-have-moved-financial-markets.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:34:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845429",
+   "title": "MOO Imbalance",
+   "link": "https://www.financialjuice.com/News/9845429/MOO-Imbalance.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:30:36 GMT",
+   "desc": "S&amp;P 500: -34 mln Nasdaq 100: +2 mln Dow 30: +9 mln Mag 7: +3 mln"
+  },
+  {
+   "id": "9845427",
+   "title": "Anthropic sees long-term adj. operating margin of 35%+.",
+   "link": "https://www.financialjuice.com/News/9845427/Anthropic-sees-long-term-adj-operating-margin-of-35.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:27:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845426",
+   "title": "WH Sr. Adviser Hassett ends remarks on Fox Business",
+   "link": "https://www.financialjuice.com/News/9845426/WH-Sr-Adviser-Hassett-ends-remarks-on-Fox-Business.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:24:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845423",
+   "title": "WH Sr. Adviser Hassett: Trickle down from energy prices is showing in the data - Fox Business",
+   "link": "https://www.financialjuice.com/News/9845423/WH-Sr-Adviser-Hassett-Trickle-down-from-energy-prices-is-showing-in-the-data---Fox-Business.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:20:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845422",
+   "title": "SNB's Martin: Swiss economy to grow moderately over the next quarters",
+   "link": "https://www.financialjuice.com/News/9845422/SNBs-Martin-Swiss-economy-to-grow-moderately-over-the-next-quarters.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:19:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845421",
+   "title": "WH Sr. Adviser Hassett: CPI report was disappointing",
+   "link": "https://www.financialjuice.com/News/9845421/WH-Sr-Adviser-Hassett-CPI-report-was-disappointing.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:19:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845415",
+   "title": "Yemen's Houthis denies attacking East-West pipeline in the Medina region.",
+   "link": "https://www.financialjuice.com/News/9845415/Yemens-Houthis-denies-attacking-East-West-pipeline-in-the-Medina-region.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:15:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845405",
+   "title": "Yemen's Houthis attacked an Aramco facility in Abqaiq - Statement.",
+   "link": "https://www.financialjuice.com/News/9845405/Yemens-Houthis-attacked-an-Aramco-facility-in-Abqaiq---Statement.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:13:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845404",
+   "title": "Yemen's Houthis attacked oil pumping stations of Saudi Arabia's East-West pipeline - Statement.",
+   "link": "https://www.financialjuice.com/News/9845404/Yemens-Houthis-attacked-oil-pumping-stations-of-Saudi-Arabias-East-West-pipeline---Statement.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:12:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845402",
+   "title": "Adobe & Google deepen AI partnership. $ADBE $GOOGL",
+   "link": "https://www.financialjuice.com/News/9845402/Adobe--Google-deepen-AI-partnership-ADBE-GOOGL.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:05:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845401",
+   "title": "Bets on a 50-basis point Fed rate hike in December begin to build after hotter-than-expected CPI, odds last at around 10% - CME Fedwatch.",
+   "link": "https://www.financialjuice.com/News/9845401/Bets-on-a-50-basis-point-Fed-rate-hike-in-December-begin-to-build-after-hotter-than-expected-CPI-odds-last-at-around-10---CME-Fedwatch.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:04:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845400",
+   "title": "US Sentiment: CPI Hammers Markets, Dec. 50 BPS Hike Expectation Grows - FJElite",
+   "link": "https://www.financialjuice.com/News/9845400/US-Sentiment-CPI-Hammers-Markets-Dec-50-BPS-Hike-Expectation-Grows---FJElite.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:03:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845383",
+   "title": "ECB: Forex reserves remained unchanged at €349.7 bln.",
+   "link": "https://www.financialjuice.com/News/9845383/ECB-Forex-reserves-remained-unchanged-at-3497-bln.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:01:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845382",
+   "title": "ECB settled €208.6 bln corporate bond purchases.",
+   "link": "https://www.financialjuice.com/News/9845382/ECB-settled-2086-bln-corporate-bond-purchases.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:00:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845381",
+   "title": "ECB settled €1,625.2 bln public-sector bond purchases.",
+   "link": "https://www.financialjuice.com/News/9845381/ECB-settled-16252-bln-public-sector-bond-purchases.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:00:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845380",
+   "title": "ECB bond holdings under PEPP €1.26 tln as of last week.",
+   "link": "https://www.financialjuice.com/News/9845380/ECB-bond-holdings-under-PEPP-126-tln-as-of-last-week.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:00:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845377",
+   "title": "ECB’s Cipollone warns of delay in a digital Euro if talks drag on.",
+   "link": "https://www.financialjuice.com/News/9845377/ECBs-Cipollone-warns-of-delay-in-a-digital-Euro-if-talks-drag-on.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 14:00:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845376",
+   "title": "Effective Fed funds rate 3.88% November 9th vs 3.88% November 6th.",
+   "link": "https://www.financialjuice.com/News/9845376/Effective-Fed-funds-rate-388-November-9th-vs-388-November-6th.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 13:59:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845375",
+   "title": "US Redbook YoY Actual 10.1% (Forecast -, Previous 10.4%)",
+   "link": "https://www.financialjuice.com/News/9845375/US-Redbook-YoY-Actual-101-Forecast---Previous-104.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 13:56:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845374",
+   "title": "US Secretary of State Rubio: Trump wants the US and China to discuss nuclear weapons.",
+   "link": "https://www.financialjuice.com/News/9845374/US-Secretary-of-State-Rubio-Trump-wants-the-US-and-China-to-discuss-nuclear-weapons.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 13:49:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845373",
+   "title": "US Secretary of State Rubio on China: AI should be an issue we raise at the upcoming Trump-Xi summit.",
+   "link": "https://www.financialjuice.com/News/9845373/US-Secretary-of-State-Rubio-on-China-AI-should-be-an-issue-we-raise-at-the-upcoming-Trump-Xi-summit.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 13:47:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9845350",
+   "title": "US Supercore CPI MoM: 0.4%, Previous 0.42%.",
+   "link": "https://www.financialjuice.com/News/9845350/US-Supercore-CPI-MoM-04-Previous-042.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 13:40:04 GMT",
+   "desc": ""
+  },
   {
    "id": "9845027",
    "title": "Fed's Waller: We're not going to jack up rates 150 or 200 bps.",
