@@ -1,7 +1,315 @@
 {
- "updated_at": "2026-11-10T23:10:49.616011+00:00",
- "count": 19502,
+ "updated_at": "2026-11-11T02:48:23.053685+00:00",
+ "count": 19546,
  "items": [
+  {
+   "id": "9846324",
+   "title": "Japan PM Takaichi: Expect BoJ to implement suitable monetary policy to sustainably reach 2% inflation goal",
+   "link": "https://www.financialjuice.com/News/9846324/Japan-PM-Takaichi-Expect-BoJ-to-implement-suitable-monetary-policy-to-sustainably-reach-2-inflation-goal.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 01:49:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846323",
+   "title": "Japan PM Takaichi: No intention to adopt fiscal measures that could cause high inflation",
+   "link": "https://www.financialjuice.com/News/9846323/Japan-PM-Takaichi-No-intention-to-adopt-fiscal-measures-that-could-cause-high-inflation.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 01:48:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846307",
+   "title": "S.Korea central bank: sells 2-year monetary stabilisation bonds yielding 3.720%",
+   "link": "https://www.financialjuice.com/News/9846307/SKorea-central-bank-sells-2-year-monetary-stabilisation-bonds-yielding-3720.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 01:40:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846291",
+   "title": "China cbank injects 187 billion yuan via overnight reverse repos at 1.25%: statement",
+   "link": "https://www.financialjuice.com/News/9846291/China-cbank-injects-187-billion-yuan-via-overnight-reverse-repos-at-125-statement.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 01:21:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846290",
+   "title": "China fixes yuan midpoint at weakest level since Oct. 22, PBOC shows",
+   "link": "https://www.financialjuice.com/News/9846290/China-fixes-yuan-midpoint-at-weakest-level-since-Oct-22-PBOC-shows.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 01:18:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846271",
+   "title": "Apple: fixed problems with iCloud calendar, contacts, mail, iCloud, and game center - status page",
+   "link": "https://www.financialjuice.com/News/9846271/Apple-fixed-problems-with-iCloud-calendar-contacts-mail-iCloud-and-game-center---status-page.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 01:05:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846269",
+   "title": "Taiwan overnight interbank rate starts at 0.805% matching previous session open",
+   "link": "https://www.financialjuice.com/News/9846269/Taiwan-overnight-interbank-rate-starts-at-0805-matching-previous-session-open.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 01:01:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846233",
+   "title": "Australia Q3 owner-occupied housing finance value declines 5.3% q/q, seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9846233/Australia-Q3-owner-occupied-housing-finance-value-declines-53-qq-seasonally-adjusted.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846232",
+   "title": "Australia Q3 housing finance value falls 15.5% quarter-on-quarter, seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9846232/Australia-Q3-housing-finance-value-falls-155-quarter-on-quarter-seasonally-adjusted.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846231",
+   "title": "Australia Q3 value of investment housing finance down 32.3% q/q, seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9846231/Australia-Q3-value-of-investment-housing-finance-down-323-qq-seasonally-adjusted.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846230",
+   "title": "Anthropic bankers set to lift IPO valuation to $1.5tn or higher - FT",
+   "link": "https://www.financialjuice.com/News/9846230/Anthropic-bankers-set-to-lift-IPO-valuation-to-15tn-or-higher---FT.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:29:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846229",
+   "title": "South Korea finance minister: will unveil fuel price cap policy on Nov. 13",
+   "link": "https://www.financialjuice.com/News/9846229/South-Korea-finance-minister-will-unveil-fuel-price-cap-policy-on-Nov-13.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:18:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846228",
+   "title": "China PBOC forecast to set yuan midpoint at 6.6855 per dollar: estimate",
+   "link": "https://www.financialjuice.com/News/9846228/China-PBOC-forecast-to-set-yuan-midpoint-at-66855-per-dollar-estimate.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:18:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846227",
+   "title": "South Korea fin min: to prolong temporary fuel tax reductions by 2 months through end-Jan",
+   "link": "https://www.financialjuice.com/News/9846227/South-Korea-fin-min-to-prolong-temporary-fuel-tax-reductions-by-2-months-through-end-Jan.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:17:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846200",
+   "title": "S.Korea Nov 1-10 imports rise 45% y/y: customs agency",
+   "link": "https://www.financialjuice.com/News/9846200/SKorea-Nov-1-10-imports-rise-45-yy-customs-agency.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846199",
+   "title": "S. Korea semiconductor exports surge 331.2% y/y from Nov 1-10: customs agency",
+   "link": "https://www.financialjuice.com/News/9846199/S-Korea-semiconductor-exports-surge-3312-yy-from-Nov-1-10-customs-agency.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846198",
+   "title": "S.Korea Nov 1-10 exports surge 111.9% y/y: customs agency",
+   "link": "https://www.financialjuice.com/News/9846198/SKorea-Nov-1-10-exports-surge-1119-yy-customs-agency.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846197",
+   "title": "S. Korea nov 1-10 trade surplus provisional $8.75 billion: customs agency",
+   "link": "https://www.financialjuice.com/News/9846197/S-Korea-nov-1-10-trade-surplus-provisional-875-billion-customs-agency.aspx?xy=rss",
+   "pubDate": "Wed, 11 Nov 2026 00:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846196",
+   "title": "Fed's Goolsbee: all options remain open, must reduce inflation to target",
+   "link": "https://www.financialjuice.com/News/9846196/Feds-Goolsbee-all-options-remain-open-must-reduce-inflation-to-target.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:48:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846195",
+   "title": "Commerce department received national security alert on Nvidia CEO issue: Axios",
+   "link": "https://www.financialjuice.com/News/9846195/Commerce-department-received-national-security-alert-on-Nvidia-CEO-issue-Axios.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:48:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846194",
+   "title": "Fed's Goolsbee: major concern if inflation embeds into expectations",
+   "link": "https://www.financialjuice.com/News/9846194/Feds-Goolsbee-major-concern-if-inflation-embeds-into-expectations.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:47:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846193",
+   "title": "Fed's Goolsbee: we will have to accept it if inflation remains persistent",
+   "link": "https://www.financialjuice.com/News/9846193/Feds-Goolsbee-we-will-have-to-accept-it-if-inflation-remains-persistent.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:46:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846192",
+   "title": "Fed's Goolsbee: job market remains steady and stable",
+   "link": "https://www.financialjuice.com/News/9846192/Feds-Goolsbee-job-market-remains-steady-and-stable.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:46:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846190",
+   "title": "Fed's Goolsbee: my concern is emerging widespread price overheating",
+   "link": "https://www.financialjuice.com/News/9846190/Feds-Goolsbee-my-concern-is-emerging-widespread-price-overheating.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:46:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846185",
+   "title": "Fed's Goolsbee: business spending is influenced by interest rates",
+   "link": "https://www.financialjuice.com/News/9846185/Feds-Goolsbee-business-spending-is-influenced-by-interest-rates.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:45:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846184",
+   "title": "Fed's Goolsbee on PBS NewsHour: inflation driven by cost and demand factors",
+   "link": "https://www.financialjuice.com/News/9846184/Feds-Goolsbee-on-PBS-NewsHour-inflation-driven-by-cost-and-demand-factors.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:44:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846183",
+   "title": "Fed’s Goolsbee on PBS NewsHour: ‘We are going to have to address that’",
+   "link": "https://www.financialjuice.com/News/9846183/Feds-Goolsbee-on-PBS-NewsHour-We-are-going-to-have-to-address-that.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:43:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846182",
+   "title": "Fed's Goolsbee on PBS NewsHour: We face a genuine inflation challenge",
+   "link": "https://www.financialjuice.com/News/9846182/Feds-Goolsbee-on-PBS-NewsHour-We-face-a-genuine-inflation-challenge.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:43:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846181",
+   "title": "Fed's Goolsbee on PBS NewsHour: biggest concern is that services inflation remains high",
+   "link": "https://www.financialjuice.com/News/9846181/Feds-Goolsbee-on-PBS-NewsHour-biggest-concern-is-that-services-inflation-remains-high.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:43:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846180",
+   "title": "Fed's Goolsbee on PBS Newshour: CPI was borderline troubling on inflation",
+   "link": "https://www.financialjuice.com/News/9846180/Feds-Goolsbee-on-PBS-Newshour-CPI-was-borderline-troubling-on-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:42:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846179",
+   "title": "Apple: some users could face issues with iCloud calendar, contacts, mail, iWork for iCloud and Game Center - status page",
+   "link": "https://www.financialjuice.com/News/9846179/Apple-some-users-could-face-issues-with-iCloud-calendar-contacts-mail-iWork-for-iCloud-and-Game-Center---status-page.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:41:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846153",
+   "title": "Fed's Paulson: backed recent rate moves",
+   "link": "https://www.financialjuice.com/News/9846153/Feds-Paulson-backed-recent-rate-moves.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846152",
+   "title": "Fed's Paulson: economy more resilient than expected, job market firm and steady",
+   "link": "https://www.financialjuice.com/News/9846152/Feds-Paulson-economy-more-resilient-than-expected-job-market-firm-and-steady.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846151",
+   "title": "Fed's Paulson: underlying inflation remains between 2.5% and 3%",
+   "link": "https://www.financialjuice.com/News/9846151/Feds-Paulson-underlying-inflation-remains-between-25-and-3.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846150",
+   "title": "Fed's Paulson: AI and energy effect on inflation difficult to measure",
+   "link": "https://www.financialjuice.com/News/9846150/Feds-Paulson-AI-and-energy-effect-on-inflation-difficult-to-measure.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846149",
+   "title": "Fed's Paulson: monetary policy must stay somewhat tight",
+   "link": "https://www.financialjuice.com/News/9846149/Feds-Paulson-monetary-policy-must-stay-somewhat-tight.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846148",
+   "title": "Fed’s Paulson: further ‘gradual’ rate increases appropriate given high inflation",
+   "link": "https://www.financialjuice.com/News/9846148/Feds-Paulson-further-gradual-rate-increases-appropriate-given-high-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846147",
+   "title": "Fed’s Paulson: central bank has ‘more work to do’ to reduce inflation",
+   "link": "https://www.financialjuice.com/News/9846147/Feds-Paulson-central-bank-has-more-work-to-do-to-reduce-inflation.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846146",
+   "title": "Fed's Paulson: CPI data indicates inflation still an issue",
+   "link": "https://www.financialjuice.com/News/9846146/Feds-Paulson-CPI-data-indicates-inflation-still-an-issue.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846145",
+   "title": "Fed's Paulson: inflation outlook risks elevated",
+   "link": "https://www.financialjuice.com/News/9846145/Feds-Paulson-inflation-outlook-risks-elevated.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846144",
+   "title": "Fed’s Paulson: precise trajectory of rate policy hinges on economic developments",
+   "link": "https://www.financialjuice.com/News/9846144/Feds-Paulson-precise-trajectory-of-rate-policy-hinges-on-economic-developments.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846143",
+   "title": "Fed's Paulson: slow rate increases have allowed economy time to adapt",
+   "link": "https://www.financialjuice.com/News/9846143/Feds-Paulson-slow-rate-increases-have-allowed-economy-time-to-adapt.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846142",
+   "title": "Fed’s Paulson: gradual rate increases have allowed officials room to assess impact",
+   "link": "https://www.financialjuice.com/News/9846142/Feds-Paulson-gradual-rate-increases-have-allowed-officials-room-to-assess-impact.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:30:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9846141",
+   "title": "Nvidia CEO Jensen Huang holds regular morning meeting with executives after admitting extramarital affair - CNBC",
+   "link": "https://www.financialjuice.com/News/9846141/Nvidia-CEO-Jensen-Huang-holds-regular-morning-meeting-with-executives-after-admitting-extramarital-affair---CNBC.aspx?xy=rss",
+   "pubDate": "Tue, 10 Nov 2026 23:21:51 GMT",
+   "desc": ""
+  },
   {
    "id": "9846124",
    "title": "OpenAI told investors adjusted operating margin improved from -150% to -109% from second to third quarter: WSJ",
