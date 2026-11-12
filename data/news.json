@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-11-12T04:19:32.797994+00:00",
- "count": 19789,
+ "updated_at": "2026-11-12T12:54:48.111480+00:00",
+ "count": 19889,
  "items": [
+  {
+   "id": "9848932",
+   "title": "Senator Cramer: Hopefully, Huang would be absolved of corruption $NVDA",
+   "link": "https://www.financialjuice.com/News/9848932/Senator-Cramer-Hopefully-Huang-would-be-absolved-of-corruption-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 12:50:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848904",
+   "title": "Putin warns foreign troops in Ukraine would be targeted - IFX",
+   "link": "https://www.financialjuice.com/News/9848904/Putin-warns-foreign-troops-in-Ukraine-would-be-targeted---IFX.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 12:34:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848889",
+   "title": "Russia struck Naftogaz facility with jet-powered drones overnight - Company",
+   "link": "https://www.financialjuice.com/News/9848889/Russia-struck-Naftogaz-facility-with-jet-powered-drones-overnight---Company.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 12:23:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848888",
+   "title": "US Envoy Kushner: The US has begun discussions with European partners on the continent's security architecture - TASS",
+   "link": "https://www.financialjuice.com/News/9848888/US-Envoy-Kushner-The-US-has-begun-discussions-with-European-partners-on-the-continents-security-architecture---TASS.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 12:23:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848869",
+   "title": "Putin starts meeting with US envoys Witkoff and Kushner - IFX",
+   "link": "https://www.financialjuice.com/News/9848869/Putin-starts-meeting-with-US-envoys-Witkoff-and-Kushner---IFX.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 12:07:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848868",
+   "title": "Putin to hold security council meeting today - IFX",
+   "link": "https://www.financialjuice.com/News/9848868/Putin-to-hold-security-council-meeting-today---IFX.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 12:03:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848852",
+   "title": "Ukraine’s President Zelenskiy: Will have talks with US representatives later on Thursday",
+   "link": "https://www.financialjuice.com/News/9848852/Ukraines-President-Zelenskiy-Will-have-talks-with-US-representatives-later-on-Thursday.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:59:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848851",
+   "title": "Ukraine’s President Zelenskiy: Europe needs to be at the table in talks with Russia",
+   "link": "https://www.financialjuice.com/News/9848851/Ukraines-President-Zelenskiy-Europe-needs-to-be-at-the-table-in-talks-with-Russia.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:59:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848850",
+   "title": "NATO's Rutte: Europeans and the US have already come to an agreement in January on how security guarantees should be sketched out, and this is all done",
+   "link": "https://www.financialjuice.com/News/9848850/NATOs-Rutte-Europeans-and-the-US-have-already-come-to-an-agreement-in-January-on-how-security-guarantees-should-be-sketched-out-and-this-is-all-done.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:56:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848849",
+   "title": "NATO's Rutte: Is Russia now willing to play ball, we will assess this later",
+   "link": "https://www.financialjuice.com/News/9848849/NATOs-Rutte-Is-Russia-now-willing-to-play-ball-we-will-assess-this-later.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:56:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848848",
+   "title": "NATO's Rutte: Positive news out of Abu Dhabi talks",
+   "link": "https://www.financialjuice.com/News/9848848/NATOs-Rutte-Positive-news-out-of-Abu-Dhabi-talks.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:53:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848847",
+   "title": "NATO's route: we need to make sure Ukraine is as strong as possible in this fight, negotiations with Russia",
+   "link": "https://www.financialjuice.com/News/9848847/NATOs-route-we-need-to-make-sure-Ukraine-is-as-strong-as-possible-in-this-fight-negotiations-with-Russia.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:53:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848828",
+   "title": "Oman emergency committee discusses response to oil tanker running aground off Al Qibliyah Island - State TV",
+   "link": "https://www.financialjuice.com/News/9848828/Oman-emergency-committee-discusses-response-to-oil-tanker-running-aground-off-Al-Qibliyah-Island---State-TV.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:38:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848791",
+   "title": "Poll: ECB deposit rate to peak at 2.75%, said 46 of 71 economists; 3.00% said 25 respondents",
+   "link": "https://www.financialjuice.com/News/9848791/Poll-ECB-deposit-rate-to-peak-at-275-said-46-of-71-economists-300-said-25-respondents.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:16:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848790",
+   "title": "Poll: ECB to hike deposit rate to 2.75% in December, said all 71 economists (64 of 73 economists in October poll)",
+   "link": "https://www.financialjuice.com/News/9848790/Poll-ECB-to-hike-deposit-rate-to-275-in-December-said-all-71-economists-64-of-73-economists-in-October-poll.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:15:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848787",
+   "title": "Germany's Merz: Europeans need to be involved in Ukraine talks",
+   "link": "https://www.financialjuice.com/News/9848787/Germanys-Merz-Europeans-need-to-be-involved-in-Ukraine-talks.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:11:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848786",
+   "title": "EC Pres. von der Leyen: Very much welcome peace talks in Abu Dhabi",
+   "link": "https://www.financialjuice.com/News/9848786/EC-Pres-von-der-Leyen-Very-much-welcome-peace-talks-in-Abu-Dhabi.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:10:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848785",
+   "title": "Germany’s Chancellor Merz: See good chance to end EU budget talks before year-end",
+   "link": "https://www.financialjuice.com/News/9848785/Germanys-Chancellor-Merz-See-good-chance-to-end-EU-budget-talks-before-year-end.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:10:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848784",
+   "title": "EU's Kallas: Would very much like to see Britain back in Europe",
+   "link": "https://www.financialjuice.com/News/9848784/EUs-Kallas-Would-very-much-like-to-see-Britain-back-in-Europe.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 11:04:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848771",
+   "title": "EU's Kallas: We don't see any goodwill from Russia's side",
+   "link": "https://www.financialjuice.com/News/9848771/EUs-Kallas-We-dont-see-any-goodwill-from-Russias-side.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 10:56:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848758",
+   "title": "Albania's PM: Next NATO maybe in 2028, timing is not clear yet",
+   "link": "https://www.financialjuice.com/News/9848758/Albanias-PM-Next-NATO-maybe-in-2028-timing-is-not-clear-yet.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 10:45:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848756",
+   "title": "Albania's PM: Next NATO summit for sure not in 2027",
+   "link": "https://www.financialjuice.com/News/9848756/Albanias-PM-Next-NATO-summit-for-sure-not-in-2027.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 10:45:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848755",
+   "title": "UK Finance Minister Healey, when asked about deal with EU: Deal must deliver benefits that outweigh trade-offs",
+   "link": "https://www.financialjuice.com/News/9848755/UK-Finance-Minister-Healey-when-asked-about-deal-with-EU-Deal-must-deliver-benefits-that-outweigh-trade-offs.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 10:24:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848735",
+   "title": "Senator Cotton: US Commerce Secretary Lutnick should ban China's CXMT from the US - CNBC",
+   "link": "https://www.financialjuice.com/News/9848735/Senator-Cotton-US-Commerce-Secretary-Lutnick-should-ban-Chinas-CXMT-from-the-US---CNBC.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 10:19:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848710",
+   "title": "ING: EUR/USD - FJElite",
+   "link": "https://www.financialjuice.com/News/9848710/ING-EURUSD---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 09:53:05 GMT",
+   "desc": "If, on the other side of the Atlantic, Chris Waller - previously considered dovish-leaning - opened the door to larger hikes, in the eurozone a hawkish-leaning voice, Gabriel Makhlouf, called for greater caution on tightening yesterday, stressing price pressures remain contained to energy for now. That contrast neatly captures the current EUR/USD story. The pair&#39;s two-year swap rate differential has widened by around 15bp over the past five sessions, and we think the scope for further repricing is greater in front-end USD rates than EUR rates in the near term. That leaves EUR/USD at material risk of testing 1.100 in the coming days. We expect that level to offer relatively solid support, not least because the pair is already trading at a nearly 2% discount to our short-term fair value. A decisive move below 1.100 would probably require markets to seriously entertain a 50bp December hike. That looks like a stretch for now."
+  },
+  {
+   "id": "9848709",
+   "title": "MUFG: The JPY - FJElite",
+   "link": "https://www.financialjuice.com/News/9848709/MUFG-The-JPY---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 09:52:16 GMT",
+   "desc": "The hawkish repricing of Fed rate hike expectations and stronger US dollar have resulted in USD/JPY rising back to within touching distance of the 160.00-level for the first time since the start of September. USD/JPY has now almost fully reversed the adjustment lower in September that was triggered by market expectations for BoJ to speed up the pace of rate hikes and media reports suggesting that the GPIF discussed over the summer increasing funds allocated towards domestic assets. The GPIF released their latest investment results for Q2 of FY2026 last week which revealed that there has been no significant shift in allocations yet. At the end of September 2026. pension reserves totalled JPY319.78 trillion of which 24.80% were held in domestic equities and 26.49% were held in domestic bonds. It compares to at the end of June 2026 when 24.48% of reserves were held in domestic equities and 25.59% held in domestic bonds. With USD/JPY moving back towards pre-joint intervention levels from late July/early August, it has prompted Japanese officials to step up verbal intervention overnight to support the yen. Japan&#39;s top currency official Atsushi Mimura stated overnight that &#39;I have a strong impression that the currency moves over the past few days have been too fast’’. He added that &quot;it’s too early to forget what happened this summer&quot;. It sends a strong signal that Japan is prepared to intervene again to support the yen which should help to limit further upside for USD/JPY beyond 160.00. However, it will be even more difficult to reverse the upward trend for USD/JPY right now with the USD strengthening broadly on the back of expectations for faster Fed rate hikes. If the rising risk of further intervention helps to stabilize USD/JPY while the US dollar continues to strengthen more broadly it could see non-USD yen crosses moving lower. Dovish BoJ board member Toichiro Asada, who voted against the September hike, also spoke overnight stating that “I believe that the recent price increases have not necessarily been driven by demand factors&quot; and considers “it necessary for the Bank to give consideration to the pace of any hikes&quot;. It does not change our view that the BoJ to continue with the faster quarterly pace of hikes in December."
+  },
+  {
+   "id": "9848660",
+   "title": "Europe Sentiment: Sleeping With Chinese Spies Is Bad For Your Employment - FJElite",
+   "link": "https://www.financialjuice.com/News/9848660/Europe-Sentiment-Sleeping-With-Chinese-Spies-Is-Bad-For-Your-Employment---FJElite.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 09:25:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848636",
+   "title": "This helps Russia kill more Ukrainians, carry out more precise strikes on Ukraine: Zelenskiy",
+   "link": "https://www.financialjuice.com/News/9848636/This-helps-Russia-kill-more-Ukrainians-carry-out-more-precise-strikes-on-Ukraine-Zelenskiy.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 09:09:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848635",
+   "title": "Ukrainian interceptors can't reach enough speed to intercept targets in time: Zelenskiy",
+   "link": "https://www.financialjuice.com/News/9848635/Ukrainian-interceptors-cant-reach-enough-speed-to-intercept-targets-in-time-Zelenskiy.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 09:09:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848560",
+   "title": "Russia's Ryabkov: It's incorrect to say trust was restored between parties following negotiations in Abu Dhabi - IFX",
+   "link": "https://www.financialjuice.com/News/9848560/Russias-Ryabkov-Its-incorrect-to-say-trust-was-restored-between-parties-following-negotiations-in-Abu-Dhabi---IFX.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 08:15:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848554",
+   "title": "Currency Strength Chart: Strongest: CHF, JPY, USD, GBP, CAD, EUR, NZD, AUD - Weakest",
+   "link": "https://www.financialjuice.com/News/9848554/Currency-Strength-Chart-Strongest-CHF-JPY-USD-GBP-CAD-EUR-NZD-AUD---Weakest.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 08:02:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848521",
+   "title": "Japan government to spend 650 bln Yen to help ease winter outlays for households - Kyodo",
+   "link": "https://www.financialjuice.com/News/9848521/Japan-government-to-spend-650-bln-Yen-to-help-ease-winter-outlays-for-households---Kyodo.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:31:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848508",
+   "title": "French European affairs minister Haddad: On Monday, the EU will approve more sanctions on Russia",
+   "link": "https://www.financialjuice.com/News/9848508/French-European-affairs-minister-Haddad-On-Monday-the-EU-will-approve-more-sanctions-on-Russia.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:27:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848492",
+   "title": "China and the US are in close communication over tariff reduction - Mofcom",
+   "link": "https://www.financialjuice.com/News/9848492/China-and-the-US-are-in-close-communication-over-tariff-reduction---Mofcom.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:10:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848491",
+   "title": "China's Mao: The US should not use spy narrative as pretext for tech curbs",
+   "link": "https://www.financialjuice.com/News/9848491/Chinas-Mao-The-US-should-not-use-spy-narrative-as-pretext-for-tech-curbs.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:07:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848482",
+   "title": "Swedish CPI MoM Actual 0.0% (Forecast 0%, Previous 0.0%)",
+   "link": "https://www.financialjuice.com/News/9848482/Swedish-CPI-MoM-Actual-00-Forecast-0-Previous-00.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:02:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848481",
+   "title": "Swedish CPI YoY Actual 0.9% (Forecast 0.9%, Previous 0.9%)",
+   "link": "https://www.financialjuice.com/News/9848481/Swedish-CPI-YoY-Actual-09-Forecast-09-Previous-09.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:02:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848480",
+   "title": "UK Goods Trade Balance Non-EU Actual -8.985B (Forecast -, Previous -5.287B)",
+   "link": "https://www.financialjuice.com/News/9848480/UK-Goods-Trade-Balance-Non-EU-Actual--8985B-Forecast---Previous--5287B.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:02:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848479",
+   "title": "UK Manufacturing Production YoY Actual 4.4% (Forecast 3.8%, Previous 3.0%)",
+   "link": "https://www.financialjuice.com/News/9848479/UK-Manufacturing-Production-YoY-Actual-44-Forecast-38-Previous-30.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:02:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848477",
+   "title": "UK GDP Estimate YoY Actual 2.1% (Forecast 1.9%, Previous 2.1%)",
+   "link": "https://www.financialjuice.com/News/9848477/UK-GDP-Estimate-YoY-Actual-21-Forecast-19-Previous-21.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:02:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848475",
+   "title": "UK GDP Estimate 3M/3M Actual 0.7% (Forecast 0.6%, Previous 0.7%)",
+   "link": "https://www.financialjuice.com/News/9848475/UK-GDP-Estimate-3M3M-Actual-07-Forecast-06-Previous-07.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:02:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848478",
+   "title": "UK Goods Trade Balance Actual -22.291B (Forecast -19.2B, Previous -18.01B)",
+   "link": "https://www.financialjuice.com/News/9848478/UK-Goods-Trade-Balance-Actual--22291B-Forecast--192B-Previous--1801B.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:00:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848474",
+   "title": "UK Manufacturing Production MoM Actual 0.7% (Forecast -0.5%, Previous 1.2%)",
+   "link": "https://www.financialjuice.com/News/9848474/UK-Manufacturing-Production-MoM-Actual-07-Forecast--05-Previous-12.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:00:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848473",
+   "title": "UK Industrial Production MoM Actual 0.3% (Forecast -0.4%, Previous 0.8%)",
+   "link": "https://www.financialjuice.com/News/9848473/UK-Industrial-Production-MoM-Actual-03-Forecast--04-Previous-08.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:00:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848472",
+   "title": "UK Industrial Production YoY Actual 3.1% (Forecast 2.8%, Previous 1.6%)",
+   "link": "https://www.financialjuice.com/News/9848472/UK-Industrial-Production-YoY-Actual-31-Forecast-28-Previous-16.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848471",
+   "title": "UK GDP YoY Prelim Actual 1.9% (Forecast 1.9%, Previous 1.4%)",
+   "link": "https://www.financialjuice.com/News/9848471/UK-GDP-YoY-Prelim-Actual-19-Forecast-19-Previous-14.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848470",
+   "title": "UK Services MoM Actual 0.2% (Forecast 0%, Previous 0.0%)",
+   "link": "https://www.financialjuice.com/News/9848470/UK-Services-MoM-Actual-02-Forecast-0-Previous-00.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848469",
+   "title": "UK GDP QoQ Prelim Actual 0.7% (Forecast 0.7%, Previous 0.5%)",
+   "link": "https://www.financialjuice.com/News/9848469/UK-GDP-QoQ-Prelim-Actual-07-Forecast-07-Previous-05.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848468",
+   "title": "UK Business Investment QoQ Prelim Actual 0.43% (Forecast 0.6%, Previous 1.8%)",
+   "link": "https://www.financialjuice.com/News/9848468/UK-Business-Investment-QoQ-Prelim-Actual-043-Forecast-06-Previous-18.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848467",
+   "title": "UK GDP Estimate MoM Actual 0.2% (Forecast 0%, Previous 0.1%)",
+   "link": "https://www.financialjuice.com/News/9848467/UK-GDP-Estimate-MoM-Actual-02-Forecast-0-Previous-01.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848466",
+   "title": "UK Construction Output MoM Actual 0.8% (Forecast -0.1%, Previous -0.2%)",
+   "link": "https://www.financialjuice.com/News/9848466/UK-Construction-Output-MoM-Actual-08-Forecast--01-Previous--02.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 07:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848465",
+   "title": "Iran's state media, citing the IRGC Navy: Two oil tankers face explosions while moving in the 'unauthorized route' In the Strait of Hormuz on Wednesday night",
+   "link": "https://www.financialjuice.com/News/9848465/Irans-state-media-citing-the-IRGC-Navy-Two-oil-tankers-face-explosions-while-moving-in-the-unauthorized-route-In-the-Strait-of-Hormuz-on-Wednesday-night.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:59:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848464",
+   "title": "Siemens CEO: No extra guardrails needed for our Nvidia business $NVDA",
+   "link": "https://www.financialjuice.com/News/9848464/Siemens-CEO-No-extra-guardrails-needed-for-our-Nvidia-business-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:56:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848463",
+   "title": "Siemens CEO: Partnership with NVIDIA to continue as normal.",
+   "link": "https://www.financialjuice.com/News/9848463/Siemens-CEO-Partnership-with-NVIDIA-to-continue-as-normal.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:56:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848450",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9848450/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:36:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848449",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9848449/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:36:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848448",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9848448/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:35:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848447",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9848447/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:35:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848446",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9848446/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:35:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848445",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9848445/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:34:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848444",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9848444/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:34:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848443",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9848443/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:34:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848442",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9848442/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:33:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848441",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9848441/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:33:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848440",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9848440/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:32:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848439",
+   "title": "Top S&P 500 stock names implied volatility",
+   "link": "https://www.financialjuice.com/News/9848439/Top-SP-500-stock-names-implied-volatility.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:32:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848437",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9848437/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:31:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848423",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9848423/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:31:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848422",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9848422/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:31:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848421",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9848421/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:30:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848407",
+   "title": "BoJ board member Asada: former BoJ chief Kuroda’s stimulus approach was suitable at the time",
+   "link": "https://www.financialjuice.com/News/9848407/BoJ-board-member-Asada-former-BoJ-chief-Kurodas-stimulus-approach-was-suitable-at-the-time.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:08:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848406",
+   "title": "BOJ board member Asada: Japan now in inflation, not deflation, entering new phase",
+   "link": "https://www.financialjuice.com/News/9848406/BOJ-board-member-Asada-Japan-now-in-inflation-not-deflation-entering-new-phase.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:07:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848405",
+   "title": "South Korea President Lee: South Korean capital market remains undervalued despite robust economic fundamentals",
+   "link": "https://www.financialjuice.com/News/9848405/South-Korea-President-Lee-South-Korean-capital-market-remains-undervalued-despite-robust-economic-fundamentals.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:07:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848404",
+   "title": "BOJ board member Asada: Japan has already reached about 2% inflation, so pushing prices higher is not very meaningful",
+   "link": "https://www.financialjuice.com/News/9848404/BOJ-board-member-Asada-Japan-has-already-reached-about-2-inflation-so-pushing-prices-higher-is-not-very-meaningful.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:06:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848403",
+   "title": "Russian military official killed in car explosion: RIA",
+   "link": "https://www.financialjuice.com/News/9848403/Russian-military-official-killed-in-car-explosion-RIA.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:01:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848395",
+   "title": "Russian defence ministry: Russian forces strike cargo ship in Black Sea - RIA",
+   "link": "https://www.financialjuice.com/News/9848395/Russian-defence-ministry-Russian-forces-strike-cargo-ship-in-Black-Sea---RIA.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:01:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848392",
+   "title": "BOJ's Asada: if rates rise, must be cautious about speed",
+   "link": "https://www.financialjuice.com/News/9848392/BOJs-Asada-if-rates-rise-must-be-cautious-about-speed.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:01:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848391",
+   "title": "BoJ's Asada: may need to increase rates gradually at some point in future",
+   "link": "https://www.financialjuice.com/News/9848391/BoJs-Asada-may-need-to-increase-rates-gradually-at-some-point-in-future.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:01:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848390",
+   "title": "BOJ's Asada: I am not opposed to increasing rates entirely",
+   "link": "https://www.financialjuice.com/News/9848390/BOJs-Asada-I-am-not-opposed-to-increasing-rates-entirely.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:00:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848389",
+   "title": "BOJ's Asada: Chance neutral rate somewhat exceeds BOJ policy rate",
+   "link": "https://www.financialjuice.com/News/9848389/BOJs-Asada-Chance-neutral-rate-somewhat-exceeds-BOJ-policy-rate.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:00:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848383",
+   "title": "Finnish September current account deficit 0.5 billion euros: Statistics Finland",
+   "link": "https://www.financialjuice.com/News/9848383/Finnish-September-current-account-deficit-05-billion-euros-Statistics-Finland.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 06:00:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848382",
+   "title": "Boj's Asada: no plans to suggest rate reduction now",
+   "link": "https://www.financialjuice.com/News/9848382/Bojs-Asada-no-plans-to-suggest-rate-reduction-now.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:59:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848381",
+   "title": "BoJ's Asada: Want to decide policy at each meeting reviewing upside, downside risks and financial conditions",
+   "link": "https://www.financialjuice.com/News/9848381/BoJs-Asada-Want-to-decide-policy-at-each-meeting-reviewing-upside-downside-risks-and-financial-conditions.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:57:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848380",
+   "title": "Boj's Asada: Even if policy rate hits target level, central bank could still adjust rates up or down",
+   "link": "https://www.financialjuice.com/News/9848380/Bojs-Asada-Even-if-policy-rate-hits-target-level-central-bank-could-still-adjust-rates-up-or-down.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:56:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848379",
+   "title": "Boj's Asada: Boj does not directly govern fx so will not comment on ideal dollar/yen level",
+   "link": "https://www.financialjuice.com/News/9848379/Bojs-Asada-Boj-does-not-directly-govern-fx-so-will-not-comment-on-ideal-dollaryen-level.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:55:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848378",
+   "title": "BoJ's Asada: terminal rate and neutral rate closely linked",
+   "link": "https://www.financialjuice.com/News/9848378/BoJs-Asada-terminal-rate-and-neutral-rate-closely-linked.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:53:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848377",
+   "title": "BOJ's Asada: Japan's nominal neutral rate likely toward lower end of staff range",
+   "link": "https://www.financialjuice.com/News/9848377/BOJs-Asada-Japans-nominal-neutral-rate-likely-toward-lower-end-of-staff-range.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:51:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848376",
+   "title": "BOJ's Asada: no clear plan on terminal rate",
+   "link": "https://www.financialjuice.com/News/9848376/BOJs-Asada-no-clear-plan-on-terminal-rate.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:51:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848361",
+   "title": "BOJ's Asada: Central bank independence crucial for price stability amid questions on rate hikes' impact on government policy",
+   "link": "https://www.financialjuice.com/News/9848361/BOJs-Asada-Central-bank-independence-crucial-for-price-stability-amid-questions-on-rate-hikes-impact-on-government-policy.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:45:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848360",
+   "title": "BOJ board member Asada: must be mindful of risk rate hikes could lower underlying inflation as consumption slows, when asked about possible December increase",
+   "link": "https://www.financialjuice.com/News/9848360/BOJ-board-member-Asada-must-be-mindful-of-risk-rate-hikes-could-lower-underlying-inflation-as-consumption-slows-when-asked-about-possible-December-increase.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:44:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848359",
+   "title": "UAE's Ras Al Khaimah reopens several beaches after oil spill closures: Ras Al Khaimah media office",
+   "link": "https://www.financialjuice.com/News/9848359/UAEs-Ras-Al-Khaimah-reopens-several-beaches-after-oil-spill-closures-Ras-Al-Khaimah-media-office.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:40:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848358",
+   "title": "South Korea foreign minister Cho to visit China ahead of APEC summit Nov. 13-14: Yonhap",
+   "link": "https://www.financialjuice.com/News/9848358/South-Korea-foreign-minister-Cho-to-visit-China-ahead-of-APEC-summit-Nov-13-14-Yonhap.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:35:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848345",
+   "title": "China's grey-market traders hoard restricted Nvidia AI chips as CEO spy scandal fuels US crackdown fears, sources say",
+   "link": "https://www.financialjuice.com/News/9848345/Chinas-grey-market-traders-hoard-restricted-Nvidia-AI-chips-as-CEO-spy-scandal-fuels-US-crackdown-fears-sources-say.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:27:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848344",
+   "title": "Chinese AI firms concerned Nvidia CEO spy scandal may prompt Washington to restrict remote use of advanced chips, sources say",
+   "link": "https://www.financialjuice.com/News/9848344/Chinese-AI-firms-concerned-Nvidia-CEO-spy-scandal-may-prompt-Washington-to-restrict-remote-use-of-advanced-chips-sources-say.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:27:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848343",
+   "title": "Chinese AI firms rushing to secure more Nvidia-powered computing capacity at overseas data centers, sources say",
+   "link": "https://www.financialjuice.com/News/9848343/Chinese-AI-firms-rushing-to-secure-more-Nvidia-powered-computing-capacity-at-overseas-data-centers-sources-say.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:27:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848342",
+   "title": "Israeli military: strikes senior Hamas figure and other militants at Nasser Hospital in Gaza's Khan Younis",
+   "link": "https://www.financialjuice.com/News/9848342/Israeli-military-strikes-senior-Hamas-figure-and-other-militants-at-Nasser-Hospital-in-Gazas-Khan-Younis.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:25:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848327",
+   "title": "France signals backing for Spain's ECB presidential candidate Pablo Hernandez de Cos - FT",
+   "link": "https://www.financialjuice.com/News/9848327/France-signals-backing-for-Spains-ECB-presidential-candidate-Pablo-Hernandez-de-Cos---FT.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:02:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848325",
+   "title": "EU and UK likely to postpone 10% electric car tariff: FT",
+   "link": "https://www.financialjuice.com/News/9848325/EU-and-UK-likely-to-postpone-10-electric-car-tariff-FT.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 05:02:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848290",
+   "title": "Taiwan stocks fall over 2%",
+   "link": "https://www.financialjuice.com/News/9848290/Taiwan-stocks-fall-over-2.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 04:57:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9848289",
+   "title": "Russia strikes energy sites, military depot in and around Ukraine's Kyiv: Russian newswires quote defence ministry",
+   "link": "https://www.financialjuice.com/News/9848289/Russia-strikes-energy-sites-military-depot-in-and-around-Ukraines-Kyiv-Russian-newswires-quote-defence-ministry.aspx?xy=rss",
+   "pubDate": "Thu, 12 Nov 2026 04:53:01 GMT",
+   "desc": ""
+  },
   {
    "id": "9848266",
    "title": "Witkoff, Kushner to meet Putin's special envoy Kirill Dmitriev ahead of Kremlin talks, sources say",
