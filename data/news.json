@@ -1,7 +1,525 @@
 {
- "updated_at": "2026-11-13T01:26:17.118678+00:00",
+ "updated_at": "2026-11-13T08:23:32.275532+00:00",
  "count": 20000,
  "items": [
+  {
+   "id": "9850509",
+   "title": "IAEA report: IAEA chief Grossi notes Iran's continued refusal to engage the IAEA in seeking to address unresolved safeguards issues.",
+   "link": "https://www.financialjuice.com/News/9850509/IAEA-report-IAEA-chief-Grossi-notes-Irans-continued-refusal-to-engage-the-IAEA-in-seeking-to-address-unresolved-safeguards-issues.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:16:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850508",
+   "title": "IAEA report: It is critical for the IAEA to conduct verification activities in Iran without further delay, Grossi calls on Iran to engage constructively",
+   "link": "https://www.financialjuice.com/News/9850508/IAEA-report-It-is-critical-for-the-IAEA-to-conduct-verification-activities-in-Iran-without-further-delay-Grossi-calls-on-Iran-to-engage-constructively.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:16:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850507",
+   "title": "IAEA Report: The IAEA does not know Isfahan enrichment plant's exact location or whether it contains nuclear material.",
+   "link": "https://www.financialjuice.com/News/9850507/IAEA-Report-The-IAEA-does-not-know-Isfahan-enrichment-plants-exact-location-or-whether-it-contains-nuclear-material.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:16:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850506",
+   "title": "IAEA report: The IAEA is increasingly concerned that Iran has not let it examine design information or inspect the Isfahan uranium enrichment plan declared in June 2025",
+   "link": "https://www.financialjuice.com/News/9850506/IAEA-report-The-IAEA-is-increasingly-concerned-that-Iran-has-not-let-it-examine-design-information-or-inspect-the-Isfahan-uranium-enrichment-plan-declared-in-June-2025.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:16:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850505",
+   "title": "IAEA Report: Not able to conclude that there has been no diversion of nuclear material from peaceful nuclear activities in Iran.",
+   "link": "https://www.financialjuice.com/News/9850505/IAEA-Report-Not-able-to-conclude-that-there-has-been-no-diversion-of-nuclear-material-from-peaceful-nuclear-activities-in-Iran.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:16:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850504",
+   "title": "IAEA report: The IAEA has neither received information from Iran on the status of its nuclear facilities and material nor had access to them, except for the Bushehr power plant",
+   "link": "https://www.financialjuice.com/News/9850504/IAEA-report-The-IAEA-has-neither-received-information-from-Iran-on-the-status-of-its-nuclear-facilities-and-material-nor-had-access-to-them-except-for-the-Bushehr-power-plant.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:16:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850503",
+   "title": "IAEA report: The IAEA's lack of information about enriched uranium and access to facilities since the June 2025 attacks is a matter of serious proliferation concern and needs to be rectified with the utmost urgency",
+   "link": "https://www.financialjuice.com/News/9850503/IAEA-report-The-IAEAs-lack-of-information-about-enriched-uranium-and-access-to-facilities-since-the-June-2025-attacks-is-a-matter-of-serious-proliferation-concern-and-needs-to-be-rectified-with-the-utmost-urgency.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:15:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850482",
+   "title": "Spanish Core CPI YoY Actual 3.1% (Forecast -, Previous 3.1%)",
+   "link": "https://www.financialjuice.com/News/9850482/Spanish-Core-CPI-YoY-Actual-31-Forecast---Previous-31.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:02:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850485",
+   "title": "Currency Strength Chart: Strongest: EUR, JPY, USD, CAD, CHF, GBP, NZD, AUD - Weakest",
+   "link": "https://www.financialjuice.com/News/9850485/Currency-Strength-Chart-Strongest-EUR-JPY-USD-CAD-CHF-GBP-NZD-AUD---Weakest.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:01:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850481",
+   "title": "Spanish HICP Final MoM Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
+   "link": "https://www.financialjuice.com/News/9850481/Spanish-HICP-Final-MoM-Actual-05-Forecast-05-Previous-05.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850480",
+   "title": "Spanish CPI MoM Final Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+   "link": "https://www.financialjuice.com/News/9850480/Spanish-CPI-MoM-Final-Actual-06-Forecast-06-Previous-06.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850479",
+   "title": "Spanish HICP Final YoY Actual 4.9% (Forecast 4.9%, Previous 4.9%)",
+   "link": "https://www.financialjuice.com/News/9850479/Spanish-HICP-Final-YoY-Actual-49-Forecast-49-Previous-49.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850478",
+   "title": "Spanish CPI YoY Final Actual 4.9% (Forecast 4.9%, Previous 4.9%)",
+   "link": "https://www.financialjuice.com/News/9850478/Spanish-CPI-YoY-Final-Actual-49-Forecast-49-Previous-49.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 08:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850469",
+   "title": "French HICP YoY Final Actual 3.7% (Forecast 3.8%, Previous 3.8%)",
+   "link": "https://www.financialjuice.com/News/9850469/French-HICP-YoY-Final-Actual-37-Forecast-38-Previous-38.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850468",
+   "title": "French CPI YoY NSA Actual 3.4% (Forecast 3.4%, Previous 3.4%)",
+   "link": "https://www.financialjuice.com/News/9850468/French-CPI-YoY-NSA-Actual-34-Forecast-34-Previous-34.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850467",
+   "title": "French CPI MoM NSA Actual 0.4% (Forecast 0.4%, Previous 0.4%)",
+   "link": "https://www.financialjuice.com/News/9850467/French-CPI-MoM-NSA-Actual-04-Forecast-04-Previous-04.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850466",
+   "title": "French HICP MoM Final Actual 0.4% (Forecast 0.4%, Previous 0.4%)",
+   "link": "https://www.financialjuice.com/News/9850466/French-HICP-MoM-Final-Actual-04-Forecast-04-Previous-04.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850454",
+   "title": "Swiss PPI MoM Actual 0.9% (Forecast -, Previous 0.3%)",
+   "link": "https://www.financialjuice.com/News/9850454/Swiss-PPI-MoM-Actual-09-Forecast---Previous-03.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850453",
+   "title": "Swiss PPI YoY Actual 0.9% (Forecast -, Previous -0.2%)",
+   "link": "https://www.financialjuice.com/News/9850453/Swiss-PPI-YoY-Actual-09-Forecast---Previous--02.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850439",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9850439/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:16:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850438",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9850438/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:15:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850437",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9850437/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:15:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850433",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9850433/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:15:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850432",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9850432/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:14:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850431",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9850431/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:14:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850430",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9850430/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:14:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850429",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9850429/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:13:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850428",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9850428/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:13:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850427",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9850427/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:12:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850426",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9850426/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:12:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850425",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9850425/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:12:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850424",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9850424/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:11:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850423",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9850423/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:11:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850422",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9850422/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:10:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850421",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9850421/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:10:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850407",
+   "title": "German Wholesale Price Index YoY Actual 8.8% (Forecast -, Previous 8.7%)",
+   "link": "https://www.financialjuice.com/News/9850407/German-Wholesale-Price-Index-YoY-Actual-88-Forecast---Previous-87.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850406",
+   "title": "German Wholesale Price Index MoM Actual 0.4% (Forecast -, Previous 1.9%)",
+   "link": "https://www.financialjuice.com/News/9850406/German-Wholesale-Price-Index-MoM-Actual-04-Forecast---Previous-19.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 07:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850381",
+   "title": "Iran's Revolutionary Guards navy: Tanker carrying liquefied gas struck a naval mine, causing an explosion in Strait of Hormuz",
+   "link": "https://www.financialjuice.com/News/9850381/Irans-Revolutionary-Guards-navy-Tanker-carrying-liquefied-gas-struck-a-naval-mine-causing-an-explosion-in-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 06:28:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850354",
+   "title": "Microsoft on outage: No signs of malicious activity causing incident",
+   "link": "https://www.financialjuice.com/News/9850354/Microsoft-on-outage-No-signs-of-malicious-activity-causing-incident.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 05:56:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850323",
+   "title": "SMFG CEO Nakashima: Personally, I don't expect NVIDIA's management position to shift significantly $NVDA",
+   "link": "https://www.financialjuice.com/News/9850323/SMFG-CEO-Nakashima-Personally-I-dont-expect-NVIDIAs-management-position-to-shift-significantly-NVDA.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 05:21:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850322",
+   "title": "SMFG CEO Nakashima: Effect of Nvidia CEO stepping down on data centre investment is unclear now, hinges on new leadership $NVDA",
+   "link": "https://www.financialjuice.com/News/9850322/SMFG-CEO-Nakashima-Effect-of-Nvidia-CEO-stepping-down-on-data-centre-investment-is-unclear-now-hinges-on-new-leadership-NVDA.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 05:20:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850321",
+   "title": "Russia hits cargo ship in Black Sea - IFX cites Russian defense ministry",
+   "link": "https://www.financialjuice.com/News/9850321/Russia-hits-cargo-ship-in-Black-Sea---IFX-cites-Russian-defense-ministry.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 05:19:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850315",
+   "title": "German budget committee backs 2027 budget, paving way for parliamentary approval - document",
+   "link": "https://www.financialjuice.com/News/9850315/German-budget-committee-backs-2027-budget-paving-way-for-parliamentary-approval---document.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 05:06:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850314",
+   "title": "Germany's 2027 core budget includes 123 billion euros in debt - document",
+   "link": "https://www.financialjuice.com/News/9850314/Germanys-2027-core-budget-includes-123-billion-euros-in-debt---document.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 05:06:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850313",
+   "title": "Germany 2027 budget includes total spending of 561 billion euros, investment 62 billion euros: document",
+   "link": "https://www.financialjuice.com/News/9850313/Germany-2027-budget-includes-total-spending-of-561-billion-euros-investment-62-billion-euros-document.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 05:06:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850272",
+   "title": "Japan PM Takaichi: economy, fiscal policy not designed to influence forex",
+   "link": "https://www.financialjuice.com/News/9850272/Japan-PM-Takaichi-economy-fiscal-policy-not-designed-to-influence-forex.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 04:46:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850269",
+   "title": "Japan PM Takaichi: managing economic and fiscal policy while closely monitoring market trends",
+   "link": "https://www.financialjuice.com/News/9850269/Japan-PM-Takaichi-managing-economic-and-fiscal-policy-while-closely-monitoring-market-trends.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 04:44:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850268",
+   "title": "Japan PM Takaichi: currency rates shaped by multiple factors",
+   "link": "https://www.financialjuice.com/News/9850268/Japan-PM-Takaichi-currency-rates-shaped-by-multiple-factors.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 04:43:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850267",
+   "title": "Japan PM Takaichi: will strive to preserve orderly forex market",
+   "link": "https://www.financialjuice.com/News/9850267/Japan-PM-Takaichi-will-strive-to-preserve-orderly-forex-market.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 04:42:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850266",
+   "title": "Japan PM Takaichi: in close contact with US financial authorities on currency market",
+   "link": "https://www.financialjuice.com/News/9850266/Japan-PM-Takaichi-in-close-contact-with-US-financial-authorities-on-currency-market.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 04:42:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850265",
+   "title": "Japan PM Takaichi: Won't discuss forex",
+   "link": "https://www.financialjuice.com/News/9850265/Japan-PM-Takaichi-Wont-discuss-forex.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 04:41:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850264",
+   "title": "Microsoft on outage: efforts aren't leading to lasting recovery",
+   "link": "https://www.financialjuice.com/News/9850264/Microsoft-on-outage-efforts-arent-leading-to-lasting-recovery.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 04:38:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850263",
+   "title": "BoJ deputy governor Himino: no plans for additional review of bank's ETF sales at this time",
+   "link": "https://www.financialjuice.com/News/9850263/BoJ-deputy-governor-Himino-no-plans-for-additional-review-of-banks-ETF-sales-at-this-time.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 04:38:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850262",
+   "title": "Microsoft on outage: noting partial recovery in regions with applied adjustments",
+   "link": "https://www.financialjuice.com/News/9850262/Microsoft-on-outage-noting-partial-recovery-in-regions-with-applied-adjustments.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 04:38:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850261",
+   "title": "Microsoft on outage: noticing partial restoration across regions",
+   "link": "https://www.financialjuice.com/News/9850261/Microsoft-on-outage-noticing-partial-restoration-across-regions.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 04:37:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850213",
+   "title": "China finance ministry offers 3-year bonds at 1.22% yield: traders",
+   "link": "https://www.financialjuice.com/News/9850213/China-finance-ministry-offers-3-year-bonds-at-122-yield-traders.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:38:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850192",
+   "title": "S. Korea Sept M2 money supply rises 5.5% y/y vs 5.6% in Aug: C.Bank",
+   "link": "https://www.financialjuice.com/News/9850192/S-Korea-Sept-M2-money-supply-rises-55-yy-vs-56-in-Aug-CBank.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:23:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850191",
+   "title": "Kraken investigating issue with data not updating for Kraken Pro US futures",
+   "link": "https://www.financialjuice.com/News/9850191/Kraken-investigating-issue-with-data-not-updating-for-Kraken-Pro-US-futures.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:23:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850189",
+   "title": "Microsoft: identifying alternative workflows to boost capacity amid ongoing traffic management imbalances",
+   "link": "https://www.financialjuice.com/News/9850189/Microsoft-identifying-alternative-workflows-to-boost-capacity-amid-ongoing-traffic-management-imbalances.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:15:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850188",
+   "title": "Microsoft on outage: monitored status of changes to improve serviceability, confirmed they aren't working as expected",
+   "link": "https://www.financialjuice.com/News/9850188/Microsoft-on-outage-monitored-status-of-changes-to-improve-serviceability-confirmed-they-arent-working-as-expected.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:15:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850187",
+   "title": "Microsoft on outage: we've monitored status of applied changes",
+   "link": "https://www.financialjuice.com/News/9850187/Microsoft-on-outage-weve-monitored-status-of-applied-changes.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:14:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850186",
+   "title": "To improve serviceability, confirmed service levels aren't meeting expectations",
+   "link": "https://www.financialjuice.com/News/9850186/To-improve-serviceability-confirmed-service-levels-arent-meeting-expectations.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:14:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850185",
+   "title": "South Korea government: may suspend or cancel Google map export permit over serious breaches",
+   "link": "https://www.financialjuice.com/News/9850185/South-Korea-government-may-suspend-or-cancel-Google-map-export-permit-over-serious-breaches.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:11:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850184",
+   "title": "South Korea government: confirms Google deleted coordinates for South Korean territory from Google Maps, Earth",
+   "link": "https://www.financialjuice.com/News/9850184/South-Korea-government-confirms-Google-deleted-coordinates-for-South-Korean-territory-from-Google-Maps-Earth.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:10:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850183",
+   "title": "South Korea government: Google to remove street view in and around all military and security sites",
+   "link": "https://www.financialjuice.com/News/9850183/South-Korea-government-Google-to-remove-street-view-in-and-around-all-military-and-security-sites.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:10:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850173",
+   "title": "S.Korea Sept l-money supply measure rises 7.0% y/y vs 7.2% in Aug: c.bank",
+   "link": "https://www.financialjuice.com/News/9850173/SKorea-Sept-l-money-supply-measure-rises-70-yy-vs-72-in-Aug-cbank.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 03:00:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850147",
+   "title": "Microsoft: applying infrastructure capacity upgrades where possible to support traffic in regions coming online",
+   "link": "https://www.financialjuice.com/News/9850147/Microsoft-applying-infrastructure-capacity-upgrades-where-possible-to-support-traffic-in-regions-coming-online.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 02:30:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850146",
+   "title": "US President Donald Trump's AI task force met Thursday: discussed earlier AI-driven cyberattacks - administration spokesperson",
+   "link": "https://www.financialjuice.com/News/9850146/US-President-Donald-Trumps-AI-task-force-met-Thursday-discussed-earlier-AI-driven-cyberattacks---administration-spokesperson.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 02:29:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850129",
+   "title": "Iran's IRGC: targeted US early-warning radar in Bahrain after telecom tower attack in Iran's Sii",
+   "link": "https://www.financialjuice.com/News/9850129/Irans-IRGC-targeted-US-early-warning-radar-in-Bahrain-after-telecom-tower-attack-in-Irans-Sii.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 02:12:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850128",
+   "title": "Democratic US Senator Chris Van Hollen: running for senate majority leader",
+   "link": "https://www.financialjuice.com/News/9850128/Democratic-US-Senator-Chris-Van-Hollen-running-for-senate-majority-leader.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 02:08:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850127",
+   "title": "Schumer: I have support to remain as Democratic leader",
+   "link": "https://www.financialjuice.com/News/9850127/Schumer-I-have-support-to-remain-as-Democratic-leader.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 02:05:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850073",
+   "title": "Microsoft on outage: remediation steps to increase as stability confirmed with changes applied",
+   "link": "https://www.financialjuice.com/News/9850073/Microsoft-on-outage-remediation-steps-to-increase-as-stability-confirmed-with-changes-applied.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 02:01:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850057",
+   "title": "Microsoft on outage: positive outcomes from efforts to restart affected infrastructure and restore server availability separately",
+   "link": "https://www.financialjuice.com/News/9850057/Microsoft-on-outage-positive-outcomes-from-efforts-to-restart-affected-infrastructure-and-restore-server-availability-separately.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 02:00:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9850028",
+   "title": "China finance ministry auctions 1-month deposits at 1.30% yield: statement",
+   "link": "https://www.financialjuice.com/News/9850028/China-finance-ministry-auctions-1-month-deposits-at-130-yield-statement.aspx?xy=rss",
+   "pubDate": "Fri, 13 Nov 2026 01:41:40 GMT",
+   "desc": ""
+  },
   {
    "id": "9850019",
    "title": "Republican lawmakers renew demand for former Nvidia CEO Jensen Huang to update Congress on espionage allegations",
@@ -139482,524 +140000,6 @@
    "title": "Senior Hamas official Basem Naim: We stay committed to roadmap agreed with mediators and peace council reps in Cairo 10 days ago",
    "link": "https://www.financialjuice.com/News/9713724/Senior-Hamas-official-Basem-Naim-We-stay-committed-to-roadmap-agreed-with-mediators-and-peace-council-reps-in-Cairo-10-days-ago.aspx?xy=rss",
    "pubDate": "Sun, 09 Aug 2026 11:54:01 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713723",
-   "title": "Senior Hamas official Basem Naim: Group expects mediators and US to pressure Netanyahu and his government to follow roadmap",
-   "link": "https://www.financialjuice.com/News/9713723/Senior-Hamas-official-Basem-Naim-Group-expects-mediators-and-US-to-pressure-Netanyahu-and-his-government-to-follow-roadmap.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 11:52:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713712",
-   "title": "Iran’s president recently met with Supreme Leader Khamenei to discuss economic and military matters: state media",
-   "link": "https://www.financialjuice.com/News/9713712/Irans-president-recently-met-with-Supreme-Leader-Khamenei-to-discuss-economic-and-military-matters-state-media.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 11:18:13 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713700",
-   "title": "Apple tests memory chips from China's CXMT across product lines including iPhones and MacBooks: WSJ",
-   "link": "https://www.financialjuice.com/News/9713700/Apple-tests-memory-chips-from-Chinas-CXMT-across-product-lines-including-iPhones-and-MacBooks-WSJ.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 11:01:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713699",
-   "title": "Israel's PM Netanyahu: some aspects of U.S. 15-point Gaza proposal are acceptable, others not",
-   "link": "https://www.financialjuice.com/News/9713699/Israels-PM-Netanyahu-some-aspects-of-US-15-point-Gaza-proposal-are-acceptable-others-not.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 11:00:48 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713694",
-   "title": "Israel's PM Netanyahu: no Palestinian state in Gaza or West Bank while I am prime minister",
-   "link": "https://www.financialjuice.com/News/9713694/Israels-PM-Netanyahu-no-Palestinian-state-in-Gaza-or-West-Bank-while-I-am-prime-minister.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 10:58:38 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713693",
-   "title": "Israel's PM Netanyahu: israel will not pull back from Gaza until Hamas completely disarmed",
-   "link": "https://www.financialjuice.com/News/9713693/Israels-PM-Netanyahu-israel-will-not-pull-back-from-Gaza-until-Hamas-completely-disarmed.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 10:56:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713692",
-   "title": "Israel's PM Netanyahu: Israel dismisses Gaza's 15-point proposal",
-   "link": "https://www.financialjuice.com/News/9713692/Israels-PM-Netanyahu-Israel-dismisses-Gazas-15-point-proposal.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 10:56:19 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713682",
-   "title": "71% of Democrats, 62% of Republicans back tougher U.S. regulation of social media apps: source/ipsos poll",
-   "link": "https://www.financialjuice.com/News/9713682/71-of-Democrats-62-of-Republicans-back-tougher-US-regulation-of-social-media-apps-sourceipsos-poll.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 10:00:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713681",
-   "title": "74% of Republicans, 69% of Democrats back age-verification rules for social media: Ipsos poll",
-   "link": "https://www.financialjuice.com/News/9713681/74-of-Republicans-69-of-Democrats-back-age-verification-rules-for-social-media-Ipsos-poll.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 10:00:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713680",
-   "title": "61% of Americans back stricter U.S. supervision of social media apps: Ipsos poll",
-   "link": "https://www.financialjuice.com/News/9713680/61-of-Americans-back-stricter-US-supervision-of-social-media-apps-Ipsos-poll.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 10:00:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713679",
-   "title": "Yemen's Houthis: Attack on Mocha port",
-   "link": "https://www.financialjuice.com/News/9713679/Yemens-Houthis-Attack-on-Mocha-port.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 09:59:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713669",
-   "title": "Russian defence ministry: Russian troops seize Vasyutinske in eastern Ukraine - RIA",
-   "link": "https://www.financialjuice.com/News/9713669/Russian-defence-ministry-Russian-troops-seize-Vasyutinske-in-eastern-Ukraine---RIA.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 09:09:27 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713661",
-   "title": "Iran’s foreign minister Araqchi: negotiations won’t happen as long as U.S. breaches interim deal continue - Mehr",
-   "link": "https://www.financialjuice.com/News/9713661/Irans-foreign-minister-Araqchi-negotiations-wont-happen-as-long-as-US-breaches-interim-deal-continue---Mehr.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 08:14:43 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713660",
-   "title": "Iran’s foreign minister Araqchi: no talks with U.S., only message exchanges through intermediaries - Mehr News",
-   "link": "https://www.financialjuice.com/News/9713660/Irans-foreign-minister-Araqchi-no-talks-with-US-only-message-exchanges-through-intermediaries---Mehr-News.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 08:13:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713649",
-   "title": "Who's Tedros: Last Friday humanitarian warehouse in Dnipro, Ukraine, was hit and destroyed; no casualties reported",
-   "link": "https://www.financialjuice.com/News/9713649/Whos-Tedros-Last-Friday-humanitarian-warehouse-in-Dnipro-Ukraine-was-hit-and-destroyed-no-casualties-reported.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 07:58:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713648",
-   "title": "Russian defence ministry: Russia strikes two Ukrainian refineries in Sumy region",
-   "link": "https://www.financialjuice.com/News/9713648/Russian-defence-ministry-Russia-strikes-two-Ukrainian-refineries-in-Sumy-region.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 07:55:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713645",
-   "title": "Ukraine’s President Zelenskiy: Odesa port damaged by Russian strike",
-   "link": "https://www.financialjuice.com/News/9713645/Ukraines-President-Zelenskiy-Odesa-port-damaged-by-Russian-strike.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 07:33:36 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713640",
-   "title": "Three killed in overnight drone strike on Russia's Belgorod: RIA cites governor",
-   "link": "https://www.financialjuice.com/News/9713640/Three-killed-in-overnight-drone-strike-on-Russias-Belgorod-RIA-cites-governor.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 07:28:35 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713537",
-   "title": "China July PPI falls 0.7% from prior month",
-   "link": "https://www.financialjuice.com/News/9713537/China-July-PPI-falls-07-from-prior-month.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 01:30:24 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713536",
-   "title": "China July CPI declines 0.1% month-on-month, poll had forecast 0.2% increase",
-   "link": "https://www.financialjuice.com/News/9713536/China-July-CPI-declines-01-month-on-month-poll-had-forecast-02-increase.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 01:30:24 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713535",
-   "title": "China reports July food CPI down 1.5% year on year; non-food CPI rises 0.9%",
-   "link": "https://www.financialjuice.com/News/9713535/China-reports-July-food-CPI-down-15-year-on-year-non-food-CPI-rises-09.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 01:30:24 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713534",
-   "title": "China July CPI rises 0.5% year on year, poll expected 0.8%",
-   "link": "https://www.financialjuice.com/News/9713534/China-July-CPI-rises-05-year-on-year-poll-expected-08.aspx?xy=rss",
-   "pubDate": "Sun, 09 Aug 2026 01:30:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713464",
-   "title": "Turkish foreign minister: Turkey urges Russia and Ukraine to declare moratorium on Black Sea attacks",
-   "link": "https://www.financialjuice.com/News/9713464/Turkish-foreign-minister-Turkey-urges-Russia-and-Ukraine-to-declare-moratorium-on-Black-Sea-attacks.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 17:57:43 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713461",
-   "title": "Turkish foreign minister: Egypt could join defense alliance after technical issues resolved",
-   "link": "https://www.financialjuice.com/News/9713461/Turkish-foreign-minister-Egypt-could-join-defense-alliance-after-technical-issues-resolved.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 17:42:19 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713460",
-   "title": "Turkish foreign minister: Red Sea shipping safety concerns our interests, so Turkey must join Saudi Arabia's global coalition",
-   "link": "https://www.financialjuice.com/News/9713460/Turkish-foreign-minister-Red-Sea-shipping-safety-concerns-our-interests-so-Turkey-must-join-Saudi-Arabias-global-coalition.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 17:32:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713457",
-   "title": "Turkish foreign minister: Iran not target of defense pact, no one targeted unless attacking member countries",
-   "link": "https://www.financialjuice.com/News/9713457/Turkish-foreign-minister-Iran-not-target-of-defense-pact-no-one-targeted-unless-attacking-member-countries.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 17:22:22 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713456",
-   "title": "Turkish foreign minister: ministerial committee to be formed under pact, resembling NATO, along with general secretariat",
-   "link": "https://www.financialjuice.com/News/9713456/Turkish-foreign-minister-ministerial-committee-to-be-formed-under-pact-resembling-NATO-along-with-general-secretariat.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 17:17:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713450",
-   "title": "Turkish foreign minister: Turkey, Pakistan, Saudi Arabia defense pact is effectively the same as NATO's article 5",
-   "link": "https://www.financialjuice.com/News/9713450/Turkish-foreign-minister-Turkey-Pakistan-Saudi-Arabia-defense-pact-is-effectively-the-same-as-NATOs-article-5.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 17:14:18 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713446",
-   "title": "U.S. State Dept: China makes another unilateral move to push broad claims in South China Sea at neighbors' expense",
-   "link": "https://www.financialjuice.com/News/9713446/US-State-Dept-China-makes-another-unilateral-move-to-push-broad-claims-in-South-China-Sea-at-neighbors-expense.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 16:53:40 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713445",
-   "title": "U.S. State Dept: US dismisses China’s continued efforts to enforce destabilizing nature reserve at Scarborough Reef",
-   "link": "https://www.financialjuice.com/News/9713445/US-State-Dept-US-dismisses-Chinas-continued-efforts-to-enforce-destabilizing-nature-reserve-at-Scarborough-Reef.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 16:52:41 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713413",
-   "title": "Yemen’s armed forces spokesperson: operation conducted against Houthis and allied militias",
-   "link": "https://www.financialjuice.com/News/9713413/Yemens-armed-forces-spokesperson-operation-conducted-against-Houthis-and-allied-militias.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 14:45:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713412",
-   "title": "Iranian President Pezeshkian: now best time for deal as Iran is strong, united and seen as victorious in war - Iranian media",
-   "link": "https://www.financialjuice.com/News/9713412/Iranian-President-Pezeshkian-now-best-time-for-deal-as-Iran-is-strong-united-and-seen-as-victorious-in-war---Iranian-media.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 14:41:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713407",
-   "title": "Libya's Waha Oil: Leak on Zaqout-Sidra Pipeline Contained, Operations Resumed After Repairs",
-   "link": "https://www.financialjuice.com/News/9713407/Libyas-Waha-Oil-Leak-on-Zaqout-Sidra-Pipeline-Contained-Operations-Resumed-After-Repairs.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 14:13:47 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713403",
-   "title": "Oman: ongoing talks on Strait of Hormuz arrangements are positive and constructive - state news agency",
-   "link": "https://www.financialjuice.com/News/9713403/Oman-ongoing-talks-on-Strait-of-Hormuz-arrangements-are-positive-and-constructive---state-news-agency.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 13:57:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713402",
-   "title": "Oman: condemns recurring assaults on ships passing through Strait of Hormuz - state news agency",
-   "link": "https://www.financialjuice.com/News/9713402/Oman-condemns-recurring-assaults-on-ships-passing-through-Strait-of-Hormuz---state-news-agency.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 13:56:35 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713380",
-   "title": "UKMTO: crew reported safe, no environmental harm",
-   "link": "https://www.financialjuice.com/News/9713380/UKMTO-crew-reported-safe-no-environmental-harm.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 13:09:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713379",
-   "title": "UKMTO: Verified source reports vessel hit by unidentified projectile, fire extinguished",
-   "link": "https://www.financialjuice.com/News/9713379/UKMTO-Verified-source-reports-vessel-hit-by-unidentified-projectile-fire-extinguished.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 13:09:19 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713378",
-   "title": "Ukmto reports incident 18nm east of Khasab, Oman",
-   "link": "https://www.financialjuice.com/News/9713378/Ukmto-reports-incident-18nm-east-of-Khasab-Oman.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 13:08:30 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713356",
-   "title": "Berkshire Hathaway: 66% of total equity investment fair value focused on American Express, Apple, Bank of America, Alphabet and Coca-Cola as of June 30",
-   "link": "https://www.financialjuice.com/News/9713356/Berkshire-Hathaway-66-of-total-equity-investment-fair-value-focused-on-American-Express-Apple-Bank-of-America-Alphabet-and-Coca-Cola-as-of-June-30.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 12:14:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713345",
-   "title": "Iran's Aragchi: Tehran, Muscat currently negotiating temporary Hormuz shipping corridor",
-   "link": "https://www.financialjuice.com/News/9713345/Irans-Aragchi-Tehran-Muscat-currently-negotiating-temporary-Hormuz-shipping-corridor.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 11:31:01 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713344",
-   "title": "Iran's Aragchi: Tehran finds previous Strait of Hormuz traffic separation scheme unacceptable, seeks new route",
-   "link": "https://www.financialjuice.com/News/9713344/Irans-Aragchi-Tehran-finds-previous-Strait-of-Hormuz-traffic-separation-scheme-unacceptable-seeks-new-route.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 11:30:15 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713343",
-   "title": "Iranian foreign minister: reopening Hormuz hinges on conditions including compensation for US breaches of Islamabad agreement",
-   "link": "https://www.financialjuice.com/News/9713343/Iranian-foreign-minister-reopening-Hormuz-hinges-on-conditions-including-compensation-for-US-breaches-of-Islamabad-agreement.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 11:28:15 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713342",
-   "title": "Iran, Oman \"very close\" to deal on new shipping route through Strait of Hormuz: Iranian foreign minister",
-   "link": "https://www.financialjuice.com/News/9713342/Iran-Oman-very-close-to-deal-on-new-shipping-route-through-Strait-of-Hormuz-Iranian-foreign-minister.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 11:25:51 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713324",
-   "title": "Turkey limits Black Sea vessel movement after increase in assaults",
-   "link": "https://www.financialjuice.com/News/9713324/Turkey-limits-Black-Sea-vessel-movement-after-increase-in-assaults.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 10:20:49 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713323",
-   "title": "Iran's IRGC spokesman: Reopening of Strait of Hormuz hinges on US fully accepting Iran's terms; unrelated to talks between Iran and Oman",
-   "link": "https://www.financialjuice.com/News/9713323/Irans-IRGC-spokesman-Reopening-of-Strait-of-Hormuz-hinges-on-US-fully-accepting-Irans-terms-unrelated-to-talks-between-Iran-and-Oman.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 10:18:15 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713303",
-   "title": "Russian Defence Ministry: forces seize Ivanivka in Ukraine's Kharkiv region - RIA",
-   "link": "https://www.financialjuice.com/News/9713303/Russian-Defence-Ministry-forces-seize-Ivanivka-in-Ukraines-Kharkiv-region---RIA.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 09:06:29 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713301",
-   "title": "Fire at Ilsky oil refinery in Russia’s Krasnodar region extinguished: authorities",
-   "link": "https://www.financialjuice.com/News/9713301/Fire-at-Ilsky-oil-refinery-in-Russias-Krasnodar-region-extinguished-authorities.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 08:42:19 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713297",
-   "title": "U.S. Senate approves Todd Blanche as attorney general",
-   "link": "https://www.financialjuice.com/News/9713297/US-Senate-approves-Todd-Blanche-as-attorney-general.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 08:31:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713292",
-   "title": "Ukrainian military strikes Russia's Ilsky and Syzran oil refineries, causing fires: Ukrainian general staff",
-   "link": "https://www.financialjuice.com/News/9713292/Ukrainian-military-strikes-Russias-Ilsky-and-Syzran-oil-refineries-causing-fires-Ukrainian-general-staff.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 08:14:12 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713288",
-   "title": "U.S. Senate approves temporary funding measure to prevent pre-election government shutdown",
-   "link": "https://www.financialjuice.com/News/9713288/US-Senate-approves-temporary-funding-measure-to-prevent-pre-election-government-shutdown.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 07:58:40 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713280",
-   "title": "Russia: drone hits ship carrying weapons for Ukrainian forces east of Odesa - Interfax",
-   "link": "https://www.financialjuice.com/News/9713280/Russia-drone-hits-ship-carrying-weapons-for-Ukrainian-forces-east-of-Odesa---Interfax.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 07:37:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713116",
-   "title": "Nvidia's stake may expand to about 30% with an extra $1 billion from Lancium, source says",
-   "link": "https://www.financialjuice.com/News/9713116/Nvidias-stake-may-expand-to-about-30-with-an-extra-1-billion-from-Lancium-source-says.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 01:25:30 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713115",
-   "title": "Nvidia to acquire 20% stake in Lancium in first $2 billion funding round - the information",
-   "link": "https://www.financialjuice.com/News/9713115/Nvidia-to-acquire-20-stake-in-Lancium-in-first-2-billion-funding-round---the-information.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 01:24:50 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713114",
-   "title": "Nvidia to commit as much as $3 billion in Blackstone-backed energy company behind Stargate: The Information",
-   "link": "https://www.financialjuice.com/News/9713114/Nvidia-to-commit-as-much-as-3-billion-in-Blackstone-backed-energy-company-behind-Stargate-The-Information.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 01:24:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713093",
-   "title": "Fires reported in two districts of Kyiv: city mayor",
-   "link": "https://www.financialjuice.com/News/9713093/Fires-reported-in-two-districts-of-Kyiv-city-mayor.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 00:38:28 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713092",
-   "title": "State Dept: US collaborating with Congress to reveal $1 billion aid for Colombia in security deal",
-   "link": "https://www.financialjuice.com/News/9713092/State-Dept-US-collaborating-with-Congress-to-reveal-1-billion-aid-for-Colombia-in-security-deal.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 00:37:28 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713082",
-   "title": "Several strong blasts heard in Kyiv, witnesses say",
-   "link": "https://www.financialjuice.com/News/9713082/Several-strong-blasts-heard-in-Kyiv-witnesses-say.aspx?xy=rss",
-   "pubDate": "Sat, 08 Aug 2026 00:21:25 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713057",
-   "title": "New Colombian President de la Espriella: will permit responsible fracking",
-   "link": "https://www.financialjuice.com/News/9713057/New-Colombian-President-de-la-Espriella-will-permit-responsible-fracking.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 23:19:12 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713047",
-   "title": "New Colombian President De la Espriella: will propose tax overhaul to increase jobs, simplify tax system",
-   "link": "https://www.financialjuice.com/News/9713047/New-Colombian-President-De-la-Espriella-will-propose-tax-overhaul-to-increase-jobs-simplify-tax-system.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 23:15:29 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713046",
-   "title": "New Colombian President De la Espriella: Programs for vulnerable groups to be maintained",
-   "link": "https://www.financialjuice.com/News/9713046/New-Colombian-President-De-la-Espriella-Programs-for-vulnerable-groups-to-be-maintained.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 23:14:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713045",
-   "title": "New Colombian President De la Espriella: government to decree public spending freeze",
-   "link": "https://www.financialjuice.com/News/9713045/New-Colombian-President-De-la-Espriella-government-to-decree-public-spending-freeze.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 23:13:15 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713038",
-   "title": "New Colombian President de la Espriella: option of peace talks \"totally spent\"",
-   "link": "https://www.financialjuice.com/News/9713038/New-Colombian-President-de-la-Espriella-option-of-peace-talks-totally-spent.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 22:54:26 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713037",
-   "title": "New Colombian President De la Espriella: Will Use Herbicides to Combat Coca Cultivation",
-   "link": "https://www.financialjuice.com/News/9713037/New-Colombian-President-De-la-Espriella-Will-Use-Herbicides-to-Combat-Coca-Cultivation.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 22:52:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713036",
-   "title": "New Colombian President De la Espriella: Criminals must surrender or face full force of state and armed forces",
-   "link": "https://www.financialjuice.com/News/9713036/New-Colombian-President-De-la-Espriella-Criminals-must-surrender-or-face-full-force-of-state-and-armed-forces.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 22:51:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713035",
-   "title": "New Colombian President de la Espriella: will defeat narco terrorism, criminal groups without truce",
-   "link": "https://www.financialjuice.com/News/9713035/New-Colombian-President-de-la-Espriella-will-defeat-narco-terrorism-criminal-groups-without-truce.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 22:50:53 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9713001",
-   "title": "Data center company Switch to confidentially file for IPO",
-   "link": "https://www.financialjuice.com/News/9713001/Data-center-company-Switch-to-confidentially-file-for-IPO.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 21:45:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9712982",
-   "title": "Right-wing lawyer Abelardo de la Espriella sworn in as Colombia president",
-   "link": "https://www.financialjuice.com/News/9712982/Right-wing-lawyer-Abelardo-de-la-Espriella-sworn-in-as-Colombia-president.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 21:29:48 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9712927",
-   "title": "Israeli ground incursion occures in a village in Southern Syria - Tasnim News",
-   "link": "https://www.financialjuice.com/News/9712927/Israeli-ground-incursion-occures-in-a-village-in-Southern-Syria---Tasnim-News.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 20:18:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9712921",
-   "title": "US bank deposits fell to $19.363 trln from $19.4 trln in prior week",
-   "link": "https://www.financialjuice.com/News/9712921/US-bank-deposits-fell-to-19363-trln-from-194-trln-in-prior-week.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 20:16:50 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9712918",
-   "title": "Alphabet files for 10-part notes offering of up to $25 bln - SEC filing. $GOOGL",
-   "link": "https://www.financialjuice.com/News/9712918/Alphabet-files-for-10-part-notes-offering-of-up-to-25-bln---SEC-filing-GOOGL.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 20:16:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9712902",
-   "title": "Trump to hold tele-rally for Darline Graham on Monday - CNN",
-   "link": "https://www.financialjuice.com/News/9712902/Trump-to-hold-tele-rally-for-Darline-Graham-on-Monday---CNN.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 19:53:52 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9712901",
-   "title": "MOC Imbalance",
-   "link": "https://www.financialjuice.com/News/9712901/MOC-Imbalance.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 19:50:31 GMT",
-   "desc": "S&amp;P 500: +372 mln Nasdaq 100: +236 mln Dow 30: -109 mln Mag 7: -243 mln"
-  },
-  {
-   "id": "9712882",
-   "title": "Trump concludes comments",
-   "link": "https://www.financialjuice.com/News/9712882/Trump-concludes-comments.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 19:44:51 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9712881",
-   "title": "USD CFTC Positions Week August 4th - FJElite",
-   "link": "https://www.financialjuice.com/News/9712881/USD-CFTC-Positions-Week-August-4th---FJElite.aspx?xy=rss",
-   "pubDate": "Fri, 07 Aug 2026 19:39:57 GMT",
    "desc": ""
   }
  ]
