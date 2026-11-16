@@ -1,7 +1,441 @@
 {
- "updated_at": "2026-11-16T02:19:48.109998+00:00",
+ "updated_at": "2026-11-16T09:54:15.572634+00:00",
  "count": 20000,
  "items": [
+  {
+   "id": "9853591",
+   "title": "Russian overnight strikes on Ukrainian energy infrastructure caused power outages in six regions - Deputy energy minister",
+   "link": "https://www.financialjuice.com/News/9853591/Russian-overnight-strikes-on-Ukrainian-energy-infrastructure-caused-power-outages-in-six-regions---Deputy-energy-minister.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 09:52:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853590",
+   "title": "French Minister Barrot: St. Petersburg oil terminal also getting put on EU sanctions list",
+   "link": "https://www.financialjuice.com/News/9853590/French-Minister-Barrot-St-Petersburg-oil-terminal-also-getting-put-on-EU-sanctions-list.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 09:51:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853589",
+   "title": "French Foreign Minister: France and UK to host December conference on tackling Russian shadow fleet",
+   "link": "https://www.financialjuice.com/News/9853589/French-Foreign-Minister-France-and-UK-to-host-December-conference-on-tackling-Russian-shadow-fleet.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 09:51:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853588",
+   "title": "French Foreign Minister: CEO of Russian company Wildberries being put on EU sanctions list",
+   "link": "https://www.financialjuice.com/News/9853588/French-Foreign-Minister-CEO-of-Russian-company-Wildberries-being-put-on-EU-sanctions-list.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 09:51:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853587",
+   "title": "France's Barrot: Will provide evidence to EU ministers on Monday regarding alleged Iranian cyber attack in France",
+   "link": "https://www.financialjuice.com/News/9853587/Frances-Barrot-Will-provide-evidence-to-EU-ministers-on-Monday-regarding-alleged-Iranian-cyber-attack-in-France.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 09:51:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853575",
+   "title": "EC Pres. von der Leyen: New momentum behind EU enlargement process",
+   "link": "https://www.financialjuice.com/News/9853575/EC-Pres-von-der-Leyen-New-momentum-behind-EU-enlargement-process.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 09:19:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853574",
+   "title": "ECB's Vujcic: Pricing another hike in 2027 doesn't seem unreasonable",
+   "link": "https://www.financialjuice.com/News/9853574/ECBs-Vujcic-Pricing-another-hike-in-2027-doesnt-seem-unreasonable.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 09:18:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853573",
+   "title": "IDF: Struck weapons shipment from Syria to Lebanon",
+   "link": "https://www.financialjuice.com/News/9853573/IDF-Struck-weapons-shipment-from-Syria-to-Lebanon.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:43:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853508",
+   "title": "ECB's Vujcic: Weaker confidence and rising borrowing costs should partially contain excess inflation by weighing on growth",
+   "link": "https://www.financialjuice.com/News/9853508/ECBs-Vujcic-Weaker-confidence-and-rising-borrowing-costs-should-partially-contain-excess-inflation-by-weighing-on-growth.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:32:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853507",
+   "title": "ECB's Vujcic: AI and sovereign debt 'stand out very prominently’ as stability risks",
+   "link": "https://www.financialjuice.com/News/9853507/ECBs-Vujcic-AI-and-sovereign-debt-stand-out-very-prominently-as-stability-risks.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:32:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853506",
+   "title": "ECB's Vujcic: Recent energy price developments may push inflation higher",
+   "link": "https://www.financialjuice.com/News/9853506/ECBs-Vujcic-Recent-energy-price-developments-may-push-inflation-higher.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:32:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853505",
+   "title": "ECB's Vujcic: Wages not showing material response to inflation",
+   "link": "https://www.financialjuice.com/News/9853505/ECBs-Vujcic-Wages-not-showing-material-response-to-inflation.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:31:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853504",
+   "title": "ECB's Vujcic: Financial stability risks are  \"elevated\"",
+   "link": "https://www.financialjuice.com/News/9853504/ECBs-Vujcic-Financial-stability-risks-are--elevated.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:31:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853503",
+   "title": "ECB's Vujcic: Valuations, funding, cyberattacks are among AI risks",
+   "link": "https://www.financialjuice.com/News/9853503/ECBs-Vujcic-Valuations-funding-cyberattacks-are-among-AI-risks.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:31:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853502",
+   "title": "ECB's Vujcic: Europe's economy is “remarkably resilient\"",
+   "link": "https://www.financialjuice.com/News/9853502/ECBs-Vujcic-Europes-economy-is-remarkably-resilient.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:31:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853487",
+   "title": "ECB's Vujcic: AI, high debts are top financial-stability risks",
+   "link": "https://www.financialjuice.com/News/9853487/ECBs-Vujcic-AI-high-debts-are-top-financial-stability-risks.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:31:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853479",
+   "title": "ECB's Vujcic: Private-credit risks look contained but need monitoring",
+   "link": "https://www.financialjuice.com/News/9853479/ECBs-Vujcic-Private-credit-risks-look-contained-but-need-monitoring.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:30:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853465",
+   "title": "Currency Strength Chart: Strongest: GBP, USD, CHF, EUR, GBP, CAD, NZD, AUD - Weakest",
+   "link": "https://www.financialjuice.com/News/9853465/Currency-Strength-Chart-Strongest-GBP-USD-CHF-EUR-GBP-CAD-NZD-AUD---Weakest.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 08:01:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853417",
+   "title": "EU's Kallas: Russian demands are a clear pretext to continue the war.",
+   "link": "https://www.financialjuice.com/News/9853417/EUs-Kallas-Russian-demands-are-a-clear-pretext-to-continue-the-war.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 07:18:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853416",
+   "title": "EU's Kallas: European leaders decided on the format for Russia talks, now need to discuss substance",
+   "link": "https://www.financialjuice.com/News/9853416/EUs-Kallas-European-leaders-decided-on-the-format-for-Russia-talks-now-need-to-discuss-substance.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 07:17:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853415",
+   "title": "EU's Kallas: Hope to elevate our relationship with Syria to the same level as that with Mediterranean partners",
+   "link": "https://www.financialjuice.com/News/9853415/EUs-Kallas-Hope-to-elevate-our-relationship-with-Syria-to-the-same-level-as-that-with-Mediterranean-partners.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 07:17:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853405",
+   "title": "UKMTO gets report of vessel struck by projectile in Hormuz",
+   "link": "https://www.financialjuice.com/News/9853405/UKMTO-gets-report-of-vessel-struck-by-projectile-in-Hormuz.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 07:14:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853382",
+   "title": "Norwegian Trade Balance Actual 121.418B (Forecast -, Previous 105.00B)",
+   "link": "https://www.financialjuice.com/News/9853382/Norwegian-Trade-Balance-Actual-121418B-Forecast---Previous-10500B.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 07:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853365",
+   "title": "Iran's army: oil tanker ignites after striking naval mine in eastern Strait of Hormuz - state media",
+   "link": "https://www.financialjuice.com/News/9853365/Irans-army-oil-tanker-ignites-after-striking-naval-mine-in-eastern-Strait-of-Hormuz---state-media.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 06:35:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853363",
+   "title": "India's fuel price index in WPI jumps 32.84% YoY in Oct - Government",
+   "link": "https://www.financialjuice.com/News/9853363/Indias-fuel-price-index-in-WPI-jumps-3284-YoY-in-Oct---Government.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 06:31:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853358",
+   "title": "Ukraine hits Crimea bridge, traffic halted - IFX",
+   "link": "https://www.financialjuice.com/News/9853358/Ukraine-hits-Crimea-bridge-traffic-halted---IFX.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 06:21:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853330",
+   "title": "Russian defence ministry: Russian forces strike cargo vessel in Black Sea",
+   "link": "https://www.financialjuice.com/News/9853330/Russian-defence-ministry-Russian-forces-strike-cargo-vessel-in-Black-Sea.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 05:55:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853329",
+   "title": "Cape Verde presidential candidate Rosa concedes defeat, congratulates Neves on victory",
+   "link": "https://www.financialjuice.com/News/9853329/Cape-Verde-presidential-candidate-Rosa-concedes-defeat-congratulates-Neves-on-victory.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 05:54:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853328",
+   "title": "Cape Verde president Neves secures second term, election results show",
+   "link": "https://www.financialjuice.com/News/9853328/Cape-Verde-president-Neves-secures-second-term-election-results-show.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 05:54:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853323",
+   "title": "Russia downs 1,336 Ukrainian drones overnight: IFX",
+   "link": "https://www.financialjuice.com/News/9853323/Russia-downs-1336-Ukrainian-drones-overnight-IFX.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 05:42:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853281",
+   "title": "Fire erupts at four industrial sites in Russia’s Rostov region after drone strike: governor",
+   "link": "https://www.financialjuice.com/News/9853281/Fire-erupts-at-four-industrial-sites-in-Russias-Rostov-region-after-drone-strike-governor.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 05:10:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853279",
+   "title": "Uniper approaches initial agreement to convert idle power plants into data centers - ft",
+   "link": "https://www.financialjuice.com/News/9853279/Uniper-approaches-initial-agreement-to-convert-idle-power-plants-into-data-centers---ft.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 05:04:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853278",
+   "title": "Brussels to suggest €45bn Ukraine loan secured by EU budget - FT",
+   "link": "https://www.financialjuice.com/News/9853278/Brussels-to-suggest-45bn-Ukraine-loan-secured-by-EU-budget---FT.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 05:01:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853251",
+   "title": "Japanese Capacity Utilization MoM Actual 1.6% (Forecast -, Previous -4.2%)",
+   "link": "https://www.financialjuice.com/News/9853251/Japanese-Capacity-Utilization-MoM-Actual-16-Forecast---Previous--42.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:34:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853237",
+   "title": "Iran’s IRGC: two oil tankers struck mines in the Strait of Hormuz causing explosions - state media",
+   "link": "https://www.financialjuice.com/News/9853237/Irans-IRGC-two-oil-tankers-struck-mines-in-the-Strait-of-Hormuz-causing-explosions---state-media.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:28:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853230",
+   "title": "BoJ's Takata: 2026 marks new phase requiring shift in focus toward price upswings",
+   "link": "https://www.financialjuice.com/News/9853230/BoJs-Takata-2026-marks-new-phase-requiring-shift-in-focus-toward-price-upswings.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:14:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853229",
+   "title": "BoJ's Takata: risk of a notable slowdown in Japan's economy has recently eased",
+   "link": "https://www.financialjuice.com/News/9853229/BoJs-Takata-risk-of-a-notable-slowdown-in-Japans-economy-has-recently-eased.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:12:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853228",
+   "title": "BoJ’s Takata: Bank is still in process of increasing policy rate to normalize policy, respond to global monetary and fiscal shifts",
+   "link": "https://www.financialjuice.com/News/9853228/BoJs-Takata-Bank-is-still-in-process-of-increasing-policy-rate-to-normalize-policy-respond-to-global-monetary-and-fiscal-shifts.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:12:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853227",
+   "title": "BoJ's Takata: despite early-November stock market volatility tied to global AI shares, I believe AI investment will stay robust overall",
+   "link": "https://www.financialjuice.com/News/9853227/BoJs-Takata-despite-early-November-stock-market-volatility-tied-to-global-AI-shares-I-believe-AI-investment-will-stay-robust-overall.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:09:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853226",
+   "title": "BoJ's Takata: timing of cumulative impact of policy rate hikes still some way off",
+   "link": "https://www.financialjuice.com/News/9853226/BoJs-Takata-timing-of-cumulative-impact-of-policy-rate-hikes-still-some-way-off.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:09:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853225",
+   "title": "BoJ's Takata: I believe central bank is at new phase requiring agile responses on raising or cutting policy interest rate",
+   "link": "https://www.financialjuice.com/News/9853225/BoJs-Takata-I-believe-central-bank-is-at-new-phase-requiring-agile-responses-on-raising-or-cutting-policy-interest-rate.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:09:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853224",
+   "title": "BoJ's Takata: once higher rates harm corporate behavior, central bank can view it as neutral rate reached and consider possible cut",
+   "link": "https://www.financialjuice.com/News/9853224/BoJs-Takata-once-higher-rates-harm-corporate-behavior-central-bank-can-view-it-as-neutral-rate-reached-and-consider-possible-cut.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:09:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853223",
+   "title": "Drone debris sparks blaze at industrial site in Russia's Krasnodar region: officials",
+   "link": "https://www.financialjuice.com/News/9853223/Drone-debris-sparks-blaze-at-industrial-site-in-Russias-Krasnodar-region-officials.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:08:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853222",
+   "title": "BoJ's Takata: changes in equity, property, and forex markets also key in evaluating financial conditions",
+   "link": "https://www.financialjuice.com/News/9853222/BoJs-Takata-changes-in-equity-property-and-forex-markets-also-key-in-evaluating-financial-conditions.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:08:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853221",
+   "title": "BoJ's Takata: funding conditions in Japan still accommodative",
+   "link": "https://www.financialjuice.com/News/9853221/BoJs-Takata-funding-conditions-in-Japan-still-accommodative.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:08:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853220",
+   "title": "BoJ's Takata: each rate hike requires review of lending attitudes and funding environment for businesses",
+   "link": "https://www.financialjuice.com/News/9853220/BoJs-Takata-each-rate-hike-requires-review-of-lending-attitudes-and-funding-environment-for-businesses.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:07:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853219",
+   "title": "BoJ's Takata: Central bank needs to act swiftly on rate hikes after assessing domestic financial conditions and global developments",
+   "link": "https://www.financialjuice.com/News/9853219/BoJs-Takata-Central-bank-needs-to-act-swiftly-on-rate-hikes-after-assessing-domestic-financial-conditions-and-global-developments.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:07:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853218",
+   "title": "BoJ's Takata: on further rate increases, central bank should not target expected neutral rate or be constrained by market-anticipated intervals or ranges",
+   "link": "https://www.financialjuice.com/News/9853218/BoJs-Takata-on-further-rate-increases-central-bank-should-not-target-expected-neutral-rate-or-be-constrained-by-market-anticipated-intervals-or-ranges.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:07:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853217",
+   "title": "BoJ's Takata: central bank needs regime change, setting policy interest rate early in a 'good' position",
+   "link": "https://www.financialjuice.com/News/9853217/BoJs-Takata-central-bank-needs-regime-change-setting-policy-interest-rate-early-in-a-good-position.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:06:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853216",
+   "title": "BoJ's Takata: Inflationary pressures may emerge in the second half of fiscal 2026",
+   "link": "https://www.financialjuice.com/News/9853216/BoJs-Takata-Inflationary-pressures-may-emerge-in-the-second-half-of-fiscal-2026.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:05:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853215",
+   "title": "BoJ’s Takata: central bank must show resolve to stop upward price shifts, while considering impact on fx markets",
+   "link": "https://www.financialjuice.com/News/9853215/BoJs-Takata-central-bank-must-show-resolve-to-stop-upward-price-shifts-while-considering-impact-on-fx-markets.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:05:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853214",
+   "title": "Companies set to be named national champions by Trump administration: Nvidia, Amazon, Microsoft, OpenAI, Anthropic - WSJ",
+   "link": "https://www.financialjuice.com/News/9853214/Companies-set-to-be-named-national-champions-by-Trump-administration-Nvidia-Amazon-Microsoft-OpenAI-Anthropic---WSJ.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:05:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853213",
+   "title": "Trump administration to list Nvidia among AI national champions - WSJ",
+   "link": "https://www.financialjuice.com/News/9853213/Trump-administration-to-list-Nvidia-among-AI-national-champions---WSJ.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:05:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853212",
+   "title": "BoJ's Takata: with foreign central banks entering rate-hike cycle, BoJ must consider risk that overseas rates could raise Japan's neutral rate above market expectations",
+   "link": "https://www.financialjuice.com/News/9853212/BoJs-Takata-with-foreign-central-banks-entering-rate-hike-cycle-BoJ-must-consider-risk-that-overseas-rates-could-raise-Japans-neutral-rate-above-market-expectations.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:04:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853211",
+   "title": "BoJ's Takata: must bring policy interest rate close enough to neutral level to respond nimbly to possible second-round price effects",
+   "link": "https://www.financialjuice.com/News/9853211/BoJs-Takata-must-bring-policy-interest-rate-close-enough-to-neutral-level-to-respond-nimbly-to-possible-second-round-price-effects.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:03:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853210",
+   "title": "BoJ's Takata: Japan's policy rate has finally neared neutral zone",
+   "link": "https://www.financialjuice.com/News/9853210/BoJs-Takata-Japans-policy-rate-has-finally-neared-neutral-zone.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:02:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853209",
+   "title": "BoJ's Takata: central bank should avoid fixed pace and size of rate hikes, opting for flexible, data-driven moves amid Japan's economic and price conditions",
+   "link": "https://www.financialjuice.com/News/9853209/BoJs-Takata-central-bank-should-avoid-fixed-pace-and-size-of-rate-hikes-opting-for-flexible-data-driven-moves-amid-Japans-economic-and-price-conditions.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:02:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853208",
+   "title": "BoJ's Takata: these developments are among reasons why rate increases are necessary now",
+   "link": "https://www.financialjuice.com/News/9853208/BoJs-Takata-these-developments-are-among-reasons-why-rate-increases-are-necessary-now.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:02:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853207",
+   "title": "BoJ’s Takata: with some FX market players focusing on real and nominal interest rate differentials, monitoring price developments transmitted through markets is essential",
+   "link": "https://www.financialjuice.com/News/9853207/BoJs-Takata-with-some-FX-market-players-focusing-on-real-and-nominal-interest-rate-differentials-monitoring-price-developments-transmitted-through-markets-is-essential.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:02:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853206",
+   "title": "Pony.ai and Toyota introduce fully driverless commercial services with Gen-7 BZ4X robotaxi",
+   "link": "https://www.financialjuice.com/News/9853206/Ponyai-and-Toyota-introduce-fully-driverless-commercial-services-with-Gen-7-BZ4X-robotaxi.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:01:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853205",
+   "title": "Bank of Japan board member Takata: Price hikes now more likely to trigger second-round effects",
+   "link": "https://www.financialjuice.com/News/9853205/Bank-of-Japan-board-member-Takata-Price-hikes-now-more-likely-to-trigger-second-round-effects.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 04:01:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9853170",
+   "title": "Taiwan stocks fall over 4%",
+   "link": "https://www.financialjuice.com/News/9853170/Taiwan-stocks-fall-over-4.aspx?xy=rss",
+   "pubDate": "Mon, 16 Nov 2026 02:59:30 GMT",
+   "desc": ""
+  },
   {
    "id": "9853063",
    "title": "Chinese Urban Investment YTD YoY Actual -8.1% (Forecast -7%, Previous -7.2%)",
@@ -139566,440 +140000,6 @@
    "title": "60-Day Correlation Matrix",
    "link": "https://www.financialjuice.com/News/9717518/60-Day-Correlation-Matrix.aspx?xy=rss",
    "pubDate": "Wed, 12 Aug 2026 06:11:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717517",
-   "title": "30-Day Correlation Matrix",
-   "link": "https://www.financialjuice.com/News/9717517/30-Day-Correlation-Matrix.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 06:11:13 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717496",
-   "title": "German HICP Final MoM Actual 0.9% (Forecast 0.9%, Previous 0.9%)",
-   "link": "https://www.financialjuice.com/News/9717496/German-HICP-Final-MoM-Actual-09-Forecast-09-Previous-09.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 06:00:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717495",
-   "title": "German HICP Final YoY Actual 2.8% (Forecast 2.8%, Previous 2.8%)",
-   "link": "https://www.financialjuice.com/News/9717495/German-HICP-Final-YoY-Actual-28-Forecast-28-Previous-28.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 06:00:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717494",
-   "title": "German CPI Final MoM Actual 0.8% (Forecast 0.8%, Previous 0.8%)",
-   "link": "https://www.financialjuice.com/News/9717494/German-CPI-Final-MoM-Actual-08-Forecast-08-Previous-08.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 06:00:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717493",
-   "title": "German CPI Final YoY Actual 2.8% (Forecast 2.8%, Previous 2.8%)",
-   "link": "https://www.financialjuice.com/News/9717493/German-CPI-Final-YoY-Actual-28-Forecast-28-Previous-28.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 06:00:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717470",
-   "title": "South Korea aims to develop domestic 100-qubit quantum computer by 2029, aim to become No. 1 in quantum chip manufacturing by 2035 - South Korea government",
-   "link": "https://www.financialjuice.com/News/9717470/South-Korea-aims-to-develop-domestic-100-qubit-quantum-computer-by-2029-aim-to-become-No-1-in-quantum-chip-manufacturing-by-2035---South-Korea-government.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 05:31:17 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717469",
-   "title": "South Korea aims to commercialize brain-computer interface products by 2035 - South Korea government",
-   "link": "https://www.financialjuice.com/News/9717469/South-Korea-aims-to-commercialize-brain-computer-interface-products-by-2035---South-Korea-government.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 05:30:52 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717445",
-   "title": "Finnish June current account posts surplus of 2.8 billion euros - Statistics Finland",
-   "link": "https://www.financialjuice.com/News/9717445/Finnish-June-current-account-posts-surplus-of-28-billion-euros---Statistics-Finland.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 05:00:12 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717426",
-   "title": "Drone debris strikes four industrial sites in Russia's Krasnodar region: governor",
-   "link": "https://www.financialjuice.com/News/9717426/Drone-debris-strikes-four-industrial-sites-in-Russias-Krasnodar-region-governor.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 04:25:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717425",
-   "title": "Drone strikes in Russian Krasnodar region kill and injure civilians, including children, overnight: authorities",
-   "link": "https://www.financialjuice.com/News/9717425/Drone-strikes-in-Russian-Krasnodar-region-kill-and-injure-civilians-including-children-overnight-authorities.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 04:24:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717424",
-   "title": "Japan PM Takaichi: Canadian crude oil reaches Japan today for first time since Middle East tensions worsened",
-   "link": "https://www.financialjuice.com/News/9717424/Japan-PM-Takaichi-Canadian-crude-oil-reaches-Japan-today-for-first-time-since-Middle-East-tensions-worsened.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 04:22:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717420",
-   "title": "Boston Fed President Susan Collins: Would support September rate increase if inflation stays high - FT",
-   "link": "https://www.financialjuice.com/News/9717420/Boston-Fed-President-Susan-Collins-Would-support-September-rate-increase-if-inflation-stays-high---FT.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 04:06:57 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717398",
-   "title": "JD Vance asks Ukraine to stop attacks on tankers using Russian port - FT",
-   "link": "https://www.financialjuice.com/News/9717398/JD-Vance-asks-Ukraine-to-stop-attacks-on-tankers-using-Russian-port---FT.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 04:02:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717386",
-   "title": "China finance ministry offers 3-month bills at 1.0787% yield: traders",
-   "link": "https://www.financialjuice.com/News/9717386/China-finance-ministry-offers-3-month-bills-at-10787-yield-traders.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 03:42:33 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717385",
-   "title": "China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2831% yield: traders",
-   "link": "https://www.financialjuice.com/News/9717385/China-finance-ministry-auctions-50-year-ultra-long-special-treasury-bonds-at-22831-yield-traders.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 03:40:24 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717384",
-   "title": "Libya electricity company: assault on south Zawiya substation disrupts power across large southern areas",
-   "link": "https://www.financialjuice.com/News/9717384/Libya-electricity-company-assault-on-south-Zawiya-substation-disrupts-power-across-large-southern-areas.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 03:39:19 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717383",
-   "title": "Libya’s general electricity company: south Zawiya substation fully burned, service disrupted in assault",
-   "link": "https://www.financialjuice.com/News/9717383/Libyas-general-electricity-company-south-Zawiya-substation-fully-burned-service-disrupted-in-assault.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 03:37:02 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717366",
-   "title": "Minnesota House Speaker Lisa Demuth wins Republican governor primary in Minnesota: AP projects",
-   "link": "https://www.financialjuice.com/News/9717366/Minnesota-House-Speaker-Lisa-Demuth-wins-Republican-governor-primary-in-Minnesota-AP-projects.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 03:28:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717365",
-   "title": "Left-leaning Lieutenant Governor Peggy Flanagan secures Democratic nomination for U.S. Senate in Minnesota",
-   "link": "https://www.financialjuice.com/News/9717365/Left-leaning-Lieutenant-Governor-Peggy-Flanagan-secures-Democratic-nomination-for-US-Senate-in-Minnesota.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 03:22:47 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717332",
-   "title": "Spot gold rises nearly 1% to $4,408.79/oz",
-   "link": "https://www.financialjuice.com/News/9717332/Spot-gold-rises-nearly-1-to-440879oz.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 02:46:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717331",
-   "title": "Dollar/yen last rises 0.1% to 159.38 yen",
-   "link": "https://www.financialjuice.com/News/9717331/Dollaryen-last-rises-01-to-15938-yen.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 02:41:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717330",
-   "title": "Dollar/yen briefly climbs to 159.43 yen, highest in August after U.S.-Japan intervention",
-   "link": "https://www.financialjuice.com/News/9717330/Dollaryen-briefly-climbs-to-15943-yen-highest-in-August-after-US-Japan-intervention.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 02:41:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717329",
-   "title": "Minnesota House Speaker Lisa Demuth wins Republican Minnesota governor primary",
-   "link": "https://www.financialjuice.com/News/9717329/Minnesota-House-Speaker-Lisa-Demuth-wins-Republican-Minnesota-governor-primary.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 02:32:20 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717328",
-   "title": "Democratic congressional challenger Rebecca Cooke wins party nomination for Wisconsin's competitive 3rd district: Fox News projects",
-   "link": "https://www.financialjuice.com/News/9717328/Democratic-congressional-challenger-Rebecca-Cooke-wins-party-nomination-for-Wisconsins-competitive-3rd-district-Fox-News-projects.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 02:22:57 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717236",
-   "title": "Sports broadcaster Michele Tafoya secures Republican nomination for US Senate in Minnesota: Fox News projects",
-   "link": "https://www.financialjuice.com/News/9717236/Sports-broadcaster-Michele-Tafoya-secures-Republican-nomination-for-US-Senate-in-Minnesota-Fox-News-projects.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:53:58 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717219",
-   "title": "S.Korea central bank: Sells 1-year monetary stabilization bonds at 3.350% yield",
-   "link": "https://www.financialjuice.com/News/9717219/SKorea-central-bank-Sells-1-year-monetary-stabilization-bonds-at-3350-yield.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:40:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717218",
-   "title": "Democratic congressional challenger Rebecca Cooke secures party nomination for Wisconsin’s competitive 3rd congressional district",
-   "link": "https://www.financialjuice.com/News/9717218/Democratic-congressional-challenger-Rebecca-Cooke-secures-party-nomination-for-Wisconsins-competitive-3rd-congressional-district.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:36:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717217",
-   "title": "Sports broadcaster Michele Tafoya clinches Republican nomination for U.S. Senate in Minnesota",
-   "link": "https://www.financialjuice.com/News/9717217/Sports-broadcaster-Michele-Tafoya-clinches-Republican-nomination-for-US-Senate-in-Minnesota.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:34:56 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717201",
-   "title": "U.S. Senator Amy Klobuchar secures Democratic nomination for Minnesota governor",
-   "link": "https://www.financialjuice.com/News/9717201/US-Senator-Amy-Klobuchar-secures-Democratic-nomination-for-Minnesota-governor.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:26:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717200",
-   "title": "U.S. Senator Amy Klobuchar secures Democratic nomination for Wisconsin governor",
-   "link": "https://www.financialjuice.com/News/9717200/US-Senator-Amy-Klobuchar-secures-Democratic-nomination-for-Wisconsin-governor.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:24:22 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717199",
-   "title": "U.S. Senator Amy Klobuchar wins Democratic Minnesota governor primary: NBC News",
-   "link": "https://www.financialjuice.com/News/9717199/US-Senator-Amy-Klobuchar-wins-Democratic-Minnesota-governor-primary-NBC-News.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:24:20 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717198",
-   "title": "China cbank: 7-day reverse repo volume hits zero for second day Wednesday on primary dealer demand - statement",
-   "link": "https://www.financialjuice.com/News/9717198/China-cbank-7-day-reverse-repo-volume-hits-zero-for-second-day-Wednesday-on-primary-dealer-demand---statement.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:21:22 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717197",
-   "title": "China sets yuan midpoint at strongest level since Feb. 8, 2023",
-   "link": "https://www.financialjuice.com/News/9717197/China-sets-yuan-midpoint-at-strongest-level-since-Feb-8-2023.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:17:31 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717192",
-   "title": "U.S. Representative Tom Tiffany secures Republican nomination for Wisconsin governor, DDHQ projects",
-   "link": "https://www.financialjuice.com/News/9717192/US-Representative-Tom-Tiffany-secures-Republican-nomination-for-Wisconsin-governor-DDHQ-projects.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:09:53 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717191",
-   "title": "State representative Rhett Marques wins Republican special primary for Alabama U.S. House District 2: AP projects",
-   "link": "https://www.financialjuice.com/News/9717191/State-representative-Rhett-Marques-wins-Republican-special-primary-for-Alabama-US-House-District-2-AP-projects.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:07:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717189",
-   "title": "Trump: Plane I flew on faces 'greater risk'",
-   "link": "https://www.financialjuice.com/News/9717189/Trump-Plane-I-flew-on-faces-greater-risk.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:01:57 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717181",
-   "title": "Taiwan overnight interbank rate starts at 0.805%, unchanged from previous session open",
-   "link": "https://www.financialjuice.com/News/9717181/Taiwan-overnight-interbank-rate-starts-at-0805-unchanged-from-previous-session-open.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 01:00:28 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717180",
-   "title": "Trump: was adhering to secret service guidance during flight change",
-   "link": "https://www.financialjuice.com/News/9717180/Trump-was-adhering-to-secret-service-guidance-during-flight-change.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 00:59:35 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717179",
-   "title": "New Zealand PM Luxon on leadership challenge: I have backing of party",
-   "link": "https://www.financialjuice.com/News/9717179/New-Zealand-PM-Luxon-on-leadership-challenge-I-have-backing-of-party.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 00:53:15 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717178",
-   "title": "U.S. Representative Ralph Norman advances to run-off in South Carolina Republican Senate nomination: ABC projects",
-   "link": "https://www.financialjuice.com/News/9717178/US-Representative-Ralph-Norman-advances-to-run-off-in-South-Carolina-Republican-Senate-nomination-ABC-projects.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 00:51:19 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717175",
-   "title": "U.S. Representative Ralph Norman advances to run-off in South Carolina Republican Senate nomination",
-   "link": "https://www.financialjuice.com/News/9717175/US-Representative-Ralph-Norman-advances-to-run-off-in-South-Carolina-Republican-Senate-nomination.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 00:35:43 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717168",
-   "title": "China PBOC likely to set yuan mid-point at 6.7430 per dollar: estimate",
-   "link": "https://www.financialjuice.com/News/9717168/China-PBOC-likely-to-set-yuan-mid-point-at-67430-per-dollar-estimate.aspx?xy=rss",
-   "pubDate": "Wed, 12 Aug 2026 00:22:26 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717139",
-   "title": "Darline Graham, sister of late Senator Lindsey Graham, advances to run-off in Republican nomination for U.S. Senate in South Carolina",
-   "link": "https://www.financialjuice.com/News/9717139/Darline-Graham-sister-of-late-Senator-Lindsey-Graham-advances-to-run-off-in-Republican-nomination-for-US-Senate-in-South-Carolina.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 23:29:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717128",
-   "title": "North Korea missile traveled over 700 km: South Korea military",
-   "link": "https://www.financialjuice.com/News/9717128/North-Korea-missile-traveled-over-700-km-South-Korea-military.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 23:11:16 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717114",
-   "title": "S. Korea July Unemployment Rate Unadjusted 2.8% vs 2.7% in June: Data Ministry",
-   "link": "https://www.financialjuice.com/News/9717114/S-Korea-July-Unemployment-Rate-Unadjusted-28-vs-27-in-June-Data-Ministry.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 23:00:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717113",
-   "title": "S.Korea's July employment rises 108,000 year-on-year vs 63,000 in June: data ministry",
-   "link": "https://www.financialjuice.com/News/9717113/SKoreas-July-employment-rises-108000-year-on-year-vs-63000-in-June-data-ministry.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 23:00:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717112",
-   "title": "Tankan: Japan manufacturers Nov index expected at +16, non-manufacturers at +28",
-   "link": "https://www.financialjuice.com/News/9717112/Tankan-Japan-manufacturers-Nov-index-expected-at-16-non-manufacturers-at-28.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 23:00:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717111",
-   "title": "Tankan: Japan manufacturers gauge rises to 18 in August from 13 in July",
-   "link": "https://www.financialjuice.com/News/9717111/Tankan-Japan-manufacturers-gauge-rises-to-18-in-August-from-13-in-July.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 23:00:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717110",
-   "title": "S. Korean Unemployment Rate Actual 2.8% (Forecast 2.7%, Previous 2.7%)",
-   "link": "https://www.financialjuice.com/News/9717110/S-Korean-Unemployment-Rate-Actual-28-Forecast-27-Previous-27.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 23:00:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717109",
-   "title": "S. Korea presidential office holds meeting on N. Korea missile launch, urges halt to provocations - media",
-   "link": "https://www.financialjuice.com/News/9717109/S-Korea-presidential-office-holds-meeting-on-N-Korea-missile-launch-urges-halt-to-provocations---media.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 22:50:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717068",
-   "title": "North Korea launches ballistic missile: South Korea military",
-   "link": "https://www.financialjuice.com/News/9717068/North-Korea-launches-ballistic-missile-South-Korea-military.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 22:01:16 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717062",
-   "title": "North Korea launches short-range ballistic missile: media",
-   "link": "https://www.financialjuice.com/News/9717062/North-Korea-launches-short-range-ballistic-missile-media.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 21:57:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717061",
-   "title": "Amazon: OpenAI Daybreak models now accessible to qualified customers on Amazon Bedrock website",
-   "link": "https://www.financialjuice.com/News/9717061/Amazon-OpenAI-Daybreak-models-now-accessible-to-qualified-customers-on-Amazon-Bedrock-website.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 21:50:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717044",
-   "title": "North Korean missile seems to have landed outside Japan's EEZ: NHK",
-   "link": "https://www.financialjuice.com/News/9717044/North-Korean-missile-seems-to-have-landed-outside-Japans-EEZ-NHK.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 21:38:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717043",
-   "title": "Projectile believed to be North Korea-fired ballistic missile has already fallen: Japan Coast Guard",
-   "link": "https://www.financialjuice.com/News/9717043/Projectile-believed-to-be-North-Korea-fired-ballistic-missile-has-already-fallen-Japan-Coast-Guard.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 21:34:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717010",
-   "title": "North Korea launches unidentified projectile: media",
-   "link": "https://www.financialjuice.com/News/9717010/North-Korea-launches-unidentified-projectile-media.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 21:08:51 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9717009",
-   "title": "U.S. judge halts postal service from limiting mail-in voting under Trump order: docket",
-   "link": "https://www.financialjuice.com/News/9717009/US-judge-halts-postal-service-from-limiting-mail-in-voting-under-Trump-order-docket.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 21:02:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9716984",
-   "title": "US API Distillate Stock Change Actual -0.596M (Forecast -, Previous -1.2M)",
-   "link": "https://www.financialjuice.com/News/9716984/US-API-Distillate-Stock-Change-Actual--0596M-Forecast---Previous--12M.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 20:38:47 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9716983",
-   "title": "US API Gasoline Stock Change Actual -1.531M (Forecast -, Previous 0.2M)",
-   "link": "https://www.financialjuice.com/News/9716983/US-API-Gasoline-Stock-Change-Actual--1531M-Forecast---Previous-02M.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 20:38:26 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9716982",
-   "title": "US API Cushing Stock Change Actual 1.571M (Forecast -, Previous 2.4M)",
-   "link": "https://www.financialjuice.com/News/9716982/US-API-Cushing-Stock-Change-Actual-1571M-Forecast---Previous-24M.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 20:38:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9716981",
-   "title": "US API Crude Oil Stock Change Actual 9.072M (Forecast -0.5M, Previous 2.7M)",
-   "link": "https://www.financialjuice.com/News/9716981/US-API-Crude-Oil-Stock-Change-Actual-9072M-Forecast--05M-Previous-27M.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 20:37:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9716949",
-   "title": "Canadian Official for US-Canada Trade: I met with USTR's Greer today in DC, discussions are continuing.",
-   "link": "https://www.financialjuice.com/News/9716949/Canadian-Official-for-US-Canada-Trade-I-met-with-USTRs-Greer-today-in-DC-discussions-are-continuing.aspx?xy=rss",
-   "pubDate": "Tue, 11 Aug 2026 20:13:53 GMT",
    "desc": ""
   }
  ]
