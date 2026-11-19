@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-11-18T18:24:43.887338+00:00",
+ "updated_at": "2026-11-19T00:36:09.218176+00:00",
  "count": 20000,
  "items": [
+  {
+   "id": "9858827",
+   "title": "Trump: might have mentioned Nvidia situation just briefly",
+   "link": "https://www.financialjuice.com/News/9858827/Trump-might-have-mentioned-Nvidia-situation-just-briefly.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:32:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858826",
+   "title": "Trump: did not talk about former Nvidia CEO Huang with Xi",
+   "link": "https://www.financialjuice.com/News/9858826/Trump-did-not-talk-about-former-Nvidia-CEO-Huang-with-Xi.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:32:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858814",
+   "title": "Trump: spoke with Xi Wednesday about AI - Fox News interview",
+   "link": "https://www.financialjuice.com/News/9858814/Trump-spoke-with-Xi-Wednesday-about-AI---Fox-News-interview.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:31:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858808",
+   "title": "Australia October employment drops 43.5k seasonally adjusted versus poll of +25.0k",
+   "link": "https://www.financialjuice.com/News/9858808/Australia-October-employment-drops-435k-seasonally-adjusted-versus-poll-of-250k.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:30:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858807",
+   "title": "Australia Oct participation rate rises 66.6%, seasonally adjusted poll shows 66.8%",
+   "link": "https://www.financialjuice.com/News/9858807/Australia-Oct-participation-rate-rises-666-seasonally-adjusted-poll-shows-668.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858806",
+   "title": "Australia October unemployment rate rises 4.9%, poll expected 4.7%",
+   "link": "https://www.financialjuice.com/News/9858806/Australia-October-unemployment-rate-rises-49-poll-expected-47.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858805",
+   "title": "Australia October full-time jobs slip 2,900 seasonally adjusted",
+   "link": "https://www.financialjuice.com/News/9858805/Australia-October-full-time-jobs-slip-2900-seasonally-adjusted.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858804",
+   "title": "Australian Employment Change Actual -43.5k (Forecast 25k, Previous -39.3k)",
+   "link": "https://www.financialjuice.com/News/9858804/Australian-Employment-Change-Actual--435k-Forecast-25k-Previous--393k.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858803",
+   "title": "Australian Unemployment Rate Actual 4.9% (Forecast 4.7%, Previous 4.7%)",
+   "link": "https://www.financialjuice.com/News/9858803/Australian-Unemployment-Rate-Actual-49-Forecast-47-Previous-47.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858802",
+   "title": "Australian Participation Rate Actual 66.6% (Forecast 66.8%, Previous 66.8%)",
+   "link": "https://www.financialjuice.com/News/9858802/Australian-Participation-Rate-Actual-666-Forecast-668-Previous-668.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858801",
+   "title": "Australian Full Time Employment Chg. Actual -2.9k (Forecast -, Previous 34.4k)",
+   "link": "https://www.financialjuice.com/News/9858801/Australian-Full-Time-Employment-Chg-Actual--29k-Forecast---Previous-344k.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:30:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858800",
+   "title": "China PBOC expected to set yuan midpoint at 6.6684 per dollar: Estimate",
+   "link": "https://www.financialjuice.com/News/9858800/China-PBOC-expected-to-set-yuan-midpoint-at-66684-per-dollar-Estimate.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 00:18:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858779",
+   "title": "Japanese Foreign Stock Investment Actual 363.1B (Forecast -, Previous -643.9B)",
+   "link": "https://www.financialjuice.com/News/9858779/Japanese-Foreign-Stock-Investment-Actual-3631B-Forecast---Previous--6439B.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:52:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858778",
+   "title": "Foreign Investment Japanese Bonds Actual 650.1B (Forecast -, Previous 1,371.1B)",
+   "link": "https://www.financialjuice.com/News/9858778/Foreign-Investment-Japanese-Bonds-Actual-6501B-Forecast---Previous-13711B.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:52:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858775",
+   "title": "Foreign Investment Japanese Stocks Actual -224.1B (Forecast -, Previous -105.2B)",
+   "link": "https://www.financialjuice.com/News/9858775/Foreign-Investment-Japanese-Stocks-Actual--2241B-Forecast---Previous--1052B.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:52:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858774",
+   "title": "Japanese Foreign Bond Investment Actual -440.7B (Forecast -, Previous -537.6B)",
+   "link": "https://www.financialjuice.com/News/9858774/Japanese-Foreign-Bond-Investment-Actual--4407B-Forecast---Previous--5376B.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:52:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858777",
+   "title": "Japan Sept core machinery orders decline 0.3% m/m vs -0.5% forecast",
+   "link": "https://www.financialjuice.com/News/9858777/Japan-Sept-core-machinery-orders-decline-03-mm-vs--05-forecast.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:50:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858776",
+   "title": "Japan Sept core machinery orders rise 13.4% yr/yr versus poll 13.7%",
+   "link": "https://www.financialjuice.com/News/9858776/Japan-Sept-core-machinery-orders-rise-134-yryr-versus-poll-137.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:50:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858773",
+   "title": "Japanese Core Machinery Orders MoM Actual -0.3% (Forecast 1.5%, Previous 5.2%)",
+   "link": "https://www.financialjuice.com/News/9858773/Japanese-Core-Machinery-Orders-MoM-Actual--03-Forecast-15-Previous-52.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:50:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858772",
+   "title": "Japanese Core Machinery Orders YoY Actual 13.4% (Forecast 13.5%, Previous 18.6%)",
+   "link": "https://www.financialjuice.com/News/9858772/Japanese-Core-Machinery-Orders-YoY-Actual-134-Forecast-135-Previous-186.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:50:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858748",
+   "title": "Anthropic: 23.6 million shares offered by certain stockholders in IPO - website",
+   "link": "https://www.financialjuice.com/News/9858748/Anthropic-236-million-shares-offered-by-certain-stockholders-in-IPO---website.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:29:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858747",
+   "title": "Anthropic: offering includes 980 million shares of Class A common stock, with 956.35 million sold by Anthropic",
+   "link": "https://www.financialjuice.com/News/9858747/Anthropic-offering-includes-980-million-shares-of-Class-A-common-stock-with-95635-million-sold-by-Anthropic.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:29:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858746",
+   "title": "Anthropic offering totals 980 million shares, company sells 956 million shares",
+   "link": "https://www.financialjuice.com/News/9858746/Anthropic-offering-totals-980-million-shares-company-sells-956-million-shares.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:28:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858745",
+   "title": "Anthropic prices IPO at $83 a share",
+   "link": "https://www.financialjuice.com/News/9858745/Anthropic-prices-IPO-at-83-a-share.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 23:28:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858706",
+   "title": "Saudi defence minister, US CENTCOM chief discuss military cooperation, regional security and stability: Saudi state news agency",
+   "link": "https://www.financialjuice.com/News/9858706/Saudi-defence-minister-US-CENTCOM-chief-discuss-military-cooperation-regional-security-and-stability-Saudi-state-news-agency.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:52:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858705",
+   "title": "Saudi defence minister meets US Centcom chief in Riyadh: Saudi state news agency",
+   "link": "https://www.financialjuice.com/News/9858705/Saudi-defence-minister-meets-US-Centcom-chief-in-Riyadh-Saudi-state-news-agency.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:51:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858698",
+   "title": "Fortifai Ltd appoints former Nvidia executive Jason Brushe as CEO",
+   "link": "https://www.financialjuice.com/News/9858698/Fortifai-Ltd-appoints-former-Nvidia-executive-Jason-Brushe-as-CEO.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:37:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858697",
+   "title": "Traffic suspended over Crimean Bridge after attack: Moscow-installed official",
+   "link": "https://www.financialjuice.com/News/9858697/Traffic-suspended-over-Crimean-Bridge-after-attack-Moscow-installed-official.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:36:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858696",
+   "title": "Microsoft CEO Nadella: rediscovering that software engineering remains vibrant and will flourish",
+   "link": "https://www.financialjuice.com/News/9858696/Microsoft-CEO-Nadella-rediscovering-that-software-engineering-remains-vibrant-and-will-flourish.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:33:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858695",
+   "title": "Microsoft CEO Nadella: Agents will have guidelines to conduct commerce",
+   "link": "https://www.financialjuice.com/News/9858695/Microsoft-CEO-Nadella-Agents-will-have-guidelines-to-conduct-commerce.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:33:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858673",
+   "title": "Microsoft CEO Nadella: rediscovering the software engineering core",
+   "link": "https://www.financialjuice.com/News/9858673/Microsoft-CEO-Nadella-rediscovering-the-software-engineering-core.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:26:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858672",
+   "title": "Singing remains vibrant and poised to flourish",
+   "link": "https://www.financialjuice.com/News/9858672/Singing-remains-vibrant-and-poised-to-flourish.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:26:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858669",
+   "title": "Microsoft CEO Nadella on former Nvidia CEO Huang resigning: wants to give him space to resolve, Nvidia board to decide next steps",
+   "link": "https://www.financialjuice.com/News/9858669/Microsoft-CEO-Nadella-on-former-Nvidia-CEO-Huang-resigning-wants-to-give-him-space-to-resolve-Nvidia-board-to-decide-next-steps.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:17:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858657",
+   "title": "Microsoft CEO Nadella on Former Nvidia CEO Huang resigning: it's quite tragic, I'm a big admirer of his work - New York Times DealBook Summit",
+   "link": "https://www.financialjuice.com/News/9858657/Microsoft-CEO-Nadella-on-Former-Nvidia-CEO-Huang-resigning-its-quite-tragic-Im-a-big-admirer-of-his-work---New-York-Times-DealBook-Summit.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:16:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858653",
+   "title": "UKMTO: tanker hit by unidentified projectile in engine room while passing outbound through Strait of Hormuz",
+   "link": "https://www.financialjuice.com/News/9858653/UKMTO-tanker-hit-by-unidentified-projectile-in-engine-room-while-passing-outbound-through-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:12:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858652",
+   "title": "Ukmto: received delayed report of incident 6nm north of Oman's Khasab",
+   "link": "https://www.financialjuice.com/News/9858652/Ukmto-received-delayed-report-of-incident-6nm-north-of-Omans-Khasab.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:11:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858651",
+   "title": "Saudi-led coalition: intercepted and neutralized missile launched by Yemen's Houthis towards southern Saudi Arabia",
+   "link": "https://www.financialjuice.com/News/9858651/Saudi-led-coalition-intercepted-and-neutralized-missile-launched-by-Yemens-Houthis-towards-southern-Saudi-Arabia.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:07:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858650",
+   "title": "South Korea’s Blue House: No clear indication of Trump-Kim summit, China shares similar intelligence - news1",
+   "link": "https://www.financialjuice.com/News/9858650/South-Koreas-Blue-House-No-clear-indication-of-Trump-Kim-summit-China-shares-similar-intelligence---news1.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:05:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858649",
+   "title": "South Korea's Lee, Russia's Putin reach agreement on easing tensions on Korean peninsula - News1",
+   "link": "https://www.financialjuice.com/News/9858649/South-Koreas-Lee-Russias-Putin-reach-agreement-on-easing-tensions-on-Korean-peninsula---News1.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:04:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858645",
+   "title": "Poll: Bank of Japan to hike benchmark interest rate to 1.50% in December, 86% of economists say",
+   "link": "https://www.financialjuice.com/News/9858645/Poll-Bank-of-Japan-to-hike-benchmark-interest-rate-to-150-in-December-86-of-economists-say.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:00:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858644",
+   "title": "Poll: Bank of Japan to increase rates by another 25 bps to 1.75% by end-March 2027, nearly 60% of economists say",
+   "link": "https://www.financialjuice.com/News/9858644/Poll-Bank-of-Japan-to-increase-rates-by-another-25-bps-to-175-by-end-March-2027-nearly-60-of-economists-say.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:00:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858642",
+   "title": "Poll: timing of BoJ's next rate increase unaffected by recent stock market volatility, say 83% of respondents",
+   "link": "https://www.financialjuice.com/News/9858642/Poll-timing-of-BoJs-next-rate-increase-unaffected-by-recent-stock-market-volatility-say-83-of-respondents.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:00:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858641",
+   "title": "Poll: Japan's wage growth in next year's labor talks estimated at 5.00% versus 5.01% in 2023",
+   "link": "https://www.financialjuice.com/News/9858641/Poll-Japans-wage-growth-in-next-years-labor-talks-estimated-at-500-versus-501-in-2023.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 22:00:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858637",
+   "title": "Moody's: Higher interest rates, elevated energy prices, and normalization of AI investment cycle will contribute to slower growth in the US",
+   "link": "https://www.financialjuice.com/News/9858637/Moodys-Higher-interest-rates-elevated-energy-prices-and-normalization-of-AI-investment-cycle-will-contribute-to-slower-growth-in-the-US.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:55:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858636",
+   "title": "Moody's expects US will continue its long history of very effective monetary policy led by an independent Fed.",
+   "link": "https://www.financialjuice.com/News/9858636/Moodys-expects-US-will-continue-its-long-history-of-very-effective-monetary-policy-led-by-an-independent-Fed.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:54:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858635",
+   "title": "Moody's on the USA: Expect Congress to raise or suspend the debt limit before the Treasury exhausts borrowing capacity. Potentially after protracted negotiations",
+   "link": "https://www.financialjuice.com/News/9858635/Moodys-on-the-USA-Expect-Congress-to-raise-or-suspend-the-debt-limit-before-the-Treasury-exhausts-borrowing-capacity-Potentially-after-protracted-negotiations.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:54:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858634",
+   "title": "Moody's: US economy has grown more strongly than we initially expected in 2026.",
+   "link": "https://www.financialjuice.com/News/9858634/Moodys-US-economy-has-grown-more-strongly-than-we-initially-expected-in-2026.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:53:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858617",
+   "title": "New Zealand Exports Actual 6.95B (Forecast -, Previous 6.47B ,Revision 6.29B)",
+   "link": "https://www.financialjuice.com/News/9858617/New-Zealand-Exports-Actual-695B-Forecast---Previous-647B-Revision-629B.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:47:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858616",
+   "title": "New Zealand Imports Actual 9.72B (Forecast -, Previous 8.44B ,Revision 8.42B)",
+   "link": "https://www.financialjuice.com/News/9858616/New-Zealand-Imports-Actual-972B-Forecast---Previous-844B-Revision-842B.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:47:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858615",
+   "title": "New Zealand Trade Balance Actual -2772M (Forecast -, Previous -1,971.0M)",
+   "link": "https://www.financialjuice.com/News/9858615/New-Zealand-Trade-Balance-Actual--2772M-Forecast---Previous--19710M.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858614",
+   "title": "Google CEO Pichai: Gemini 4 Neon begins rolling out today. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9858614/Google-CEO-Pichai-Gemini-4-Neon-begins-rolling-out-today-GOOGL.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:37:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858601",
+   "title": "Fed's Kashkari: AI's imprint on US productivity is still unclear",
+   "link": "https://www.financialjuice.com/News/9858601/Feds-Kashkari-AIs-imprint-on-US-productivity-is-still-unclear.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:28:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858600",
+   "title": "Fed's Kashkari: Inflation imprint from AI buildout is real in the US",
+   "link": "https://www.financialjuice.com/News/9858600/Feds-Kashkari-Inflation-imprint-from-AI-buildout-is-real-in-the-US.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:27:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858599",
+   "title": "Fed's Kashkari: The Fed is clearly missing on the inflation side of the mandate",
+   "link": "https://www.financialjuice.com/News/9858599/Feds-Kashkari-The-Fed-is-clearly-missing-on-the-inflation-side-of-the-mandate.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:27:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858598",
+   "title": "Fed's Kashkari: AI massive investment creates concentration risk",
+   "link": "https://www.financialjuice.com/News/9858598/Feds-Kashkari-AI-massive-investment-creates-concentration-risk.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:24:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858597",
+   "title": "Fed's Kashkari: Markets believe the Fed will have to hike more than Fed officials now expect",
+   "link": "https://www.financialjuice.com/News/9858597/Feds-Kashkari-Markets-believe-the-Fed-will-have-to-hike-more-than-Fed-officials-now-expect.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:22:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858596",
+   "title": "Fed's Kashkari: Strong level of demand has been a bit surprising, job market resilient",
+   "link": "https://www.financialjuice.com/News/9858596/Feds-Kashkari-Strong-level-of-demand-has-been-a-bit-surprising-job-market-resilient.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:20:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858595",
+   "title": "Fed's Kashkari: Fed must make sure inflation expectations remain anchored",
+   "link": "https://www.financialjuice.com/News/9858595/Feds-Kashkari-Fed-must-make-sure-inflation-expectations-remain-anchored.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:19:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858594",
+   "title": "Fed's Kashkari: Elevated inflation has flowed from a series of supply shocks:",
+   "link": "https://www.financialjuice.com/News/9858594/Feds-Kashkari-Elevated-inflation-has-flowed-from-a-series-of-supply-shocks.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:19:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858591",
+   "title": "Fed's Kashkari: Interest rates absolutely can impact investment levels",
+   "link": "https://www.financialjuice.com/News/9858591/Feds-Kashkari-Interest-rates-absolutely-can-impact-investment-levels.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:17:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858580",
+   "title": "Iran: Have exercised ‘maximum restraint’ in defensive strikes",
+   "link": "https://www.financialjuice.com/News/9858580/Iran-Have-exercised-maximum-restraint-in-defensive-strikes.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:16:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858556",
+   "title": "US action on China unlikely during Trump's Asia trip - ABC",
+   "link": "https://www.financialjuice.com/News/9858556/US-action-on-China-unlikely-during-Trumps-Asia-trip---ABC.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:02:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858555",
+   "title": "US Overall Net Capital Flows Actual 261.0B (Forecast -, Previous 199.8B ,Revision 203.0B)",
+   "link": "https://www.financialjuice.com/News/9858555/US-Overall-Net-Capital-Flows-Actual-2610B-Forecast---Previous-1998B-Revision-2030B.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:02:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858554",
+   "title": "US TIC Long-Term Transactions Actual 155.3B (Forecast -, Previous 279.2B ,Revision 285.0B)",
+   "link": "https://www.financialjuice.com/News/9858554/US-TIC-Long-Term-Transactions-Actual-1553B-Forecast---Previous-2792B-Revision-2850B.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 21:02:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858553",
+   "title": "Trump has raised the cases of Youlin Chen and Min Zin to China’s President Xi - ABC.",
+   "link": "https://www.financialjuice.com/News/9858553/Trump-has-raised-the-cases-of-Youlin-Chen-and-Min-Zin-to-Chinas-President-Xi---ABC.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:58:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858551",
+   "title": "US weighs new penalties on China over jailed Americans - ABC.",
+   "link": "https://www.financialjuice.com/News/9858551/US-weighs-new-penalties-on-China-over-jailed-Americans---ABC.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:57:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858550",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9858550/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:50:31 GMT",
+   "desc": "S&amp;P 500: +1024 mln Nasdaq 100: +760 mln Dow 30: +239 mln Mag 7: +389 mln"
+  },
+  {
+   "id": "9858532",
+   "title": "Nvidia to pull forward pay raises and new equity awards to Dec - FT. $NVDA",
+   "link": "https://www.financialjuice.com/News/9858532/Nvidia-to-pull-forward-pay-raises-and-new-equity-awards-to-Dec---FT-NVDA.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:43:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858531",
+   "title": "Pentagon chief walks out of NATO talks after admonishing Ukraine - Telegraph",
+   "link": "https://www.financialjuice.com/News/9858531/Pentagon-chief-walks-out-of-NATO-talks-after-admonishing-Ukraine---Telegraph.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:41:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858530",
+   "title": "Anthropic is said to be weighing IPO price up to $85 per share. $ANT",
+   "link": "https://www.financialjuice.com/News/9858530/Anthropic-is-said-to-be-weighing-IPO-price-up-to-85-per-share-ANT.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:39:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858529",
+   "title": "US charges Russian as foreign agent targeting Palantir workers. $PLTR",
+   "link": "https://www.financialjuice.com/News/9858529/US-charges-Russian-as-foreign-agent-targeting-Palantir-workers-PLTR.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:39:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858516",
+   "title": "Thursday FX Options Expiries",
+   "link": "https://www.financialjuice.com/News/9858516/Thursday-FX-Options-Expiries.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:22:43 GMT",
+   "desc": "EUR/USD: 1.1250 (EU2.53b), 1.1375 (EU2.16b), 1.0975 (EU1.75b) USD/JPY: 159.20 ($1.28b), 157.00 ($1.03b), 160.00 ($1.02b) AUD/USD: 0.6985 (AUD639m), 0.7025 (AUD447.5m), 0.6725 (AUD325m) USD/CAD: 1.4250 ($606.9m), 1.4050 ($490.3m), 1.3915 ($300m) GBP/USD: 1.3500 (GBP911.6m), 1.3650 (GBP457.1m), 1.3380 (GBP456.5m) EUR/GBP: 0.8585 (EU747.8m), 0.8360 (EU439m), 0.8600 (EU330.6m) USD/BRL: 5.1760 ($648.4m), 4.8500 ($380m) USD/MXN: 18.47 ($993.4m) USD/CNY: 6.6900 ($388.7m), 6.6450 ($343m)"
+  },
+  {
+   "id": "9858496",
+   "title": "Nvidia Chair at Employee Townhall: Jensen Huang not coming back. $NVDA",
+   "link": "https://www.financialjuice.com/News/9858496/Nvidia-Chair-at-Employee-Townhall-Jensen-Huang-not-coming-back-NVDA.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:14:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858495",
+   "title": "Moolenaar: US tech firms shouldn't play both sides of AI race",
+   "link": "https://www.financialjuice.com/News/9858495/Moolenaar-US-tech-firms-shouldnt-play-both-sides-of-AI-race.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:11:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858494",
+   "title": "US House China Panel Chair Moolenaar: It's unacceptable for Microsoft to arm ByteDance. $MSFT",
+   "link": "https://www.financialjuice.com/News/9858494/US-House-China-Panel-Chair-Moolenaar-Its-unacceptable-for-Microsoft-to-arm-ByteDance-MSFT.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:10:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858493",
+   "title": "US House China Panel Chair Moolenaar: Microsoft should not sell AI to ByteDance. $MSFT",
+   "link": "https://www.financialjuice.com/News/9858493/US-House-China-Panel-Chair-Moolenaar-Microsoft-should-not-sell-AI-to-ByteDance-MSFT.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:09:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858492",
+   "title": "Yemen's Houthis: Targeted King Khalid Airport and financial center in Riyadh.",
+   "link": "https://www.financialjuice.com/News/9858492/Yemens-Houthis-Targeted-King-Khalid-Airport-and-financial-center-in-Riyadh.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:09:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858491",
+   "title": "House Select Committee on China has requested a bipartisan briefing from Microsoft on reported deal to sell AI to ByteDance - Statement. $MSFT",
+   "link": "https://www.financialjuice.com/News/9858491/House-Select-Committee-on-China-has-requested-a-bipartisan-briefing-from-Microsoft-on-reported-deal-to-sell-AI-to-ByteDance---Statement-MSFT.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:08:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858490",
+   "title": "IRIB News: Three oil tankers caught fire, stopped after hitting sea mines east of Strait of Hormuz, having ignored Navy warnings - Iran Army",
+   "link": "https://www.financialjuice.com/News/9858490/IRIB-News-Three-oil-tankers-caught-fire-stopped-after-hitting-sea-mines-east-of-Strait-of-Hormuz-having-ignored-Navy-warnings---Iran-Army.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:07:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858489",
+   "title": "3 offending oil tankers caught fire in the east of the Strait of Hormuz - IRIB News",
+   "link": "https://www.financialjuice.com/News/9858489/3-offending-oil-tankers-caught-fire-in-the-east-of-the-Strait-of-Hormuz---IRIB-News.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 20:06:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858486",
+   "title": "RBNZ Governor Breman: There are risks in both directions.",
+   "link": "https://www.financialjuice.com/News/9858486/RBNZ-Governor-Breman-There-are-risks-in-both-directions.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:52:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858485",
+   "title": "RBNZ Governor Breman: Measures of underlying inflation remain elevated",
+   "link": "https://www.financialjuice.com/News/9858485/RBNZ-Governor-Breman-Measures-of-underlying-inflation-remain-elevated.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:52:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858484",
+   "title": "Navarro: Using AI program to help detect transshipment - Fox Busniness",
+   "link": "https://www.financialjuice.com/News/9858484/Navarro-Using-AI-program-to-help-detect-transshipment---Fox-Busniness.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:51:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858482",
+   "title": "RBNZ Governor Breman: Subdued demand making it hard for businesses to pass on higher costs.",
+   "link": "https://www.financialjuice.com/News/9858482/RBNZ-Governor-Breman-Subdued-demand-making-it-hard-for-businesses-to-pass-on-higher-costs.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:48:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858481",
+   "title": "RBNZ Governor Breman: Will continue to monitor closely extent to which higher costs feed into other prices.",
+   "link": "https://www.financialjuice.com/News/9858481/RBNZ-Governor-Breman-Will-continue-to-monitor-closely-extent-to-which-higher-costs-feed-into-other-prices.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:48:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858467",
+   "title": "Brent Crude futures settle at $91.95/bbl, down $1.19, 1.28%",
+   "link": "https://www.financialjuice.com/News/9858467/Brent-Crude-futures-settle-at-9195bbl-down-119-128.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:43:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858466",
+   "title": "RBNZ's Breman: Sees risks to inflation, economy in both directions.",
+   "link": "https://www.financialjuice.com/News/9858466/RBNZs-Breman-Sees-risks-to-inflation-economy-in-both-directions.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:36:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858465",
+   "title": "RBNZ's Breman: Inflation expectations remain stable",
+   "link": "https://www.financialjuice.com/News/9858465/RBNZs-Breman-Inflation-expectations-remain-stable.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:35:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858464",
+   "title": "RBNZ's Breman: Hard for NZ businesses to pass on higher costs",
+   "link": "https://www.financialjuice.com/News/9858464/RBNZs-Breman-Hard-for-NZ-businesses-to-pass-on-higher-costs.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:35:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858463",
+   "title": "RBNZ's Breman: Indirect effects from fuel prices may be higher",
+   "link": "https://www.financialjuice.com/News/9858463/RBNZs-Breman-Indirect-effects-from-fuel-prices-may-be-higher.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:34:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858462",
+   "title": "RBNZ's Breman: Economic recovery remains uneven",
+   "link": "https://www.financialjuice.com/News/9858462/RBNZs-Breman-Economic-recovery-remains-uneven.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:33:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858460",
+   "title": "NYMEX Nat Gas Dec. futures settle at $3.3720/MMBtu",
+   "link": "https://www.financialjuice.com/News/9858460/NYMEX-Nat-Gas-Dec-futures-settle-at-33720MMBtu.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:32:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858448",
+   "title": "Senate GOP Leader Thune: Democrats not engaging yet on government funding",
+   "link": "https://www.financialjuice.com/News/9858448/Senate-GOP-Leader-Thune-Democrats-not-engaging-yet-on-government-funding.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:31:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858446",
+   "title": "NYMEX diesel Dec. futures settle at $3.9723 a gallon",
+   "link": "https://www.financialjuice.com/News/9858446/NYMEX-diesel-Dec-futures-settle-at-39723-a-gallon.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:31:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858445",
+   "title": "NYMEX gasoline Dec. futures settle at $2.4819 a gallon",
+   "link": "https://www.financialjuice.com/News/9858445/NYMEX-gasoline-Dec-futures-settle-at-24819-a-gallon.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:31:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858444",
+   "title": "NYMEX WTI crude Dec. futures settle at $83.26 a barrel, down $2.75, 3.20%",
+   "link": "https://www.financialjuice.com/News/9858444/NYMEX-WTI-crude-Dec-futures-settle-at-8326-a-barrel-down-275-320.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:30:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858441",
+   "title": "Iran had constructive talks with Oman - Tasnim",
+   "link": "https://www.financialjuice.com/News/9858441/Iran-had-constructive-talks-with-Oman---Tasnim.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:18:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858421",
+   "title": "PlayStation: Seeing issues in game streaming.",
+   "link": "https://www.financialjuice.com/News/9858421/PlayStation-Seeing-issues-in-game-streaming.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:03:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858419",
+   "title": "Fed Staff inflation forecast was similar to one prepared for the September meeting, economic growth outlook a little stronger",
+   "link": "https://www.financialjuice.com/News/9858419/Fed-Staff-inflation-forecast-was-similar-to-one-prepared-for-the-September-meeting-economic-growth-outlook-a-little-stronger.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:01:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9858415",
+   "title": "Fed Minutes: Participants had extensive discussion of issues around the AI buildout, including implications for financial stability and potential productivity gains.",
+   "link": "https://www.financialjuice.com/News/9858415/Fed-Minutes-Participants-had-extensive-discussion-of-issues-around-the-AI-buildout-including-implications-for-financial-stability-and-potential-productivity-gains.aspx?xy=rss",
+   "pubDate": "Wed, 18 Nov 2026 19:01:30 GMT",
+   "desc": ""
+  },
   {
    "id": "9858360",
    "title": "US Sec. of Defense Hegseth: The oil deal makes the Strait of Hormuz a 'non-factor'",
@@ -139300,706 +140000,6 @@
    "title": "Iran's Ministry of Foreign Affairs: If we return to negotiations, we will do so based on the Islamabad agreement, not the Manama meeting - ISNA",
    "link": "https://www.financialjuice.com/News/9724260/Irans-Ministry-of-Foreign-Affairs-If-we-return-to-negotiations-we-will-do-so-based-on-the-Islamabad-agreement-not-the-Manama-meeting---ISNA.aspx?xy=rss",
    "pubDate": "Mon, 17 Aug 2026 13:18:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724241",
-   "title": "UKMTO: Cargo vessel boarded by 8 armed unauthorised persons",
-   "link": "https://www.financialjuice.com/News/9724241/UKMTO-Cargo-vessel-boarded-by-8-armed-unauthorised-persons.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:05:49 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724240",
-   "title": "CIBC: Persian Gulf Stalemate Keeps Oil Outlook Highly Uncertain - FJElite",
-   "link": "https://www.financialjuice.com/News/9724240/CIBC-Persian-Gulf-Stalemate-Keeps-Oil-Outlook-Highly-Uncertain---FJElite.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:05:21 GMT",
-   "desc": "Active fighting has largely stopped and oil volatility has eased, but the range of plausible outcomes is now wider. Iran appears willing to hold out for better terms, while the US has shown little willingness to meet those demands, leaving no clear timetable for a full reopening of the Strait of Hormuz. The base case remains closer to a resolution within months rather than years, but Gulf states are already spending heavily on alternative export routes, suggesting they are also preparing for a prolonged disruption. Current oil prices may understate the risks. If a deal is reached, crude could fall toward $70 or lower, but if the Strait remains threatened, prices could move into triple digits. SPR drawdowns are becoming less effective, while refinery disruptions have already pushed US gasoline above $4 a gallon. The main uncertainty is how long higher energy costs persist and how much they spill into core inflation. For monetary policy, the risk is greater in the US than Canada because the US labour market is tighter and core inflation is already around 3%. A return to headline inflation above 4% alongside firmer core inflation would make it harder for the Fed to stay on hold. That risk is unlikely to be decisive by September, and the base case remains that oil inflation cools enough for the Fed to stay on hold this year, but confidence in that outcome remains low."
-  },
-  {
-   "id": "9724239",
-   "title": "UKMTO gets report of incident 4nm south of Mareeyo, Somalia",
-   "link": "https://www.financialjuice.com/News/9724239/UKMTO-gets-report-of-incident-4nm-south-of-Mareeyo-Somalia.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:05:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724234",
-   "title": "BofA: AI Capex Remains a Tailwind for US Growth - FJElite",
-   "link": "https://www.financialjuice.com/News/9724234/BofA-AI-Capex-Remains-a-Tailwind-for-US-Growth---FJElite.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:03:37 GMT",
-   "desc": "AI capex continues to rise, with hyperscaler spending estimates being revised higher and expected to increase again in 2027. The investment boom is also supporting the broader economy through wealth effects, stronger manufacturing production, employment in AI-related industries, and data-centre construction. These effects continue to reinforce US economic resilience even with the risk of higher-for-longer rates. Next week’s main focus is the July FOMC minutes, alongside industrial production and a heavy housing calendar. The minutes are already somewhat stale after softer July jobs and inflation data reduced expectations for further hikes, but they may still show how many officials beyond the three dissenters were leaning toward a hike or willing to support one. Markets will also look for any clues on what threshold the Committee might require for a September move."
-  },
-  {
-   "id": "9724232",
-   "title": "Bank of America: Lower Real Yields Could Ease Pressure on Equities - FJElite",
-   "link": "https://www.financialjuice.com/News/9724232/Bank-of-America-Lower-Real-Yields-Could-Ease-Pressure-on-Equities---FJElite.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:01:58 GMT",
-   "desc": "European equities are up 12% year-to-date and 35% over the past two years, supported by EPS expectations at record highs and the equity risk premium at a 25-year low. That support has been partly offset by the US real bond yield rising to around 2.4%, just below a 20-year high, increasing the discount rate for global equities. There is scope for that pressure to fade. The rise in real yields was driven by a hawkish shift in central-bank expectations as inflation and US jobs data strengthened, but the latest data point the other way. US payrolls fell by 23,000 in July, the three-month run rate dropped to 20,000, and core PCE is tracking at 0.19% month-on-month. If that continues, US 10-year yields could fall toward 4.50%, pulling real yields lower and reducing a key headwind for equities."
-  },
-  {
-   "id": "9724220",
-   "title": "Effective Fed Funds Rate 3.63% August 14 vs 3.63% August 13.",
-   "link": "https://www.financialjuice.com/News/9724220/Effective-Fed-Funds-Rate-363-August-14-vs-363-August-13.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:59:46 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724219",
-   "title": "US Sentiment: Geopolitics vs AI Demand, A Classic Tug of War - FJElite",
-   "link": "https://www.financialjuice.com/News/9724219/US-Sentiment-Geopolitics-vs-AI-Demand-A-Classic-Tug-of-War---FJElite.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:58:41 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724218",
-   "title": "IRGC Spokesman to Tasnim: Trump’s claim of backchannel talks with the IRGC is a delusion stemming from defeat.",
-   "link": "https://www.financialjuice.com/News/9724218/IRGC-Spokesman-to-Tasnim-Trumps-claim-of-backchannel-talks-with-the-IRGC-is-a-delusion-stemming-from-defeat.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:57:48 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724202",
-   "title": "NVIDIA: OpenAI will pay the lease.",
-   "link": "https://www.financialjuice.com/News/9724202/NVIDIA-OpenAI-will-pay-the-lease.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:44:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724200",
-   "title": "Nvidia: OpenAI committed to substantial deployments of Nvidia AI infrastructure through 2030",
-   "link": "https://www.financialjuice.com/News/9724200/Nvidia-OpenAI-committed-to-substantial-deployments-of-Nvidia-AI-infrastructure-through-2030.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:40:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724199",
-   "title": "OpenAI: We are investing significantly in security controls.",
-   "link": "https://www.financialjuice.com/News/9724199/OpenAI-We-are-investing-significantly-in-security-controls.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:38:27 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724198",
-   "title": "OpenAI: Using models to help secure code.",
-   "link": "https://www.financialjuice.com/News/9724198/OpenAI-Using-models-to-help-secure-code.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:38:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724197",
-   "title": "IRGC will decisively crush any threat or aggression - Tasnim news.",
-   "link": "https://www.financialjuice.com/News/9724197/IRGC-will-decisively-crush-any-threat-or-aggression---Tasnim-news.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:37:22 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724196",
-   "title": "NVIDIA secures 4.25 IT-GW at SB energy Ohio campus.",
-   "link": "https://www.financialjuice.com/News/9724196/NVIDIA-secures-425-IT-GW-at-SB-energy-Ohio-campus.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:35:00 GMT",
-   "desc": "NVIDIA guarantees SB energy&#39;s ports-pike technology campus in Ohio to exclusively host NVIDIA AI compute NVIDIA to invest $1.5b in SB energy"
-  },
-  {
-   "id": "9724163",
-   "title": "Canadian CPI Common Actual 2.7% (Forecast -, Previous 2.6%)",
-   "link": "https://www.financialjuice.com/News/9724163/Canadian-CPI-Common-Actual-27-Forecast---Previous-26.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:31:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724162",
-   "title": "Canadian Core CPI MoM Actual 0.2% (Forecast -, Previous 0.2%)",
-   "link": "https://www.financialjuice.com/News/9724162/Canadian-Core-CPI-MoM-Actual-02-Forecast---Previous-02.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:31:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724161",
-   "title": "BoC Core CPI YoY Actual 2.3% (Forecast -, Previous 2.1%)",
-   "link": "https://www.financialjuice.com/News/9724161/BoC-Core-CPI-YoY-Actual-23-Forecast---Previous-21.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:31:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724160",
-   "title": "BoC Core CPI MoM Actual 0.2% (Forecast -, Previous 0.1%)",
-   "link": "https://www.financialjuice.com/News/9724160/BoC-Core-CPI-MoM-Actual-02-Forecast---Previous-01.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:31:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724159",
-   "title": "Canadian CPI YoY Actual 3% (Forecast 2.9%, Previous 2.8%)",
-   "link": "https://www.financialjuice.com/News/9724159/Canadian-CPI-YoY-Actual-3-Forecast-29-Previous-28.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:30:02 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724158",
-   "title": "Canadian CPI MoM Actual 0.5% (Forecast 0.4%, Previous -0.4%)",
-   "link": "https://www.financialjuice.com/News/9724158/Canadian-CPI-MoM-Actual-05-Forecast-04-Previous--04.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:30:02 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724157",
-   "title": "Canadian CPI Trim Actual 1.9% (Forecast 1.8%, Previous 1.8%, Revised 1.9%)",
-   "link": "https://www.financialjuice.com/News/9724157/Canadian-CPI-Trim-Actual-19-Forecast-18-Previous-18-Revised-19.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:30:02 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724156",
-   "title": "Canadian CPI Median Actual 2% (Forecast 1.9%, Previous 1.9%)",
-   "link": "https://www.financialjuice.com/News/9724156/Canadian-CPI-Median-Actual-2-Forecast-19-Previous-19.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:30:02 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724155",
-   "title": "NY Fed Manufacturing Actual 20.6 (Forecast 10, Previous 15.60)",
-   "link": "https://www.financialjuice.com/News/9724155/NY-Fed-Manufacturing-Actual-206-Forecast-10-Previous-1560.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:30:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724154",
-   "title": "Senior Iranian Official: Iran will not wait for the US to continue the naval blockade indefinitely",
-   "link": "https://www.financialjuice.com/News/9724154/Senior-Iranian-Official-Iran-will-not-wait-for-the-US-to-continue-the-naval-blockade-indefinitely.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:28:46 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724153",
-   "title": "The timeframe set by Iran will be conveyed to US, regional countries via mediators - Senior Iranian Official.",
-   "link": "https://www.financialjuice.com/News/9724153/The-timeframe-set-by-Iran-will-be-conveyed-to-US-regional-countries-via-mediators---Senior-Iranian-Official.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:28:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724152",
-   "title": "Senior Iranian Official: All Iranian entities will be prepared to escalate tensions in the Hormuz Strait and the region if diplomacy fails",
-   "link": "https://www.financialjuice.com/News/9724152/Senior-Iranian-Official-All-Iranian-entities-will-be-prepared-to-escalate-tensions-in-the-Hormuz-Strait-and-the-region-if-diplomacy-fails.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:27:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724151",
-   "title": "Iran has set a deadline of a few weeks for full implementation of MOU by US - Senior Iranian Official.",
-   "link": "https://www.financialjuice.com/News/9724151/Iran-has-set-a-deadline-of-a-few-weeks-for-full-implementation-of-MOU-by-US---Senior-Iranian-Official.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:27:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724150",
-   "title": "Senior Iranian Official: Pressuring the US or relying on mediators to reach a lasting peace is not realistic",
-   "link": "https://www.financialjuice.com/News/9724150/Senior-Iranian-Official-Pressuring-the-US-or-relying-on-mediators-to-reach-a-lasting-peace-is-not-realistic.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:27:25 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724149",
-   "title": "Senior Iranian Official: Iran has decided to shift its policy from defensive to a fully offensive one.",
-   "link": "https://www.financialjuice.com/News/9724149/Senior-Iranian-Official-Iran-has-decided-to-shift-its-policy-from-defensive-to-a-fully-offensive-one.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:26:55 GMT",
-   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"qZKRXsg8\",container_id:\"desc_{{NewsID}}\"});"
-  },
-  {
-   "id": "9724139",
-   "title": "US Navy awards Raytheon $22.9 billion contract to boost output of Tomahawk missile - Statement",
-   "link": "https://www.financialjuice.com/News/9724139/US-Navy-awards-Raytheon-229-billion-contract-to-boost-output-of-Tomahawk-missile---Statement.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 12:07:41 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724118",
-   "title": "Secured Overnight Financing Rate 3.62% August 14 vs 3.62% August 13.",
-   "link": "https://www.financialjuice.com/News/9724118/Secured-Overnight-Financing-Rate-362-August-14-vs-362-August-13.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:59:56 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724117",
-   "title": "Yemen's Houthis: Attacked Saudi military landing ship and four escort vessels off the Mocha coast in the Red Sea with ballistic missiles, no Saudi confirmation",
-   "link": "https://www.financialjuice.com/News/9724117/Yemens-Houthis-Attacked-Saudi-military-landing-ship-and-four-escort-vessels-off-the-Mocha-coast-in-the-Red-Sea-with-ballistic-missiles-no-Saudi-confirmation.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:52:58 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724084",
-   "title": "Azerbaijan's oil production declined 3% y/y in January-July - IFX",
-   "link": "https://www.financialjuice.com/News/9724084/Azerbaijans-oil-production-declined-3-yy-in-January-July---IFX.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:29:01 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724083",
-   "title": "China cabinet meeting: Should strive to achieve the economic development goal for this year - State media",
-   "link": "https://www.financialjuice.com/News/9724083/China-cabinet-meeting-Should-strive-to-achieve-the-economic-development-goal-for-this-year---State-media.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:17:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724069",
-   "title": "Trump to Fox: Israelis should not be striking in Gaza",
-   "link": "https://www.financialjuice.com/News/9724069/Trump-to-Fox-Israelis-should-not-be-striking-in-Gaza.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:15:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724064",
-   "title": "Trump threatens to bomb Oman if it \"gets in the US' way\" - Fox News",
-   "link": "https://www.financialjuice.com/News/9724064/Trump-threatens-to-bomb-Oman-if-it-gets-in-the-US-way---Fox-News.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:10:35 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724063",
-   "title": "Trump says there is backchannel with IRGC officials - Fox.",
-   "link": "https://www.financialjuice.com/News/9724063/Trump-says-there-is-backchannel-with-IRGC-officials---Fox.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:10:16 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724062",
-   "title": "Trump, on Iran: I'm in no hurry - Fox News",
-   "link": "https://www.financialjuice.com/News/9724062/Trump-on-Iran-Im-in-no-hurry---Fox-News.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:10:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724061",
-   "title": "Russia's Novorossiysk port resumes oil loadings - Sources",
-   "link": "https://www.financialjuice.com/News/9724061/Russias-Novorossiysk-port-resumes-oil-loadings---Sources.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:06:36 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724059",
-   "title": "US Federal Reserve to hold Fed Funds Rate steady at 3.50%-3.75% in 2026, said 80 of 104 economists vs 78 of 104 economists in July - Poll.",
-   "link": "https://www.financialjuice.com/News/9724059/US-Federal-Reserve-to-hold-Fed-Funds-Rate-steady-at-350-375-in-2026-said-80-of-104-economists-vs-78-of-104-economists-in-July---Poll.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:02:49 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724058",
-   "title": "Poll: US Federal Reserve to hold fed funds rate at 3.50%-3.75% in September, said 94 of 104 economists (vs 95 of 104 economists in July poll)",
-   "link": "https://www.financialjuice.com/News/9724058/Poll-US-Federal-Reserve-to-hold-fed-funds-rate-at-350-375-in-September-said-94-of-104-economists-vs-95-of-104-economists-in-July-poll.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 11:02:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724019",
-   "title": "Israel's Prime Minister Netanyahu meets with Kushner, Mladenov and Blair - PM Spokesman",
-   "link": "https://www.financialjuice.com/News/9724019/Israels-Prime-Minister-Netanyahu-meets-with-Kushner-Mladenov-and-Blair---PM-Spokesman.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 10:44:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724014",
-   "title": "Reports on the approval to extend the 60- day period between Iran and America - AI Arabiya Sources",
-   "link": "https://www.financialjuice.com/News/9724014/Reports-on-the-approval-to-extend-the-60--day-period-between-Iran-and-America---AI-Arabiya-Sources.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 10:29:33 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724012",
-   "title": "Trump: The number one goal is, and always will be, that Iran cannot have, in any way, shape, or form, a nuclear weapon",
-   "link": "https://www.financialjuice.com/News/9724012/Trump-The-number-one-goal-is-and-always-will-be-that-Iran-cannot-have-in-any-way-shape-or-form-a-nuclear-weapon.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 10:18:57 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724002",
-   "title": "Empire Petroleum marks a strategic milestone with a successful 21,006-foot well in the western Haynesville in Texas",
-   "link": "https://www.financialjuice.com/News/9724002/Empire-Petroleum-marks-a-strategic-milestone-with-a-successful-21006-foot-well-in-the-western-Haynesville-in-Texas.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 10:06:48 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723900",
-   "title": "ING: The EUR - FJElite",
-   "link": "https://www.financialjuice.com/News/9723900/ING-The-EUR---FJElite.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 08:48:58 GMT",
-   "desc": "Friday&#39;s further drop in short-dated US rates is helping EUR/USD reconnect with the short-term fair value. It is currently pressing intraday resistance at 1.1585, above which 1.1650 is the outside possibility in quiet trading conditions. Even though the euro is far from a high-yielder, it seems international investors like the eurozone as a diversification play against the US Al boom. We will be interested to see whether the eurozone June current account data (released Wednesday) continues to show very strong demand for eurozone debt and equity markets. This flow is currently running around €ltr on a rolling 12-month basis. On the eurozone calendar this week are European Central Bank speakers and Friday&#39;s release of the flash PMIs. These are probably euro-supportive."
-  },
-  {
-   "id": "9723899",
-   "title": "ING: The GBP - FJElite",
-   "link": "https://www.financialjuice.com/News/9723899/ING-The-GBP---FJElite.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 08:48:20 GMT",
-   "desc": "After a quiet few weeks, the UK data calendar picks up. Jobs and wage data are released tomorrow, and then the July CPI figures on Wednesday. Our UK economist, James Smith, thinks that the data will not be strong enough to support the 55bp of Bank of England tightening still priced into UK money market curves. If so, EUR/GBP should have an opportunity to work its way back to the 0.8575/85 area. Additionally, recall that the suspicion of faulty seasonal adjustments means that UK activity data typically comes in softer in the second half of the year than the first. We are still hanging on to slightly negative sterling views, even though M&amp;A inflows may be providing temporary support."
-  },
-  {
-   "id": "9723881",
-   "title": "Credit Ágricole: FX Positions - FJElite",
-   "link": "https://www.financialjuice.com/News/9723881/Credit-%c3%81gricole-FX-Positions---FJElite.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 08:46:07 GMT",
-   "desc": "The EUR saw some buying interest last week, predominantly driven by Tactical flows. Our FX flow data points at banks inflows, as well as corporates, hedge funds and real money investors outflows. The USD remains the biggest long in the G10 FX despite some selling interest last week, predominantly driven by Risk Reversals flows. Our FX flow data points at corporates and hedge funds inflows, as well as banks and real money investors outflows. The JPY experienced new selling interest last week, predominantly driven by Tactical flows. Our FX flow data points at banks, hedge funds and real money Investors inflows, as well as corporates outflows. The CHF enjoyed some buying interest last week, predominantly driven by IMM flows. Our FX flow data points at real money Investors inflows, as well as banks, corporates and hedge funds outflows. The GBP saw some buying interest last week, predominantly driven by IMM flows. Our FX flow data points at real money investors inflows, as well as banks, corporates and hedge funds outflows. All in all, the GBP remains in overbought territory. The AUD faced fresh selling interest last week, predominantly driven by Crédit Agricole CIB flows. Our FX flow data points at banks and real money investors inflows, as well as corporates and hedge funds outflows. The CAD saw some buying interest last week, predominantly driven by IMM flows. Our FX flow data points at banks and hedge funds inflows, as well as corporates and real money investors outflows. The NZD remains the largest short in the G10 FX following new selling interest last week, predominantly driven by Crédit Agricole CIB flows. Our FX flow data points at hedge funds inflows, as well as banks, corporates and real money investors outflows."
-  },
-  {
-   "id": "9723874",
-   "title": "Europe Sentiment: Anthropic Bolsters AI Optimism - FJElite",
-   "link": "https://www.financialjuice.com/News/9723874/Europe-Sentiment-Anthropic-Bolsters-AI-Optimism---FJElite.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 08:44:13 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723806",
-   "title": "China has solid conditions to achieve annual growth target - NBS",
-   "link": "https://www.financialjuice.com/News/9723806/China-has-solid-conditions-to-achieve-annual-growth-target---NBS.aspx",
-   "pubDate": "Mon, 17 Aug 2026 07:37:48 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723805",
-   "title": "Iran's Foreign Ministry Spokesperson: Talks with Oman are long due to complexity of subject, multiple actors involved, and countries seeking to undermine process.",
-   "link": "https://www.financialjuice.com/News/9723805/Irans-Foreign-Ministry-Spokesperson-Talks-with-Oman-are-long-due-to-complexity-of-subject-multiple-actors-involved-and-countries-seeking-to-undermine-process.aspx",
-   "pubDate": "Mon, 17 Aug 2026 07:35:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723804",
-   "title": "Iran: Islamabad MOU with US doesn't have 60-day deadline.",
-   "link": "https://www.financialjuice.com/News/9723804/Iran-Islamabad-MOU-with-US-doesnt-have-60-day-deadline.aspx",
-   "pubDate": "Mon, 17 Aug 2026 07:34:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723768",
-   "title": "Chinese New House Prices YoY Actual -3.2% (Forecast -, Previous -3.3%)",
-   "link": "https://www.financialjuice.com/News/9723768/Chinese-New-House-Prices-YoY-Actual--32-Forecast---Previous--33.aspx",
-   "pubDate": "Mon, 17 Aug 2026 07:04:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723749",
-   "title": "Currency Strength Chart: Strongest: NZD, AUD, CHF, EUR, JPY, GBP, CAD, USD - Weakest",
-   "link": "https://www.financialjuice.com/News/9723749/Currency-Strength-Chart-Strongest-NZD-AUD-CHF-EUR-JPY-GBP-CAD-USD---Weakest.aspx",
-   "pubDate": "Mon, 17 Aug 2026 07:01:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723742",
-   "title": "Chinese Urban Investment YTD YoY Actual -6.7% (Forecast -6.2%, Previous -5.7%)",
-   "link": "https://www.financialjuice.com/News/9723742/Chinese-Urban-Investment-YTD-YoY-Actual--67-Forecast--62-Previous--57.aspx",
-   "pubDate": "Mon, 17 Aug 2026 07:01:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723741",
-   "title": "Chinese Unemployment Rate Actual 5.200% (Forecast 5.1%, Previous 5.000%)",
-   "link": "https://www.financialjuice.com/News/9723741/Chinese-Unemployment-Rate-Actual-5200-Forecast-51-Previous-5000.aspx",
-   "pubDate": "Mon, 17 Aug 2026 07:01:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723743",
-   "title": "Chinese Industrial Output YoY Actual 4.5% (Forecast 5%, Previous 5.3%)",
-   "link": "https://www.financialjuice.com/News/9723743/Chinese-Industrial-Output-YoY-Actual-45-Forecast-5-Previous-53.aspx",
-   "pubDate": "Mon, 17 Aug 2026 07:01:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723740",
-   "title": "Chinese Retail Sales YoY Actual 0.6% (Forecast 1.5%, Previous 1.0%)",
-   "link": "https://www.financialjuice.com/News/9723740/Chinese-Retail-Sales-YoY-Actual-06-Forecast-15-Previous-10.aspx",
-   "pubDate": "Mon, 17 Aug 2026 07:01:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723716",
-   "title": "SNB Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9723716/SNB-Interest-Rate-Probabilities.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:20:31 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723715",
-   "title": "RBNZ Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9723715/RBNZ-Interest-Rate-Probabilities.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:20:15 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723714",
-   "title": "RBA Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9723714/RBA-Interest-Rate-Probabilities.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:19:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723713",
-   "title": "BoJ Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9723713/BoJ-Interest-Rate-Probabilities.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:19:35 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723712",
-   "title": "BoC Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9723712/BoC-Interest-Rate-Probabilities.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:19:18 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723711",
-   "title": "BoE Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9723711/BoE-Interest-Rate-Probabilities.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:18:57 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723710",
-   "title": "ECB Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9723710/ECB-Interest-Rate-Probabilities.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:18:40 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723709",
-   "title": "Fed Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9723709/Fed-Interest-Rate-Probabilities.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:18:20 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723708",
-   "title": "Commodities Implied Volatility",
-   "link": "https://www.financialjuice.com/News/9723708/Commodities-Implied-Volatility.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:17:42 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723707",
-   "title": "FX Implied Volatility",
-   "link": "https://www.financialjuice.com/News/9723707/FX-Implied-Volatility.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:17:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723706",
-   "title": "US Index Futures Implied Volatility",
-   "link": "https://www.financialjuice.com/News/9723706/US-Index-Futures-Implied-Volatility.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:17:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723694",
-   "title": "Top S&P 500 Stock Names Implied Volatility",
-   "link": "https://www.financialjuice.com/News/9723694/Top-SP-500-Stock-Names-Implied-Volatility.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:16:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723693",
-   "title": "120-Day Correlation Matrix",
-   "link": "https://www.financialjuice.com/News/9723693/120-Day-Correlation-Matrix.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:16:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723692",
-   "title": "90-Day Correlation Matrix",
-   "link": "https://www.financialjuice.com/News/9723692/90-Day-Correlation-Matrix.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:15:42 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723689",
-   "title": "60-Day Correlation Matrix",
-   "link": "https://www.financialjuice.com/News/9723689/60-Day-Correlation-Matrix.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:15:26 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723688",
-   "title": "30-Day Correlation Matrix",
-   "link": "https://www.financialjuice.com/News/9723688/30-Day-Correlation-Matrix.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:15:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723670",
-   "title": "Norwegian Trade Balance Actual 84.33B (Forecast -, Previous 61.90B)",
-   "link": "https://www.financialjuice.com/News/9723670/Norwegian-Trade-Balance-Actual-8433B-Forecast---Previous-6190B.aspx",
-   "pubDate": "Mon, 17 Aug 2026 06:00:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723669",
-   "title": "South Korea's Blue House: To make diplomatic efforts for US-Korea military cooperation for the situation in the Strait of Hormuz",
-   "link": "https://www.financialjuice.com/News/9723669/South-Koreas-Blue-House-To-make-diplomatic-efforts-for-US-Korea-military-cooperation-for-the-situation-in-the-Strait-of-Hormuz.aspx",
-   "pubDate": "Mon, 17 Aug 2026 05:49:15 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723630",
-   "title": "Japanese Capacity Utilization MoM Actual 4.1% (Forecast -, Previous 0.1%)",
-   "link": "https://www.financialjuice.com/News/9723630/Japanese-Capacity-Utilization-MoM-Actual-41-Forecast---Previous-01.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 05:11:29 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723581",
-   "title": "Ukraine missile strike kills six in Russia’s Belgorod region, acting governor says",
-   "link": "https://www.financialjuice.com/News/9723581/Ukraine-missile-strike-kills-six-in-Russias-Belgorod-region-acting-governor-says.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 04:29:50 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723570",
-   "title": "Euro rises above 1.15853, highest level since June 17",
-   "link": "https://www.financialjuice.com/News/9723570/Euro-rises-above-115853-highest-level-since-June-17.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 04:10:58 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723569",
-   "title": "Euro Last Up 0.13% at $1.1586",
-   "link": "https://www.financialjuice.com/News/9723569/Euro-Last-Up-013-at-11586.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 04:10:58 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723568",
-   "title": "Euro rises to highest level in two months against EBS",
-   "link": "https://www.financialjuice.com/News/9723568/Euro-rises-to-highest-level-in-two-months-against-EBS.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 04:10:56 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723532",
-   "title": "Japan economic minister Kiuchi: economy likely supported by job gains, wage growth and government measures",
-   "link": "https://www.financialjuice.com/News/9723532/Japan-economic-minister-Kiuchi-economy-likely-supported-by-job-gains-wage-growth-and-government-measures.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 03:16:50 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723531",
-   "title": "Japan economic minister Kiuchi: necessary to closely watch impact of Middle East situation",
-   "link": "https://www.financialjuice.com/News/9723531/Japan-economic-minister-Kiuchi-necessary-to-closely-watch-impact-of-Middle-East-situation.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 03:16:42 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723529",
-   "title": "Japan economic minister Kiuchi: Japan’s economy continues gradual recovery",
-   "link": "https://www.financialjuice.com/News/9723529/Japan-economic-minister-Kiuchi-Japans-economy-continues-gradual-recovery.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 03:15:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723495",
-   "title": "Alphabet appoints banks for first Australian dollar bond issuance, announcement shows:",
-   "link": "https://www.financialjuice.com/News/9723495/Alphabet-appoints-banks-for-first-Australian-dollar-bond-issuance-announcement-shows.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 02:02:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723430",
-   "title": "China cbank: 7-day reverse repo volume hits zero Monday amid primary dealer demand",
-   "link": "https://www.financialjuice.com/News/9723430/China-cbank-7-day-reverse-repo-volume-hits-zero-Monday-amid-primary-dealer-demand.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 01:23:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723429",
-   "title": "China cbank injects 565.5 bln yuan via overnight reverse repos: statement",
-   "link": "https://www.financialjuice.com/News/9723429/China-cbank-injects-5655-bln-yuan-via-overnight-reverse-repos-statement.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 01:22:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723421",
-   "title": "China sets yuan mid-point at strongest level since February 8, 2023",
-   "link": "https://www.financialjuice.com/News/9723421/China-sets-yuan-mid-point-at-strongest-level-since-February-8-2023.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 01:17:12 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723382",
-   "title": "China PBOC seen setting yuan midpoint at 6.7382 per dollar: estimate",
-   "link": "https://www.financialjuice.com/News/9723382/China-PBOC-seen-setting-yuan-midpoint-at-67382-per-dollar-estimate.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 00:21:01 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723363",
-   "title": "Japanese GDP Deflator Prelim YoY Actual 2.6% (Forecast 2.3%, Previous 3.2%)",
-   "link": "https://www.financialjuice.com/News/9723363/Japanese-GDP-Deflator-Prelim-YoY-Actual-26-Forecast-23-Previous-32.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:57:30 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723362",
-   "title": "Dollar/yen little changed after Japanese GDP data, down 0.08% at 159.21 yen",
-   "link": "https://www.financialjuice.com/News/9723362/Dollaryen-little-changed-after-Japanese-GDP-data-down-008-at-15921-yen.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:54:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723354",
-   "title": "Japanese GDP QoQ Annualised Actual 1.1% (Forecast 2%, Previous 1.8%)",
-   "link": "https://www.financialjuice.com/News/9723354/Japanese-GDP-QoQ-Annualised-Actual-11-Forecast-2-Previous-18.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:51:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723353",
-   "title": "Japanese GDP QoQ Actual 0.3% (Forecast 0.5%, Previous 0.5%)",
-   "link": "https://www.financialjuice.com/News/9723353/Japanese-GDP-QoQ-Actual-03-Forecast-05-Previous-05.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:51:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723361",
-   "title": "Japan April-June capex declines 1.2% quarter-on-quarter vs. poll of 0.4% increase",
-   "link": "https://www.financialjuice.com/News/9723361/Japan-April-June-capex-declines-12-quarter-on-quarter-vs-poll-of-04-increase.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:50:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723360",
-   "title": "Japan annualized GDP growth April-June +1.1%, misses poll estimate of +2.0%",
-   "link": "https://www.financialjuice.com/News/9723360/Japan-annualized-GDP-growth-April-June-11-misses-poll-estimate-of-20.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:50:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723359",
-   "title": "Japan april-june external demand adds 0.5 percentage point to GDP (poll: 0.3 percentage point)",
-   "link": "https://www.financialjuice.com/News/9723359/Japan-april-june-external-demand-adds-05-percentage-point-to-GDP-poll-03-percentage-point.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:50:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723358",
-   "title": "Japan domestic demand cuts GDP growth by 0.2 percentage point in April-June",
-   "link": "https://www.financialjuice.com/News/9723358/Japan-domestic-demand-cuts-GDP-growth-by-02-percentage-point-in-April-June.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:50:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723357",
-   "title": "Japan Q2 GDP deflator rises 2.6% year on year",
-   "link": "https://www.financialjuice.com/News/9723357/Japan-Q2-GDP-deflator-rises-26-year-on-year.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:50:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723356",
-   "title": "Japan April-June real GDP rises 0.3% quarter-on-quarter, below poll of 0.5%",
-   "link": "https://www.financialjuice.com/News/9723356/Japan-April-June-real-GDP-rises-03-quarter-on-quarter-below-poll-of-05.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:50:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9723355",
-   "title": "Japan April-June private consumption stagnant quarter on quarter, poll expected +0.5%",
-   "link": "https://www.financialjuice.com/News/9723355/Japan-April-June-private-consumption-stagnant-quarter-on-quarter-poll-expected-05.aspx?xy=rss",
-   "pubDate": "Sun, 16 Aug 2026 23:50:03 GMT",
    "desc": ""
   }
  ]
