@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-11-19T00:36:09.218176+00:00",
+ "updated_at": "2026-11-19T07:51:59.614578+00:00",
  "count": 20000,
  "items": [
+  {
+   "id": "9859474",
+   "title": "US Envoy Kushner: Witkoff and I are heading to Berlin to consult with president Zelenskiy and European leaders at the coalition of the willing meeting.",
+   "link": "https://www.financialjuice.com/News/9859474/US-Envoy-Kushner-Witkoff-and-I-are-heading-to-Berlin-to-consult-with-president-Zelenskiy-and-European-leaders-at-the-coalition-of-the-willing-meeting.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 07:40:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859473",
+   "title": "ECB's Moulin: Oil is still fueling inflation.",
+   "link": "https://www.financialjuice.com/News/9859473/ECBs-Moulin-Oil-is-still-fueling-inflation.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 07:33:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859472",
+   "title": "ECB's Moulin: Inflation is still too high.",
+   "link": "https://www.financialjuice.com/News/9859472/ECBs-Moulin-Inflation-is-still-too-high.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 07:33:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859438",
+   "title": "Swiss Trade Balance Actual 4,089M (Forecast -, Previous 1,309M)",
+   "link": "https://www.financialjuice.com/News/9859438/Swiss-Trade-Balance-Actual-4089M-Forecast---Previous-1309M.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 07:04:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859415",
+   "title": "Japan PM Takaichi: Have been communicating with china on rare earth export controls.",
+   "link": "https://www.financialjuice.com/News/9859415/Japan-PM-Takaichi-Have-been-communicating-with-china-on-rare-earth-export-controls.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:36:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859414",
+   "title": "Xi, Trump meeting concluded - CCTV",
+   "link": "https://www.financialjuice.com/News/9859414/Xi-Trump-meeting-concluded---CCTV.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:36:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859413",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9859413/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:35:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859412",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9859412/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:35:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859411",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9859411/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:35:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859410",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9859410/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:34:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859409",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9859409/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:34:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859408",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9859408/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:34:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859407",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9859407/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:33:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859406",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9859406/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:33:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859405",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9859405/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:32:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859404",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9859404/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:32:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859400",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9859400/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:31:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859387",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9859387/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:31:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859386",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9859386/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:30:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859381",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9859381/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:30:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859380",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9859380/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:29:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859379",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9859379/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:29:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859377",
+   "title": "Japan PM Takaichi: Briefly exchanged views with Putin's and Trump.",
+   "link": "https://www.financialjuice.com/News/9859377/Japan-PM-Takaichi-Briefly-exchanged-views-with-Putins-and-Trump.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:26:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859376",
+   "title": "Japan PM Takaichi: Will support building oil stockpile system among asean states.",
+   "link": "https://www.financialjuice.com/News/9859376/Japan-PM-Takaichi-Will-support-building-oil-stockpile-system-among-asean-states.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:22:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859375",
+   "title": "Drones attack oil storage facilities in Russia's Tatarstan - IFX.",
+   "link": "https://www.financialjuice.com/News/9859375/Drones-attack-oil-storage-facilities-in-Russias-Tatarstan---IFX.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:20:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859374",
+   "title": "Oil storage tanks near Russia's Almetyevsk hit by drones - IFX",
+   "link": "https://www.financialjuice.com/News/9859374/Oil-storage-tanks-near-Russias-Almetyevsk-hit-by-drones---IFX.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:19:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859358",
+   "title": "China's President Xi: I remain dedicated to cooperating with you",
+   "link": "https://www.financialjuice.com/News/9859358/Chinas-President-Xi-I-remain-dedicated-to-cooperating-with-you.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:03:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859357",
+   "title": "China’s President Xi: forging a constructive China-U.S. relationship of strategic stability is unprecedented",
+   "link": "https://www.financialjuice.com/News/9859357/Chinas-President-Xi-forging-a-constructive-China-US-relationship-of-strategic-stability-is-unprecedented.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:03:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859356",
+   "title": "Trump: plans to discuss ending Ukraine war with Xi and later with Putin in trilateral meeting",
+   "link": "https://www.financialjuice.com/News/9859356/Trump-plans-to-discuss-ending-Ukraine-war-with-Xi-and-later-with-Putin-in-trilateral-meeting.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:03:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859355",
+   "title": "China's President Xi: China-U.S. relations generally stable and improving",
+   "link": "https://www.financialjuice.com/News/9859355/Chinas-President-Xi-China-US-relations-generally-stable-and-improving.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:02:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859354",
+   "title": "China's President Xi: willing to cooperate with Trump to keep China-U.S. relations on right track",
+   "link": "https://www.financialjuice.com/News/9859354/Chinas-President-Xi-willing-to-cooperate-with-Trump-to-keep-China-US-relations-on-right-track.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 06:01:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859344",
+   "title": "Saudi-led coalition: intercepts and destroys four ballistic missiles launched by Yemen's Houthis toward southern region",
+   "link": "https://www.financialjuice.com/News/9859344/Saudi-led-coalition-intercepts-and-destroys-four-ballistic-missiles-launched-by-Yemens-Houthis-toward-southern-region.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:55:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859327",
+   "title": "Kremlin on Putin-Trump meeting: Putin left meeting in an excellent mood, Tass says",
+   "link": "https://www.financialjuice.com/News/9859327/Kremlin-on-Putin-Trump-meeting-Putin-left-meeting-in-an-excellent-mood-Tass-says.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:44:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859326",
+   "title": "Kremlin: Ukraine was main focus at Putin-Trump meeting - TASS",
+   "link": "https://www.financialjuice.com/News/9859326/Kremlin-Ukraine-was-main-focus-at-Putin-Trump-meeting---TASS.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:43:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859325",
+   "title": "Kremlin: Putin and Trump discussed Ukraine conflict and bilateral relations - Tass",
+   "link": "https://www.financialjuice.com/News/9859325/Kremlin-Putin-and-Trump-discussed-Ukraine-conflict-and-bilateral-relations---Tass.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:42:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859324",
+   "title": "Kremlin on Putin-Trump meeting: it went smoothly",
+   "link": "https://www.financialjuice.com/News/9859324/Kremlin-on-Putin-Trump-meeting-it-went-smoothly.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:42:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859323",
+   "title": "Trump: spoke with Xi for two hours last night",
+   "link": "https://www.financialjuice.com/News/9859323/Trump-spoke-with-Xi-for-two-hours-last-night.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:41:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859322",
+   "title": "China’s President Xi expresses gratitude for incredibly warm welcome",
+   "link": "https://www.financialjuice.com/News/9859322/Chinas-President-Xi-expresses-gratitude-for-incredibly-warm-welcome.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:41:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859321",
+   "title": "Trump: he and Xi feel strongly oil must flow through Strait of Hormuz",
+   "link": "https://www.financialjuice.com/News/9859321/Trump-he-and-Xi-feel-strongly-oil-must-flow-through-Strait-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:41:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859320",
+   "title": "Trump: meeting with Xi to prove productive",
+   "link": "https://www.financialjuice.com/News/9859320/Trump-meeting-with-Xi-to-prove-productive.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:40:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859319",
+   "title": "Trump: I will request China to boost support for US farmers",
+   "link": "https://www.financialjuice.com/News/9859319/Trump-I-will-request-China-to-boost-support-for-US-farmers.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:40:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859318",
+   "title": "Trump: tariffs have been divided fairly",
+   "link": "https://www.financialjuice.com/News/9859318/Trump-tariffs-have-been-divided-fairly.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:40:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859317",
+   "title": "Trump: we established an equitable relationship",
+   "link": "https://www.financialjuice.com/News/9859317/Trump-we-established-an-equitable-relationship.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:39:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859316",
+   "title": "Trump: board of trade restoring balance to ties with China",
+   "link": "https://www.financialjuice.com/News/9859316/Trump-board-of-trade-restoring-balance-to-ties-with-China.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:39:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859315",
+   "title": "China's President Xi expresses gratitude for incredibly warm welcome",
+   "link": "https://www.financialjuice.com/News/9859315/Chinas-President-Xi-expresses-gratitude-for-incredibly-warm-welcome.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:38:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859314",
+   "title": "China's President Xi expresses gratitude for incredibly warm welcome",
+   "link": "https://www.financialjuice.com/News/9859314/Chinas-President-Xi-expresses-gratitude-for-incredibly-warm-welcome.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:37:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859313",
+   "title": "South Korea exports reach $1 trillion so far this year: Yonhap",
+   "link": "https://www.financialjuice.com/News/9859313/South-Korea-exports-reach-1-trillion-so-far-this-year-Yonhap.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:32:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859300",
+   "title": "Trump, China's Xi meet on sidelines of APEC summit: CCTV",
+   "link": "https://www.financialjuice.com/News/9859300/Trump-Chinas-Xi-meet-on-sidelines-of-APEC-summit-CCTV.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:30:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859299",
+   "title": "Dutch Unemployment rate SA Actual 4% (Forecast -, Previous 4.0%)",
+   "link": "https://www.financialjuice.com/News/9859299/Dutch-Unemployment-rate-SA-Actual-4-Forecast---Previous-40.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859298",
+   "title": "Russia strikes vessel in Black Sea: RIA",
+   "link": "https://www.financialjuice.com/News/9859298/Russia-strikes-vessel-in-Black-Sea-RIA.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:29:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859297",
+   "title": "Russia targets power stations in Odesa region and Sumy: IFX",
+   "link": "https://www.financialjuice.com/News/9859297/Russia-targets-power-stations-in-Odesa-region-and-Sumy-IFX.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:29:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859296",
+   "title": "Russia strikes infrastructure in Ukraine's Chornomorsk port: RIA",
+   "link": "https://www.financialjuice.com/News/9859296/Russia-strikes-infrastructure-in-Ukraines-Chornomorsk-port-RIA.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:28:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859273",
+   "title": "JBIC chair: seeks larger Japanese role in selecting projects under $550 billion U.S. initiative",
+   "link": "https://www.financialjuice.com/News/9859273/JBIC-chair-seeks-larger-Japanese-role-in-selecting-projects-under-550-billion-US-initiative.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:05:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859272",
+   "title": "Putin tells Trump: pleased to meet him - RIA",
+   "link": "https://www.financialjuice.com/News/9859272/Putin-tells-Trump-pleased-to-meet-him---RIA.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:04:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859244",
+   "title": "Trump meeting with Russia's Putin at APEC wraps up: pool report",
+   "link": "https://www.financialjuice.com/News/9859244/Trump-meeting-with-Russias-Putin-at-APEC-wraps-up-pool-report.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 05:00:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859238",
+   "title": "Meta bright group expands Bumiearth energy solutions into Singapore and Philippines",
+   "link": "https://www.financialjuice.com/News/9859238/Meta-bright-group-expands-Bumiearth-energy-solutions-into-Singapore-and-Philippines.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:40:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859222",
+   "title": "Trump to Russia's Putin at APEC: many positive outcomes can arise from this",
+   "link": "https://www.financialjuice.com/News/9859222/Trump-to-Russias-Putin-at-APEC-many-positive-outcomes-can-arise-from-this.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:29:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859221",
+   "title": "Trump to Russia's Putin at APEC: strong ties for many years",
+   "link": "https://www.financialjuice.com/News/9859221/Trump-to-Russias-Putin-at-APEC-strong-ties-for-many-years.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:28:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859220",
+   "title": "Trump to Russia's Putin at APEC: we anticipate our meeting",
+   "link": "https://www.financialjuice.com/News/9859220/Trump-to-Russias-Putin-at-APEC-we-anticipate-our-meeting.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:27:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859219",
+   "title": "Trump meets Russia's Putin at APEC summit - pool report",
+   "link": "https://www.financialjuice.com/News/9859219/Trump-meets-Russias-Putin-at-APEC-summit---pool-report.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:24:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859218",
+   "title": "Putin meets with Trump at APEC: TV report",
+   "link": "https://www.financialjuice.com/News/9859218/Putin-meets-with-Trump-at-APEC-TV-report.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:24:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859205",
+   "title": "India economic affairs secy: no need to use economic stabilisation fund in FY27",
+   "link": "https://www.financialjuice.com/News/9859205/India-economic-affairs-secy-no-need-to-use-economic-stabilisation-fund-in-FY27.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:15:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859204",
+   "title": "India economic affairs secy: inflation not worrying yet",
+   "link": "https://www.financialjuice.com/News/9859204/India-economic-affairs-secy-inflation-not-worrying-yet.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:14:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859203",
+   "title": "China's Xi to meet Trump at APEC: CCTV",
+   "link": "https://www.financialjuice.com/News/9859203/Chinas-Xi-to-meet-Trump-at-APEC-CCTV.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:12:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859192",
+   "title": "India economic affairs secy: urge Indian industry to support increase in urban demand",
+   "link": "https://www.financialjuice.com/News/9859192/India-economic-affairs-secy-urge-Indian-industry-to-support-increase-in-urban-demand.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:01:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859187",
+   "title": "India economic affairs secy: will examine need for extended-term financing in manufacturing sector",
+   "link": "https://www.financialjuice.com/News/9859187/India-economic-affairs-secy-will-examine-need-for-extended-term-financing-in-manufacturing-sector.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 04:00:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859186",
+   "title": "India economic affairs secy: need to address wage stagnation issue",
+   "link": "https://www.financialjuice.com/News/9859186/India-economic-affairs-secy-need-to-address-wage-stagnation-issue.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 03:59:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859170",
+   "title": "Houthi-run Saba news agency: Saudi Arabia launches airstrikes on Yemen's capital Sanaa",
+   "link": "https://www.financialjuice.com/News/9859170/Houthi-run-Saba-news-agency-Saudi-Arabia-launches-airstrikes-on-Yemens-capital-Sanaa.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 03:26:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859153",
+   "title": "BoJ Governor Ueda: bank of Japan's JGB holdings likely to decline steadily as purchases taper",
+   "link": "https://www.financialjuice.com/News/9859153/BoJ-Governor-Ueda-bank-of-Japans-JGB-holdings-likely-to-decline-steadily-as-purchases-taper.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 03:07:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859152",
+   "title": "Taiwan stocks fall over 4%",
+   "link": "https://www.financialjuice.com/News/9859152/Taiwan-stocks-fall-over-4.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 03:07:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859151",
+   "title": "BoJ Governor Ueda: important to raise rates to positive levels so real interest rates can fall when economy slows",
+   "link": "https://www.financialjuice.com/News/9859151/BoJ-Governor-Ueda-important-to-raise-rates-to-positive-levels-so-real-interest-rates-can-fall-when-economy-slows.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 03:03:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859150",
+   "title": "At APEC: Russia backs APEC final communique",
+   "link": "https://www.financialjuice.com/News/9859150/At-APEC-Russia-backs-APEC-final-communique.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 03:03:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859131",
+   "title": "S.Korea’s short-term external debt at 42.9% of FX reserves at end-September vs 46.5% at end-June: central bank",
+   "link": "https://www.financialjuice.com/News/9859131/SKoreas-short-term-external-debt-at-429-of-FX-reserves-at-end-September-vs-465-at-end-June-central-bank.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 03:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859130",
+   "title": "S. Korea total external debt at $830.6 billion end-Sept vs $812.8 billion end-June: central bank",
+   "link": "https://www.financialjuice.com/News/9859130/S-Korea-total-external-debt-at-8306-billion-end-Sept-vs-8128-billion-end-June-central-bank.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 03:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859129",
+   "title": "S.Korea short-term external debt at $189 billion end-Sept vs $198.5 billion end-June: central bank",
+   "link": "https://www.financialjuice.com/News/9859129/SKorea-short-term-external-debt-at-189-billion-end-Sept-vs-1985-billion-end-June-central-bank.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 03:00:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859128",
+   "title": "BoJ Governor Ueda: risk of Japan slipping back into deflation is now lower than before",
+   "link": "https://www.financialjuice.com/News/9859128/BoJ-Governor-Ueda-risk-of-Japan-slipping-back-into-deflation-is-now-lower-than-before.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:58:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859127",
+   "title": "Saudi civil defense: danger has passed",
+   "link": "https://www.financialjuice.com/News/9859127/Saudi-civil-defense-danger-has-passed.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:53:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859126",
+   "title": "Putin: invites all regional partners to use Russia's transport network, some already utilizing it",
+   "link": "https://www.financialjuice.com/News/9859126/Putin-invites-all-regional-partners-to-use-Russias-transport-network-some-already-utilizing-it.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:51:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859125",
+   "title": "Saudi civil defense issues warning of possible threat in As-Sulayyil governorate in Riyadh region",
+   "link": "https://www.financialjuice.com/News/9859125/Saudi-civil-defense-issues-warning-of-possible-threat-in-As-Sulayyil-governorate-in-Riyadh-region.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:51:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859124",
+   "title": "Saudi civil defense issues warning of potential hazard in Wadi Al-Dawasir, Riyadh region",
+   "link": "https://www.financialjuice.com/News/9859124/Saudi-civil-defense-issues-warning-of-potential-hazard-in-Wadi-Al-Dawasir-Riyadh-region.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:50:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859123",
+   "title": "Russia's Putin at APEC: Russia supports regional energy stability, partners can always rely on Moscow",
+   "link": "https://www.financialjuice.com/News/9859123/Russias-Putin-at-APEC-Russia-supports-regional-energy-stability-partners-can-always-rely-on-Moscow.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:50:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859122",
+   "title": "At APEC: Russia boosts regional energy security, partners can always rely on Moscow",
+   "link": "https://www.financialjuice.com/News/9859122/At-APEC-Russia-boosts-regional-energy-security-partners-can-always-rely-on-Moscow.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:49:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859121",
+   "title": "Russia's Putin at APEC: Russia backs final communique",
+   "link": "https://www.financialjuice.com/News/9859121/Russias-Putin-at-APEC-Russia-backs-final-communique.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:48:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859117",
+   "title": "BoJ Governor Ueda: closely watching next year’s wage talks as key to judging if core inflation will stay at 2%",
+   "link": "https://www.financialjuice.com/News/9859117/BoJ-Governor-Ueda-closely-watching-next-years-wage-talks-as-key-to-judging-if-core-inflation-will-stay-at-2.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:43:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859116",
+   "title": "BoJ Governor Ueda: robust global al demand boosting Japan’s exports, capex, raising prices for wide range of goods",
+   "link": "https://www.financialjuice.com/News/9859116/BoJ-Governor-Ueda-robust-global-al-demand-boosting-Japans-exports-capex-raising-prices-for-wide-range-of-goods.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:42:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859115",
+   "title": "S.Korea President Lee hopes reopening dialogue with North Korea will evolve into talks to establish peace and end war in Korean peninsula: Yonhap",
+   "link": "https://www.financialjuice.com/News/9859115/SKorea-President-Lee-hopes-reopening-dialogue-with-North-Korea-will-evolve-into-talks-to-establish-peace-and-end-war-in-Korean-peninsula-Yonhap.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:40:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859114",
+   "title": "Trump at APEC: looks forward to meeting Presidents Xi and Putin",
+   "link": "https://www.financialjuice.com/News/9859114/Trump-at-APEC-looks-forward-to-meeting-Presidents-Xi-and-Putin.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:33:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859113",
+   "title": "Trump opposes regulation that would “stifle” AI industry: “we won't allow that to happen”",
+   "link": "https://www.financialjuice.com/News/9859113/Trump-opposes-regulation-that-would-stifle-AI-industry-we-wont-allow-that-to-happen.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:33:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859112",
+   "title": "Trump at APEC: AI almost entirely positive, but includes some negative aspects",
+   "link": "https://www.financialjuice.com/News/9859112/Trump-at-APEC-AI-almost-entirely-positive-but-includes-some-negative-aspects.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:33:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859111",
+   "title": "Trump at Apec: US has been a Pacific power for centuries, continues to promote growth, stability, sovereignty, prosperity and peace in region",
+   "link": "https://www.financialjuice.com/News/9859111/Trump-at-Apec-US-has-been-a-Pacific-power-for-centuries-continues-to-promote-growth-stability-sovereignty-prosperity-and-peace-in-region.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:33:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859110",
+   "title": "Trump on AI: 'It's almost completely good, but it has some bad elements, and we must be very cautious' in managing the negative aspects",
+   "link": "https://www.financialjuice.com/News/9859110/Trump-on-AI-Its-almost-completely-good-but-it-has-some-bad-elements-and-we-must-be-very-cautious-in-managing-the-negative-aspects.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:32:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859109",
+   "title": "Trump at APEC: inflation fell over last three months to an unexpected level",
+   "link": "https://www.financialjuice.com/News/9859109/Trump-at-APEC-inflation-fell-over-last-three-months-to-an-unexpected-level.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:32:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859108",
+   "title": "Saudi-led coalition: preliminary assessment indicates falling debris and material damage",
+   "link": "https://www.financialjuice.com/News/9859108/Saudi-led-coalition-preliminary-assessment-indicates-falling-debris-and-material-damage.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:32:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859107",
+   "title": "Trump: looking forward to meeting presidents Xi and Putin",
+   "link": "https://www.financialjuice.com/News/9859107/Trump-looking-forward-to-meeting-presidents-Xi-and-Putin.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:32:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859106",
+   "title": "Trump: inflation fell to an unexpected level in the last three months",
+   "link": "https://www.financialjuice.com/News/9859106/Trump-inflation-fell-to-an-unexpected-level-in-the-last-three-months.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:31:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859094",
+   "title": "Trump: US has been a pacific power for centuries, continues to promote growth, stability, sovereignty, prosperity and peace",
+   "link": "https://www.financialjuice.com/News/9859094/Trump-US-has-been-a-pacific-power-for-centuries-continues-to-promote-growth-stability-sovereignty-prosperity-and-peace.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:31:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859093",
+   "title": "Saudi-led coalition: missile threat from Yemen's Houthis toward Riyadh neutralized",
+   "link": "https://www.financialjuice.com/News/9859093/Saudi-led-coalition-missile-threat-from-Yemens-Houthis-toward-Riyadh-neutralized.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:30:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859070",
+   "title": "China's President Xi: cooperation in Asia-Pacific to focus on digital tech, cross-border data flow, clean energy and SMEs",
+   "link": "https://www.financialjuice.com/News/9859070/Chinas-President-Xi-cooperation-in-Asia-Pacific-to-focus-on-digital-tech-cross-border-data-flow-clean-energy-and-SMEs.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:10:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859069",
+   "title": "BoJ Governor Ueda: No current plan to reassess pace of bank's ETF sales",
+   "link": "https://www.financialjuice.com/News/9859069/BoJ-Governor-Ueda-No-current-plan-to-reassess-pace-of-banks-ETF-sales.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:09:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9859068",
+   "title": "China's President Xi: china will establish Asia-Pacific community research center in Shenzhen",
+   "link": "https://www.financialjuice.com/News/9859068/Chinas-President-Xi-china-will-establish-Asia-Pacific-community-research-center-in-Shenzhen.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 02:09:11 GMT",
+   "desc": ""
+  },
   {
    "id": "9858827",
    "title": "Trump: might have mentioned Nvidia situation just briefly",
@@ -139300,706 +140000,6 @@
    "title": "Germany's Bund futures drop 0.15%, French OAT futures decline 0.22%",
    "link": "https://www.financialjuice.com/News/9725032/Germanys-Bund-futures-drop-015-French-OAT-futures-decline-022.aspx?xy=rss",
    "pubDate": "Tue, 18 Aug 2026 01:22:20 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725031",
-   "title": "Germany's Bund futures fgblc1, French OAT futures foatc1 decline in early trading",
-   "link": "https://www.financialjuice.com/News/9725031/Germanys-Bund-futures-fgblc1-French-OAT-futures-foatc1-decline-in-early-trading.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 01:22:20 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725017",
-   "title": "South Korea's Lee: maintaining peace is crucial but nation must prepare for worst-case scenarios",
-   "link": "https://www.financialjuice.com/News/9725017/South-Koreas-Lee-maintaining-peace-is-crucial-but-nation-must-prepare-for-worst-case-scenarios.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 01:16:02 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725015",
-   "title": "South Korea presidential office: Ulchi exercise is defensive, not aimed at attacking North Korea or escalating tensions",
-   "link": "https://www.financialjuice.com/News/9725015/South-Korea-presidential-office-Ulchi-exercise-is-defensive-not-aimed-at-attacking-North-Korea-or-escalating-tensions.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 01:14:41 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725014",
-   "title": "S. Korea President Lee: US-South Korea alliance, independent national defense are mutually essential",
-   "link": "https://www.financialjuice.com/News/9725014/S-Korea-President-Lee-US-South-Korea-alliance-independent-national-defense-are-mutually-essential.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 01:08:18 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725013",
-   "title": "S. Korea President Lee: should continue opcon transfer as planned",
-   "link": "https://www.financialjuice.com/News/9725013/S-Korea-President-Lee-should-continue-opcon-transfer-as-planned.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 01:07:18 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725012",
-   "title": "S. Korea President Lee: robust defense is foundation for creating an indispensable Korea",
-   "link": "https://www.financialjuice.com/News/9725012/S-Korea-President-Lee-robust-defense-is-foundation-for-creating-an-indispensable-Korea.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 01:06:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724987",
-   "title": "Zambia electoral commission declares Hichilema president-elect",
-   "link": "https://www.financialjuice.com/News/9724987/Zambia-electoral-commission-declares-Hichilema-president-elect.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 00:41:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724986",
-   "title": "Zambia's Hichilema secures about 60% of valid votes, official results show",
-   "link": "https://www.financialjuice.com/News/9724986/Zambias-Hichilema-secures-about-60-of-valid-votes-official-results-show.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 00:35:27 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724985",
-   "title": "Zambia's President Hichilema wins re-election: official results show",
-   "link": "https://www.financialjuice.com/News/9724985/Zambias-President-Hichilema-wins-re-election-official-results-show.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 00:34:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724972",
-   "title": "Australia August Westpac-MI Consumer Confidence Index rises 6.0% to 88.9",
-   "link": "https://www.financialjuice.com/News/9724972/Australia-August-Westpac-MI-Consumer-Confidence-Index-rises-60-to-889.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 00:30:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724971",
-   "title": "Australian Consumer Sentiment Actual 6% (Forecast -, Previous 4.1%)",
-   "link": "https://www.financialjuice.com/News/9724971/Australian-Consumer-Sentiment-Actual-6-Forecast---Previous-41.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 00:30:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724970",
-   "title": "China PBOC expected to fix yuan midpoint at 6.7452 per dollar: estimate",
-   "link": "https://www.financialjuice.com/News/9724970/China-PBOC-expected-to-fix-yuan-midpoint-at-67452-per-dollar-estimate.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 00:23:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724824",
-   "title": "Turkish foreign minister on efforts to open Strait of Hormuz, continue U.S.-Iran ceasefire in call with Iranian counterpart, says Turkish diplomatic source",
-   "link": "https://www.financialjuice.com/News/9724824/Turkish-foreign-minister-on-efforts-to-open-Strait-of-Hormuz-continue-US-Iran-ceasefire-in-call-with-Iranian-counterpart-says-Turkish-diplomatic-source.aspx?xy=rs",
-   "pubDate": "Mon, 17 Aug 2026 21:50:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724821",
-   "title": "Erdogan told Trump Israel is assaulting Palestinians in Gaza as second phase of peace plan was set to begin: Turkish presidency",
-   "link": "https://www.financialjuice.com/News/9724821/Erdogan-told-Trump-Israel-is-assaulting-Palestinians-in-Gaza-as-second-phase-of-peace-plan-was-set-to-begin-Turkish-presidency.aspx?xy=rs",
-   "pubDate": "Mon, 17 Aug 2026 21:37:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724820",
-   "title": "Erdogan tells Trump continuing talks with Iran is crucial to leverage diplomacy, Turkey ready to assist",
-   "link": "https://www.financialjuice.com/News/9724820/Erdogan-tells-Trump-continuing-talks-with-Iran-is-crucial-to-leverage-diplomacy-Turkey-ready-to-assist.aspx?xy=rs",
-   "pubDate": "Mon, 17 Aug 2026 21:36:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724819",
-   "title": "Turkey’s Erdogan held phone call with US President Trump: Turkish presidency",
-   "link": "https://www.financialjuice.com/News/9724819/Turkeys-Erdogan-held-phone-call-with-US-President-Trump-Turkish-presidency.aspx?xy=rs",
-   "pubDate": "Mon, 17 Aug 2026 21:35:51 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724818",
-   "title": "Turkey's Erdogan, Trump discussed bilateral relations, conflicts in Iran and Gaza, defense agreement with Pakistan and Saudi Arabia",
-   "link": "https://www.financialjuice.com/News/9724818/Turkeys-Erdogan-Trump-discussed-bilateral-relations-conflicts-in-Iran-and-Gaza-defense-agreement-with-Pakistan-and-Saudi-Arabia.aspx?xy=rs",
-   "pubDate": "Mon, 17 Aug 2026 21:34:50 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724795",
-   "title": "US judge halts Trump administration plan to move new FBI headquarters from Maryland to Washington, D.C.",
-   "link": "https://www.financialjuice.com/News/9724795/US-judge-halts-Trump-administration-plan-to-move-new-FBI-headquarters-from-Maryland-to-Washington-DC.aspx?xy=rs",
-   "pubDate": "Mon, 17 Aug 2026 21:25:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724784",
-   "title": "Lavrov: North Korean troops battling to expel 'Ukrainian Nazi clique' and foreign mercenaries from Kursk - KCNA",
-   "link": "https://www.financialjuice.com/News/9724784/Lavrov-North-Korean-troops-battling-to-expel-Ukrainian-Nazi-clique-and-foreign-mercenaries-from-Kursk---KCNA.aspx?xy=rs",
-   "pubDate": "Mon, 17 Aug 2026 21:09:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724783",
-   "title": "Russia's Lavrov: Russia and North Korea strive to create new and just world order - KCNA",
-   "link": "https://www.financialjuice.com/News/9724783/Russias-Lavrov-Russia-and-North-Korea-strive-to-create-new-and-just-world-order---KCNA.aspx?xy=rs",
-   "pubDate": "Mon, 17 Aug 2026 21:07:48 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724717",
-   "title": "China's US Treasury securities holdings $633 bln in June vs $659 bln in May",
-   "link": "https://www.financialjuice.com/News/9724717/Chinas-US-Treasury-securities-holdings-633-bln-in-June-vs-659-bln-in-May.aspx",
-   "pubDate": "Mon, 17 Aug 2026 20:01:26 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724709",
-   "title": "US Overall Net Capital Flows Actual 133.5B (Forecast -, Previous 132.2B ,Revision 131.5B)",
-   "link": "https://www.financialjuice.com/News/9724709/US-Overall-Net-Capital-Flows-Actual-1335B-Forecast---Previous-1322B-Revision-1315B.aspx",
-   "pubDate": "Mon, 17 Aug 2026 20:01:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724708",
-   "title": "US TIC Long-Term Transactions Actual 172.7B (Forecast -, Previous 232.7B ,Revision 231.2B)",
-   "link": "https://www.financialjuice.com/News/9724708/US-TIC-Long-Term-Transactions-Actual-1727B-Forecast---Previous-2327B-Revision-2312B.aspx",
-   "pubDate": "Mon, 17 Aug 2026 20:01:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724716",
-   "title": "Japan's US Treasury holdings $1.117 trln in June vs $1.143 trln in May",
-   "link": "https://www.financialjuice.com/News/9724716/Japans-US-Treasury-holdings-1117-trln-in-June-vs-1143-trln-in-May.aspx",
-   "pubDate": "Mon, 17 Aug 2026 20:01:02 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724715",
-   "title": "UK's US Treasury holdings $940 bln in June vs $949 bln in May.",
-   "link": "https://www.financialjuice.com/News/9724715/UKs-US-Treasury-holdings-940-bln-in-June-vs-949-bln-in-May.aspx",
-   "pubDate": "Mon, 17 Aug 2026 20:00:35 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724707",
-   "title": "Nasdaq: on December 6th 2026, Nasdaq will introduce a new trading session from 9 PM to 4 AM ET.",
-   "link": "https://www.financialjuice.com/News/9724707/Nasdaq-on-December-6th-2026-Nasdaq-will-introduce-a-new-trading-session-from-9-PM-to-4-AM-ET.aspx",
-   "pubDate": "Mon, 17 Aug 2026 19:55:12 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724706",
-   "title": "Nasdaq: Engaging with regulators to offer nearly continuous trading 23 hours a day, 5 days a week, on Nasdaq stock market.",
-   "link": "https://www.financialjuice.com/News/9724706/Nasdaq-Engaging-with-regulators-to-offer-nearly-continuous-trading-23-hours-a-day-5-days-a-week-on-Nasdaq-stock-market.aspx",
-   "pubDate": "Mon, 17 Aug 2026 19:54:24 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724705",
-   "title": "MOC Imbalance",
-   "link": "https://www.financialjuice.com/News/9724705/MOC-Imbalance.aspx",
-   "pubDate": "Mon, 17 Aug 2026 19:50:31 GMT",
-   "desc": "S&amp;P 500: +602 mln Nasdaq 100: -43 mln Dow 30: +283 mln Mag 7: -120 mln"
-  },
-  {
-   "id": "9724691",
-   "title": "Anthropic revenue run rate surpasses $65 billion ahead of IPO",
-   "link": "https://www.financialjuice.com/News/9724691/Anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-IPO.aspx",
-   "pubDate": "Mon, 17 Aug 2026 19:38:19 GMT",
-   "desc": "According to persons familiar with the situation, Anthropic is on course to generate annualized revenue of more than $65 billion based on its present performance, a pace that has increased more than sevenfold since the end of last year. The company&#39;s run rate, a statistic that forecasts full-year revenue from a shorter time period, reached $65 billion by the end of July, according to sources who spoke on the condition of anonymity to discuss private information. According to one source, Anthropic provided the statistics as part of a regular investor report."
-  },
-  {
-   "id": "9724690",
-   "title": "Some North American auto industry officials view either option as an improvement over current 25% us tariff on Canadian vehicles. As Japan, South Korea, and  the EU have a 15% auto tariff rate - sources",
-   "link": "https://www.financialjuice.com/News/9724690/Some-North-American-auto-industry-officials-view-either-option-as-an-improvement-over-current-25-us-tariff-on-Canadian-vehicles-As-Japan-South-Korea-and--the-EU-have-a-15-auto-tariff-rate---sources.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:35:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724689",
-   "title": "US officials offer to deduct only US-specific value content from 15% tariffs on Canadian vehicles, but Canadian officials want all North American content deducted - sources",
-   "link": "https://www.financialjuice.com/News/9724689/US-officials-offer-to-deduct-only-US-specific-value-content-from-15-tariffs-on-Canadian-vehicles-but-Canadian-officials-want-all-North-American-content-deducted---sources.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:34:49 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724674",
-   "title": "USTR Greer when asked if there would be a deadline for Britain to scrap the digital services tax: I don't set artificial timelines.",
-   "link": "https://www.financialjuice.com/News/9724674/USTR-Greer-when-asked-if-there-would-be-a-deadline-for-Britain-to-scrap-the-digital-services-tax-I-dont-set-artificial-timelines.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:29:31 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724671",
-   "title": "Tesla readies August launch of Cybercab - The Information $TSLA",
-   "link": "https://www.financialjuice.com/News/9724671/Tesla-readies-August-launch-of-Cybercab---The-Information-TSLA.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:28:18 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724669",
-   "title": "USTR Greer: Trump's not bluffing about 100% tariffs on UK - Times",
-   "link": "https://www.financialjuice.com/News/9724669/USTR-Greer-Trumps-not-bluffing-about-100-tariffs-on-UK---Times.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:27:52 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724668",
-   "title": "Tuesday FX Options Expiries",
-   "link": "https://www.financialjuice.com/News/9724668/Tuesday-FX-Options-Expiries.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:21:35 GMT",
-   "desc": "EUR/USD: 1.1575 (EU1.28b), 1.1600 (EU637.1m), 1.1450 (EU524.7m) USD/JPY: 157.20 ($759.5m), 158.00 ($728.3m), 155.50 ($608m) USD/CAD: 1.3875 ($748.8m), 1.3825 ($405m) AUD/USD: 0.7275 (AUD811m), 0.6950 (AUD617m), 0.6700 (AUD451.8m) USD/BRL: 5.0000 ($1.18b), 5.0275 ($325.7m) USD/KRW: 1500.00 ($454.5m)"
-  },
-  {
-   "id": "9724661",
-   "title": "Kushner: Trump will be patient on deal with Iran.",
-   "link": "https://www.financialjuice.com/News/9724661/Kushner-Trump-will-be-patient-on-deal-with-Iran.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:05:25 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724660",
-   "title": "Kushner on Iran: Positive and active conversations.",
-   "link": "https://www.financialjuice.com/News/9724660/Kushner-on-Iran-Positive-and-active-conversations.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:04:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724659",
-   "title": "Kushner: We are not there yet on an understanding.",
-   "link": "https://www.financialjuice.com/News/9724659/Kushner-We-are-not-there-yet-on-an-understanding.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:04:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724658",
-   "title": "Kushner: Conversations between US and different areas of the Iranian government are more robust than it has every been.",
-   "link": "https://www.financialjuice.com/News/9724658/Kushner-Conversations-between-US-and-different-areas-of-the-Iranian-government-are-more-robust-than-it-has-every-been.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:04:27 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724657",
-   "title": "Kushner: Conversations with some Iranians more robust than ever.",
-   "link": "https://www.financialjuice.com/News/9724657/Kushner-Conversations-with-some-Iranians-more-robust-than-ever.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 19:04:13 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724646",
-   "title": "US Energy Secretary Wright: SPR still has 300 mln barrels in it and will be at a higher level by the end of the Iran conflict than before.",
-   "link": "https://www.financialjuice.com/News/9724646/US-Energy-Secretary-Wright-SPR-still-has-300-mln-barrels-in-it-and-will-be-at-a-higher-level-by-the-end-of-the-Iran-conflict-than-before.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:55:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724645",
-   "title": "US Energy Secretary Wright: Administration will announce some moves in coming days to help refiners produce more fuel.",
-   "link": "https://www.financialjuice.com/News/9724645/US-Energy-Secretary-Wright-Administration-will-announce-some-moves-in-coming-days-to-help-refiners-produce-more-fuel.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:52:24 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724644",
-   "title": "Brent Crude futures settle at $90.87/bbl, up $2.35, 2.65%",
-   "link": "https://www.financialjuice.com/News/9724644/Brent-Crude-futures-settle-at-9087bbl-up-235-265.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:47:16 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724633",
-   "title": "US high-grade companies sell $145.2 bln of debt in August",
-   "link": "https://www.financialjuice.com/News/9724633/US-high-grade-companies-sell-1452-bln-of-debt-in-August.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:39:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724632",
-   "title": "US corporate blue-chip bond sales log record haul for August",
-   "link": "https://www.financialjuice.com/News/9724632/US-corporate-blue-chip-bond-sales-log-record-haul-for-August.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:39:01 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724619",
-   "title": "NYMEX Gasoline Sept. futures settle at $3.2701 a gallon",
-   "link": "https://www.financialjuice.com/News/9724619/NYMEX-Gasoline-Sept-futures-settle-at-32701-a-gallon.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:31:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724618",
-   "title": "NYMEX Nat Gas Sept. futures settle at $2.6900/MMBTU",
-   "link": "https://www.financialjuice.com/News/9724618/NYMEX-Nat-Gas-Sept-futures-settle-at-26900MMBTU.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:31:35 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724617",
-   "title": "NYMEX Diesel Sept. futures settle at $4.4371 a gallon",
-   "link": "https://www.financialjuice.com/News/9724617/NYMEX-Diesel-Sept-futures-settle-at-44371-a-gallon.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:31:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724616",
-   "title": "NYMEX WTI Crude Sept. futures settle at $84.50 a barrel up $2.10, 2.55%",
-   "link": "https://www.financialjuice.com/News/9724616/NYMEX-WTI-Crude-Sept-futures-settle-at-8450-a-barrel-up-210-255.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:30:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724610",
-   "title": "Kushner: Breakthrough in roadmap to demilitarized Gaza - Fox",
-   "link": "https://www.financialjuice.com/News/9724610/Kushner-Breakthrough-in-roadmap-to-demilitarized-Gaza---Fox.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:26:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724595",
-   "title": "Trump: Not seeking extension of Iran MOU.",
-   "link": "https://www.financialjuice.com/News/9724595/Trump-Not-seeking-extension-of-Iran-MOU.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:15:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724594",
-   "title": "Trump ends remarks to reporters at the White House",
-   "link": "https://www.financialjuice.com/News/9724594/Trump-ends-remarks-to-reporters-at-the-White-House.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:13:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724593",
-   "title": "Trump: Hormuz is open and oil prices are coming down.",
-   "link": "https://www.financialjuice.com/News/9724593/Trump-Hormuz-is-open-and-oil-prices-are-coming-down.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:12:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724592",
-   "title": "Trump reiterates US controls Strait of Hormuz. Repeats the idea of declaring Hormuz as US territory.",
-   "link": "https://www.financialjuice.com/News/9724592/Trump-reiterates-US-controls-Strait-of-Hormuz-Repeats-the-idea-of-declaring-Hormuz-as-US-territory.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:12:30 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724591",
-   "title": "Trump on UK PM: I think he is going to open up the North Sea.",
-   "link": "https://www.financialjuice.com/News/9724591/Trump-on-UK-PM-I-think-he-is-going-to-open-up-the-North-Sea.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:06:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724590",
-   "title": "Trump on Iran: They're not going to make the kind of deal that I think is necessary.",
-   "link": "https://www.financialjuice.com/News/9724590/Trump-on-Iran-Theyre-not-going-to-make-the-kind-of-deal-that-I-think-is-necessary.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:03:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724589",
-   "title": "Trump on South Korea: We can't protect if they're not there to help us.",
-   "link": "https://www.financialjuice.com/News/9724589/Trump-on-South-Korea-We-cant-protect-if-theyre-not-there-to-help-us.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:03:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724588",
-   "title": "Trump: I get along very well with South Korea.",
-   "link": "https://www.financialjuice.com/News/9724588/Trump-I-get-along-very-well-with-South-Korea.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:02:58 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724584",
-   "title": "Trump on North Korea's Kim Jong Un: He has responded to me.",
-   "link": "https://www.financialjuice.com/News/9724584/Trump-on-North-Koreas-Kim-Jong-Un-He-has-responded-to-me.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 18:00:38 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724580",
-   "title": "Trump, asked about the threat to Oman: We'd handle them very easily.",
-   "link": "https://www.financialjuice.com/News/9724580/Trump-asked-about-the-threat-to-Oman-Wed-handle-them-very-easily.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 17:57:29 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724579",
-   "title": "Trump on Oman: I don't think they behave very well.",
-   "link": "https://www.financialjuice.com/News/9724579/Trump-on-Oman-I-dont-think-they-behave-very-well.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 17:56:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724548",
-   "title": "Trump Greets Lifeguard Ryder Williams - WATCH LIVE",
-   "link": "https://www.financialjuice.com/News/9724548/Trump-Greets-Lifeguard-Ryder-Williams---WATCH-LIVE.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 17:30:16 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724547",
-   "title": "US Energy Secretary Wright on US Military efforts in the Strait of Hormuz: The US is bringing out 8 or 9 million barrels of oil per day.",
-   "link": "https://www.financialjuice.com/News/9724547/US-Energy-Secretary-Wright-on-US-Military-efforts-in-the-Strait-of-Hormuz-The-US-is-bringing-out-8-or-9-million-barrels-of-oil-per-day.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 17:15:27 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724545",
-   "title": "Canada's PM Carney: We'll have opportunities over the next 48 hours to discuss in more detail as the negotiations go forward.",
-   "link": "https://www.financialjuice.com/News/9724545/Canadas-PM-Carney-Well-have-opportunities-over-the-next-48-hours-to-discuss-in-more-detail-as-the-negotiations-go-forward.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 17:11:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724544",
-   "title": "US Energy Secretary Wright on Iran: The US is playing the long game.",
-   "link": "https://www.financialjuice.com/News/9724544/US-Energy-Secretary-Wright-on-Iran-The-US-is-playing-the-long-game.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 17:10:22 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724543",
-   "title": "Canada's PM Carney: I expect to speak to Trump before the August 19th tariffs deadline.",
-   "link": "https://www.financialjuice.com/News/9724543/Canadas-PM-Carney-I-expect-to-speak-to-Trump-before-the-August-19th-tariffs-deadline.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 17:09:59 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724542",
-   "title": "US Energy Secretary Wright: We are not fully back to full oil flow in the Middle East.",
-   "link": "https://www.financialjuice.com/News/9724542/US-Energy-Secretary-Wright-We-are-not-fully-back-to-full-oil-flow-in-the-Middle-East.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 17:09:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724541",
-   "title": "US Energy Secretary Wright: We will continue to get better at escorting Hormuz traffic.",
-   "link": "https://www.financialjuice.com/News/9724541/US-Energy-Secretary-Wright-We-will-continue-to-get-better-at-escorting-Hormuz-traffic.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 17:08:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724519",
-   "title": "The White House confirms China’s President Xi's visit on September 24th - Politico.",
-   "link": "https://www.financialjuice.com/News/9724519/The-White-House-confirms-Chinas-President-Xis-visit-on-September-24th---Politico.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 16:59:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724518",
-   "title": "China’s President Xi set to fly in to US late Sept. 23rd, leave Sept. 25th - Politico",
-   "link": "https://www.financialjuice.com/News/9724518/Chinas-President-Xi-set-to-fly-in-to-US-late-Sept-23rd-leave-Sept-25th---Politico.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 16:58:49 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724517",
-   "title": "Fitch Ratings: US corporate default rates stay broadly flat in July, but volume is going to build.",
-   "link": "https://www.financialjuice.com/News/9724517/Fitch-Ratings-US-corporate-default-rates-stay-broadly-flat-in-July-but-volume-is-going-to-build.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 16:50:12 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724487",
-   "title": "Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 5.3 mln barrels to 293.4 mln barrels last week, the lowest since 1982.",
-   "link": "https://www.financialjuice.com/News/9724487/Stocks-of-Crude-oil-in-the-US-Strategic-Petroleum-Reserve-fell-by-about-53-mln-barrels-to-2934-mln-barrels-last-week-the-lowest-since-1982.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 16:24:30 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724467",
-   "title": "Iran's Dep. Foreign Minister Gharibabadi and their Chinese counterpart discuss regional peace, security, and the Strait of Hormuz situation - IRIB.",
-   "link": "https://www.financialjuice.com/News/9724467/Irans-Dep-Foreign-Minister-Gharibabadi-and-their-Chinese-counterpart-discuss-regional-peace-security-and-the-Strait-of-Hormuz-situation---IRIB.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 16:09:43 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724435",
-   "title": "Canada's Trade Min. LeBlanc and Chief Negotiator Charette will meet with US Trade Representative Greer and Commerce Secretary Lutnick at the Department of Commerce in Washington at 13:00 ET - LeBlanc's Office.",
-   "link": "https://www.financialjuice.com/News/9724435/Canadas-Trade-Min-LeBlanc-and-Chief-Negotiator-Charette-will-meet-with-US-Trade-Representative-Greer-and-Commerce-Secretary-Lutnick-at-the-Department-of-Commerce-in-Washington-at-1300-ET---LeBlancs-Office.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:36:18 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724434",
-   "title": "US 6-Month Bill Auction",
-   "link": "https://www.financialjuice.com/News/9724434/US-6-Month-Bill-Auction.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:33:11 GMT",
-   "desc": "High Yield 3.780% Bid-to-cover 2.97 US sells $79 bln Awards 18.55% of bids at high"
-  },
-  {
-   "id": "9724433",
-   "title": "US 3-Month Bill Auction",
-   "link": "https://www.financialjuice.com/News/9724433/US-3-Month-Bill-Auction.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:32:59 GMT",
-   "desc": "High Yield 3.715% Bid-to-cover 2.86 US sells $92 bln Awards 44.68% of bids at high"
-  },
-  {
-   "id": "9724414",
-   "title": "US 6-Month Bill Bid-to-Cover Actual 2.97 (Forecast -, Previous 2.850)",
-   "link": "https://www.financialjuice.com/News/9724414/US-6-Month-Bill-Bid-to-Cover-Actual-297-Forecast---Previous-2850.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:32:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724413",
-   "title": "US 6-Month Bill High Yield Actual 3.78% (Forecast -, Previous 3.830%)",
-   "link": "https://www.financialjuice.com/News/9724413/US-6-Month-Bill-High-Yield-Actual-378-Forecast---Previous-3830.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:32:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724412",
-   "title": "US 3-Month Bill High Yield Actual 3.715% (Forecast -, Previous 3.735%)",
-   "link": "https://www.financialjuice.com/News/9724412/US-3-Month-Bill-High-Yield-Actual-3715-Forecast---Previous-3735.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:32:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724411",
-   "title": "US 3-Month Bill Bid-to-Cover Actual 2.86 (Forecast -, Previous 2.880)",
-   "link": "https://www.financialjuice.com/News/9724411/US-3-Month-Bill-Bid-to-Cover-Actual-286-Forecast---Previous-2880.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:32:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724404",
-   "title": "High-ranking Iranian source to Al-Mayadeen: Today's incident in Erbil was a \"false flag\" operation - Tasnim News.",
-   "link": "https://www.financialjuice.com/News/9724404/High-ranking-Iranian-source-to-Al-Mayadeen-Todays-incident-in-Erbil-was-a-false-flag-operation---Tasnim-News.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:30:02 GMT",
-   "desc": "Earlier, the official Iraqi news agency quoted the Kurdistan Counter-Terrorism Agency as saying that two drones targeted the office of the Prime Minister of the Kurdistan Regional Government and the residence of the head of the security department."
-  },
-  {
-   "id": "9724403",
-   "title": "Iran Parliament Vice Speaker: The \"Caspian Convention\" will be sent to the National Security Commission for review. We will examine whether the Caspian Convention protects Iran's interests  - Fars News.",
-   "link": "https://www.financialjuice.com/News/9724403/Iran-Parliament-Vice-Speaker-The-Caspian-Convention-will-be-sent-to-the-National-Security-Commission-for-review-We-will-examine-whether-the-Caspian-Convention-protects-Irans-interests----Fars-News.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:23:26 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724402",
-   "title": "Iran Parliament Vice Speaker: The Caspian Sea is as important as the Strait of Hormuz, the Persian Gulf, and the Sea of Oman - Fars News.",
-   "link": "https://www.financialjuice.com/News/9724402/Iran-Parliament-Vice-Speaker-The-Caspian-Sea-is-as-important-as-the-Strait-of-Hormuz-the-Persian-Gulf-and-the-Sea-of-Oman---Fars-News.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:22:41 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724401",
-   "title": "Iran's Parliament Vice-Speaker: The Caspian Sea is not open for negotiation - Fars News.",
-   "link": "https://www.financialjuice.com/News/9724401/Irans-Parliament-Vice-Speaker-The-Caspian-Sea-is-not-open-for-negotiation---Fars-News.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:21:24 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724400",
-   "title": "US' Kushner's meeting with Netanyahu was lengthy, in-depth, and very productive - Board of Peace Official.",
-   "link": "https://www.financialjuice.com/News/9724400/US-Kushners-meeting-with-Netanyahu-was-lengthy-in-depth-and-very-productive---Board-of-Peace-Official.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:20:08 GMT",
-   "desc": "[Meeting was in relation to Gaza] Board of Peace Official: We agreed with Netanyahu on a path forward.&nbsp;Israelis are going to give this a chance."
-  },
-  {
-   "id": "9724382",
-   "title": "Iraqi Prime Minister Al-Zaydi: Iraq cannot rely on a single route for its oil exports and cannot remain captive to a single corridor - ISNA.",
-   "link": "https://www.financialjuice.com/News/9724382/Iraqi-Prime-Minister-Al-Zaydi-Iraq-cannot-rely-on-a-single-route-for-its-oil-exports-and-cannot-remain-captive-to-a-single-corridor---ISNA.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:12:47 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724381",
-   "title": "Iraqi Prime Minister Al-Zaydi: Iraq is among the countries that will suffer the most from the closure of the Strait of Hormuz - ISNA.",
-   "link": "https://www.financialjuice.com/News/9724381/Iraqi-Prime-Minister-Al-Zaydi-Iraq-is-among-the-countries-that-will-suffer-the-most-from-the-closure-of-the-Strait-of-Hormuz---ISNA.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:12:27 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724380",
-   "title": "United States flies a spy balloon over Iraq's Erbil again - Tasnim News.",
-   "link": "https://www.financialjuice.com/News/9724380/United-States-flies-a-spy-balloon-over-Iraqs-Erbil-again---Tasnim-News.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 15:10:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724359",
-   "title": "Saudi Arabia attacks the border regions of Yemen - ISNA.",
-   "link": "https://www.financialjuice.com/News/9724359/Saudi-Arabia-attacks-the-border-regions-of-Yemen---ISNA.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 14:52:55 GMT",
-   "desc": "Saudi Arabia targeted villages in the Al-Shawarq area of the city of Razih, located in the border province of Saada, with artillery shelling - ISNA."
-  },
-  {
-   "id": "9724354",
-   "title": "The Japanese Envoy is going to visit the Russian Foreign Ministry on Tuesday - IFX.",
-   "link": "https://www.financialjuice.com/News/9724354/The-Japanese-Envoy-is-going-to-visit-the-Russian-Foreign-Ministry-on-Tuesday---IFX.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 14:34:19 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724346",
-   "title": "Fear & Greed Index: 63/100 - Greed",
-   "link": "https://www.financialjuice.com/News/9724346/Fear--Greed-Index-63100---Greed.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 14:18:18 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724344",
-   "title": "Crypto Fear & Greed Index: 31/100 - Fear",
-   "link": "https://www.financialjuice.com/News/9724344/Crypto-Fear--Greed-Index-31100---Fear.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 14:17:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724298",
-   "title": "US NAHB Housing Market Index Actual 35 (Forecast 33, Previous 34)",
-   "link": "https://www.financialjuice.com/News/9724298/US-NAHB-Housing-Market-Index-Actual-35-Forecast-33-Previous-34.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 14:00:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724297",
-   "title": "Yemen: Any escalation of tensions by the Saudi regime will be met with a reciprocal response - IRIB News.",
-   "link": "https://www.financialjuice.com/News/9724297/Yemen-Any-escalation-of-tensions-by-the-Saudi-regime-will-be-met-with-a-reciprocal-response---IRIB-News.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:47:42 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724273",
-   "title": "Wells Fargo Investment Institute cuts gold's 2026 year-end target range to $4,900-$5,100 per ounce from prior forecast of $5,300-$5,500 per ounce.",
-   "link": "https://www.financialjuice.com/News/9724273/Wells-Fargo-Investment-Institute-cuts-golds-2026-year-end-target-range-to-4900-5100-per-ounce-from-prior-forecast-of-5300-5500-per-ounce.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:33:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724268",
-   "title": "MOO Imbalance",
-   "link": "https://www.financialjuice.com/News/9724268/MOO-Imbalance.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:30:36 GMT",
-   "desc": "S&amp;P 500: -314 mln Nasdaq 100: -16 mln Dow 30: -98 mln Mag 7: -9 mln"
-  },
-  {
-   "id": "9724263",
-   "title": "Wells Fargo investment institute raises global energy sector to neutral from unfavorable.",
-   "link": "https://www.financialjuice.com/News/9724263/Wells-Fargo-investment-institute-raises-global-energy-sector-to-neutral-from-unfavorable.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:28:30 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724262",
-   "title": "Wells Fargo Investment Institute expects the US Fed to hike rates by 25 bps in 2027, taking the benchmark rate to 4.00%-4.25% vs. the prior forecast of rates unchanged",
-   "link": "https://www.financialjuice.com/News/9724262/Wells-Fargo-Investment-Institute-expects-the-US-Fed-to-hike-rates-by-25-bps-in-2027-taking-the-benchmark-rate-to-400-425-vs-the-prior-forecast-of-rates-unchanged.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:25:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724261",
-   "title": "Wells Fargo Investment Institute expects US Fed to hike rates by 25 bps this year, vs. the prior forecast of rates unchanged",
-   "link": "https://www.financialjuice.com/News/9724261/Wells-Fargo-Investment-Institute-expects-US-Fed-to-hike-rates-by-25-bps-this-year-vs-the-prior-forecast-of-rates-unchanged.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:23:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9724260",
-   "title": "Iran's Ministry of Foreign Affairs: If we return to negotiations, we will do so based on the Islamabad agreement, not the Manama meeting - ISNA",
-   "link": "https://www.financialjuice.com/News/9724260/Irans-Ministry-of-Foreign-Affairs-If-we-return-to-negotiations-we-will-do-so-based-on-the-Islamabad-agreement-not-the-Manama-meeting---ISNA.aspx?xy=rss",
-   "pubDate": "Mon, 17 Aug 2026 13:18:32 GMT",
    "desc": ""
   }
  ]
