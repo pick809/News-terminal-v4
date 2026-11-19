@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-11-19T16:56:06.812242+00:00",
+ "updated_at": "2026-11-19T23:21:56.726478+00:00",
  "count": 20000,
  "items": [
+  {
+   "id": "9860747",
+   "title": "Nvidia nears takeover of diffusion AI creator for over $500 million – the information",
+   "link": "https://www.financialjuice.com/News/9860747/Nvidia-nears-takeover-of-diffusion-AI-creator-for-over-500-million--the-information.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 22:43:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860746",
+   "title": "California AG: California Department of Justice questions Nvidia on whether it misled investors and the public",
+   "link": "https://www.financialjuice.com/News/9860746/California-AG-California-Department-of-Justice-questions-Nvidia-on-whether-it-misled-investors-and-the-public.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 22:33:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860731",
+   "title": "California AG: California DOJ asking Nvidia if its advanced chips or confidential data may have been sent to China",
+   "link": "https://www.financialjuice.com/News/9860731/California-AG-California-DOJ-asking-Nvidia-if-its-advanced-chips-or-confidential-data-may-have-been-sent-to-China.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 22:32:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860730",
+   "title": "Attorney General Bonta issues investigative subpoena to Nvidia",
+   "link": "https://www.financialjuice.com/News/9860730/Attorney-General-Bonta-issues-investigative-subpoena-to-Nvidia.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 22:31:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860716",
+   "title": "Trump's national cyber director is resigning: Axios",
+   "link": "https://www.financialjuice.com/News/9860716/Trumps-national-cyber-director-is-resigning-Axios.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 22:16:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860695",
+   "title": "Total money market funds fell $3.58 bln to $7.98 trln for week ended Nov. 18 - ICI",
+   "link": "https://www.financialjuice.com/News/9860695/Total-money-market-funds-fell-358-bln-to-798-trln-for-week-ended-Nov-18---ICI.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 21:53:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860692",
+   "title": "Apple is working on own AI agent to rival OpenAI and Anthropic. $AAPL $ANT",
+   "link": "https://www.financialjuice.com/News/9860692/Apple-is-working-on-own-AI-agent-to-rival-OpenAI-and-Anthropic-AAPL-ANT.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 21:38:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860691",
+   "title": "Apple outlines plans for proactive AI agent in job postings; agent covers device control, apps, browsing and coding. $AAPL",
+   "link": "https://www.financialjuice.com/News/9860691/Apple-outlines-plans-for-proactive-AI-agent-in-job-postings-agent-covers-device-control-apps-browsing-and-coding-AAPL.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 21:37:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860640",
+   "title": "S. Korean PPI MoM Actual -0.1% (Forecast -, Previous 0.2%)",
+   "link": "https://www.financialjuice.com/News/9860640/S-Korean-PPI-MoM-Actual--01-Forecast---Previous-02.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 21:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860639",
+   "title": "S. Korean PPI YoY Actual 7.2% (Forecast -, Previous 7.7% ,Revision 7.6%)",
+   "link": "https://www.financialjuice.com/News/9860639/S-Korean-PPI-YoY-Actual-72-Forecast---Previous-77-Revision-76.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 21:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860638",
+   "title": "US money-market fund assets fall to $7.976 trln at ICI.",
+   "link": "https://www.financialjuice.com/News/9860638/US-money-market-fund-assets-fall-to-7976-trln-at-ICI.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:59:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860637",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9860637/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:50:31 GMT",
+   "desc": "S&amp;P 500: +2806 mln Nasdaq 100: +2045 mln Dow 30: +710 mln Mag 7: +504 mln"
+  },
+  {
+   "id": "9860623",
+   "title": "Iran Foreign Ministry Spokesman on X: US accusations about Tehran developing chemical and biological weapons are intended to create fear and justify military action.",
+   "link": "https://www.financialjuice.com/News/9860623/Iran-Foreign-Ministry-Spokesman-on-X-US-accusations-about-Tehran-developing-chemical-and-biological-weapons-are-intended-to-create-fear-and-justify-military-action.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:35:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860619",
+   "title": "Fed's Goolsbee: It is not clear how the financial sector would be impacted if there is a major correction in equities related to AI.",
+   "link": "https://www.financialjuice.com/News/9860619/Feds-Goolsbee-It-is-not-clear-how-the-financial-sector-would-be-impacted-if-there-is-a-major-correction-in-equities-related-to-AI.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:32:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860618",
+   "title": "Fed's Goolsbee: There is a high risk that the economy's capacity cannot handle the current 'pig-through-the-python' level of business investment without overheating",
+   "link": "https://www.financialjuice.com/News/9860618/Feds-Goolsbee-There-is-a-high-risk-that-the-economys-capacity-cannot-handle-the-current-pig-through-the-python-level-of-business-investment-without-overheating.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:32:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860608",
+   "title": "Fed's Goolsbee: Consumer spending has been pretty broad-based, financed mostly out of income growth.",
+   "link": "https://www.financialjuice.com/News/9860608/Feds-Goolsbee-Consumer-spending-has-been-pretty-broad-based-financed-mostly-out-of-income-growth.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:32:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860606",
+   "title": "Fed's Goolsbee: Not sure if fallout from US midterm elections will include a slowdown in data-center buildout or have a lasting impact on equity prices.",
+   "link": "https://www.financialjuice.com/News/9860606/Feds-Goolsbee-Not-sure-if-fallout-from-US-midterm-elections-will-include-a-slowdown-in-data-center-buildout-or-have-a-lasting-impact-on-equity-prices.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:32:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860604",
+   "title": "Fed's Goolsbee: More openness about monetary policy has been productive for the Fed and the world.",
+   "link": "https://www.financialjuice.com/News/9860604/Feds-Goolsbee-More-openness-about-monetary-policy-has-been-productive-for-the-Fed-and-the-world.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:32:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860603",
+   "title": "Fed's Goolsbee: There is widespread acknowledgment among businesses that costs are up, particularly among firms in construction or competing with data centers for components.",
+   "link": "https://www.financialjuice.com/News/9860603/Feds-Goolsbee-There-is-widespread-acknowledgment-among-businesses-that-costs-are-up-particularly-among-firms-in-construction-or-competing-with-data-centers-for-components.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:32:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860602",
+   "title": "Fed's Goolsbee: Artificial intelligence is influencing today's economy through wealth impacts and investment",
+   "link": "https://www.financialjuice.com/News/9860602/Feds-Goolsbee-Artificial-intelligence-is-influencing-todays-economy-through-wealth-impacts-and-investment.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:32:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860601",
+   "title": "Fed's Goolsbee: Anthropic's IPO raises the question of how stockholders will use that wealth; it could have a macroeconomic impact. $ANT",
+   "link": "https://www.financialjuice.com/News/9860601/Feds-Goolsbee-Anthropics-IPO-raises-the-question-of-how-stockholders-will-use-that-wealth-it-could-have-a-macroeconomic-impact-ANT.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:31:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860600",
+   "title": "Fed's Goolsbee: It has not been good news on inflation for the past few months.",
+   "link": "https://www.financialjuice.com/News/9860600/Feds-Goolsbee-It-has-not-been-good-news-on-inflation-for-the-past-few-months.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:31:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860599",
+   "title": "Fed's Goolsbee: I am not concerned about wages pressuring inflation at this point.",
+   "link": "https://www.financialjuice.com/News/9860599/Feds-Goolsbee-I-am-not-concerned-about-wages-pressuring-inflation-at-this-point.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:31:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860598",
+   "title": "Fed's Goolsbee: I do not see at this point that inflation is on the path back to 2%; it is not just coming from oil and tariff shocks, but also from a sizable demand component.",
+   "link": "https://www.financialjuice.com/News/9860598/Feds-Goolsbee-I-do-not-see-at-this-point-that-inflation-is-on-the-path-back-to-2-it-is-not-just-coming-from-oil-and-tariff-shocks-but-also-from-a-sizable-demand-component.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:31:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860597",
+   "title": "Fed's Goolsbee: The steepness of the interest-rate path will be rooted in whether ‘borderline disturbingly high' inflation is seen returning to the Fed's 2% target.",
+   "link": "https://www.financialjuice.com/News/9860597/Feds-Goolsbee-The-steepness-of-the-interest-rate-path-will-be-rooted-in-whether-borderline-disturbingly-high-inflation-is-seen-returning-to-the-Feds-2-target.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:30:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860596",
+   "title": "Fed's Goolsbee: Inflation has proven to be far more persistent than was thought in 2025, and data center demand and AI-related wealth impact are adding to it.",
+   "link": "https://www.financialjuice.com/News/9860596/Feds-Goolsbee-Inflation-has-proven-to-be-far-more-persistent-than-was-thought-in-2025-and-data-center-demand-and-AI-related-wealth-impact-are-adding-to-it.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:30:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860591",
+   "title": "Fed's Goolsbee: What is happening with services inflation is important in understanding whether price pressures stem from demand or things like energy costs.",
+   "link": "https://www.financialjuice.com/News/9860591/Feds-Goolsbee-What-is-happening-with-services-inflation-is-important-in-understanding-whether-price-pressures-stem-from-demand-or-things-like-energy-costs.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:30:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860590",
+   "title": "Friday FX Options Expiries",
+   "link": "https://www.financialjuice.com/News/9860590/Friday-FX-Options-Expiries.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:22:07 GMT",
+   "desc": "EUR/USD: 1.1000 (EU1.82b), 1.2000 (EU1.41b), 1.1550 (EU1.11b) USD/JPY: 160.00 ($747.1m), 159.00 ($534.7m), 156.95 ($450m) AUD/USD: 0.7000 (AUD969.6m), 0.6770 (AUD750.2m), 0.6880 (AUD590.5m) USD/CAD: 1.4000 ($664.6m), 1.4200 ($588.6m), 1.3950 ($500.4m) GBP/USD: 1.3400 (GBP430m) NZD/USD: 0.5800 (NZD875.7m), 0.5850 (NZD598.1m), 0.5600 (NZD563m) EUR/GBP: 0.8350 (EU514.9m), 0.8375 (EU360.6m), 0.8355 (EU311.2m)"
+  },
+  {
+   "id": "9860578",
+   "title": "NVIDIA and Microsoft expand accelerated computing from Azure to Windows PCs. $NVDA $MSFT",
+   "link": "https://www.financialjuice.com/News/9860578/NVIDIA-and-Microsoft-expand-accelerated-computing-from-Azure-to-Windows-PCs-NVDA-MSFT.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:17:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860577",
+   "title": "Nvidia and Microsoft to deploy Vera Rubin NVL72 on Azure. $NVDA $MSFT",
+   "link": "https://www.financialjuice.com/News/9860577/Nvidia-and-Microsoft-to-deploy-Vera-Rubin-NVL72-on-Azure-NVDA-MSFT.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:16:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860576",
+   "title": "Trump: A deal limiting nuclear weapons will be hard to reach but I will keep working on it.",
+   "link": "https://www.financialjuice.com/News/9860576/Trump-A-deal-limiting-nuclear-weapons-will-be-hard-to-reach-but-I-will-keep-working-on-it.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:06:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860575",
+   "title": "Trump after talks with Xi and Putin: It is hard psychologically to give up nuclear weapons.",
+   "link": "https://www.financialjuice.com/News/9860575/Trump-after-talks-with-Xi-and-Putin-It-is-hard-psychologically-to-give-up-nuclear-weapons.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:06:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860557",
+   "title": "Israeli ambassador Leiter: You get US soldiers back to their families when Iran is defeated.",
+   "link": "https://www.financialjuice.com/News/9860557/Israeli-ambassador-Leiter-You-get-US-soldiers-back-to-their-families-when-Iran-is-defeated.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 20:00:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860556",
+   "title": "Trump: I won't veto all AI guardrails if reasonable - Fox News",
+   "link": "https://www.financialjuice.com/News/9860556/Trump-I-wont-veto-all-AI-guardrails-if-reasonable---Fox-News.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:52:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860554",
+   "title": "Trump: Iran war came up with Putin and Xi; Putin and Xi want the Iran war to end - NBC Reporter on X",
+   "link": "https://www.financialjuice.com/News/9860554/Trump-Iran-war-came-up-with-Putin-and-Xi-Putin-and-Xi-want-the-Iran-war-to-end---NBC-Reporter-on-X.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:46:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860553",
+   "title": "Commerce approved shipment of 879,868 advanced chips to Chinese firms as of May 2026 - committee",
+   "link": "https://www.financialjuice.com/News/9860553/Commerce-approved-shipment-of-879868-advanced-chips-to-Chinese-firms-as-of-May-2026---committee.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:45:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860552",
+   "title": "Nvidia also sought permission to ship 445,000 H200 advanced AI chips to Tencent in December 2025 - Committee. $NVDA",
+   "link": "https://www.financialjuice.com/News/9860552/Nvidia-also-sought-permission-to-ship-445000-H200-advanced-AI-chips-to-Tencent-in-December-2025---Committee-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:44:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860551",
+   "title": "Trump to Fox News: Didn't discuss Alice Huang much with Xi. $NVDA",
+   "link": "https://www.financialjuice.com/News/9860551/Trump-to-Fox-News-Didnt-discuss-Alice-Huang-much-with-Xi-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:44:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860550",
+   "title": "Brent Crude futures settle at $91.98/bbl, up 3 cents, 0.03%",
+   "link": "https://www.financialjuice.com/News/9860550/Brent-Crude-futures-settle-at-9198bbl-up-3-cents-003.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:43:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860549",
+   "title": "Applications for advanced US chips received by Commerce included 948,950 for Alibaba, 150,000 for Tencent, 43,000 for Baidu and 4,000 for BYD - Committee. $BABA",
+   "link": "https://www.financialjuice.com/News/9860549/Applications-for-advanced-US-chips-received-by-Commerce-included-948950-for-Alibaba-150000-for-Tencent-43000-for-Baidu-and-4000-for-BYD---Committee-BABA.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:43:33 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860548",
+   "title": "Majority of US Senate objects to resolution curbing Trump's Iran war powers, voting continues.",
+   "link": "https://www.financialjuice.com/News/9860548/Majority-of-US-Senate-objects-to-resolution-curbing-Trumps-Iran-war-powers-voting-continues.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:42:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860547",
+   "title": "House Foreign Affairs Committee: Commerce Dept had 3.4 million applications by May 2026 for advanced chip sales to Chinese firms - statement",
+   "link": "https://www.financialjuice.com/News/9860547/House-Foreign-Affairs-Committee-Commerce-Dept-had-34-million-applications-by-May-2026-for-advanced-chip-sales-to-Chinese-firms---statement.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:41:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860546",
+   "title": "Meeks urges Lutnick and Kessler to testify in public hearings",
+   "link": "https://www.financialjuice.com/News/9860546/Meeks-urges-Lutnick-and-Kessler-to-testify-in-public-hearings.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:40:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860544",
+   "title": "Trump: Xi and I both want AI regulations and moderate regulations for safety purposes - Fox News.",
+   "link": "https://www.financialjuice.com/News/9860544/Trump-Xi-and-I-both-want-AI-regulations-and-moderate-regulations-for-safety-purposes---Fox-News.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:40:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860543",
+   "title": "Trump: Chinese President Xi and I are going to work together on reasonable regulations for AI - Fox News",
+   "link": "https://www.financialjuice.com/News/9860543/Trump-Chinese-President-Xi-and-I-are-going-to-work-together-on-reasonable-regulations-for-AI---Fox-News.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:39:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860542",
+   "title": "Fed's Barr: monetary policy adjustments are still necessary",
+   "link": "https://www.financialjuice.com/News/9860542/Feds-Barr-monetary-policy-adjustments-are-still-necessary.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:38:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860541",
+   "title": "Fed's Barr: Inflation remains excessively high",
+   "link": "https://www.financialjuice.com/News/9860541/Feds-Barr-Inflation-remains-excessively-high.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:37:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860540",
+   "title": "Trump did not discuss Nvidia or Chinese spy with President Xi - Fox News. $NVDA",
+   "link": "https://www.financialjuice.com/News/9860540/Trump-did-not-discuss-Nvidia-or-Chinese-spy-with-President-Xi---Fox-News-NVDA.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:37:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860539",
+   "title": "Fed's Barr: financial conditions remain accommodative, supporting economy",
+   "link": "https://www.financialjuice.com/News/9860539/Feds-Barr-financial-conditions-remain-accommodative-supporting-economy.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:37:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860538",
+   "title": "Fed's Barr: Central bank is not seeking to target a specific level of investment in economy",
+   "link": "https://www.financialjuice.com/News/9860538/Feds-Barr-Central-bank-is-not-seeking-to-target-a-specific-level-of-investment-in-economy.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:37:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860537",
+   "title": "Fed's Barr: Fed is not trying to target a level of investment in economy.",
+   "link": "https://www.financialjuice.com/News/9860537/Feds-Barr-Fed-is-not-trying-to-target-a-level-of-investment-in-economy.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:37:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860536",
+   "title": "Meeks calls for hearings on BIS chip licenses to China.",
+   "link": "https://www.financialjuice.com/News/9860536/Meeks-calls-for-hearings-on-BIS-chip-licenses-to-China.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:37:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860535",
+   "title": "Barr: easing regulations in a risk-on environment can cause problems",
+   "link": "https://www.financialjuice.com/News/9860535/Barr-easing-regulations-in-a-risk-on-environment-can-cause-problems.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:35:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860534",
+   "title": "Fed's Barr: AI surge part of risk-on climate",
+   "link": "https://www.financialjuice.com/News/9860534/Feds-Barr-AI-surge-part-of-risk-on-climate.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:35:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860533",
+   "title": "Fed's Barr: I'm worried path of regulation could make it harder to understand financial risks.",
+   "link": "https://www.financialjuice.com/News/9860533/Feds-Barr-Im-worried-path-of-regulation-could-make-it-harder-to-understand-financial-risks.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:33:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860532",
+   "title": "Fed's Barr: more focused on long-term challenges with bank rules",
+   "link": "https://www.financialjuice.com/News/9860532/Feds-Barr-more-focused-on-long-term-challenges-with-bank-rules.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:33:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860529",
+   "title": "Fed's Barr: disclosed differences over banking oversight",
+   "link": "https://www.financialjuice.com/News/9860529/Feds-Barr-disclosed-differences-over-banking-oversight.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:32:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860528",
+   "title": "Honeywell and GE Aerospace cited in House China Panel report. $GE $HON",
+   "link": "https://www.financialjuice.com/News/9860528/Honeywell-and-GE-Aerospace-cited-in-House-China-Panel-report-GE-HON.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:32:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860516",
+   "title": "NYMEX Nat Gas Dec. futures settle at $3.2680/MMBtu",
+   "link": "https://www.financialjuice.com/News/9860516/NYMEX-Nat-Gas-Dec-futures-settle-at-32680MMBtu.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:31:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860515",
+   "title": "NYMEX gasoline Dec. futures settle at $2.4951 a gallon",
+   "link": "https://www.financialjuice.com/News/9860515/NYMEX-gasoline-Dec-futures-settle-at-24951-a-gallon.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:31:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860514",
+   "title": "NYMEX diesel Dec. futures settle at $3.9514 a gallon",
+   "link": "https://www.financialjuice.com/News/9860514/NYMEX-diesel-Dec-futures-settle-at-39514-a-gallon.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:31:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860513",
+   "title": "NYMEX WTI crude futures settle at $83.21 a barrel, down 5 cents, 0.06%",
+   "link": "https://www.financialjuice.com/News/9860513/NYMEX-WTI-crude-futures-settle-at-8321-a-barrel-down-5-cents-006.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:30:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860510",
+   "title": "China AI chip license requests reach 3.4 mln units - Mast statement. $NVDA $AMD",
+   "link": "https://www.financialjuice.com/News/9860510/China-AI-chip-license-requests-reach-34-mln-units---Mast-statement-NVDA-AMD.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:28:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860509",
+   "title": "Mast moves to disclose Nvidia China export control license details. $NVDA $AMD",
+   "link": "https://www.financialjuice.com/News/9860509/Mast-moves-to-disclose-Nvidia-China-export-control-license-details-NVDA-AMD.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:28:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860508",
+   "title": "Mast reveals Nvidia and AMD AI chip licenses for China - statement. $NVDA $AMD",
+   "link": "https://www.financialjuice.com/News/9860508/Mast-reveals-Nvidia-and-AMD-AI-chip-licenses-for-China---statement-NVDA-AMD.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:27:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860507",
+   "title": "BoE’s Greene: We need to shore up credibility on inflation",
+   "link": "https://www.financialjuice.com/News/9860507/BoEs-Greene-We-need-to-shore-up-credibility-on-inflation.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:27:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860506",
+   "title": "Fed's Barr: AI may increase risk of faster bank runs",
+   "link": "https://www.financialjuice.com/News/9860506/Feds-Barr-AI-may-increase-risk-of-faster-bank-runs.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:25:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860505",
+   "title": "BoE's Greene: second-round effects will likely occur",
+   "link": "https://www.financialjuice.com/News/9860505/BoEs-Greene-second-round-effects-will-likely-occur.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:25:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860504",
+   "title": "Fed's Barr: AI must comply with financial sector rules",
+   "link": "https://www.financialjuice.com/News/9860504/Feds-Barr-AI-must-comply-with-financial-sector-rules.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:22:59 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860503",
+   "title": "Trump: Putin meeting was primarily on Ukraine - NBC",
+   "link": "https://www.financialjuice.com/News/9860503/Trump-Putin-meeting-was-primarily-on-Ukraine---NBC.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:22:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860502",
+   "title": "BoE’s Greene: Labor market not as weak as we thought.",
+   "link": "https://www.financialjuice.com/News/9860502/BoEs-Greene-Labor-market-not-as-weak-as-we-thought.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:21:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860501",
+   "title": "BoE’s Greene: labor data indicates slowdown in disinflation",
+   "link": "https://www.financialjuice.com/News/9860501/BoEs-Greene-labor-data-indicates-slowdown-in-disinflation.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:20:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860500",
+   "title": "Fed's Barr: AI could boost access to financial services",
+   "link": "https://www.financialjuice.com/News/9860500/Feds-Barr-AI-could-boost-access-to-financial-services.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:20:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860499",
+   "title": "Trump on North Korea's Kim Jong Un: The relationship is there, but we didn't meet during Asia trip because there was too many meetings - NBC News.",
+   "link": "https://www.financialjuice.com/News/9860499/Trump-on-North-Koreas-Kim-Jong-Un-The-relationship-is-there-but-we-didnt-meet-during-Asia-trip-because-there-was-too-many-meetings---NBC-News.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:20:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860498",
+   "title": "BoE’s Greene cites above-target inflation and resilient economy.",
+   "link": "https://www.financialjuice.com/News/9860498/BoEs-Greene-cites-above-target-inflation-and-resilient-economy.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:19:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860497",
+   "title": "BoE’s Greene: Policy has not been as restrictive as thought.",
+   "link": "https://www.financialjuice.com/News/9860497/BoEs-Greene-Policy-has-not-been-as-restrictive-as-thought.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:18:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860495",
+   "title": "Trump: Kim Jong Un meeting will happen at some point - NBC.",
+   "link": "https://www.financialjuice.com/News/9860495/Trump-Kim-Jong-Un-meeting-will-happen-at-some-point---NBC.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:18:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860487",
+   "title": "Taiwan defence ministry: two Russian Tu-95 military planes entered Taiwan's air defense identification zone from south Thursday morning",
+   "link": "https://www.financialjuice.com/News/9860487/Taiwan-defence-ministry-two-Russian-Tu-95-military-planes-entered-Taiwans-air-defense-identification-zone-from-south-Thursday-morning.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:17:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860486",
+   "title": "Taiwan Defence Ministry: 2 Russian TU-95 military aircraft entered taiwan's air defense identification zone) from the south of Taiwan Thursday morning.",
+   "link": "https://www.financialjuice.com/News/9860486/Taiwan-Defence-Ministry-2-Russian-TU-95-military-aircraft-entered-taiwans-air-defense-identification-zone-from-the-south-of-Taiwan-Thursday-morning.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:17:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860485",
+   "title": "BoE’s Greene: Question over how restrictive policy has been.",
+   "link": "https://www.financialjuice.com/News/9860485/BoEs-Greene-Question-over-how-restrictive-policy-has-been.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:16:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860484",
+   "title": "Meta aims to sell 10 million wearable devices in the second half of 2026 as it expands its AI hardware lineup- The Information. $META",
+   "link": "https://www.financialjuice.com/News/9860484/Meta-aims-to-sell-10-million-wearable-devices-in-the-second-half-of-2026-as-it-expands-its-AI-hardware-lineup--The-Information-META.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:15:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860482",
+   "title": "Meta has pushed back the wider release of its smartwatch to 2027 - the Information. $META",
+   "link": "https://www.financialjuice.com/News/9860482/Meta-has-pushed-back-the-wider-release-of-its-smartwatch-to-2027---the-Information-META.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:15:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860481",
+   "title": "BoE's Greene: risk of underacting bigger than overdoing it",
+   "link": "https://www.financialjuice.com/News/9860481/BoEs-Greene-risk-of-underacting-bigger-than-overdoing-it.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:14:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860479",
+   "title": "Meta bets on $300 Muse charm to boost AI hardware business - The Information. $META",
+   "link": "https://www.financialjuice.com/News/9860479/Meta-bets-on-300-Muse-charm-to-boost-AI-hardware-business---The-Information-META.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:13:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860478",
+   "title": "BoE's Greene: need to 'anchor' expectations at 2% target",
+   "link": "https://www.financialjuice.com/News/9860478/BoEs-Greene-need-to-anchor-expectations-at-2-target.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:13:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860477",
+   "title": "BoE's Greene: People notice when inflation is above 3%",
+   "link": "https://www.financialjuice.com/News/9860477/BoEs-Greene-People-notice-when-inflation-is-above-3.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:12:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860476",
+   "title": "Canada seeks interim deal covering section 232 tariffs - CBC",
+   "link": "https://www.financialjuice.com/News/9860476/Canada-seeks-interim-deal-covering-section-232-tariffs---CBC.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:11:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860475",
+   "title": "BoE’s Greene: Duty to anchor elevated inflation expectations.",
+   "link": "https://www.financialjuice.com/News/9860475/BoEs-Greene-Duty-to-anchor-elevated-inflation-expectations.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:10:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860474",
+   "title": "Canada seeks interim US trade arrangement by end of year - CBC.",
+   "link": "https://www.financialjuice.com/News/9860474/Canada-seeks-interim-US-trade-arrangement-by-end-of-year---CBC.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 19:08:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860440",
+   "title": "Nscale's ByteDance deal faces scrutiny under US chip curbs.",
+   "link": "https://www.financialjuice.com/News/9860440/Nscales-ByteDance-deal-faces-scrutiny-under-US-chip-curbs.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:47:54 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860430",
+   "title": "Iran claims tanker hit mine, caught fire in eastern Hormuz - Mehr.",
+   "link": "https://www.financialjuice.com/News/9860430/Iran-claims-tanker-hit-mine-caught-fire-in-eastern-Hormuz---Mehr.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:47:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860425",
+   "title": "US Secretary of State Rubio is weighing a 2028 run more seriously - CNN citing Allies.",
+   "link": "https://www.financialjuice.com/News/9860425/US-Secretary-of-State-Rubio-is-weighing-a-2028-run-more-seriously---CNN-citing-Allies.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:39:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860393",
+   "title": "Fed's Goolsbee: Unless AI shows it can increase productivity outside the tech sector, it could prove a \"flash in the pan\".",
+   "link": "https://www.financialjuice.com/News/9860393/Feds-Goolsbee-Unless-AI-shows-it-can-increase-productivity-outside-the-tech-sector-it-could-prove-a-flash-in-the-pan.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:11:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860392",
+   "title": "Fed's Goolsbee: The Fed is still looking for evidence that AI-driven productivity is starting to move beyond the tech sector.",
+   "link": "https://www.financialjuice.com/News/9860392/Feds-Goolsbee-The-Fed-is-still-looking-for-evidence-that-AI-driven-productivity-is-starting-to-move-beyond-the-tech-sector.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:11:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860391",
+   "title": "US Energy Secretary Wright on Iran: There's no increase in tensions.",
+   "link": "https://www.financialjuice.com/News/9860391/US-Energy-Secretary-Wright-on-Iran-Theres-no-increase-in-tensions.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:10:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860390",
+   "title": "US Energy Secretary Wright: Yesterday was by far the largest flow out of Hormuz.",
+   "link": "https://www.financialjuice.com/News/9860390/US-Energy-Secretary-Wright-Yesterday-was-by-far-the-largest-flow-out-of-Hormuz.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:10:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860389",
+   "title": "Treasury WI 10-year TIPS yield about 2.90% before $19 billion auction.",
+   "link": "https://www.financialjuice.com/News/9860389/Treasury-WI-10-year-TIPS-yield-about-290-before-19-billion-auction-.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:04:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860388",
+   "title": "US 10-Year TIPS Auction",
+   "link": "https://www.financialjuice.com/News/9860388/US-10-Year-TIPS-Auction.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:03:22 GMT",
+   "desc": "High Yield 2.903% (Tailed by 0.3 basis points) Bid-to-cover 2.43 Sells $19 bln Awards 90.74% of bids at high Primary Dealers take 6.03% Direct 25.41% Indirect 68.56%"
+  },
+  {
+   "id": "9860375",
+   "title": "US 10-Year TIPS High Yield Actual 2.903% (Forecast -, Previous 2.653%)",
+   "link": "https://www.financialjuice.com/News/9860375/US-10-Year-TIPS-High-Yield-Actual-2903-Forecast---Previous-2653.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:01:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9860374",
+   "title": "Fed's Goolsbee: Changes in immigration policy mean the Fed should put less weight on monthly job numbers as a signal about the business cycle",
+   "link": "https://www.financialjuice.com/News/9860374/Feds-Goolsbee-Changes-in-immigration-policy-mean-the-Fed-should-put-less-weight-on-monthly-job-numbers-as-a-signal-about-the-business-cycle.aspx?xy=rss",
+   "pubDate": "Thu, 19 Nov 2026 18:01:50 GMT",
+   "desc": ""
+  },
   {
    "id": "9860279",
    "title": "Iran war powers vote will be at around 2pm  - Punchbowl Reporter on X",
@@ -139300,706 +140000,6 @@
    "title": "New Zealand PPI Inputs QoQ Actual 2.9% (Forecast -, Previous 1.4%)",
    "link": "https://www.financialjuice.com/News/9726600/New-Zealand-PPI-Inputs-QoQ-Actual-29-Forecast---Previous-14.aspx?xy=rss",
    "pubDate": "Tue, 18 Aug 2026 22:45:01 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726599",
-   "title": "New Zealand PPI Outputs QoQ Actual 1.6% (Forecast -, Previous 0.8%)",
-   "link": "https://www.financialjuice.com/News/9726599/New-Zealand-PPI-Outputs-QoQ-Actual-16-Forecast---Previous-08.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 22:45:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726598",
-   "title": "Association of Flight Attendants: Have acted swiftly to oppose and request limits on sale of flight attendant employee data",
-   "link": "https://www.financialjuice.com/News/9726598/Association-of-Flight-Attendants-Have-acted-swiftly-to-oppose-and-request-limits-on-sale-of-flight-attendant-employee-data.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 22:43:59 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726597",
-   "title": "Association of Flight Attendants: objects to sale of Spirit's data to Google",
-   "link": "https://www.financialjuice.com/News/9726597/Association-of-Flight-Attendants-objects-to-sale-of-Spirits-data-to-Google.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 22:43:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726590",
-   "title": "OpenAI: revenue climbed to $6.7 billion in the quarter ended June - WSJ",
-   "link": "https://www.financialjuice.com/News/9726590/OpenAI-revenue-climbed-to-67-billion-in-the-quarter-ended-June---WSJ.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 22:30:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726571",
-   "title": "UK PM Burnham: No 10 North to assume economic growth duties from Treasury in power shift - The Times",
-   "link": "https://www.financialjuice.com/News/9726571/UK-PM-Burnham-No-10-North-to-assume-economic-growth-duties-from-Treasury-in-power-shift---The-Times.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 22:13:40 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726527",
-   "title": "Canada's Prime Minister Mark Carney and President Trump spoke again this afternoon on ongoing talks: Carney's office statement",
-   "link": "https://www.financialjuice.com/News/9726527/Canadas-Prime-Minister-Mark-Carney-and-President-Trump-spoke-again-this-afternoon-on-ongoing-talks-Carneys-office-statement.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 21:24:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726512",
-   "title": "DOJ issues grand jury subpoenas in duel over Dan Sullivan’s Republican Senate race - NBC News",
-   "link": "https://www.financialjuice.com/News/9726512/DOJ-issues-grand-jury-subpoenas-in-duel-over-Dan-Sullivans-Republican-Senate-race---NBC-News.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 21:15:50 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726510",
-   "title": "North Korea: exercise of right to self-defense will persist to fully neutralize military threats from enemies - KCNA",
-   "link": "https://www.financialjuice.com/News/9726510/North-Korea-exercise-of-right-to-self-defense-will-persist-to-fully-neutralize-military-threats-from-enemies---KCNA.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 21:07:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726509",
-   "title": "North Korea condemns U.S.-South Korea joint military exercises: KCNA",
-   "link": "https://www.financialjuice.com/News/9726509/North-Korea-condemns-US-South-Korea-joint-military-exercises-KCNA.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 21:06:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726487",
-   "title": "US API Gasoline Stock Change Actual 1.076M (Forecast -, Previous -1.531M)",
-   "link": "https://www.financialjuice.com/News/9726487/US-API-Gasoline-Stock-Change-Actual-1076M-Forecast---Previous--1531M.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:48:33 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726486",
-   "title": "US API Distillate Stock Change Actual -2.797M (Forecast -, Previous -0.596M)",
-   "link": "https://www.financialjuice.com/News/9726486/US-API-Distillate-Stock-Change-Actual--2797M-Forecast---Previous--0596M.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:48:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726485",
-   "title": "US API Cushing Stock Change Actual -1.438M (Forecast -, Previous 1.571M)",
-   "link": "https://www.financialjuice.com/News/9726485/US-API-Cushing-Stock-Change-Actual--1438M-Forecast---Previous-1571M.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:47:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726484",
-   "title": "US API Crude Oil Stock Change Actual -0.328M  (Forecast -, Previous 9.072M)",
-   "link": "https://www.financialjuice.com/News/9726484/US-API-Crude-Oil-Stock-Change-Actual--0328M--Forecast---Previous-9072M.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:47:38 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726473",
-   "title": "Israeli fighter jets fly over Idlib and the Syrian desert - Tasnim News",
-   "link": "https://www.financialjuice.com/News/9726473/Israeli-fighter-jets-fly-over-Idlib-and-the-Syrian-desert---Tasnim-News.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:46:22 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726471",
-   "title": "Iran's Foreign Ministry Spokesperson rejects the UAE's statement on missiles being launched from Iran against the Gulf country.",
-   "link": "https://www.financialjuice.com/News/9726471/Irans-Foreign-Ministry-Spokesperson-rejects-the-UAEs-statement-on-missiles-being-launched-from-Iran-against-the-Gulf-country.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:42:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726470",
-   "title": "Israel: Agreed to a status quo on security with Syria.",
-   "link": "https://www.financialjuice.com/News/9726470/Israel-Agreed-to-a-status-quo-on-security-with-Syria.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:34:13 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726464",
-   "title": "Israeli Prime Minister's Office: Israel will not tolerate threats to its security",
-   "link": "https://www.financialjuice.com/News/9726464/Israeli-Prime-Ministers-Office-Israel-will-not-tolerate-threats-to-its-security.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:24:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726463",
-   "title": "Israeli Prime Minister's Office: Syria was on verge of breaching status quo in security matters with israel by permitting Turkish troops to deploy at airbase near Aleppo.",
-   "link": "https://www.financialjuice.com/News/9726463/Israeli-Prime-Ministers-Office-Syria-was-on-verge-of-breaching-status-quo-in-security-matters-with-israel-by-permitting-Turkish-troops-to-deploy-at-airbase-near-Aleppo.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:23:27 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726461",
-   "title": "The Trump administration is preparing to intensify its economic pressure campaign against Iran - Politico",
-   "link": "https://www.financialjuice.com/News/9726461/The-Trump-administration-is-preparing-to-intensify-its-economic-pressure-campaign-against-Iran---Politico.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:18:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726448",
-   "title": "UAE foreign ministry statement: All trade, commercial exchanges and financial transactions with Iran have been halted until further notice.",
-   "link": "https://www.financialjuice.com/News/9726448/UAE-foreign-ministry-statement-All-trade-commercial-exchanges-and-financial-transactions-with-Iran-have-been-halted-until-further-notice.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 20:13:50 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726437",
-   "title": "Syrian Petroleum Company: The explosion was a result of a deliberate act of sabotage based on initial investigations - Syrian State News Agency",
-   "link": "https://www.financialjuice.com/News/9726437/Syrian-Petroleum-Company-The-explosion-was-a-result-of-a-deliberate-act-of-sabotage-based-on-initial-investigations---Syrian-State-News-Agency.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 19:59:56 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726436",
-   "title": "Syria's Petroleum Company: An explosion occured at the gas export pipeline at the Al-Jabsah gas plant, leading to a halt of pumping through the pipeline - Syrian State News Agency",
-   "link": "https://www.financialjuice.com/News/9726436/Syrias-Petroleum-Company-An-explosion-occured-at-the-gas-export-pipeline-at-the-Al-Jabsah-gas-plant-leading-to-a-halt-of-pumping-through-the-pipeline---Syrian-State-News-Agency.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 19:59:13 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726435",
-   "title": "MOC Imbalance",
-   "link": "https://www.financialjuice.com/News/9726435/MOC-Imbalance.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 19:50:30 GMT",
-   "desc": "S&amp;P 500: -138 mln Nasdaq 100: +280 mln Dow 30: -128 mln Mag 7: -177 mln"
-  },
-  {
-   "id": "9726417",
-   "title": "UAE's Defense Ministry: The 2 ballistic missiles launched from Iran were targeting marine traffic.",
-   "link": "https://www.financialjuice.com/News/9726417/UAEs-Defense-Ministry-The-2-ballistic-missiles-launched-from-Iran-were-targeting-marine-traffic.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 19:33:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726416",
-   "title": "US Special Envoy for Syria Barrack: Turkey was not warned of Israeli strikes, Turkey could have reasonably prepared its own response.",
-   "link": "https://www.financialjuice.com/News/9726416/US-Special-Envoy-for-Syria-Barrack-Turkey-was-not-warned-of-Israeli-strikes-Turkey-could-have-reasonably-prepared-its-own-response.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 19:32:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726415",
-   "title": "US Special Envoy for Syria Barrack: This underscores the need for a deconfliction mechanism involving Israel, Syria and Turkey, which we are actively working on.",
-   "link": "https://www.financialjuice.com/News/9726415/US-Special-Envoy-for-Syria-Barrack-This-underscores-the-need-for-a-deconfliction-mechanism-involving-Israel-Syria-and-Turkey-which-we-are-actively-working-on.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 19:32:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726414",
-   "title": "US Special Envoy for Syria Barrack: Israeli strikes on Syria airbase reflect the perception that Turkey might increase its presence there in near future.",
-   "link": "https://www.financialjuice.com/News/9726414/US-Special-Envoy-for-Syria-Barrack-Israeli-strikes-on-Syria-airbase-reflect-the-perception-that-Turkey-might-increase-its-presence-there-in-near-future.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 19:32:17 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726401",
-   "title": "Wednesday FX Option Expiries",
-   "link": "https://www.financialjuice.com/News/9726401/Wednesday-FX-Option-Expiries-.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 19:21:55 GMT",
-   "desc": "EUR/USD: 1.1600 (EU1.68b), 1.1450 (EU908.2m), 1.1945 (EU703.2m) USD/JPY: 164.00 ($743.7m), 158.00 ($710.1m), 165.00 ($400m) USD/CAD: 1.3910 ($732.1m), 1.3700 ($580m), 1.3900 ($468.6m) USD/BRL: 5.1500 ($819.9m), 5.0000 ($460m), 5.0500 ($318.3m) AUD/USD: 0.7125 (AUD450.9m), 0.7100 (AUD305.3m) GBP/USD: 1.3450 (GBP571.6m), 1.3350 (GBP443.1m), 1.3125 (GBP380m)"
-  },
-  {
-   "id": "9726396",
-   "title": "Trump considering granting Canada tariff reprieve - Politico",
-   "link": "https://www.financialjuice.com/News/9726396/Trump-considering-granting-Canada-tariff-reprieve---Politico.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 19:11:13 GMT",
-   "desc": "new TradingView.chart({width:\"100%\",height:\"400\",chart:\"vJhM807D\",container_id:\"desc_{{NewsID}}\"});"
-  },
-  {
-   "id": "9726389",
-   "title": "US Energy Under Secretary Haustveit: About half of Venezuela's oil output is now being exported to the US.",
-   "link": "https://www.financialjuice.com/News/9726389/US-Energy-Under-Secretary-Haustveit-About-half-of-Venezuelas-oil-output-is-now-being-exported-to-the-US.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 19:02:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726378",
-   "title": "Brent Crude futures settle at $91.02/bbl, up 15 cents, 0.17%",
-   "link": "https://www.financialjuice.com/News/9726378/Brent-Crude-futures-settle-at-9102bbl-up-15-cents-017.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 18:47:28 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726363",
-   "title": "SEC: Measures aimed at addressing barriers to responsible capital formation and innovation within domestic crypto asset markets.",
-   "link": "https://www.financialjuice.com/News/9726363/SEC-Measures-aimed-at-addressing-barriers-to-responsible-capital-formation-and-innovation-within-domestic-crypto-asset-markets.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 18:43:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726362",
-   "title": "SEC proposes new rules to create 'clear and fit-for-purpose' framework for certain investment contracts involving crypto assets - statement",
-   "link": "https://www.financialjuice.com/News/9726362/SEC-proposes-new-rules-to-create-clear-and-fit-for-purpose-framework-for-certain-investment-contracts-involving-crypto-assets---statement.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 18:42:53 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726361",
-   "title": "OpenAI's Brockman: Temporarily slowed scaling of frontier training - Post on X",
-   "link": "https://www.financialjuice.com/News/9726361/OpenAIs-Brockman-Temporarily-slowed-scaling-of-frontier-training---Post-on-X.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 18:39:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726360",
-   "title": "US said to downplay hopes for trade deal with Canada Tuesday. Trump and Carney expected to speak again Tuesday - people familiar",
-   "link": "https://www.financialjuice.com/News/9726360/US-said-to-downplay-hopes-for-trade-deal-with-Canada-Tuesday-Trump-and-Carney-expected-to-speak-again-Tuesday---people-familiar.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 18:39:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726353",
-   "title": "NYMEX Diesel Sept. futures settle at $4.4501 a gallon",
-   "link": "https://www.financialjuice.com/News/9726353/NYMEX-Diesel-Sept-futures-settle-at-44501-a-gallon.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 18:31:47 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726351",
-   "title": "NYMEX Gasoline Sept. futures settle at $3.3017 a gallon",
-   "link": "https://www.financialjuice.com/News/9726351/NYMEX-Gasoline-Sept-futures-settle-at-33017-a-gallon.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 18:31:40 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726350",
-   "title": "NYMEX Nat Gas Sept. futures settle at $2.7760/MMBTU",
-   "link": "https://www.financialjuice.com/News/9726350/NYMEX-Nat-Gas-Sept-futures-settle-at-27760MMBTU.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 18:31:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726349",
-   "title": "NYMEX WTI Crude Sept. futures settle at $84.94 a barrel up 44 cents, 0.52%",
-   "link": "https://www.financialjuice.com/News/9726349/NYMEX-WTI-Crude-Sept-futures-settle-at-8494-a-barrel-up-44-cents-052.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 18:31:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726284",
-   "title": "Canadian and US negotiators expected to meet again ahead of midnight tariff deadline - CBC News",
-   "link": "https://www.financialjuice.com/News/9726284/Canadian-and-US-negotiators-expected-to-meet-again-ahead-of-midnight-tariff-deadline---CBC-News.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 17:27:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726283",
-   "title": "UKMTO: An unmanned cargo vessel was struck by multiple unknown projectiles, causing damage.",
-   "link": "https://www.financialjuice.com/News/9726283/UKMTO-An-unmanned-cargo-vessel-was-struck-by-multiple-unknown-projectiles-causing-damage.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 17:24:59 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726282",
-   "title": "UKMTO: Have received a report of an incident 40nm southeast of Al Mocha, Yemen.",
-   "link": "https://www.financialjuice.com/News/9726282/UKMTO-Have-received-a-report-of-an-incident-40nm-southeast-of-Al-Mocha-Yemen.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 17:24:01 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726262",
-   "title": "Saudi mercenaries attack areas in Yemen's Taiz province - Tasnim News",
-   "link": "https://www.financialjuice.com/News/9726262/Saudi-mercenaries-attack-areas-in-Yemens-Taiz-province---Tasnim-News.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:57:16 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726246",
-   "title": "Anthropic Pre-IPO Credit Facility Set to Exceed $10 Billion Target",
-   "link": "https://www.financialjuice.com/News/9726246/Anthropic-Pre-IPO-Credit-Facility-Set-to-Exceed-10-Billion-Target.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:42:11 GMT",
-   "desc": "Anthropic&#39;s pre-IPO credit facility is expected to surpass its $10 billion target Anthropic is asking lead banks to lend around $1.25 billion each Other major participating banks are being asked to provide around $1 billion each"
-  },
-  {
-   "id": "9726245",
-   "title": "Russian Foreign Minister Lavrov: We have the right to regard direct involvement of British missile forces in strikes against Russia as participation in conflict - IFX.",
-   "link": "https://www.financialjuice.com/News/9726245/Russian-Foreign-Minister-Lavrov-We-have-the-right-to-regard-direct-involvement-of-British-missile-forces-in-strikes-against-Russia-as-participation-in-conflict---IFX.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:39:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726244",
-   "title": "UAE's Defense Ministry: We're ready to deal with any threats.",
-   "link": "https://www.financialjuice.com/News/9726244/UAEs-Defense-Ministry-Were-ready-to-deal-with-any-threats.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:35:22 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726243",
-   "title": "UAE Defence Ministry on X: UAE's Defense Ministry detected two ballistic missiles launched from Iran.",
-   "link": "https://www.financialjuice.com/News/9726243/UAE-Defence-Ministry-on-X-UAEs-Defense-Ministry-detected-two-ballistic-missiles-launched-from-Iran.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:34:43 GMT",
-   "desc": "One missile fell outside territorial waters, while the second fell inside territorial waters."
-  },
-  {
-   "id": "9726224",
-   "title": "Senior Israeli official claims that the attack on the Syrian Air Force base in the Idlib area was intended to prevent a Turkish military entrenchment there - Axios Reporter on X.",
-   "link": "https://www.financialjuice.com/News/9726224/Senior-Israeli-official-claims-that-the-attack-on-the-Syrian-Air-Force-base-in-the-Idlib-area-was-intended-to-prevent-a-Turkish-military-entrenchment-there---Axios-Reporter-on-X.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:27:58 GMT",
-   "desc": "Senior Turkish official responds: &quot;There was no Turkish presence at the air base. Israel is making up excuses to bomb neighboring countries and undermine stability in the region&quot;."
-  },
-  {
-   "id": "9726202",
-   "title": "Sources close to Yemen Houthis: Missiles fired from near Sana'a targeted Saudi-backed forces inside Yemen - Tasnim.",
-   "link": "https://www.financialjuice.com/News/9726202/Sources-close-to-Yemen-Houthis-Missiles-fired-from-near-Sanaa-targeted-Saudi-backed-forces-inside-Yemen---Tasnim.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:15:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726201",
-   "title": "Sources close to Yemen Houthis deny reports of a missile attack on the UAE - Tasnim.",
-   "link": "https://www.financialjuice.com/News/9726201/Sources-close-to-Yemen-Houthis-deny-reports-of-a-missile-attack-on-the-UAE---Tasnim.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:14:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726200",
-   "title": "Large fire in Sulaymaniyah, Iraq; unconfirmed reports suggest an energy facility in the province was targeted by an attack - Tasnim News",
-   "link": "https://www.financialjuice.com/News/9726200/Large-fire-in-Sulaymaniyah-Iraq-unconfirmed-reports-suggest-an-energy-facility-in-the-province-was-targeted-by-an-attack---Tasnim-News.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:03:49 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726194",
-   "title": "Apple Resolves EU App Store Fee Dispute, Drops Per-Install Fee $AAPL",
-   "link": "https://www.financialjuice.com/News/9726194/Apple-Resolves-EU-App-Store-Fee-Dispute-Drops-Per-Install-Fee-AAPL.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:01:22 GMT",
-   "desc": "Apple resolves its dispute with the EU over App Store fees Apple will drop its per-install fee for app developers in the EU Apple will change developer terms to comply with EU tech antitrust rules Updated terms for app developers will roll out on October 1"
-  },
-  {
-   "id": "9726193",
-   "title": "Apple resolves dispute with EU over app store fees. $AAPL",
-   "link": "https://www.financialjuice.com/News/9726193/Apple-resolves-dispute-with-EU-over-app-store-fees-AAPL.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 16:00:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726192",
-   "title": "News sources reported that Yemeni armed forces launched a drone attack on the city center of Al-Khukhah in southern Al-Hudaydah province, Western Yemen - IRNA.",
-   "link": "https://www.financialjuice.com/News/9726192/News-sources-reported-that-Yemeni-armed-forces-launched-a-drone-attack-on-the-city-center-of-Al-Khukhah-in-southern-Al-Hudaydah-province-Western-Yemen---IRNA.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 15:59:27 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726191",
-   "title": "Russia reroutes Kazakh crude to the Black Sea from Ust-Luga - Sources.",
-   "link": "https://www.financialjuice.com/News/9726191/Russia-reroutes-Kazakh-crude-to-the-Black-Sea-from-Ust-Luga---Sources.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 15:52:15 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726164",
-   "title": "US Official: Trump instructed his team not to engage in talks with Iran until it is ready to sign a deal - Al Jazeera.",
-   "link": "https://www.financialjuice.com/News/9726164/US-Official-Trump-instructed-his-team-not-to-engage-in-talks-with-Iran-until-it-is-ready-to-sign-a-deal---Al-Jazeera.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 15:32:50 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726163",
-   "title": "US Official: Positive discussions took place with Iran, but Trump decided to wait - Al Jazeera.",
-   "link": "https://www.financialjuice.com/News/9726163/US-Official-Positive-discussions-took-place-with-Iran-but-Trump-decided-to-wait---Al-Jazeera.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 15:32:27 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726142",
-   "title": "Pentagon weighing a smaller US military presence in the Gulf once the Iran war ends - WaPo.",
-   "link": "https://www.financialjuice.com/News/9726142/Pentagon-weighing-a-smaller-US-military-presence-in-the-Gulf-once-the-Iran-war-ends---WaPo.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 15:16:20 GMT",
-   "desc": "The Pentagon is evaluating its military footprint in the Middle East in an early sign of the Iran war&#39;s potential to transform the U.S. presence in the region, according to eight people, including officials and others familiar with the matter. One of the key areas the Defense Department is assessing is whether to pull back troops from the Persian Gulf, where America&#39;s large overseas military bases have been battered by months of Iranian strikes, two people familiar with the ongoing analysis said. The damage to these facilities has prompted a once-in-a-generation chance for the Pentagon to reconsider its presence in the region. The Defense Department has already signaled that it might not rebuild its bases as they were before the conflict."
-  },
-  {
-   "id": "9726139",
-   "title": "The US mulls a smaller military presence in the Gulf once the war ends - WaPo.",
-   "link": "https://www.financialjuice.com/News/9726139/The-US-mulls-a-smaller-military-presence-in-the-Gulf-once-the-war-ends---WaPo.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 15:15:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726138",
-   "title": "Powerful explosions rock Jebel Ali in Dubai - Tasnim News.",
-   "link": "https://www.financialjuice.com/News/9726138/Powerful-explosions-rock-Jebel-Ali-in-Dubai---Tasnim-News.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 15:09:52 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726137",
-   "title": "Unconfirmed reports indicate that several missiles were fired by Yemeni armed forces - Tasnim News.",
-   "link": "https://www.financialjuice.com/News/9726137/Unconfirmed-reports-indicate-that-several-missiles-were-fired-by-Yemeni-armed-forces---Tasnim-News.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 15:09:31 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726136",
-   "title": "UAE: The situation is currently safe after the missile threat.",
-   "link": "https://www.financialjuice.com/News/9726136/UAE-The-situation-is-currently-safe-after-the-missile-threat.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 15:04:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726116",
-   "title": "US to sell $110 bln 4-week bills on August 20th, to settle on August 25th.",
-   "link": "https://www.financialjuice.com/News/9726116/US-to-sell-110-bln-4-week-bills-on-August-20th-to-settle-on-August-25th.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 15:00:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726115",
-   "title": "UAE: Air defense systems detected a missile threat.",
-   "link": "https://www.financialjuice.com/News/9726115/UAE-Air-defense-systems-detected-a-missile-threat.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:58:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726114",
-   "title": "French Budget Minister: The Government will hire sovereign AI, such as Mistral.",
-   "link": "https://www.financialjuice.com/News/9726114/French-Budget-Minister-The-Government-will-hire-sovereign-AI-such-as-Mistral.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:57:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726113",
-   "title": "Dubai residents get UAE missile threat alert.",
-   "link": "https://www.financialjuice.com/News/9726113/Dubai-residents-get-UAE-missile-threat-alert.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:56:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726112",
-   "title": "Bank of America Sees Nvidia Trading at a Significant Discount - FJElite",
-   "link": "https://www.financialjuice.com/News/9726112/Bank-of-America-Sees-Nvidia-Trading-at-a-Significant-Discount---FJElite.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:56:05 GMT",
-   "desc": "Bank of America estimates Nvidia could be trading at a 34% to 50% discount based on a conceptual sum-of-parts analysis of free cash flow, even after accounting for financing risks. The bank argues that investors may be overstating the risks around Nvidia and the broader AI trade, creating a potentially compelling valuation gap. Nvidia shares fell 2.5% to $219 on Tuesday amid a broader selloff in AI-related stocks. The stock is still up around 18% this year but remains about 7% below its May peak."
-  },
-  {
-   "id": "9726111",
-   "title": "Alarm sirens were heard in Dubai - Tasnim News",
-   "link": "https://www.financialjuice.com/News/9726111/Alarm-sirens-were-heard-in-Dubai---Tasnim-News.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:55:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726110",
-   "title": "Bank of England to hold the bank rate at 3.75% in 2026, said 56 out of 64 economists - Poll.",
-   "link": "https://www.financialjuice.com/News/9726110/Bank-of-England-to-hold-the-bank-rate-at-375-in-2026-said-56-out-of-64-economists---Poll.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:51:17 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726109",
-   "title": "UK inflation to average 3.1% and economic growth 1.1% in 2026 (vs 3.1%, 1.0% in July poll) - Poll.",
-   "link": "https://www.financialjuice.com/News/9726109/UK-inflation-to-average-31-and-economic-growth-11-in-2026-vs-31-10-in-July-poll---Poll.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:51:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726108",
-   "title": "Bank of England to hold bank rate steady at 3.75% through to the first quarter of next year, medians showed - Poll.",
-   "link": "https://www.financialjuice.com/News/9726108/Bank-of-England-to-hold-bank-rate-steady-at-375-through-to-the-first-quarter-of-next-year-medians-showed---Poll.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:50:46 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726104",
-   "title": "S&P Affirms NVIDIA's ratings, including AA issuer credit rating. $NVDA",
-   "link": "https://www.financialjuice.com/News/9726104/SP-Affirms-NVIDIAs-ratings-including-AA-issuer-credit-rating-NVDA.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:47:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726076",
-   "title": "UKMTO: A third party reported a bulk carrier being struck by a projectile.",
-   "link": "https://www.financialjuice.com/News/9726076/UKMTO-A-third-party-reported-a-bulk-carrier-being-struck-by-a-projectile.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:26:00 GMT",
-   "desc": "Receives report of incident in Hormuz on August 15th."
-  },
-  {
-   "id": "9726074",
-   "title": "Crypto Fear and Greed Index: 41/100 = Fear",
-   "link": "https://www.financialjuice.com/News/9726074/Crypto-Fear-and-Greed-Index-41100--Fear.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:18:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726073",
-   "title": "Fear and Greed Index: 55/100 = Neutral",
-   "link": "https://www.financialjuice.com/News/9726073/Fear-and-Greed-Index-55100--Neutral.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:17:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726065",
-   "title": "Turkish Foreign Ministry: We strongly condemn air strikes by Israel on a Syrian base.",
-   "link": "https://www.financialjuice.com/News/9726065/Turkish-Foreign-Ministry-We-strongly-condemn-air-strikes-by-Israel-on-a-Syrian-base.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:10:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726032",
-   "title": "US Pending Homes Index Actual 71.2 (Forecast -, Previous 72.5 ,Revision 72.9)",
-   "link": "https://www.financialjuice.com/News/9726032/US-Pending-Homes-Index-Actual-712-Forecast---Previous-725-Revision-729.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:01:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9726031",
-   "title": "US Pending Home Sales Change MoM Actual -2.3% (Forecast 0%, Previous -5.4%)",
-   "link": "https://www.financialjuice.com/News/9726031/US-Pending-Home-Sales-Change-MoM-Actual--23-Forecast-0-Previous--54.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 14:00:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725988",
-   "title": "Trump: Naval blockade remains in full effect.",
-   "link": "https://www.financialjuice.com/News/9725988/Trump-Naval-blockade-remains-in-full-effect.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:31:36 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725986",
-   "title": "Trump: All water mines have been removed or detonated.",
-   "link": "https://www.financialjuice.com/News/9725986/Trump-All-water-mines-have-been-removed-or-detonated.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:31:26 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725985",
-   "title": "Trump: Hormuz Strait is open and operating.",
-   "link": "https://www.financialjuice.com/News/9725985/Trump-Hormuz-Strait-is-open-and-operating.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:31:24 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725983",
-   "title": "MOO Imbalance",
-   "link": "https://www.financialjuice.com/News/9725983/MOO-Imbalance.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:30:36 GMT",
-   "desc": "S&amp;P 500: +285 mln Nasdaq 100: +13 mln Dow 30: +26 mln Mag 7: -1 mln"
-  },
-  {
-   "id": "9725984",
-   "title": "Trump: No talks or conversations are going on or scheduled with Iran - Truth Social",
-   "link": "https://www.financialjuice.com/News/9725984/Trump-No-talks-or-conversations-are-going-on-or-scheduled-with-Iran---Truth-Social.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:30:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725979",
-   "title": "Trump discussed cooperation between the UAE and the US and ways to further strengthen ties in support of mutual interests - WAM News",
-   "link": "https://www.financialjuice.com/News/9725979/Trump-discussed-cooperation-between-the-UAE-and-the-US-and-ways-to-further-strengthen-ties-in-support-of-mutual-interests---WAM-News.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:24:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725975",
-   "title": "UAE President and Trump discuss region in a phone call - WAM.",
-   "link": "https://www.financialjuice.com/News/9725975/UAE-President-and-Trump-discuss-region-in-a-phone-call---WAM.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:19:33 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725966",
-   "title": "US Industrial Production YoY Actual 1.1% (Forecast -, Previous 1.14%)",
-   "link": "https://www.financialjuice.com/News/9725966/US-Industrial-Production-YoY-Actual-11-Forecast---Previous-114.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:16:47 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725953",
-   "title": "US Redbook YoY Actual 7.6% (Forecast -, Previous 8.3%)",
-   "link": "https://www.financialjuice.com/News/9725953/US-Redbook-YoY-Actual-76-Forecast---Previous-83.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:15:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725957",
-   "title": "ByteDance draws over $30 billion in orders for a jumbo bank loan - Sources",
-   "link": "https://www.financialjuice.com/News/9725957/ByteDance-draws-over-30-billion-in-orders-for-a-jumbo-bank-loan---Sources.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:15:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725956",
-   "title": "US Industrial Production MoM Actual 0.2% (Forecast 0.3%, Previous 0.1%)",
-   "link": "https://www.financialjuice.com/News/9725956/US-Industrial-Production-MoM-Actual-02-Forecast-03-Previous-01.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:15:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725955",
-   "title": "US Manufacturing Output MoM Actual 0.2% (Forecast 0.2%, Previous 0.0%)",
-   "link": "https://www.financialjuice.com/News/9725955/US-Manufacturing-Output-MoM-Actual-02-Forecast-02-Previous-00.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:15:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725954",
-   "title": "US Capacity Utilization Actual 76.3% (Forecast 76.3%, Previous 76.1%)",
-   "link": "https://www.financialjuice.com/News/9725954/US-Capacity-Utilization-Actual-763-Forecast-763-Previous-761.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:15:05 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725952",
-   "title": "A source familiar with the details told Jerusalem Post that Israel has recently provided the United States with intelligence on the Syrian military’s efforts to build up its military capabilities.",
-   "link": "https://www.financialjuice.com/News/9725952/A-source-familiar-with-the-details-told-Jerusalem-Post-that-Israel-has-recently-provided-the-United-States-with-intelligence-on-the-Syrian-militarys-efforts-to-build-up-its-military-capabilities.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:14:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725951",
-   "title": "Somali MP Awad: Somalia has become battleground between Israel and Turkey - N12 news.",
-   "link": "https://www.financialjuice.com/News/9725951/Somali-MP-Awad-Somalia-has-become-battleground-between-Israel-and-Turkey---N12-news.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:10:51 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725950",
-   "title": "Somali MP Abdullahi Hashi Awad says Turkey has immense influence in Somalia and is plundering the country - Israel's News 12",
-   "link": "https://www.financialjuice.com/News/9725950/Somali-MP-Abdullahi-Hashi-Awad-says-Turkey-has-immense-influence-in-Somalia-and-is-plundering-the-country---Israels-News-12.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:09:27 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725929",
-   "title": "ECB forex reserves fell €500 mln to €348.4 bln",
-   "link": "https://www.financialjuice.com/News/9725929/ECB-forex-reserves-fell-500-mln-to-3484-bln.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:00:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725927",
-   "title": "ECB settled €1,678.8 bln public-sector bond purchases",
-   "link": "https://www.financialjuice.com/News/9725927/ECB-settled-16788-bln-public-sector-bond-purchases.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:00:43 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725926",
-   "title": "ECB bond holdings under PEPP €1.29 tln as of last week.",
-   "link": "https://www.financialjuice.com/News/9725926/ECB-bond-holdings-under-PEPP-129-tln-as-of-last-week.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:00:35 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725922",
-   "title": "ECB settled €218.0 bln corporate bond purchases.",
-   "link": "https://www.financialjuice.com/News/9725922/ECB-settled-2180-bln-corporate-bond-purchases.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:00:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725921",
-   "title": "Effective fed funds rate 3.63% August 17th vs 3.63% August 14th",
-   "link": "https://www.financialjuice.com/News/9725921/Effective-fed-funds-rate-363-August-17th-vs-363-August-14th.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 13:00:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9725920",
-   "title": "Qatar: Want an agreement to reopen the Strait of Hormuz and establish a ceasefire simultaneously. - IRNA",
-   "link": "https://www.financialjuice.com/News/9725920/Qatar-Want-an-agreement-to-reopen-the-Strait-of-Hormuz-and-establish-a-ceasefire-simultaneously---IRNA.aspx?xy=rss",
-   "pubDate": "Tue, 18 Aug 2026 12:59:10 GMT",
    "desc": ""
   }
  ]
