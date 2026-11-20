@@ -1,7 +1,497 @@
 {
- "updated_at": "2026-11-20T04:05:56.855679+00:00",
+ "updated_at": "2026-11-20T12:44:36.910699+00:00",
  "count": 20000,
  "items": [
+  {
+   "id": "9861681",
+   "title": "French unions call for further strike on December 1 - AFP",
+   "link": "https://www.financialjuice.com/News/9861681/French-unions-call-for-further-strike-on-December-1---AFP.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 12:12:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861667",
+   "title": "Yemen's Houthis: Saudi Arabia's Shugaiq power plant will be targeted in coming hours in retaliation for strikes on Saada, mocha power stations - Statement",
+   "link": "https://www.financialjuice.com/News/9861667/Yemens-Houthis-Saudi-Arabias-Shugaiq-power-plant-will-be-targeted-in-coming-hours-in-retaliation-for-strikes-on-Saada-mocha-power-stations---Statement.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 11:58:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861630",
+   "title": "Tusk: NATO Secretary General Rutte to visit Poland on Sat",
+   "link": "https://www.financialjuice.com/News/9861630/Tusk-NATO-Secretary-General-Rutte-to-visit-Poland-on-Sat.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 11:24:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861629",
+   "title": "Tusk: Russian missile episode appears deliberate",
+   "link": "https://www.financialjuice.com/News/9861629/Tusk-Russian-missile-episode-appears-deliberate.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 11:23:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861626",
+   "title": "Russia: involvement of Kallas in talks could cause breakdown of negotiations",
+   "link": "https://www.financialjuice.com/News/9861626/Russia-involvement-of-Kallas-in-talks-could-cause-breakdown-of-negotiations.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 11:20:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861625",
+   "title": "China's Li: China ready to boost trade with Australia - CCTV",
+   "link": "https://www.financialjuice.com/News/9861625/Chinas-Li-China-ready-to-boost-trade-with-Australia---CCTV.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 11:19:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861624",
+   "title": "Russia: EU foreign policy chief Kaja Kallas totally unsuitable to negotiate with Moscow",
+   "link": "https://www.financialjuice.com/News/9861624/Russia-EU-foreign-policy-chief-Kaja-Kallas-totally-unsuitable-to-negotiate-with-Moscow.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 11:19:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861623",
+   "title": "Houthis threaten to hit Saudi ports if Hodeidah port is attacked",
+   "link": "https://www.financialjuice.com/News/9861623/Houthis-threaten-to-hit-Saudi-ports-if-Hodeidah-port-is-attacked.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 11:18:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861616",
+   "title": "Yemen's Houthis warn workers and people near Saudi Red Sea ports to evacuate immediately, urge shipping companies to remove vessels",
+   "link": "https://www.financialjuice.com/News/9861616/Yemens-Houthis-warn-workers-and-people-near-Saudi-Red-Sea-ports-to-evacuate-immediately-urge-shipping-companies-to-remove-vessels.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 11:17:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861604",
+   "title": "Yemen's Houthis: Saudi Arabia's Jeddah port and all its Red Sea ports will be targeted if the coalition strikes Yemen's Hodeidah port - Statement",
+   "link": "https://www.financialjuice.com/News/9861604/Yemens-Houthis-Saudi-Arabias-Jeddah-port-and-all-its-Red-Sea-ports-will-be-targeted-if-the-coalition-strikes-Yemens-Hodeidah-port---Statement.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 11:17:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861598",
+   "title": "EU Commission disburses €7.9 billion for Ukraine",
+   "link": "https://www.financialjuice.com/News/9861598/EU-Commission-disburses-79-billion-for-Ukraine.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 11:03:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861590",
+   "title": "German Government spokesperson: Merz to receive nato secretary-general Mark Rutte on Monday",
+   "link": "https://www.financialjuice.com/News/9861590/German-Government-spokesperson-Merz-to-receive-nato-secretary-general-Mark-Rutte-on-Monday.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 10:32:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861589",
+   "title": "Russian Foreign Ministry: meeting between Putin, Xi, and Trump could mark the start of dialogue on nuclear risks - TASS",
+   "link": "https://www.financialjuice.com/News/9861589/Russian-Foreign-Ministry-meeting-between-Putin-Xi-and-Trump-could-mark-the-start-of-dialogue-on-nuclear-risks---TASS.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 10:23:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861587",
+   "title": "Traders pare ECB rate bets, favor just two hikes by the end of 2027",
+   "link": "https://www.financialjuice.com/News/9861587/Traders-pare-ECB-rate-bets-favor-just-two-hikes-by-the-end-of-2027.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 10:23:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861586",
+   "title": "Russian foreign ministry: There is currently no basis to resume dialogue on control of nuclear weapons - IFX",
+   "link": "https://www.financialjuice.com/News/9861586/Russian-foreign-ministry-There-is-currently-no-basis-to-resume-dialogue-on-control-of-nuclear-weapons---IFX.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 10:20:35 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861571",
+   "title": "UK-EU summit: Talks will continue on some areas",
+   "link": "https://www.financialjuice.com/News/9861571/UK-EU-summit-Talks-will-continue-on-some-areas.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 10:19:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861570",
+   "title": "UK-EU summit deal is done, negotiations have concluded - No. 10 Downing Street",
+   "link": "https://www.financialjuice.com/News/9861570/UK-EU-summit-deal-is-done-negotiations-have-concluded---No-10-Downing-Street.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 10:18:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861512",
+   "title": "ECB's Pereira: Key question is whether energy price pressures spread to rest of economy.",
+   "link": "https://www.financialjuice.com/News/9861512/ECBs-Pereira-Key-question-is-whether-energy-price-pressures-spread-to-rest-of-economy.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 09:46:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861511",
+   "title": "ECB's Pereira: Energy-driven inflation pressures remain significant.",
+   "link": "https://www.financialjuice.com/News/9861511/ECBs-Pereira-Energy-driven-inflation-pressures-remain-significant.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 09:46:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861504",
+   "title": "Credit Ágricole: FX Weekly - FJElite",
+   "link": "https://www.financialjuice.com/News/9861504/Credit-%c3%81gricole-FX-Weekly---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 09:38:12 GMT",
+   "desc": "The AI trade has been battered by the Democrat blue wave, concerns about Nvidia’s corporate leadership and the US’s new restrictions on access to advanced chips physically as well as via remote access. Despite US technology stocks being weaker, the USD remains dominant. We hold to the view that the unwinding of the AI trade is bad news for the USD. Much of the currency’s attraction in 2026 has been in investing in US technology stocks rather than USTs. People could argue that the recent price action suggests the USD&#39;s safe-haven-with-yield status has returned. Weakening risk sentiment is a significant positive for the USD vs the CAD, GBP, AUD, NZD, NOK and JPY. It is not important for the USD’s performance vs the EUR, CHF or SEK. Importantly, risk sentiment is a bigger driver than rates for only GBP/USD and is equally important to rates for AUD/USD. So the jump in US rates is behind most of the USD&#39;s recent strength rather than a run to the currency as a safe haven. Sovereign risk remains more important than general risk for EUR/USD and USD/SEK. For USD/JPY, sovereign risk is a bigger driver than general risk sentiment, but rates are the largest driver of the exchange rate. This matters for the coming week as economic performance and inflation will be compared across G10 currencies. The US, UK and Eurozone see the releases of PMI as well German IFO and US consumer confidence data. French and Spanish inflation data will be compared with US core PCE data. Australian inflation could remain stubborn which could risk whipsawing investors after weak labour market data. The near-term outlook of the broad USD across the board could continue to follow the predictions of the ‘USD smile’ and thus take its cue from the resilience of market risk sentiment and the price action in US rate markets. FX investors will also scrutinise the performance of the US stocks in the wake of Anthropic’s IPO [Crédit Agricole CIB is acting as joint bookrunner]. They would be looking for any evidence that the IPO could revive market appetite for the beleaguered US tech stocks, in particular. Any ‘buy-the-rumour-sell-the-fact’ equity price action could eventually hurt the USD appeal, in our view."
+  },
+  {
+   "id": "9861503",
+   "title": "Deutsche Bank: Chips and the USD - FJElite",
+   "link": "https://www.financialjuice.com/News/9861503/Deutsche-Bank-Chips-and-the-USD---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 09:37:12 GMT",
+   "desc": "What do chips have to do with a new era of dollar dominance? As we discuss in this paper - a great deal. Chips are not only critical to the future of AI but have recently emerged as a huge driver of global trade and capital flows. It is well known that the US is dominant in upstream chip technology and downstream compute. This note delves deeper into the workings of the middle of the chain where flows have been reinforcing the dollar&#39;s global role. The manufacturing of chips largely takes place in Asia where chip-related trade surpluses have ballooned. As we show, these surpluses are finding their way back to the US via investments in US capital markets. Asian chip surpluses are not being recycled into US Treasuries like petrodollar surpluses were, but into US equities. Foreign inflows into US equities have crossed USDItn a year and become the mainstay of US deficit funding. The biggest source of increase over the past year has come from Asia. Equity flows have not just been supporting the US dollar but have provided financing to the companies driving the AI buildout and chips boom itself. This introduces forms of circularity and potential instability to global flows. Moreover, equities are a much riskier asset class than bonds - US stocks are three times as volatile as Treasuries, with tech stocks up to ten times as much. Growing dollar dependence on inherently riskier capital should spill into higher US dollar volatility over time. The rise of chips as a driver of dollar dominance can be seen as a symptom of change in the ultimate source of US power - from geopolitical to technological leadership. This power is increasingly concentrated in the private sector with dollar supportive flows intermediated via private balance sheets. Understanding this new framework and its risks is even more important given rapid shifts in news flow around AI, from the US political climate, high-stakes capital market raisings, potential tightening in export controls, and the highly consequential technology race with China."
+  },
+  {
+   "id": "9861482",
+   "title": "Europe Sentiment: Selloff Extends Despite Strong Anthropic Debut - FJElite",
+   "link": "https://www.financialjuice.com/News/9861482/Europe-Sentiment-Selloff-Extends-Despite-Strong-Anthropic-Debut---FJElite.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 09:19:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861384",
+   "title": "Currency Strength Chart: Strongest: NZD, GBP, AUD, GBP, CHF, CAD, NZD, USD - Weakest",
+   "link": "https://www.financialjuice.com/News/9861384/Currency-Strength-Chart-Strongest-NZD-GBP-AUD-GBP-CHF-CAD-NZD-USD---Weakest.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 08:01:34 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861382",
+   "title": "French Budget Minister Amiel: Extra €6B French budget effort “starting point' for 2027",
+   "link": "https://www.financialjuice.com/News/9861382/French-Budget-Minister-Amiel-Extra-6B-French-budget-effort-starting-point-for-2027.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:52:27 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861371",
+   "title": "French Business Climate Mfg Actual 104 (Forecast 103, Previous 105)",
+   "link": "https://www.financialjuice.com/News/9861371/French-Business-Climate-Mfg-Actual-104-Forecast-103-Previous-105.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861370",
+   "title": "French Business Climate Overall Actual 95 (Forecast 96, Previous 97)",
+   "link": "https://www.financialjuice.com/News/9861370/French-Business-Climate-Overall-Actual-95-Forecast-96-Previous-97.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:45:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861333",
+   "title": "SNB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9861333/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:09:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861332",
+   "title": "Russian Foreign Ministry: No agreement on next round of Ukraine talks - TASS",
+   "link": "https://www.financialjuice.com/News/9861332/Russian-Foreign-Ministry-No-agreement-on-next-round-of-Ukraine-talks---TASS.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:08:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861331",
+   "title": "RBNZ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9861331/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:08:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861330",
+   "title": "RBA Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9861330/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:08:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861329",
+   "title": "BoJ Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9861329/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:07:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861328",
+   "title": "BoC Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9861328/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:07:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861327",
+   "title": "BoE Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9861327/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:07:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861326",
+   "title": "ECB Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9861326/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:06:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861325",
+   "title": "Fed Interest Rate Probabilities",
+   "link": "https://www.financialjuice.com/News/9861325/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:06:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861324",
+   "title": "Commodities Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9861324/Commodities-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:05:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861323",
+   "title": "FX Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9861323/FX-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:05:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861322",
+   "title": "US Index Futures Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9861322/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:05:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861321",
+   "title": "Top S&P 500 Stock Names Implied Volatility",
+   "link": "https://www.financialjuice.com/News/9861321/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:04:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861320",
+   "title": "ONS - UK supermarkets reported stronger October sales after government advice to buy long-life items",
+   "link": "https://www.financialjuice.com/News/9861320/ONS---UK-supermarkets-reported-stronger-October-sales-after-government-advice-to-buy-long-life-items.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:04:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861319",
+   "title": "120-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9861319/120-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:04:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861318",
+   "title": "90-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9861318/90-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:03:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861317",
+   "title": "60-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9861317/60-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:03:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861316",
+   "title": "30-Day Correlation Matrix",
+   "link": "https://www.financialjuice.com/News/9861316/30-Day-Correlation-Matrix.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:03:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861302",
+   "title": "Swedish Unemployment Rate SA Actual 8.2% (Forecast 8.55%, Previous 8.6%)",
+   "link": "https://www.financialjuice.com/News/9861302/Swedish-Unemployment-Rate-SA-Actual-82-Forecast-855-Previous-86.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:00:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861301",
+   "title": "Swedish Unemployment Rate Actual 7.7% (Forecast -, Previous 8.1%)",
+   "link": "https://www.financialjuice.com/News/9861301/Swedish-Unemployment-Rate-Actual-77-Forecast---Previous-81.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:00:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861304",
+   "title": "German PPI YoY Actual 8.1% (Forecast 7.3%, Previous 6.7%)",
+   "link": "https://www.financialjuice.com/News/9861304/German-PPI-YoY-Actual-81-Forecast-73-Previous-67.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:00:09 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861303",
+   "title": "German PPI MoM Actual 1.4% (Forecast 1%, Previous 1.9%)",
+   "link": "https://www.financialjuice.com/News/9861303/German-PPI-MoM-Actual-14-Forecast-1-Previous-19.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:00:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861300",
+   "title": "UK PSNB ex Banks Actual 17.036B (Forecast -, Previous 24.520B)",
+   "link": "https://www.financialjuice.com/News/9861300/UK-PSNB-ex-Banks-Actual-17036B-Forecast---Previous-24520B.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:00:06 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861299",
+   "title": "UK Core Retail Sales MoM Actual 0.9% (Forecast 0.1%, Previous -0.7%)",
+   "link": "https://www.financialjuice.com/News/9861299/UK-Core-Retail-Sales-MoM-Actual-09-Forecast-01-Previous--07.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861298",
+   "title": "UK Retail Sales MoM Actual 0.7% (Forecast 0%, Previous -0.4%)",
+   "link": "https://www.financialjuice.com/News/9861298/UK-Retail-Sales-MoM-Actual-07-Forecast-0-Previous--04.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861297",
+   "title": "UK Retail Sales YoY Actual 2.3% (Forecast 1.7%, Previous 0.8%)",
+   "link": "https://www.financialjuice.com/News/9861297/UK-Retail-Sales-YoY-Actual-23-Forecast-17-Previous-08.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:00:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861296",
+   "title": "UK Core Retail Sales YoY Actual 2.5% (Forecast 1.8%, Previous 0.8%)",
+   "link": "https://www.financialjuice.com/News/9861296/UK-Core-Retail-Sales-YoY-Actual-25-Forecast-18-Previous-08.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 07:00:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861295",
+   "title": "Russian Foreign Ministry: no agreement on next round of Ukraine talks - IFX",
+   "link": "https://www.financialjuice.com/News/9861295/Russian-Foreign-Ministry-no-agreement-on-next-round-of-Ukraine-talks---IFX.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 06:58:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861265",
+   "title": "UK Business Secretary Reynolds: Financial services neglected in original Brexit talks",
+   "link": "https://www.financialjuice.com/News/9861265/UK-Business-Secretary-Reynolds-Financial-services-neglected-in-original-Brexit-talks.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 06:24:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861264",
+   "title": "UK Business Secretary Reynolds: A lot to be gained on both sides in EU-UK trade",
+   "link": "https://www.financialjuice.com/News/9861264/UK-Business-Secretary-Reynolds-A-lot-to-be-gained-on-both-sides-in-EU-UK-trade.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 06:24:32 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861263",
+   "title": "UK Business Secretary Reynolds: Wouldn't make tariff policies just because the EU has",
+   "link": "https://www.financialjuice.com/News/9861263/UK-Business-Secretary-Reynolds-Wouldnt-make-tariff-policies-just-because-the-EU-has.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 06:21:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861262",
+   "title": "UK Business Secretary Reynolds: Make tariff decisions in the UK industry's best interest",
+   "link": "https://www.financialjuice.com/News/9861262/UK-Business-Secretary-Reynolds-Make-tariff-decisions-in-the-UK-industrys-best-interest.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 06:20:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861230",
+   "title": "Emergency blackouts introduced in Ukraine's Kyiv, city officials say",
+   "link": "https://www.financialjuice.com/News/9861230/Emergency-blackouts-introduced-in-Ukraines-Kyiv-city-officials-say.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 05:57:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861212",
+   "title": "Russian defence ministry: Russian forces target energy and transport infrastructure in Kyiv, several Ukrainian regions - RIA",
+   "link": "https://www.financialjuice.com/News/9861212/Russian-defence-ministry-Russian-forces-target-energy-and-transport-infrastructure-in-Kyiv-several-Ukrainian-regions---RIA.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 05:31:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861209",
+   "title": "Dutch November consumer confidence improves to -32 points from -34 in October, CBS says",
+   "link": "https://www.financialjuice.com/News/9861209/Dutch-November-consumer-confidence-improves-to--32-points-from--34-in-October-CBS-says.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 05:30:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861208",
+   "title": "Dutch Consumer Confidence Adjusted Actual -32 (Forecast -, Previous -34)",
+   "link": "https://www.financialjuice.com/News/9861208/Dutch-Consumer-Confidence-Adjusted-Actual--32-Forecast---Previous--34.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 05:30:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861207",
+   "title": "Russian defence ministry: Russian forces strike sea vessels utilized by Ukrainian military - RIA",
+   "link": "https://www.financialjuice.com/News/9861207/Russian-defence-ministry-Russian-forces-strike-sea-vessels-utilized-by-Ukrainian-military---RIA.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 05:29:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861206",
+   "title": "China finance ministry auctions 30-year bonds at 2.0337% yield: traders",
+   "link": "https://www.financialjuice.com/News/9861206/China-finance-ministry-auctions-30-year-bonds-at-20337-yield-traders.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 05:29:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861205",
+   "title": "Meta: it has removed Threads accounts flagged by Taiwan government",
+   "link": "https://www.financialjuice.com/News/9861205/Meta-it-has-removed-Threads-accounts-flagged-by-Taiwan-government.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 05:28:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861204",
+   "title": "Taiwan government reported nearly 2,700 suspicious social media accounts to Meta: Taipei says they aimed to sway elections",
+   "link": "https://www.financialjuice.com/News/9861204/Taiwan-government-reported-nearly-2700-suspicious-social-media-accounts-to-Meta-Taipei-says-they-aimed-to-sway-elections.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 05:28:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861203",
+   "title": "Russian strike kills three in Ukraine's Kyiv: city authorities",
+   "link": "https://www.financialjuice.com/News/9861203/Russian-strike-kills-three-in-Ukraines-Kyiv-city-authorities.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 05:17:57 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861169",
+   "title": "China prepares to resume US private equity investments after withdrawal - FT",
+   "link": "https://www.financialjuice.com/News/9861169/China-prepares-to-resume-US-private-equity-investments-after-withdrawal---FT.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 05:02:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861157",
+   "title": "Ballistic missile strikes damage multiple bridges in Ukraine's Kyiv: mayor",
+   "link": "https://www.financialjuice.com/News/9861157/Ballistic-missile-strikes-damage-multiple-bridges-in-Ukraines-Kyiv-mayor.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 04:33:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9861138",
+   "title": "Saudi-led coalition: intercepted and destroyed Houthi drone launched toward southern region",
+   "link": "https://www.financialjuice.com/News/9861138/Saudi-led-coalition-intercepted-and-destroyed-Houthi-drone-launched-toward-southern-region.aspx?xy=rss",
+   "pubDate": "Fri, 20 Nov 2026 04:22:10 GMT",
+   "desc": ""
+  },
   {
    "id": "9861124",
    "title": "Poll: China property sales seen dropping 14.0% y/y in 2026 vs -10.0% in prior poll",
@@ -139511,496 +140001,6 @@
    "link": "https://www.financialjuice.com/News/9727640/UBS-Oil-Demand-Estimates-Converge-Higher---FJElite.aspx?xy=rss",
    "pubDate": "Wed, 19 Aug 2026 12:03:44 GMT",
    "desc": "The gap between the main energy agencies’ oil demand estimates has narrowed significantly since the end of 2025. OPEC’s numbers are broadly unchanged, while the IEA has revised 2024 demand higher by 0.94mbpd and 2025 demand by 0.92mbpd. The IEA’s 2024 estimate is now above OPEC’s, while its 2025 estimate is only slightly lower. The EIA has barely revised its forecasts and remains well below the other two, but further upward revisions are expected. Because supply estimates have changed little, the stronger demand numbers have shifted the market balance. Both OPEC and the IEA now see the oil market as undersupplied in 2024, while the EIA still sees a modest surplus. The repeated upward revisions reinforce the view that oil demand remains more resilient than expected, with emerging markets likely to keep driving growth. The IEA now sees demand at 105.7mbpd in 2027, already above the 105.6mbpd level it previously expected only by 2029."
-  },
-  {
-   "id": "9727639",
-   "title": "UBS: Gold Gains as Fed Uncertainty and Investor Demand Improve - FJElite",
-   "link": "https://www.financialjuice.com/News/9727639/UBS-Gold-Gains-as-Fed-Uncertainty-and-Investor-Demand-Improve---FJElite.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 12:01:59 GMT",
-   "desc": "Gold has risen as investors reassess the outlook for US monetary policy and the dollar. Recent Fed communication has left the near-term rate path uncertain, while softer US labour-market data have reinforced expectations that rates could remain unchanged if inflation stays contained. ETF inflows have resumed, first from China and more recently Europe, while central-bank demand remains solid. Central banks bought a net 51 tonnes in June, and the PBoC increased its gold reserves by 20 tonnes in July, the largest monthly increase since October 2023. For gold to extend the rally, three conditions would help: continued dollar weakness, lower expected US real rates, and stronger investor demand. ETF flows are improving but are not yet clearly sustained. Around 500 tonnes of investment demand per quarter may be needed for gold to trade more sustainably at or above $5,000 an ounce."
-  },
-  {
-   "id": "9727616",
-   "title": "Secured Overnight Financing Rate 3.65% August 18 vs 3.66% August 17.",
-   "link": "https://www.financialjuice.com/News/9727616/Secured-Overnight-Financing-Rate-365-August-18-vs-366-August-17.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 11:59:57 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727615",
-   "title": "Deutsche Bank: Equities and Bonds Under Pressure as Energy Prices Rise - FJElite",
-   "link": "https://www.financialjuice.com/News/9727615/Deutsche-Bank-Equities-and-Bonds-Under-Pressure-as-Energy-Prices-Rise---FJElite.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 11:59:56 GMT",
-   "desc": "Markets had another difficult session, with equities hit by a sharp chip-stock selloff while several global bond yields pushed to multi-year highs. The S&amp;P 500 fell for a third straight session, Germany’s 10-year bund yield reached its highest level since 2011, and oil moved higher again as there remained no sign of progress in US-Iran talks. US Treasuries were the main exception, with the 10-year yield edging lower after weaker US data. The bond selloff remains the bigger story, driven by longer-term concerns around fiscal deficits and the AI investment boom, alongside renewed near-term inflation pressure. One-year inflation swaps moved higher in both the US and Europe as Brent reached a three-week high above $91 a barrel and European natural gas prices climbed to a three-year high, adding particular pressure to European bonds exposed to the energy shock."
-  },
-  {
-   "id": "9727614",
-   "title": "US Sentiment: Cautious Tone in the US Premarket - FJElite",
-   "link": "https://www.financialjuice.com/News/9727614/US-Sentiment-Cautious-Tone-in-the-US-Premarket---FJElite.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 11:56:26 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727578",
-   "title": "Iraqi parliament speaker calls for special status for Iraqi oil exports via Hormuz in meeting with Iran’s Qalibaf",
-   "link": "https://www.financialjuice.com/News/9727578/Iraqi-parliament-speaker-calls-for-special-status-for-Iraqi-oil-exports-via-Hormuz-in-meeting-with-Irans-Qalibaf.aspx",
-   "pubDate": "Wed, 19 Aug 2026 11:23:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727555",
-   "title": "China's Wang Yi: The US should change its policy towards North Korea - Yonhap",
-   "link": "https://www.financialjuice.com/News/9727555/Chinas-Wang-Yi-The-US-should-change-its-policy-towards-North-Korea---Yonhap.aspx",
-   "pubDate": "Wed, 19 Aug 2026 11:02:50 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727537",
-   "title": "US MBA 30-Yr Mortgage Rate Actual 6.77% (Forecast -, Previous 6.77%)",
-   "link": "https://www.financialjuice.com/News/9727537/US-MBA-30-Yr-Mortgage-Rate-Actual-677-Forecast---Previous-677.aspx",
-   "pubDate": "Wed, 19 Aug 2026 11:01:17 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727536",
-   "title": "US MBA Mortgage Applications Actual -0.4% (Forecast -, Previous 3.6%)",
-   "link": "https://www.financialjuice.com/News/9727536/US-MBA-Mortgage-Applications-Actual--04-Forecast---Previous-36.aspx",
-   "pubDate": "Wed, 19 Aug 2026 11:00:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727505",
-   "title": "$TGT Target Q2 2027 Earnings",
-   "link": "https://www.financialjuice.com/News/9727505/TGT-Target-Q2-2027-Earnings.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 10:31:19 GMT",
-   "desc": "Adj. EPS $4.11, est. $2.29 Net sales $26.54B, est. $26.11B Comp sales +3.8%, est. +2.43% Gross margin 33.7% Sees FY adj. EPS $9.90 to $10.90 Average transaction amount misses estimates Lifts full-year outlook as recovery efforts gain ground"
-  },
-  {
-   "id": "9727502",
-   "title": "Advanced Micro-FAB to invest 3.5b Yuan in Shanghai project",
-   "link": "https://www.financialjuice.com/News/9727502/Advanced-Micro-FAB-to-invest-35b-Yuan-in-Shanghai-project.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 10:10:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727471",
-   "title": "Ukraine's parliament confirms Andrii Sybiha as foreign minister again",
-   "link": "https://www.financialjuice.com/News/9727471/Ukraines-parliament-confirms-Andrii-Sybiha-as-foreign-minister-again.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:50:35 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727470",
-   "title": "Amazon: Amazon Prime Air aims to serve nearly 500 cities and towns by end of 2026 - website",
-   "link": "https://www.financialjuice.com/News/9727470/Amazon-Amazon-Prime-Air-aims-to-serve-nearly-500-cities-and-towns-by-end-of-2026---website.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:49:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727449",
-   "title": "Hungary sells HUF 30.5 billion in 10-year bonds: average yield 5.48%",
-   "link": "https://www.financialjuice.com/News/9727449/Hungary-sells-HUF-305-billion-in-10-year-bonds-average-yield-548.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:32:58 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727448",
-   "title": "Hungary offers HUF 20 billion in 3-year bonds; average yield 5.32%",
-   "link": "https://www.financialjuice.com/News/9727448/Hungary-offers-HUF-20-billion-in-3-year-bonds-average-yield-532.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:32:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727435",
-   "title": "Germany sells 3.769 billion euros in auction of additional 3% 10-year bund: Buba",
-   "link": "https://www.financialjuice.com/News/9727435/Germany-sells-3769-billion-euros-in-auction-of-additional-3-10-year-bund-Buba.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:31:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727434",
-   "title": "Germany sells 10-year bond with average yield 3.26% vs 3.13% previously: Buba",
-   "link": "https://www.financialjuice.com/News/9727434/Germany-sells-10-year-bond-with-average-yield-326-vs-313-previously-Buba.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:31:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727433",
-   "title": "Germany sells 10-year bund with bid/cover ratio 1.1 : Buba",
-   "link": "https://www.financialjuice.com/News/9727433/Germany-sells-10-year-bund-with-bidcover-ratio-11--Buba.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:31:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727430",
-   "title": "German govt bonds weighted average price 97.78; average yield 3.26%",
-   "link": "https://www.financialjuice.com/News/9727430/German-govt-bonds-weighted-average-price-9778-average-yield-326.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:31:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727429",
-   "title": "Germany 3% 10-year bond sale bid to cover ratio at 1.1 times",
-   "link": "https://www.financialjuice.com/News/9727429/Germany-3-10-year-bond-sale-bid-to-cover-ratio-at-11-times.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:31:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727428",
-   "title": "Germany sells 3.769 billion euro of 10-year 3% government bonds",
-   "link": "https://www.financialjuice.com/News/9727428/Germany-sells-3769-billion-euro-of-10-year-3-government-bonds.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:31:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727427",
-   "title": "German 10 Yr Bund Yield Actual 3.26% (Forecast -, Previous 3.13%)",
-   "link": "https://www.financialjuice.com/News/9727427/German-10-Yr-Bund-Yield-Actual-326-Forecast---Previous-313.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:31:29 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727426",
-   "title": "German 10 Yr Bund Bid-to-Cover Actual 1.1 (Forecast -, Previous 1.1)",
-   "link": "https://www.financialjuice.com/News/9727426/German-10-Yr-Bund-Bid-to-Cover-Actual-11-Forecast---Previous-11.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:31:28 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727371",
-   "title": "Eurozone CPI YoY Final Actual 2.9% (Forecast 2.9%, Previous 2.9%)",
-   "link": "https://www.financialjuice.com/News/9727371/Eurozone-CPI-YoY-Final-Actual-29-Forecast-29-Previous-29.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:01:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727370",
-   "title": "Eurozone Core CPI YoY Final Actual 2.5% (Forecast 2.5%, Previous 2.5%)",
-   "link": "https://www.financialjuice.com/News/9727370/Eurozone-Core-CPI-YoY-Final-Actual-25-Forecast-25-Previous-25.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:01:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727369",
-   "title": "Eurozone CPI MoM Final Actual 0.2% (Forecast 0.2%, Previous -0.1%)",
-   "link": "https://www.financialjuice.com/News/9727369/Eurozone-CPI-MoM-Final-Actual-02-Forecast-02-Previous--01.aspx",
-   "pubDate": "Wed, 19 Aug 2026 09:00:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727352",
-   "title": "ING: The GBP - FJElite",
-   "link": "https://www.financialjuice.com/News/9727352/ING-The-GBP---FJElite.aspx",
-   "pubDate": "Wed, 19 Aug 2026 08:41:46 GMT",
-   "desc": "EUR/GBP has barely budged on today&#39;s release of the UK July CPI data. The rise in headline inflation was widely expected, though food inflation - which the Bank of England tracks closely - remains quite benign. ING&#39;s UK economist, James Smith, notes that the BoE&#39;s core services measure of inflation has picked up a little to 3.8% year-on-year, but probably not enough to trouble the Bank. Our call is that the BoE does not need to hike again, but that the realisation ofthat may not weigh on sterling until later in the year. In a low volatility environment, sterling is probably still enjoying some carry demand given it is one of the highest, volatility-adjusted currencies in G10. EUR/GBP can probably hang around these 0.8550 levels for the time being."
-  },
-  {
-   "id": "9727351",
-   "title": "Goldman Sachs: European Investment Grade Credit - FJElite",
-   "link": "https://www.financialjuice.com/News/9727351/Goldman-Sachs-European-Investment-Grade-Credit---FJElite.aspx",
-   "pubDate": "Wed, 19 Aug 2026 08:40:48 GMT",
-   "desc": "A key pillar supporting tight index-level credit spreads in recent years has been strong demand from yield-based investors. In Europe, a distinctive source of support has come from retail investors through fixed-income target maturity funds. We estimate these funds have accumulated roughly €270 billion in assets under management since 2021, a meaningful technical tailwind for the EUR IG market, which sees an annual average of €200 billion in net supply. We take a closer look at this source of demand for EUR credit and its forward-looking implications. While AUM growth remains positive, it has slowed alongside a moderation in EU household allocations to fixed income. Fund holdings also point to a more conservative allocation across recent vintages, likely reflecting European retail investors’ preference for a relatively safe alternative to cash. For inflows into fixed-maturity funds to re-accelerate meaningfully, the asset class would likely need to offer a more compelling yield pickup relative to cash. In practice, that would require taking on more duration or credit risk, where retail investor appetite still appears limited. In addition, for retail investors willing to move beyond cash, strong European equity returns have become a more meaningful competitor for marginal savings. Overall, while retail flows remain a positive tailwind for EUR credit, we think they are becoming less supportive at the margin. Combined with the prospective supply headwind from Al-related capex financing, this reinforces our expectation that EUR IG spreads will widen modestly into year-end."
-  },
-  {
-   "id": "9727326",
-   "title": "South Korea Foreign Minister: Intelligence sharing between ministry and US State Department resumed since past issue over North Korean nuclear site.",
-   "link": "https://www.financialjuice.com/News/9727326/South-Korea-Foreign-Minister-Intelligence-sharing-between-ministry-and-US-State-Department-resumed-since-past-issue-over-North-Korean-nuclear-site.aspx",
-   "pubDate": "Wed, 19 Aug 2026 08:26:01 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727295",
-   "title": "Eurozone Current Account NSA Actual 46.90B (Forecast -, Previous -6.20B)",
-   "link": "https://www.financialjuice.com/News/9727295/Eurozone-Current-Account-NSA-Actual-4690B-Forecast---Previous--620B.aspx",
-   "pubDate": "Wed, 19 Aug 2026 08:01:38 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727286",
-   "title": "Eurozone Current Account Actual 35.100B (Forecast -, Previous 25.100B)",
-   "link": "https://www.financialjuice.com/News/9727286/Eurozone-Current-Account-Actual-35100B-Forecast---Previous-25100B.aspx",
-   "pubDate": "Wed, 19 Aug 2026 08:01:29 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727285",
-   "title": "Europe Sentiment: Stocks Halt Losses Yields Continue Rise - FJElite",
-   "link": "https://www.financialjuice.com/News/9727285/Europe-Sentiment-Stocks-Halt-Losses-Yields-Continue-Rise---FJElite.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 07:48:25 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727253",
-   "title": "Japan Kansai business delegation to China to be delayed - Kyodo",
-   "link": "https://www.financialjuice.com/News/9727253/Japan-Kansai-business-delegation-to-China-to-be-delayed---Kyodo.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 07:28:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727227",
-   "title": "China's foreign ministry, on the US wanting countries to pick sides on AI: China firmly opposes taking sides against each other on the issue of AI",
-   "link": "https://www.financialjuice.com/News/9727227/Chinas-foreign-ministry-on-the-US-wanting-countries-to-pick-sides-on-AI-China-firmly-opposes-taking-sides-against-each-other-on-the-issue-of-AI.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 07:12:36 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727226",
-   "title": "ECB's President Lagarde: Europe can't afford to miss out on the AI revolution",
-   "link": "https://www.financialjuice.com/News/9727226/ECBs-President-Lagarde-Europe-cant-afford-to-miss-out-on-the-AI-revolution.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 07:11:28 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727209",
-   "title": "Currency Strength Chart: Strongest: JPY, CHF, EUR, GBP, CAD, NZD, USD, AUD - Weakest",
-   "link": "https://www.financialjuice.com/News/9727209/Currency-Strength-Chart-Strongest-JPY-CHF-EUR-GBP-CAD-NZD-USD-AUD---Weakest.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 07:01:25 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727208",
-   "title": "ECB's Rehn sees no clear signs of second-round effects.",
-   "link": "https://www.financialjuice.com/News/9727208/ECBs-Rehn-sees-no-clear-signs-of-second-round-effects.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 07:00:58 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727207",
-   "title": "ECB's Rehn: Wage growth, wage outlook remained moderate so far.",
-   "link": "https://www.financialjuice.com/News/9727207/ECBs-Rehn-Wage-growth-wage-outlook-remained-moderate-so-far.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 07:00:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727199",
-   "title": "ECB's Rehn: Keeping inflation expectations anchored is essential",
-   "link": "https://www.financialjuice.com/News/9727199/ECBs-Rehn-Keeping-inflation-expectations-anchored-is-essential.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 07:00:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727198",
-   "title": "UAE official: news of providing financial facilities to Iran is untrue",
-   "link": "https://www.financialjuice.com/News/9727198/UAE-official-news-of-providing-financial-facilities-to-Iran-is-untrue.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:47:29 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727171",
-   "title": "SNB Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9727171/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:26:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727170",
-   "title": "RBNZ Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9727170/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:26:13 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727169",
-   "title": "RBA Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9727169/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:25:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727168",
-   "title": "BoJ Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9727168/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:25:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727167",
-   "title": "BoC Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9727167/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:25:22 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727166",
-   "title": "BoE Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9727166/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:24:48 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727165",
-   "title": "Pakistan & Turkey foreign ministers discuss regional development",
-   "link": "https://www.financialjuice.com/News/9727165/Pakistan--Turkey-foreign-ministers-discuss-regional-development.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:24:42 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727164",
-   "title": "ECB Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9727164/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:24:21 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727163",
-   "title": "Fed Interest Rate Probabilities",
-   "link": "https://www.financialjuice.com/News/9727163/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:24:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727162",
-   "title": "Commodities Implied Volatility",
-   "link": "https://www.financialjuice.com/News/9727162/Commodities-Implied-Volatility.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:23:31 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727161",
-   "title": "FX Implied Volatility",
-   "link": "https://www.financialjuice.com/News/9727161/FX-Implied-Volatility.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:23:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727160",
-   "title": "US Index Futures Implied Volatility",
-   "link": "https://www.financialjuice.com/News/9727160/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:22:51 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727159",
-   "title": "Top S&P 500 Stock Names Implied Volatility",
-   "link": "https://www.financialjuice.com/News/9727159/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:22:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727137",
-   "title": "Iran warns Gulf countries not to facilitate US military - Mehr",
-   "link": "https://www.financialjuice.com/News/9727137/Iran-warns-Gulf-countries-not-to-facilitate-US-military---Mehr.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:13:52 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727136",
-   "title": "120-Day Correlation Matrix",
-   "link": "https://www.financialjuice.com/News/9727136/120-Day-Correlation-Matrix.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:13:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727135",
-   "title": "90-Day Correlation Matrix",
-   "link": "https://www.financialjuice.com/News/9727135/90-Day-Correlation-Matrix.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:13:12 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727134",
-   "title": "60-Day Correlation Matrix",
-   "link": "https://www.financialjuice.com/News/9727134/60-Day-Correlation-Matrix.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:12:56 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727133",
-   "title": "30-Day Correlation Matrix",
-   "link": "https://www.financialjuice.com/News/9727133/30-Day-Correlation-Matrix.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:12:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727132",
-   "title": "Drone strike sparks fire at UFA refinery - IFX cites Governor",
-   "link": "https://www.financialjuice.com/News/9727132/Drone-strike-sparks-fire-at-UFA-refinery---IFX-cites-Governor.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:05:13 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727131",
-   "title": "Japan to review overtime work cap from September - Yomiuri",
-   "link": "https://www.financialjuice.com/News/9727131/Japan-to-review-overtime-work-cap-from-September---Yomiuri.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:05:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727104",
-   "title": "UK Core CPI MoM Actual 0.2% (Forecast -, Previous 0.3%)",
-   "link": "https://www.financialjuice.com/News/9727104/UK-Core-CPI-MoM-Actual-02-Forecast---Previous-03.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:01:20 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727103",
-   "title": "UK PPI Output Prices MoM Actual 0.2% (Forecast 0.2%, Previous 0.0%)",
-   "link": "https://www.financialjuice.com/News/9727103/UK-PPI-Output-Prices-MoM-Actual-02-Forecast-02-Previous-00.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:00:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727102",
-   "title": "UK PPI Output Prices YoY Actual 3.1% (Forecast 3.2%, Previous 3.5%)",
-   "link": "https://www.financialjuice.com/News/9727102/UK-PPI-Output-Prices-YoY-Actual-31-Forecast-32-Previous-35.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:00:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727101",
-   "title": "UK PPI Input Prices MoM Actual -1.7% (Forecast 0%, Previous -2.0%)",
-   "link": "https://www.financialjuice.com/News/9727101/UK-PPI-Input-Prices-MoM-Actual--17-Forecast-0-Previous--20.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:00:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727100",
-   "title": "UK PPI Input Prices YoY Actual 4.9% (Forecast 6.5%, Previous 7.3%)",
-   "link": "https://www.financialjuice.com/News/9727100/UK-PPI-Input-Prices-YoY-Actual-49-Forecast-65-Previous-73.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:00:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727099",
-   "title": "UK Core CPI YoY Actual 2.6% (Forecast 2.5%, Previous 2.6%)",
-   "link": "https://www.financialjuice.com/News/9727099/UK-Core-CPI-YoY-Actual-26-Forecast-25-Previous-26.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:00:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727098",
-   "title": "UK Services CPI YoY Actual 3.4% (Forecast 3.4%, Previous 3.6%)",
-   "link": "https://www.financialjuice.com/News/9727098/UK-Services-CPI-YoY-Actual-34-Forecast-34-Previous-36.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:00:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727097",
-   "title": "UK RPI MoM Actual 0.6% (Forecast 0.8%, Previous 0.3%)",
-   "link": "https://www.financialjuice.com/News/9727097/UK-RPI-MoM-Actual-06-Forecast-08-Previous-03.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:00:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727096",
-   "title": "UK CPI MoM Actual 0.3% (Forecast 0.3%, Previous 0.1%)",
-   "link": "https://www.financialjuice.com/News/9727096/UK-CPI-MoM-Actual-03-Forecast-03-Previous-01.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:00:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727095",
-   "title": "UK CPI YoY Actual 2.9% (Forecast 2.9%, Previous 2.6%)",
-   "link": "https://www.financialjuice.com/News/9727095/UK-CPI-YoY-Actual-29-Forecast-29-Previous-26.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 06:00:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9727059",
-   "title": "Democrat Mary Peltola to move forward to general election for U.S. Senate in Alaska: ddhq projects",
-   "link": "https://www.financialjuice.com/News/9727059/Democrat-Mary-Peltola-to-move-forward-to-general-election-for-US-Senate-in-Alaska-ddhq-projects.aspx?xy=rss",
-   "pubDate": "Wed, 19 Aug 2026 05:03:09 GMT",
-   "desc": ""
   }
  ]
 }
