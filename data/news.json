@@ -1,7 +1,707 @@
 {
- "updated_at": "2026-11-23T11:12:55.650916+00:00",
+ "updated_at": "2026-11-23T22:40:14.038757+00:00",
  "count": 20000,
  "items": [
+  {
+   "id": "9865143",
+   "title": "Saudi-led coalition: drone launched by Yemen's Houthis towards southern region intercepted, destroyed",
+   "link": "https://www.financialjuice.com/News/9865143/Saudi-led-coalition-drone-launched-by-Yemens-Houthis-towards-southern-region-intercepted-destroyed.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 22:30:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865102",
+   "title": "Qatari Prime Minister and Qatari Envoy met today with Vance - Axios.",
+   "link": "https://www.financialjuice.com/News/9865102/Qatari-Prime-Minister-and-Qatari-Envoy-met-today-with-Vance---Axios.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:59:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865101",
+   "title": "Meta Platforms – SEC Filing $META",
+   "link": "https://www.financialjuice.com/News/9865101/Meta-Platforms--SEC-Filing-META.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:58:00 GMT",
+   "desc": "Meta to delay at-the-market program until after Class C stock dividend payment Mark Zuckerberg grants waiver on Class C stock dividend payment deadline Meta to suspend issuance of Class C common stock during litigation"
+  },
+  {
+   "id": "9865100",
+   "title": "ANZ Bank brings forward first RBA rate cut forecast to June 2027.",
+   "link": "https://www.financialjuice.com/News/9865100/ANZ-Bank-brings-forward-first-RBA-rate-cut-forecast-to-June-2027.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:56:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865099",
+   "title": "Meta Platforms: Mark Zuckerberg grants waiver on Class C stock dividend payment deadline - SEC filing $META",
+   "link": "https://www.financialjuice.com/News/9865099/Meta-Platforms-Mark-Zuckerberg-grants-waiver-on-Class-C-stock-dividend-payment-deadline---SEC-filing-META.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:55:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865098",
+   "title": "Fed's Williams: There is an understanding that independent central banks deliver better economic outcomes.",
+   "link": "https://www.financialjuice.com/News/9865098/Feds-Williams-There-is-an-understanding-that-independent-central-banks-deliver-better-economic-outcomes.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:50:50 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865085",
+   "title": "Fed's Williams: Companies want to hire, but they are being cautious",
+   "link": "https://www.financialjuice.com/News/9865085/Feds-Williams-Companies-want-to-hire-but-they-are-being-cautious.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:40:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865084",
+   "title": "Fed's Williams: 2027 will be a year of lower inflation",
+   "link": "https://www.financialjuice.com/News/9865084/Feds-Williams-2027-will-be-a-year-of-lower-inflation.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:36:07 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865083",
+   "title": "Fed's Williams: What has driven inflation up recently has been unusual factors.",
+   "link": "https://www.financialjuice.com/News/9865083/Feds-Williams-What-has-driven-inflation-up-recently-has-been-unusual-factors.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:35:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865082",
+   "title": "Fed's Williams: The economy has been resilient in the face of many large challenges.",
+   "link": "https://www.financialjuice.com/News/9865082/Feds-Williams-The-economy-has-been-resilient-in-the-face-of-many-large-challenges.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:34:48 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865062",
+   "title": "Fed's Williams: We've been working very hard to get inflation down, and have made progress",
+   "link": "https://www.financialjuice.com/News/9865062/Feds-Williams-Weve-been-working-very-hard-to-get-inflation-down-and-have-made-progress.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:26:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865061",
+   "title": "Fed's Williams: The underpinnings of strong growth have some challenges.",
+   "link": "https://www.financialjuice.com/News/9865061/Feds-Williams-The-underpinnings-of-strong-growth-have-some-challenges.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:25:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865060",
+   "title": "Trump Holds Public Event After Jensen Huang Reinstated As Nvidia CEO - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9865060/Trump-Holds-Public-Event-After-Jensen-Huang-Reinstated-As-Nvidia-CEO---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:23:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865042",
+   "title": "Fed's watchdog probes Bowman dinner with BofA clients - Source.",
+   "link": "https://www.financialjuice.com/News/9865042/Feds-watchdog-probes-Bowman-dinner-with-BofA-clients---Source.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:05:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865037",
+   "title": "Three Tankers involved in illegal activities explode in the Strait of Hormuz due to naval mines - IRIB News.",
+   "link": "https://www.financialjuice.com/News/9865037/Three-Tankers-involved-in-illegal-activities-explode-in-the-Strait-of-Hormuz-due-to-naval-mines---IRIB-News.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:02:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865026",
+   "title": "Fed's Williams: Outlook for energy prices remains uncertain",
+   "link": "https://www.financialjuice.com/News/9865026/Feds-Williams-Outlook-for-energy-prices-remains-uncertain.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:01:36 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865025",
+   "title": "Fed's Williams: I do not see inflation pressures broadening much.",
+   "link": "https://www.financialjuice.com/News/9865025/Feds-Williams-I-do-not-see-inflation-pressures-broadening-much.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:01:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865024",
+   "title": "Fed's Williams: Economy is strong and showing resilience",
+   "link": "https://www.financialjuice.com/News/9865024/Feds-Williams-Economy-is-strong-and-showing-resilience.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:01:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865023",
+   "title": "Fed's Williams: The job market has been stable.",
+   "link": "https://www.financialjuice.com/News/9865023/Feds-Williams-The-job-market-has-been-stable.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:01:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865022",
+   "title": "Fed's Williams: AI impact on the economy is uncertain",
+   "link": "https://www.financialjuice.com/News/9865022/Feds-Williams-AI-impact-on-the-economy-is-uncertain.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:01:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865021",
+   "title": "Fed's Williams: The US economy to grow 2.75% in both 2026 and 2027.",
+   "link": "https://www.financialjuice.com/News/9865021/Feds-Williams-The-US-economy-to-grow-275-in-both-2026-and-2027.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:01:04 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865020",
+   "title": "Fed's Williams: continuing to look at data to determine the economy’s future path",
+   "link": "https://www.financialjuice.com/News/9865020/Feds-Williams-continuing-to-look-at-data-to-determine-the-economys-future-path.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:00:53 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865019",
+   "title": "Fed's Williams: Inflation is still too high, and risks are skewed to the upside.",
+   "link": "https://www.financialjuice.com/News/9865019/Feds-Williams-Inflation-is-still-too-high-and-risks-are-skewed-to-the-upside.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:00:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865018",
+   "title": "Fed's Williams: The jobless rate should ebb to 4% by next year.",
+   "link": "https://www.financialjuice.com/News/9865018/Feds-Williams-The-jobless-rate-should-ebb-to-4-by-next-year.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:00:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865017",
+   "title": "Fed's Williams: Inflation should end 2026 at 3.5%, back to 2% in 2028",
+   "link": "https://www.financialjuice.com/News/9865017/Feds-Williams-Inflation-should-end-2026-at-35-back-to-2-in-2028.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:00:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865016",
+   "title": "Fed's Williams: The Fed must act to lower inflation back to 2%.",
+   "link": "https://www.financialjuice.com/News/9865016/Feds-Williams-The-Fed-must-act-to-lower-inflation-back-to-2.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 21:00:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865014",
+   "title": "The US and Qatar pledge to strengthen defense and security partnership",
+   "link": "https://www.financialjuice.com/News/9865014/The-US-and-Qatar-pledge-to-strengthen-defense-and-security-partnership.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 20:55:17 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9865013",
+   "title": "MOC Imbalance",
+   "link": "https://www.financialjuice.com/News/9865013/MOC-Imbalance.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 20:50:31 GMT",
+   "desc": "S&amp;P 500: -1588 mln Nasdaq 100: -2874 mln Dow 30: -193 mln Mag 7: -1064 mln"
+  },
+  {
+   "id": "9864997",
+   "title": "The US is set to add Singaporean chip firm Megaspeed to its trade blacklist later on Monday - Source Familiar with the matter",
+   "link": "https://www.financialjuice.com/News/9864997/The-US-is-set-to-add-Singaporean-chip-firm-Megaspeed-to-its-trade-blacklist-later-on-Monday---Source-Familiar-with-the-matter.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 20:30:24 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864992",
+   "title": "Tuesday FX Options Expiries",
+   "link": "https://www.financialjuice.com/News/9864992/Tuesday-FX-Options-Expiries-.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 20:22:18 GMT",
+   "desc": "USD/JPY: 159.00 ($905.9m), 160.00 ($507.6m), 157.85 ($330m) EUR/USD: 1.0925 (EU650m), 1.0875 (EU600m), 1.1200 (EU425m) USD/BRL : 5.5500 ($1.07b), 5.5000 ($432.8m), 5.0000 ($328m) GBP/USD: 1.3450 (GBP350.9m), 1.3640 (GBP332.1m), 1.3265 (GBP331m) USD/CAD: 1.4300 ($760.6m), 1.2900 ($380m), 1.4050 ($307.5m) USD/MXN: 18.87 ($408.1m), 18.70 ($389.9m), 18.76 ($318.8m)"
+  },
+  {
+   "id": "9864977",
+   "title": "US Treasury: Foreign Investor Demand Mixed Across Latest Note and Bond Auctions",
+   "link": "https://www.financialjuice.com/News/9864977/US-Treasury-Foreign-Investor-Demand-Mixed-Across-Latest-Note-and-Bond-Auctions.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 20:08:44 GMT",
+   "desc": "3-Year Notes (Due November 15, 2029) Foreign investors purchased $5.876 billion, up from $5.068 billion previously Investment funds purchased $45.413 billion, down from $45.499 billion previously 10-Year Notes (Due November 15, 2036) Foreign investors purchased $8.060 billion, down from $8.214 billion previously Investment funds purchased $28.432 billion, down from $28.956 billion previously 30-Year Bonds (Due November 15, 2056) Foreign investors purchased $5.051 billion, down from $5.488 billion previously Investment funds purchased $16.258 billion, up from $14.572 billion previously"
+  },
+  {
+   "id": "9864966",
+   "title": "Qatar's PM and Foreign Minister: Middle East cannot withstand new US-Iran escalation; working with both sides to revive negotiations - Al Jazeera.",
+   "link": "https://www.financialjuice.com/News/9864966/Qatars-PM-and-Foreign-Minister-Middle-East-cannot-withstand-new-US-Iran-escalation-working-with-both-sides-to-revive-negotiations---Al-Jazeera.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 19:57:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864964",
+   "title": "Commerce to add megaspeed to trade blacklist - Semafor.",
+   "link": "https://www.financialjuice.com/News/9864964/Commerce-to-add-megaspeed-to-trade-blacklist---Semafor.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 19:49:12 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864953",
+   "title": "Brent Crude futures settle at $89.37/bbl, down $3.20, 3.46%.",
+   "link": "https://www.financialjuice.com/News/9864953/Brent-Crude-futures-settle-at-8937bbl-down-320-346.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 19:42:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864947",
+   "title": "NYMEX Diesel December futures settle at $3.6975 a gallon.",
+   "link": "https://www.financialjuice.com/News/9864947/NYMEX-Diesel-December-futures-settle-at-36975-a-gallon.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 19:32:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864944",
+   "title": "NYMEX Gasoline December futures settle at $2.4054 a gallon.",
+   "link": "https://www.financialjuice.com/News/9864944/NYMEX-Gasoline-December-futures-settle-at-24054-a-gallon.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 19:32:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864943",
+   "title": "NYMEX Natural Gas December futures settle at $3.1840/MMBtu.",
+   "link": "https://www.financialjuice.com/News/9864943/NYMEX-Natural-Gas-December-futures-settle-at-31840MMBtu.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 19:31:49 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864941",
+   "title": "NYMEX WTI Crude January futures settle at $80.17 a barrel, down $3.24, 3.88%.",
+   "link": "https://www.financialjuice.com/News/9864941/NYMEX-WTI-Crude-January-futures-settle-at-8017-a-barrel-down-324-388.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 19:31:14 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864904",
+   "title": "Apple prepares red HomePod mini, AirPods Max for holiday season; latest red products to go on sale on or around Dec. 1st. $AAPL",
+   "link": "https://www.financialjuice.com/News/9864904/Apple-prepares-red-HomePod-mini-AirPods-Max-for-holiday-season-latest-red-products-to-go-on-sale-on-or-around-Dec-1st-AAPL.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 19:00:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864903",
+   "title": "Israel's Eisenkot and Lieberman oppose the possibility of an independent Israeli attack - Israel's Channel 14 News",
+   "link": "https://www.financialjuice.com/News/9864903/Israels-Eisenkot-and-Lieberman-oppose-the-possibility-of-an-independent-Israeli-attack---Israels-Channel-14-News.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 18:51:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864891",
+   "title": "US official tells Al Hadath: We moved 108 mln barrels of oil through the Strait of Hormuz last week.",
+   "link": "https://www.financialjuice.com/News/9864891/US-official-tells-Al-Hadath-We-moved-108-mln-barrels-of-oil-through-the-Strait-of-Hormuz-last-week.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 18:46:23 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864885",
+   "title": "US official tells Al Hadath: We are ready to launch a large-scale military strike against Iran at any time",
+   "link": "https://www.financialjuice.com/News/9864885/US-official-tells-Al-Hadath-We-are-ready-to-launch-a-large-scale-military-strike-against-Iran-at-any-time.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 18:41:19 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864868",
+   "title": "US Justice Department: US files action to recover more than $1 billion in cryptocurrency assets stolen by North Korean cyber actors in Binance hack",
+   "link": "https://www.financialjuice.com/News/9864868/US-Justice-Department-US-files-action-to-recover-more-than-1-billion-in-cryptocurrency-assets-stolen-by-North-Korean-cyber-actors-in-Binance-hack.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 18:23:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864862",
+   "title": "US 2-Year Note Bid-to-Cover Actual 2.650 (Forecast -, Previous 2.590)",
+   "link": "https://www.financialjuice.com/News/9864862/US-2-Year-Note-Bid-to-Cover-Actual-2650-Forecast---Previous-2590.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 18:11:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864861",
+   "title": "US 2 Yr Note Auction",
+   "link": "https://www.financialjuice.com/News/9864861/US-2-Yr-Note-Auction.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 18:05:41 GMT",
+   "desc": "High Yield 4.7% [Stop-through 0.3 BPS] Bid-to-cover 2.65 Sells $69 bln Awards 74.54% of bids at high Primary Dealers take 10.4% Direct 38.1% Indirect 51.5%"
+  },
+  {
+   "id": "9864860",
+   "title": "US 2-Year Note High Yield Actual 4.7% (Forecast -, Previous 4.708%)",
+   "link": "https://www.financialjuice.com/News/9864860/US-2-Year-Note-High-Yield-Actual-47-Forecast---Previous-4708.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 18:04:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864840",
+   "title": "Treasury WI 2 Yr yield 4.703% before $69 billion auction.",
+   "link": "https://www.financialjuice.com/News/9864840/Treasury-WI-2-Yr-yield-4703-before-69-billion-auction.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 18:00:21 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864839",
+   "title": "Trump and Vance became convinced that Jensen Huang was a singular figure protecting open source models and preventing closed-source model companies from becoming too powerful - source. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864839/Trump-and-Vance-became-convinced-that-Jensen-Huang-was-a-singular-figure-protecting-open-source-models-and-preventing-closed-source-model-companies-from-becoming-too-powerful---source-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 17:49:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864823",
+   "title": "Kpler's Energy Reporter Bakr: Iran appears to be testing the US naval blockade using tankers with fake tracking signals, however there's been no confirmed breach of the US blockade yet - Post on X",
+   "link": "https://www.financialjuice.com/News/9864823/Kplers-Energy-Reporter-Bakr-Iran-appears-to-be-testing-the-US-naval-blockade-using-tankers-with-fake-tracking-signals-however-theres-been-no-confirmed-breach-of-the-US-blockade-yet---Post-on-X.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 17:46:20 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864813",
+   "title": "Fitch Ratings assesses sectors' resilience to a potential French sovereign downgrade",
+   "link": "https://www.financialjuice.com/News/9864813/Fitch-Ratings-assesses-sectors-resilience-to-a-potential-French-sovereign-downgrade.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 17:42:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864812",
+   "title": "Nvidia's about-face on Huang made without consulting leadership. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864812/Nvidias-about-face-on-Huang-made-without-consulting-leadership-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 17:40:18 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864811",
+   "title": "Nvidia top executives were informed of decision at last minute.",
+   "link": "https://www.financialjuice.com/News/9864811/Nvidia-top-executives-were-informed-of-decision-at-last-minute.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 17:40:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864786",
+   "title": "Google introduces tailored Google search. $GOOGL",
+   "link": "https://www.financialjuice.com/News/9864786/Google-introduces-tailored-Google-search-GOOGL.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 17:06:26 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864785",
+   "title": "US Sen. Scott announces the Huang hearing for December 3rd. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864785/US-Sen-Scott-announces-the-Huang-hearing-for-December-3rd-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 17:03:42 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864763",
+   "title": "US VP Vance spoke with Huang and worked with Nvidia over the weekend - NYT",
+   "link": "https://www.financialjuice.com/News/9864763/US-VP-Vance-spoke-with-Huang-and-worked-with-Nvidia-over-the-weekend---NYT.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:53:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864762",
+   "title": "The Trump Administration stressed to Nvidia in a call over the weekend that they needed to make sure they were abiding by export controls if they were to reinstall Jensen Huang as CEO - Source $NVDA",
+   "link": "https://www.financialjuice.com/News/9864762/The-Trump-Administration-stressed-to-Nvidia-in-a-call-over-the-weekend-that-they-needed-to-make-sure-they-were-abiding-by-export-controls-if-they-were-to-reinstall-Jensen-Huang-as-CEO---Source-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:50:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864744",
+   "title": "US Commerce Secretary Lutnick was not involved with NVIDIA's board decision to reinstate Huang as CEO - Source Familiar. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864744/US-Commerce-Secretary-Lutnick-was-not-involved-with-NVIDIAs-board-decision-to-reinstate-Huang-as-CEO---Source-Familiar-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:45:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864743",
+   "title": "US 6-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9864743/US-6-Month-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:45:36 GMT",
+   "desc": "High Yield 4.340% Bid-to-cover 2.60 Sells $82 bln Awards 53.42% of bids at high"
+  },
+  {
+   "id": "9864731",
+   "title": "US 3-Month Bill Auction",
+   "link": "https://www.financialjuice.com/News/9864731/US-3-Month-Bill-Auction.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:44:54 GMT",
+   "desc": "High Yield 4.180% Bid-to-cover 2.74 Sells $95 bln Awards 20.69% of bids at a high"
+  },
+  {
+   "id": "9864730",
+   "title": "US 6-Month Bill High Yield Actual 4.34% (Forecast -, Previous 4.310%)",
+   "link": "https://www.financialjuice.com/News/9864730/US-6-Month-Bill-High-Yield-Actual-434-Forecast---Previous-4310.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:42:58 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864728",
+   "title": "US 3-Month Awarded High Actual 20.690% (Forecast -, Previous 93.850%)",
+   "link": "https://www.financialjuice.com/News/9864728/US-3-Month-Awarded-High-Actual-20690-Forecast---Previous-93850.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:42:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864729",
+   "title": "US 6-Month Bill Bid-to-Cover Actual 2.6 (Forecast -, Previous 2.830)",
+   "link": "https://www.financialjuice.com/News/9864729/US-6-Month-Bill-Bid-to-Cover-Actual-26-Forecast---Previous-2830.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:42:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864727",
+   "title": "US 3-Month Bill High Yield Actual 4.18% (Forecast -, Previous 4.155%)",
+   "link": "https://www.financialjuice.com/News/9864727/US-3-Month-Bill-High-Yield-Actual-418-Forecast---Previous-4155.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:42:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864726",
+   "title": "US 3-Month Bill Bid-to-Cover Actual 2.74 (Forecast -, Previous 2.760)",
+   "link": "https://www.financialjuice.com/News/9864726/US-3-Month-Bill-Bid-to-Cover-Actual-274-Forecast---Previous-2760.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:42:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864725",
+   "title": "Q4 2026 Brent crude price forecast by major banks rises - WSJ",
+   "link": "https://www.financialjuice.com/News/9864725/Q4-2026-Brent-crude-price-forecast-by-major-banks-rises---WSJ.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:42:11 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864724",
+   "title": "UK's PM Burnham: Not proposing at this moment to rerun the EU referendum",
+   "link": "https://www.financialjuice.com/News/9864724/UKs-PM-Burnham-Not-proposing-at-this-moment-to-rerun-the-EU-referendum.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:35:47 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864714",
+   "title": "UK PM Burnham: Unthinkable to take UK back into EU without referendum",
+   "link": "https://www.financialjuice.com/News/9864714/UK-PM-Burnham-Unthinkable-to-take-UK-back-into-EU-without-referendum.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:24:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864713",
+   "title": "Anthropic has so much demand for computing power that by October. SpaceXAI needed to finish new data centers to fulfill Anthropic’s orders - NYT. $ANT",
+   "link": "https://www.financialjuice.com/News/9864713/Anthropic-has-so-much-demand-for-computing-power-that-by-October-SpaceXAI-needed-to-finish-new-data-centers-to-fulfill-Anthropics-orders---NYT-ANT.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:21:40 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864712",
+   "title": "US PCE Price Index Market Reactions & Deviations - FJElite",
+   "link": "https://www.financialjuice.com/News/9864712/US-PCE-Price-Index-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:18:41 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864697",
+   "title": "Musk shared data showing that the company lagged competitors - NYT. $SPCX",
+   "link": "https://www.financialjuice.com/News/9864697/Musk-shared-data-showing-that-the-company-lagged-competitors---NYT-SPCX.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:15:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864691",
+   "title": "Musk told staff SpaceX is falling behind on AI development - NYT. $SPCX",
+   "link": "https://www.financialjuice.com/News/9864691/Musk-told-staff-SpaceX-is-falling-behind-on-AI-development---NYT-SPCX.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:14:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864690",
+   "title": "Schumer: Democrats will wield their full power to probe Jensen Huang, the Administration and other Nvidia executives. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864690/Schumer-Democrats-will-wield-their-full-power-to-probe-Jensen-Huang-the-Administration-and-other-Nvidia-executives-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 16:08:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864674",
+   "title": "Trump ends remarks on CNBC",
+   "link": "https://www.financialjuice.com/News/9864674/Trump-ends-remarks-on-CNBC.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:57:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864673",
+   "title": "Trump: Think China will buy another 250 Boeings. $BA",
+   "link": "https://www.financialjuice.com/News/9864673/Trump-Think-China-will-buy-another-250-Boeings-BA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:57:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864672",
+   "title": "Nvidia short sellers set to clock about $12.2 bln in paper losses as shares rise to $168.5, biggest one-day loss since at least 2019 - Ortex. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864672/Nvidia-short-sellers-set-to-clock-about-122-bln-in-paper-losses-as-shares-rise-to-1685-biggest-one-day-loss-since-at-least-2019---Ortex-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:52:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864671",
+   "title": "Trump: Xi is probably not thrilled at the NVIDIA news. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864671/Trump-Xi-is-probably-not-thrilled-at-the-NVIDIA-news-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:51:56 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864670",
+   "title": "Trump: I didn't discuss if Alice Huang were a spy with Xi. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864670/Trump-I-didnt-discuss-if-Alice-Huang-were-a-spy-with-Xi-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:51:31 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864669",
+   "title": "Nvidia gets bullish fresh pick designation at Baird. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864669/Nvidia-gets-bullish-fresh-pick-designation-at-Baird-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:50:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864666",
+   "title": "UK holding informal exchange of ideas with EU on future ties.",
+   "link": "https://www.financialjuice.com/News/9864666/UK-holding-informal-exchange-of-ideas-with-EU-on-future-ties.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:47:43 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864653",
+   "title": "UK PM Burnham: EU deal worth up to 0.5% of the British economy",
+   "link": "https://www.financialjuice.com/News/9864653/UK-PM-Burnham-EU-deal-worth-up-to-05-of-the-British-economy.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:46:22 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864651",
+   "title": "UK PM Burnham: EU and UK to avoid policy harming each other's industries",
+   "link": "https://www.financialjuice.com/News/9864651/UK-PM-Burnham-EU-and-UK-to-avoid-policy-harming-each-others-industries.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:44:13 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864650",
+   "title": "Trump praises Anthropic's Amodei. $ANT",
+   "link": "https://www.financialjuice.com/News/9864650/Trump-praises-Anthropics-Amodei-ANT.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:44:03 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864649",
+   "title": "Trump: DoJ will intervene if AI firms move too fast.",
+   "link": "https://www.financialjuice.com/News/9864649/Trump-DoJ-will-intervene-if-AI-firms-move-too-fast.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:43:39 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864648",
+   "title": "UK PM Burnham: Bill to implement EU deal will be introduced Thursday",
+   "link": "https://www.financialjuice.com/News/9864648/UK-PM-Burnham-Bill-to-implement-EU-deal-will-be-introduced-Thursday.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:42:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864647",
+   "title": "Trump on intervening in public company: Doing it for the US. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864647/Trump-on-intervening-in-public-company-Doing-it-for-the-US-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:41:10 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864646",
+   "title": "Bernstein raises Nvidia to Outperform from Market Perform. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864646/Bernstein-raises-Nvidia-to-Outperform-from-Market-Perform-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:40:51 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864645",
+   "title": "UK's PM Burnham: We should build new and more constructive relations with the EU.",
+   "link": "https://www.financialjuice.com/News/9864645/UKs-PM-Burnham-We-should-build-new-and-more-constructive-relations-with-the-EU.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:40:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864644",
+   "title": "UK's PM Burnham: There is a clear consensus among Britons wanting closer EU ties.",
+   "link": "https://www.financialjuice.com/News/9864644/UKs-PM-Burnham-There-is-a-clear-consensus-among-Britons-wanting-closer-EU-ties.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:39:00 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864634",
+   "title": "Trump: Huang is already thinking three chips into the future. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864634/Trump-Huang-is-already-thinking-three-chips-into-the-future-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:32:08 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864633",
+   "title": "Trump: Working on trade deal involving soybeans.",
+   "link": "https://www.financialjuice.com/News/9864633/Trump-Working-on-trade-deal-involving-soybeans.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:31:52 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864620",
+   "title": "House Foreign Affairs plans for Huang hearing unchanged. Huang to attend closed-door briefing. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864620/House-Foreign-Affairs-plans-for-Huang-hearing-unchanged-Huang-to-attend-closed-door-briefing-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:30:05 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864619",
+   "title": "Trump: If Huang was angry enough, he could've worked for China. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864619/Trump-If-Huang-was-angry-enough-he-couldve-worked-for-China-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:29:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864618",
+   "title": "Trump: We could have seen China paying Huang to flip sides. We wouldn't want China to poach Huang. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864618/Trump-We-could-have-seen-China-paying-Huang-to-flip-sides-We-wouldnt-want-China-to-poach-Huang-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:28:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864617",
+   "title": "Trump: I asked Xi, \"Why don't you slow down on nuclear weapons?\"",
+   "link": "https://www.financialjuice.com/News/9864617/Trump-I-asked-Xi-Why-dont-you-slow-down-on-nuclear-weapons.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:28:01 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864616",
+   "title": "Trump: US VP Vance was involved in the NVIDIA decision. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864616/Trump-US-VP-Vance-was-involved-in-the-NVIDIA-decision-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:24:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864615",
+   "title": "Trump: Not concerned now about an AI bubble.",
+   "link": "https://www.financialjuice.com/News/9864615/Trump-Not-concerned-now-about-an-AI-bubble.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:22:44 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864613",
+   "title": "Trump: We want Huang on our side. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864613/Trump-We-want-Huang-on-our-side-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:21:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864612",
+   "title": "Trump: Investors should be very happy. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864612/Trump-Investors-should-be-very-happy-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:21:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864611",
+   "title": "Trump: Huang said he'll work harder than ever. $NVDA",
+   "link": "https://www.financialjuice.com/News/9864611/Trump-Huang-said-hell-work-harder-than-ever-NVDA.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:21:15 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9864610",
+   "title": "Burnham faces MPs to deliver statement on new EU deal - WATCH LIVE",
+   "link": "https://www.financialjuice.com/News/9864610/Burnham-faces-MPs-to-deliver-statement-on-new-EU-deal---WATCH-LIVE.aspx?xy=rss",
+   "pubDate": "Mon, 23 Nov 2026 15:20:57 GMT",
+   "desc": ""
+  },
   {
    "id": "9864205",
    "title": "German Government Spokesperson on reports about Russia being ready to launch a nuclear-armed satellite: Taking the reports very seriously",
@@ -139300,706 +140000,6 @@
    "title": "Total money market fund assets rose by $900m to $7.93t for week ended Aug. 19th - ICI",
    "link": "https://www.financialjuice.com/News/9730057/Total-money-market-fund-assets-rose-by-900m-to-793t-for-week-ended-Aug-19th---ICI.aspx?xy=rss",
    "pubDate": "Thu, 20 Aug 2026 19:36:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9730042",
-   "title": "Minister in charge of trade ties with the US: Canada and the US are very close to a deal; we are continuing to make progress.",
-   "link": "https://www.financialjuice.com/News/9730042/Minister-in-charge-of-trade-ties-with-the-US-Canada-and-the-US-are-very-close-to-a-deal-we-are-continuing-to-make-progress.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 19:28:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9730041",
-   "title": "US money-market fund assets rise to $7.93 trillion at ICI",
-   "link": "https://www.financialjuice.com/News/9730041/US-money-market-fund-assets-rise-to-793-trillion-at-ICI.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 19:25:17 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9730040",
-   "title": "Friday FX Options Expiries",
-   "link": "https://www.financialjuice.com/News/9730040/Friday-FX-Options-Expiries-.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 19:22:41 GMT",
-   "desc": "EUR/USD: 1.1500 (EU7.32b), 1.2500 (EU1.81b), 1.2000 (EU1.77b) USD/JPY: 152.50 ($1.3b), 155.50 ($1b), 159.00 ($946.5m) AUD/USD: 0.7100 (AUD531.4m), 0.6900 (AUD482.9m), 0.6920 (AUD320m) USD/CAD: 1.4100 ($635.9m), 1.3900 ($612.6m), 1.4115 ($595.5m) USD/BRL: 5.1500 ($396.3m), 5.2000 ($304m) USD/CNY: 6.7000 ($400m) GBP/USD: 1.3400 (GBP386.8m)"
-  },
-  {
-   "id": "9729999",
-   "title": "Brent Crude futures settle at $93.78/bbl, up $2.16, 2.36%",
-   "link": "https://www.financialjuice.com/News/9729999/Brent-Crude-futures-settle-at-9378bbl-up-216-236.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 18:45:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729998",
-   "title": "NYMEX Nat Gas Sept. futures settle at $2.7330/MMBTU",
-   "link": "https://www.financialjuice.com/News/9729998/NYMEX-Nat-Gas-Sept-futures-settle-at-27330MMBTU.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 18:31:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729988",
-   "title": "NYMEX Diesel Sept. futures settle at $4.4803 a gallon",
-   "link": "https://www.financialjuice.com/News/9729988/NYMEX-Diesel-Sept-futures-settle-at-44803-a-gallon.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 18:31:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729986",
-   "title": "NYMEX Gasoline Sept. futures settle at $3.2629 a gallon",
-   "link": "https://www.financialjuice.com/News/9729986/NYMEX-Gasoline-Sept-futures-settle-at-32629-a-gallon.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 18:31:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729984",
-   "title": "NYMEX WTI crude sept. futures settle at $87.83 a barrel up $2.00, 2.33%",
-   "link": "https://www.financialjuice.com/News/9729984/NYMEX-WTI-crude-sept-futures-settle-at-8783-a-barrel-up-200-233.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 18:30:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729966",
-   "title": "US Energy Dept: Actions will remain in place through end of summer control season on September 15th, 2026.",
-   "link": "https://www.financialjuice.com/News/9729966/US-Energy-Dept-Actions-will-remain-in-place-through-end-of-summer-control-season-on-September-15th-2026.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 18:03:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729965",
-   "title": "Startng September 1st, EPA's waivers will allow the sale of E10, gasoline blended with 10% ethanol - Statement",
-   "link": "https://www.financialjuice.com/News/9729965/Startng-September-1st-EPAs-waivers-will-allow-the-sale-of-E10-gasoline-blended-with-10-ethanol---Statement.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 18:02:47 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729953",
-   "title": "US EPA: We, in consultation with the DoE, are going to expand gasoline supply to lower prices at the pump.",
-   "link": "https://www.financialjuice.com/News/9729953/US-EPA-We-in-consultation-with-the-DoE-are-going-to-expand-gasoline-supply-to-lower-prices-at-the-pump.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 18:01:48 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729950",
-   "title": "Israel's envoy to the US Yechiel: We are not seeking escalation or war with either Turkey or Syria. But a red line was crossed - Jerusalem Post.",
-   "link": "https://www.financialjuice.com/News/9729950/Israels-envoy-to-the-US-Yechiel-We-are-not-seeking-escalation-or-war-with-either-Turkey-or-Syria-But-a-red-line-was-crossed---Jerusalem-Post.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 17:57:42 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729949",
-   "title": "Anthropic Preparing IPO Filing as Soon as the End of August - Sources",
-   "link": "https://www.financialjuice.com/News/9729949/Anthropic-Preparing-IPO-Filing-as-Soon-as-the-End-of-August---Sources.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 17:56:51 GMT",
-   "desc": "Anthropic is preparing for a potential IPO filing as soon as the end of August Anthropic CFO Krishna Rao has led recent briefings with investors Expects to match SpaceX&#39;s record IPO, or top it."
-  },
-  {
-   "id": "9729948",
-   "title": "US Pacific Command: We are aware of recent missile launches. The events don't pose a threat to us or our allies.",
-   "link": "https://www.financialjuice.com/News/9729948/US-Pacific-Command-We-are-aware-of-recent-missile-launches-The-events-dont-pose-a-threat-to-us-or-our-allies.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 17:51:52 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729899",
-   "title": "US 30-Year TIPS Bid-to-Cover Actual 2.820 (Forecast -, Previous 2.750)",
-   "link": "https://www.financialjuice.com/News/9729899/US-30-Year-TIPS-Bid-to-Cover-Actual-2820-Forecast---Previous-2750.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 17:04:46 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729898",
-   "title": "US 30-Year TIPS High Yield Actual 2.973% (Forecast -, Previous 2.473%)",
-   "link": "https://www.financialjuice.com/News/9729898/US-30-Year-TIPS-High-Yield-Actual-2973-Forecast---Previous-2473.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 17:04:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729897",
-   "title": "US 30-Year TIPS Auction",
-   "link": "https://www.financialjuice.com/News/9729897/US-30-Year-TIPS-Auction.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 17:02:43 GMT",
-   "desc": "High Yield 2.973% (Stopped through by 1.8 basis points) Bid-to-cover 2.82 Sells $8 bln Awards 67.82% of bids at high Primary Dealers take 2.1% Direct 13.4% Indirect 84.4%"
-  },
-  {
-   "id": "9729892",
-   "title": "Google: Gemma surpasses 1b downloads. $GOOGL",
-   "link": "https://www.financialjuice.com/News/9729892/Google-Gemma-surpasses-1b-downloads-GOOGL.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 17:02:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729890",
-   "title": "WI 30Y tips yield about 2.991% before the $8 billion auction.",
-   "link": "https://www.financialjuice.com/News/9729890/WI-30Y-tips-yield-about-2991-before-the-8-billion-auction.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 17:00:58 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729884",
-   "title": "NVIDIA plots a China comeback with a new AI chip - The Information. $NVDA",
-   "link": "https://www.financialjuice.com/News/9729884/NVIDIA-plots-a-China-comeback-with-a-new-AI-chip---The-Information-NVDA.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 16:59:17 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729838",
-   "title": "UK banking giants warn against further tax rises - Sky.",
-   "link": "https://www.financialjuice.com/News/9729838/UK-banking-giants-warn-against-further-tax-rises---Sky.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 16:12:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729820",
-   "title": "US 30-year fixed rate mortgage averages 6.65% in the August 20th week vs 6.67% in the prior week - Freddie Mac.",
-   "link": "https://www.financialjuice.com/News/9729820/US-30-year-fixed-rate-mortgage-averages-665-in-the-August-20th-week-vs-667-in-the-prior-week---Freddie-Mac.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 16:00:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729804",
-   "title": "Fed's Musalem concludes interview on CNBC.",
-   "link": "https://www.financialjuice.com/News/9729804/Feds-Musalem-concludes-interview-on-CNBC.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:38:49 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729803",
-   "title": "Fed's Musalem: I recommended raising rates in July, but I won't offer a firm view on what I want the Fed to do at the September FOMC.",
-   "link": "https://www.financialjuice.com/News/9729803/Feds-Musalem-I-recommended-raising-rates-in-July-but-I-wont-offer-a-firm-view-on-what-I-want-the-Fed-to-do-at-the-September-FOMC.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:38:12 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729802",
-   "title": "Fed's Musalem: I want inflation down to 2% within 18 months.",
-   "link": "https://www.financialjuice.com/News/9729802/Feds-Musalem-I-want-inflation-down-to-2-within-18-months.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:37:23 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729801",
-   "title": "Fed's Musalem: When you have supply shocks, you have to look at core inflation.",
-   "link": "https://www.financialjuice.com/News/9729801/Feds-Musalem-When-you-have-supply-shocks-you-have-to-look-at-core-inflation.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:37:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729800",
-   "title": "Fed's Musalem: Forward guidance suggests a commitment, communicating a framework is different.",
-   "link": "https://www.financialjuice.com/News/9729800/Feds-Musalem-Forward-guidance-suggests-a-commitment-communicating-a-framework-is-different.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:36:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729799",
-   "title": "Fed's Musalem: There is no inflation pressure coming from the labor market.",
-   "link": "https://www.financialjuice.com/News/9729799/Feds-Musalem-There-is-no-inflation-pressure-coming-from-the-labor-market.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:36:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729798",
-   "title": "Fed's Musalem: Forward guidance is useful when rates are at zero.",
-   "link": "https://www.financialjuice.com/News/9729798/Feds-Musalem-Forward-guidance-is-useful-when-rates-are-at-zero.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:36:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729797",
-   "title": "Fed's Musalem: There are some parts of the economy seeing credit getting crowded out.",
-   "link": "https://www.financialjuice.com/News/9729797/Feds-Musalem-There-are-some-parts-of-the-economy-seeing-credit-getting-crowded-out.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:34:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729796",
-   "title": "Fed's Musalem: Underlying inflation is between 2.5%-3%. It is too high and must be lowered.",
-   "link": "https://www.financialjuice.com/News/9729796/Feds-Musalem-Underlying-inflation-is-between-25-3-It-is-too-high-and-must-be-lowered.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:33:12 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729795",
-   "title": "US 4-Week Bill Auction",
-   "link": "https://www.financialjuice.com/News/9729795/US-4-Week-Bill-Auction.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:32:47 GMT",
-   "desc": "High Yield 3.640% Bid-to-cover 2.84 US sells $110 bln Awards 14.61% of bids at high"
-  },
-  {
-   "id": "9729790",
-   "title": "Fed's Musalem: Given the current Fed rates, I see a lower probability of getting inflation to 2%. Hiking rates now could save more aggressive action later.",
-   "link": "https://www.financialjuice.com/News/9729790/Feds-Musalem-Given-the-current-Fed-rates-I-see-a-lower-probability-of-getting-inflation-to-2-Hiking-rates-now-could-save-more-aggressive-action-later.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:32:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729789",
-   "title": "US 4-Week Bill High Yield Actual 3.64% (Forecast -, Previous 3.625%)",
-   "link": "https://www.financialjuice.com/News/9729789/US-4-Week-Bill-High-Yield-Actual-364-Forecast---Previous-3625.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:32:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729788",
-   "title": "US 4-Week Bill Bid-to-Cover Actual 2.84 (Forecast -, Previous 2.770)",
-   "link": "https://www.financialjuice.com/News/9729788/US-4-Week-Bill-Bid-to-Cover-Actual-284-Forecast---Previous-2770.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:32:04 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729776",
-   "title": "Fed's Musalem: Super El Niño might be the next supply shock.",
-   "link": "https://www.financialjuice.com/News/9729776/Feds-Musalem-Super-El-Ni%c3%b1o-might-be-the-next-supply-shock.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:31:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729769",
-   "title": "Fed's Musalem: Businesses are facing high input costs and lower savings rates.",
-   "link": "https://www.financialjuice.com/News/9729769/Feds-Musalem-Businesses-are-facing-high-input-costs-and-lower-savings-rates.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:30:17 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729768",
-   "title": "Fed's Musalem: The number one concern of the public is inflation.",
-   "link": "https://www.financialjuice.com/News/9729768/Feds-Musalem-The-number-one-concern-of-the-public-is-inflation.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:29:47 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729767",
-   "title": "Fed's Musalem: Financial conditions are pretty accommodative here.",
-   "link": "https://www.financialjuice.com/News/9729767/Feds-Musalem-Financial-conditions-are-pretty-accommodative-here.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:29:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729766",
-   "title": "Fed's Musalem: Monetary policy is neutral or accommodative right now.",
-   "link": "https://www.financialjuice.com/News/9729766/Feds-Musalem-Monetary-policy-is-neutral-or-accommodative-right-now.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:29:19 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729765",
-   "title": "Fed's Musalem: Competition for capital is affecting the bond market.",
-   "link": "https://www.financialjuice.com/News/9729765/Feds-Musalem-Competition-for-capital-is-affecting-the-bond-market.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:29:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729764",
-   "title": "Fed's Musalem: The Fed is focused on making monetary policy independent of fiscal policy.",
-   "link": "https://www.financialjuice.com/News/9729764/Feds-Musalem-The-Fed-is-focused-on-making-monetary-policy-independent-of-fiscal-policy.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:28:51 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729762",
-   "title": "Fed's Musalem: Fed credibility is not in question.",
-   "link": "https://www.financialjuice.com/News/9729762/Feds-Musalem-Fed-credibility-is-not-in-question.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:28:28 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729761",
-   "title": "Fed's Musalem: Strong growth and investment is influencing the bond market - CNBC.",
-   "link": "https://www.financialjuice.com/News/9729761/Feds-Musalem-Strong-growth-and-investment-is-influencing-the-bond-market---CNBC.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:28:22 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729760",
-   "title": "US Treasury Secretary Bessent on bond moves: Anything in a 24-hour period is noise.",
-   "link": "https://www.financialjuice.com/News/9729760/US-Treasury-Secretary-Bessent-on-bond-moves-Anything-in-a-24-hour-period-is-noise.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:23:06 GMT",
-   "desc": "Now speaking to reporters post-interview."
-  },
-  {
-   "id": "9729759",
-   "title": "US Treasury Secretary Bessent: Corporate investment will boost productivity growth.",
-   "link": "https://www.financialjuice.com/News/9729759/US-Treasury-Secretary-Bessent-Corporate-investment-will-boost-productivity-growth.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:21:31 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729758",
-   "title": "US Treasury Secretary Bessent interview on CNBC ends",
-   "link": "https://www.financialjuice.com/News/9729758/US-Treasury-Secretary-Bessent-interview-on-CNBC-ends.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:21:20 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729757",
-   "title": "US Treasury Secretary Bessent on US Bonds: Would think about companies issuing more 5-year debt.",
-   "link": "https://www.financialjuice.com/News/9729757/US-Treasury-Secretary-Bessent-on-US-Bonds-Would-think-about-companies-issuing-more-5-year-debt.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:21:18 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729756",
-   "title": "US Treasury Secretary Bessent: It is interesting that corporations are issuing at the long end.",
-   "link": "https://www.financialjuice.com/News/9729756/US-Treasury-Secretary-Bessent-It-is-interesting-that-corporations-are-issuing-at-the-long-end.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:20:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729755",
-   "title": "US Treasury Secretary Bessent: A lot of corporate bond issues are yield agnostic.",
-   "link": "https://www.financialjuice.com/News/9729755/US-Treasury-Secretary-Bessent-A-lot-of-corporate-bond-issues-are-yield-agnostic.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:20:06 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729754",
-   "title": "US Treasury Secretary Bessent: We don't want people to trade headlines in a thin market, we're trying to keep market in equilibrium.",
-   "link": "https://www.financialjuice.com/News/9729754/US-Treasury-Secretary-Bessent-We-dont-want-people-to-trade-headlines-in-a-thin-market-were-trying-to-keep-market-in-equilibrium.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:19:52 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729753",
-   "title": "US Treasury Secretary Bessent on US Bonds: We will see what the conditions are and whether more action is needed - CNBC.",
-   "link": "https://www.financialjuice.com/News/9729753/US-Treasury-Secretary-Bessent-on-US-Bonds-We-will-see-what-the-conditions-are-and-whether-more-action-is-needed---CNBC.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:19:33 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729752",
-   "title": "US Treasury Secretary Bessent on G20: Our message is that global growth is the way to take care of debt.",
-   "link": "https://www.financialjuice.com/News/9729752/US-Treasury-Secretary-Bessent-on-G20-Our-message-is-that-global-growth-is-the-way-to-take-care-of-debt.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:17:33 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729746",
-   "title": "US Treasury Secretary Bessent: The only inflationary impulses are from energy, and they're temporary.",
-   "link": "https://www.financialjuice.com/News/9729746/US-Treasury-Secretary-Bessent-The-only-inflationary-impulses-are-from-energy-and-theyre-temporary.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:17:08 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729735",
-   "title": "US Treasury Secretary Bessent: The underlying economy is very strong.",
-   "link": "https://www.financialjuice.com/News/9729735/US-Treasury-Secretary-Bessent-The-underlying-economy-is-very-strong.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:16:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729734",
-   "title": "US Treasury Secretary Bessent: It is going to be a couple of exciting weeks and months of fiscal news.",
-   "link": "https://www.financialjuice.com/News/9729734/US-Treasury-Secretary-Bessent-It-is-going-to-be-a-couple-of-exciting-weeks-and-months-of-fiscal-news.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:16:17 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729733",
-   "title": "US Treasury Secretary Bessent: We continue to have a strong-dollar policy.",
-   "link": "https://www.financialjuice.com/News/9729733/US-Treasury-Secretary-Bessent-We-continue-to-have-a-strong-dollar-policy.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:15:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729732",
-   "title": "US Treasury Secretary Bessent: The dollar had a big run, going back to a level from 2 months ago.",
-   "link": "https://www.financialjuice.com/News/9729732/US-Treasury-Secretary-Bessent-The-dollar-had-a-big-run-going-back-to-a-level-from-2-months-ago.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:15:44 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729731",
-   "title": "US Treasury Secretary Bessent on USD: it has been stable -CNBC.",
-   "link": "https://www.financialjuice.com/News/9729731/US-Treasury-Secretary-Bessent-on-USD-it-has-been-stable--CNBC.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:15:28 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729726",
-   "title": "US Treasury Secretary Bessent: Budget Director Vought knows where we can cut back.",
-   "link": "https://www.financialjuice.com/News/9729726/US-Treasury-Secretary-Bessent-Budget-Director-Vought-knows-where-we-can-cut-back.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:14:45 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729725",
-   "title": "US Treasury Secretary Bessent: I am going to hold a press conference on Monday regarding the Iran plans.",
-   "link": "https://www.financialjuice.com/News/9729725/US-Treasury-Secretary-Bessent-I-am-going-to-hold-a-press-conference-on-Monday-regarding-the-Iran-plans.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:13:55 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729724",
-   "title": "US Treasury Secretary Bessent on whether China will be affected by Iran sanctions: It is best to have talks in private.",
-   "link": "https://www.financialjuice.com/News/9729724/US-Treasury-Secretary-Bessent-on-whether-China-will-be-affected-by-Iran-sanctions-It-is-best-to-have-talks-in-private.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:13:15 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729723",
-   "title": "US Treasury Secretary Bessent on Iran: We are going to collapse this regime.",
-   "link": "https://www.financialjuice.com/News/9729723/US-Treasury-Secretary-Bessent-on-Iran-We-are-going-to-collapse-this-regime.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:12:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729722",
-   "title": "US Treasury Secretary Bessent on Iran: We're going to have the toughest sanctions in history - CNBC.",
-   "link": "https://www.financialjuice.com/News/9729722/US-Treasury-Secretary-Bessent-on-Iran-Were-going-to-have-the-toughest-sanctions-in-history---CNBC.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:12:24 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729721",
-   "title": "US Treasury Secretary Bessent on Iran: Oil markets are misinterpreting what economic pressure means. The actions will curtail Iran's ability to take action through proxies.",
-   "link": "https://www.financialjuice.com/News/9729721/US-Treasury-Secretary-Bessent-on-Iran-Oil-markets-are-misinterpreting-what-economic-pressure-means-The-actions-will-curtail-Irans-ability-to-take-action-through-proxies.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:12:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729720",
-   "title": "US Treasury Secretary Bessent on Iran: This will be a coordinated economic isolation.",
-   "link": "https://www.financialjuice.com/News/9729720/US-Treasury-Secretary-Bessent-on-Iran-This-will-be-a-coordinated-economic-isolation.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:11:31 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729719",
-   "title": "US Treasury Secretary Bessent on the Strait of Hormuz: We can continue getting ships out via the Southern lane.",
-   "link": "https://www.financialjuice.com/News/9729719/US-Treasury-Secretary-Bessent-on-the-Strait-of-Hormuz-We-can-continue-getting-ships-out-via-the-Southern-lane.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:11:11 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729718",
-   "title": "US Treasury Secretary Bessent on Iran: Maximum economic pressure means likely not a kinetic restart.",
-   "link": "https://www.financialjuice.com/News/9729718/US-Treasury-Secretary-Bessent-on-Iran-Maximum-economic-pressure-means-likely-not-a-kinetic-restart.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:10:42 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729717",
-   "title": "US Treasury Secretary Bessent on Inflation: Markers are saying that it will be lower in the future - CNBC.",
-   "link": "https://www.financialjuice.com/News/9729717/US-Treasury-Secretary-Bessent-on-Inflation-Markers-are-saying-that-it-will-be-lower-in-the-future---CNBC.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:10:02 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729716",
-   "title": "US Treasury Secretary Bessent: Rates have nothing to do with the buyback decision. We would adjust to any kind of Fed bond runoff.",
-   "link": "https://www.financialjuice.com/News/9729716/US-Treasury-Secretary-Bessent-Rates-have-nothing-to-do-with-the-buyback-decision-We-would-adjust-to-any-kind-of-Fed-bond-runoff.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:08:25 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729715",
-   "title": "US Treasury Secretary Bessent: The Treasury and the Fed would work together if there were any change in the balance sheet.",
-   "link": "https://www.financialjuice.com/News/9729715/US-Treasury-Secretary-Bessent-The-Treasury-and-the-Fed-would-work-together-if-there-were-any-change-in-the-balance-sheet.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:07:58 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729714",
-   "title": "US Treasury Secretary Bessent: Markets got a little ahead of themselves.",
-   "link": "https://www.financialjuice.com/News/9729714/US-Treasury-Secretary-Bessent-Markets-got-a-little-ahead-of-themselves.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:07:28 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729713",
-   "title": "US Treasury Secretary Bessent: US VP Vance's fraud task force could save hundreds of billions of dollars.",
-   "link": "https://www.financialjuice.com/News/9729713/US-Treasury-Secretary-Bessent-US-VP-Vances-fraud-task-force-could-save-hundreds-of-billions-of-dollars.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:07:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729712",
-   "title": "US Treasury Secretary Bessent: There's a very good chance we have seen a peak in the fiscal deficit.",
-   "link": "https://www.financialjuice.com/News/9729712/US-Treasury-Secretary-Bessent-Theres-a-very-good-chance-we-have-seen-a-peak-in-the-fiscal-deficit.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:06:37 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729711",
-   "title": "US Treasury Secretary Bessent: There will be a fiscal announcement, probably at the end of the week or the start of next week.",
-   "link": "https://www.financialjuice.com/News/9729711/US-Treasury-Secretary-Bessent-There-will-be-a-fiscal-announcement-probably-at-the-end-of-the-week-or-the-start-of-next-week.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:06:17 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729710",
-   "title": "US Treasury Secretary Bessent: I expect tariff 2026 income will be similar to 2025 - CNBC.",
-   "link": "https://www.financialjuice.com/News/9729710/US-Treasury-Secretary-Bessent-I-expect-tariff-2026-income-will-be-similar-to-2025---CNBC.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:05:47 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729709",
-   "title": "US Treasury Secretary Bessent: We can grow our way out of the debt burden.",
-   "link": "https://www.financialjuice.com/News/9729709/US-Treasury-Secretary-Bessent-We-can-grow-our-way-out-of-the-debt-burden.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:05:31 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729708",
-   "title": "US Treasury Secretary Bessent: There's nothing magical about the $40 trillion debt number.",
-   "link": "https://www.financialjuice.com/News/9729708/US-Treasury-Secretary-Bessent-Theres-nothing-magical-about-the-40-trillion-debt-number.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:05:14 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729707",
-   "title": "US Treasury Secretary Bessent: We're going to unveil increased fiscal-consolidation focus. Myself and the Budget Director will be looking at it.",
-   "link": "https://www.financialjuice.com/News/9729707/US-Treasury-Secretary-Bessent-Were-going-to-unveil-increased-fiscal-consolidation-focus-Myself-and-the-Budget-Director-will-be-looking-at-it.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:04:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729706",
-   "title": "US Treasury Secretary Bessent on bond buyback: probably going to announce increased focus on fiscal consolidation.",
-   "link": "https://www.financialjuice.com/News/9729706/US-Treasury-Secretary-Bessent-on-bond-buyback-probably-going-to-announce-increased-focus-on-fiscal-consolidation.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:04:03 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729705",
-   "title": "US Treasury Secretary Bessent: Liquidity in the 30-year point is especially poor.",
-   "link": "https://www.financialjuice.com/News/9729705/US-Treasury-Secretary-Bessent-Liquidity-in-the-30-year-point-is-especially-poor.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:03:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729704",
-   "title": "US Treasury Secretary Bessent: We have a big toolkit for the Treasuries market.",
-   "link": "https://www.financialjuice.com/News/9729704/US-Treasury-Secretary-Bessent-We-have-a-big-toolkit-for-the-Treasuries-market.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:03:41 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729702",
-   "title": "US Treasury Secretary Bessent on Bonds: Part of it is signaling. We want to show that yields do not reflect underlying fundamentals.",
-   "link": "https://www.financialjuice.com/News/9729702/US-Treasury-Secretary-Bessent-on-Bonds-Part-of-it-is-signaling-We-want-to-show-that-yields-do-not-reflect-underlying-fundamentals.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:03:25 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729701",
-   "title": "US Treasury Secretary Bessent on bonds: The buyback could be more than 4 billion - CNBC.",
-   "link": "https://www.financialjuice.com/News/9729701/US-Treasury-Secretary-Bessent-on-bonds-The-buyback-could-be-more-than-4-billion---CNBC.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:03:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729700",
-   "title": "US Treasury: 2-year note auction results could trigger an unscheduled reopening of 5-year notes if the high yield falls between 4.375% and 4.499%.",
-   "link": "https://www.financialjuice.com/News/9729700/US-Treasury-2-year-note-auction-results-could-trigger-an-unscheduled-reopening-of-5-year-notes-if-the-high-yield-falls-between-4375-and-4499.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:02:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729699",
-   "title": "US Treasury Announces Note Auctions",
-   "link": "https://www.financialjuice.com/News/9729699/US-Treasury-Announces-Note-Auctions.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:02:33 GMT",
-   "desc": "US Treasury to sell $69 billion of 2-year notes on August 25, settling August 31 US Treasury to sell $70 billion of 5-year notes on August 26, settling August 31 US Treasury to sell $44 billion of 7-year notes on August 27, settling August 31 US Treasury to sell $92 billion of 3-month bills and $79 billion of 6-month bills on August 24, settling August 27"
-  },
-  {
-   "id": "9729691",
-   "title": "China and Switzerland Agree on Expanded Free-Trade Deal Removing Tariffs",
-   "link": "https://www.financialjuice.com/News/9729691/China-and-Switzerland-Agree-on-Expanded-Free-Trade-Deal-Removing-Tariffs.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 15:01:02 GMT",
-   "desc": "China and Switzerland agree an expanded free-trade agreement, with signing expected in 2026 following final legal review Around 99.8% of Swiss exports to China will be exempt from tariffs, up from roughly half previously Deal expands access for Swiss investors to the Chinese market Agreement strengthens provisions covering environmental issues and workers&#39; rights"
-  },
-  {
-   "id": "9729683",
-   "title": "Iran's Foreign Ministry in Response to US sanctions: Iran will use all available tools and capacities to defend the dignity of the Iranian people and protect Iran's national interests - IRIB.",
-   "link": "https://www.financialjuice.com/News/9729683/Irans-Foreign-Ministry-in-Response-to-US-sanctions-Iran-will-use-all-available-tools-and-capacities-to-defend-the-dignity-of-the-Iranian-people-and-protect-Irans-national-interests---IRIB.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 14:55:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729668",
-   "title": "South Korean President Lee met the SK Group Chair on Thursday - Yonhap.",
-   "link": "https://www.financialjuice.com/News/9729668/South-Korean-President-Lee-met-the-SK-Group-Chair-on-Thursday---Yonhap.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 14:45:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729642",
-   "title": "EIA Natural Gas Change BCF Actual 16B (Forecast 14B, Previous 36B)",
-   "link": "https://www.financialjuice.com/News/9729642/EIA-Natural-Gas-Change-BCF-Actual-16B-Forecast-14B-Previous-36B.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 14:30:01 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729641",
-   "title": "The US is going to back minerals projects with $500m in grants, and is going to award the grants to 7 companies - Sources.",
-   "link": "https://www.financialjuice.com/News/9729641/The-US-is-going-to-back-minerals-projects-with-500m-in-grants-and-is-going-to-award-the-grants-to-7-companies---Sources.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 14:24:07 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729640",
-   "title": "Crypto Fear and Greed Index: 62/100 = Greed",
-   "link": "https://www.financialjuice.com/News/9729640/Crypto-Fear-and-Greed-Index-62100--Greed.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 14:18:35 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729639",
-   "title": "Fear and Greed Index: 56/100 = Greed",
-   "link": "https://www.financialjuice.com/News/9729639/Fear-and-Greed-Index-56100--Greed.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 14:17:56 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729634",
-   "title": "Yemeni armed forces targeted the Najran airport and Aramco oil facilities using attack drones - Tasnim News.",
-   "link": "https://www.financialjuice.com/News/9729634/Yemeni-armed-forces-targeted-the-Najran-airport-and-Aramco-oil-facilities-using-attack-drones---Tasnim-News.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 14:07:00 GMT",
-   "desc": "These attacks were a direct response to the violation of Yemeni airspace (Saada province) by Saudi drones - Tasnim News"
-  },
-  {
-   "id": "9729612",
-   "title": "US Leading Index Change MoM Actual 0.2% (Forecast 0.1%, Previous -0.2%)",
-   "link": "https://www.financialjuice.com/News/9729612/US-Leading-Index-Change-MoM-Actual-02-Forecast-01-Previous--02.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 14:00:00 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729611",
-   "title": "Google Threat Intelligence Group is tracking three distinct suspected Russian cyber espionage threat clusters - Blog. $GOOGL",
-   "link": "https://www.financialjuice.com/News/9729611/Google-Threat-Intelligence-Group-is-tracking-three-distinct-suspected-Russian-cyber-espionage-threat-clusters---Blog-GOOGL.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 13:59:47 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729580",
-   "title": "MOO Imbalance",
-   "link": "https://www.financialjuice.com/News/9729580/MOO-Imbalance.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 13:30:35 GMT",
-   "desc": "S&amp;P 500: -214 mln Nasdaq 100: +13 mln Dow 30: -43 mln Mag 7: +1 mln"
-  },
-  {
-   "id": "9729553",
-   "title": "Super Micro Computer - No evidence that previous financial statements could not be relied upon",
-   "link": "https://www.financialjuice.com/News/9729553/Super-Micro-Computer---No-evidence-that-previous-financial-statements-could-not-be-relied-upon.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 13:08:10 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729552",
-   "title": "Super Micro Computer - Supermicro board adopts recommendations to enhance export compliance program",
-   "link": "https://www.financialjuice.com/News/9729552/Super-Micro-Computer---Supermicro-board-adopts-recommendations-to-enhance-export-compliance-program.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 13:07:36 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9729551",
-   "title": "Anthropic’s joint venture Ode buys AI consultancy Casper studios - The Information.",
-   "link": "https://www.financialjuice.com/News/9729551/Anthropics-joint-venture-Ode-buys-AI-consultancy-Casper-studios---The-Information.aspx?xy=rss",
-   "pubDate": "Thu, 20 Aug 2026 13:03:45 GMT",
    "desc": ""
   }
  ]
