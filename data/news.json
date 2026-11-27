@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-26T21:35:39.439031+00:00",
+ "updated_at": "2026-11-27T03:45:20.917809+00:00",
  "count": 20000,
  "items": [
+  {
+   "id": "9869883",
+   "title": "Chinese Industrial profit YTD Actual 16.0% (Forecast -, Previous 15.5%)",
+   "link": "https://www.financialjuice.com/News/9869883/Chinese-Industrial-profit-YTD-Actual-160-Forecast---Previous-155.aspx?xy=rss",
+   "pubDate": "Fri, 27 Nov 2026 01:30:37 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869849",
+   "title": "Trump: expressed concern about earlier market declines",
+   "link": "https://www.financialjuice.com/News/9869849/Trump-expressed-concern-about-earlier-market-declines.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 23:56:25 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869848",
+   "title": "Trump: will likely talk to Nvidia's Huang shortly",
+   "link": "https://www.financialjuice.com/News/9869848/Trump-will-likely-talk-to-Nvidias-Huang-shortly.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 23:54:38 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869847",
+   "title": "Foreign Investment Japanese Bonds Actual 208.5B (Forecast -, Previous 650.1B)",
+   "link": "https://www.financialjuice.com/News/9869847/Foreign-Investment-Japanese-Bonds-Actual-2085B-Forecast---Previous-6501B.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 23:50:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869846",
+   "title": "Japanese Foreign Stock Investment Actual -350.8B (Forecast -, Previous 363.1B)",
+   "link": "https://www.financialjuice.com/News/9869846/Japanese-Foreign-Stock-Investment-Actual--3508B-Forecast---Previous-3631B.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 23:50:28 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869845",
+   "title": "Foreign Investment Japanese Stocks Actual -571.6B (Forecast -, Previous -224.1B)",
+   "link": "https://www.financialjuice.com/News/9869845/Foreign-Investment-Japanese-Stocks-Actual--5716B-Forecast---Previous--2241B.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 23:50:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869844",
+   "title": "Japanese Foreign Bond Investment Actual 423.5B (Forecast -, Previous -440.7B)",
+   "link": "https://www.financialjuice.com/News/9869844/Japanese-Foreign-Bond-Investment-Actual-4235B-Forecast---Previous--4407B.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 23:50:16 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869830",
+   "title": "Tokyo CPI Overall Actual 2.8% (Forecast 3.1%, Previous 2.8%)",
+   "link": "https://www.financialjuice.com/News/9869830/Tokyo-CPI-Overall-Actual-28-Forecast-31-Previous-28.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 23:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869829",
+   "title": "Tokyo Core CPI YoY Actual 2.9% (Forecast 2.9%, Previous 2.6%)",
+   "link": "https://www.financialjuice.com/News/9869829/Tokyo-Core-CPI-YoY-Actual-29-Forecast-29-Previous-26.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 23:30:02 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869813",
+   "title": "Saudi civil defence: danger has passed in Khamis Mushait",
+   "link": "https://www.financialjuice.com/News/9869813/Saudi-civil-defence-danger-has-passed-in-Khamis-Mushait.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 22:15:46 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869811",
+   "title": "Saudi civil defence: danger has passed in Abha city",
+   "link": "https://www.financialjuice.com/News/9869811/Saudi-civil-defence-danger-has-passed-in-Abha-city.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 22:14:55 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869810",
+   "title": "Saudi Arabia issues warning of possible threat in Khamis Mushait",
+   "link": "https://www.financialjuice.com/News/9869810/Saudi-Arabia-issues-warning-of-possible-threat-in-Khamis-Mushait.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 22:11:30 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869809",
+   "title": "Saudi Arabia issues warning of potential threat in Abha city",
+   "link": "https://www.financialjuice.com/News/9869809/Saudi-Arabia-issues-warning-of-potential-threat-in-Abha-city.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 22:10:29 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869800",
+   "title": "Japan's Jera aims to build Anthropic and Meta data centers near power plants - Nikkei $META",
+   "link": "https://www.financialjuice.com/News/9869800/Japans-Jera-aims-to-build-Anthropic-and-Meta-data-centers-near-power-plants---Nikkei-META.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 21:56:45 GMT",
+   "desc": ""
+  },
+  {
+   "id": "9869799",
+   "title": "Jera Global CEO and Chair: The energy group is in discussions with Amazon, Microsoft, and Google - Nikkei. $GOOGL $AMZN $MSFT",
+   "link": "https://www.financialjuice.com/News/9869799/Jera-Global-CEO-and-Chair-The-energy-group-is-in-discussions-with-Amazon-Microsoft-and-Google---Nikkei-GOOGL-AMZN-MSFT.aspx?xy=rss",
+   "pubDate": "Thu, 26 Nov 2026 21:56:10 GMT",
+   "desc": ""
+  },
   {
    "id": "9869778",
    "title": "German Chancellor Merz: There is a new movement to reduce the overall volume of the next budget",
@@ -139895,111 +140000,6 @@
    "title": "Aramco: Pacts & MOU have potential combined value of over $3.7b.",
    "link": "https://www.financialjuice.com/News/9734011/Aramco-Pacts--MOU-have-potential-combined-value-of-over-37b.aspx?xy=rss",
    "pubDate": "Mon, 24 Aug 2026 17:18:28 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9734010",
-   "title": "Aramco reports an MOU with French companies.",
-   "link": "https://www.financialjuice.com/News/9734010/Aramco-reports-an-MOU-with-French-companies.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:18:16 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9734009",
-   "title": "US Treasury Secretary Bessent: Trump would like Canada to come to the table and negotiate in good faith.",
-   "link": "https://www.financialjuice.com/News/9734009/US-Treasury-Secretary-Bessent-Trump-would-like-Canada-to-come-to-the-table-and-negotiate-in-good-faith.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:17:36 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733997",
-   "title": "US Treasury Secretary Bessent: I expect a major financial institution to be sanctioned this week.",
-   "link": "https://www.financialjuice.com/News/9733997/US-Treasury-Secretary-Bessent-I-expect-a-major-financial-institution-to-be-sanctioned-this-week.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:16:58 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733995",
-   "title": "US Treasury Secretary Bessent: You will see a wave of sanctions after this.",
-   "link": "https://www.financialjuice.com/News/9733995/US-Treasury-Secretary-Bessent-You-will-see-a-wave-of-sanctions-after-this.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:16:32 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733994",
-   "title": "US Treasury Secretary Bessent: Trying to buy Iran's appeasement will no longer work.",
-   "link": "https://www.financialjuice.com/News/9733994/US-Treasury-Secretary-Bessent-Trying-to-buy-Irans-appeasement-will-no-longer-work.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:16:16 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733993",
-   "title": "US Treasury Secretary Bessent: We're already seeing some results on the Iran push.",
-   "link": "https://www.financialjuice.com/News/9733993/US-Treasury-Secretary-Bessent-Were-already-seeing-some-results-on-the-Iran-push.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:15:39 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733991",
-   "title": "US Treasury Secretary Bessent: UAE's recent Iran moves are not a coincidence but causal.",
-   "link": "https://www.financialjuice.com/News/9733991/US-Treasury-Secretary-Bessent-UAEs-recent-Iran-moves-are-not-a-coincidence-but-causal.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:15:30 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733988",
-   "title": "US Treasury Secretary Bessent: Every nation should be ready to face US sanctions if backing Iran.",
-   "link": "https://www.financialjuice.com/News/9733988/US-Treasury-Secretary-Bessent-Every-nation-should-be-ready-to-face-US-sanctions-if-backing-Iran.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:14:31 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733987",
-   "title": "Cyberattackers posed as engineer to bypass Claude controls",
-   "link": "https://www.financialjuice.com/News/9733987/Cyberattackers-posed-as-engineer-to-bypass-Claude-controls.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:13:54 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733985",
-   "title": "OpenAI and Anthropic chatbots deployed by China-backed cyber spies",
-   "link": "https://www.financialjuice.com/News/9733985/OpenAI-and-Anthropic-chatbots-deployed-by-China-backed-cyber-spies.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:13:38 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733984",
-   "title": "US Treasury Secretary Bessent: Will not set specific timelines for cutting ties; we don't have infinite patience.",
-   "link": "https://www.financialjuice.com/News/9733984/US-Treasury-Secretary-Bessent-Will-not-set-specific-timelines-for-cutting-ties-we-dont-have-infinite-patience.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:13:34 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733983",
-   "title": "Chinese hackers used DeepSeek to intensify attacks - Researchers",
-   "link": "https://www.financialjuice.com/News/9733983/Chinese-hackers-used-DeepSeek-to-intensify-attacks---Researchers.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:13:33 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733982",
-   "title": "US Treasury Secretary Bessent: Ramifications if other nations don't respond quickly.",
-   "link": "https://www.financialjuice.com/News/9733982/US-Treasury-Secretary-Bessent-Ramifications-if-other-nations-dont-respond-quickly.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:13:13 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733981",
-   "title": "US Treasury Secretary Bessent: won’t set exact timelines for reducing Iran ties, patience isn’t unlimited",
-   "link": "https://www.financialjuice.com/News/9733981/US-Treasury-Secretary-Bessent-wont-set-exact-timelines-for-reducing-Iran-ties-patience-isnt-unlimited.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:13:09 GMT",
-   "desc": ""
-  },
-  {
-   "id": "9733980",
-   "title": "US Treasury Secretary Bessent on China: If it facilitates transactions, to be targeted.",
-   "link": "https://www.financialjuice.com/News/9733980/US-Treasury-Secretary-Bessent-on-China-If-it-facilitates-transactions-to-be-targeted.aspx?xy=rss",
-   "pubDate": "Mon, 24 Aug 2026 17:12:19 GMT",
    "desc": ""
   }
  ]
